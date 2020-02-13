@@ -1,0 +1,6 @@
+     Cenario : MRI_RI0401_CN_RI0401_2011_contMesBaixa
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

@@ -1,0 +1,8 @@
+     Cenario : CN04_OF0606_Estorno_Credito_IPI_Saidas_Isentas
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '01/05/2011' no Campo Período."
+EXECUTE,"Informar o valor '31/05/2011' no Campo ."

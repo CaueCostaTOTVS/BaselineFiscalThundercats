@@ -1,0 +1,6 @@
+     Cenario : CN02_RI0102_Controle_Livros
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

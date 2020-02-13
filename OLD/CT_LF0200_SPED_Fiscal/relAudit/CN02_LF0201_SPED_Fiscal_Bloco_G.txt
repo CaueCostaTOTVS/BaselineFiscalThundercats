@@ -1,0 +1,26 @@
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: 01/05/2011
+Field: cod-conteudo[2] Nov: 31/05/2011
+Field: dat-exec Nov: TODAY
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      clf-param-histor                        0          9          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0          9          0

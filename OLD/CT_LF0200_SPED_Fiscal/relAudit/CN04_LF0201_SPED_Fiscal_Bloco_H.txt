@@ -1,0 +1,11 @@
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: 31/12/2013
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: 01/12/2013
+Field: cod-conteudo[2] Nov: 31/12/2013
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      clf-param-histor                        0          2          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0          2          0

@@ -1,0 +1,128 @@
+              R E G I S T R O  DE  E N T R A D A S                       *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                         * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                          * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90              * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+PÁGINA:       1         MES OU PERIODO/ANO: 01/08/2011 A 31/08/2011      *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                *------- V A L O R E S  F I S C A I S -------*
+DATA DE      SERIE          DATA DO   CODIGO   UF      VALOR     CODIFICACAO                BASE CALCULO         IMPOSTO
+ENTRADA  ESP SUB-   NUMERO  DOCUMENTO EMITENTE ORIG   CONTABIL CONTABIL  FISCAL ICMS COD OU VALOR DA ALIQ    CREDITADO  OBSERVACOES
+             SERIE                                                              IPI  (a)    OPERACAO
+                                                                                ST
+
+SUBTOTAL DE 01/08/2011 A 31/08/2011                                               ICMS 1           0,00                0,00
+                                                                                       2           0,00                0,00
+                                                                                       3           0,00                0,00
+                                                                                  IPI  1           0,00                0,00
+                                                                                       2           0,00                0,00
+                                                                                       3           0,00                0,00
+                                                                                  ST               0,00                0,00
+                                                                                                                                    
+SUBTOTAL DE 01/08/2011 A 31/08/2011                                               ICMS 1           0,00                0,00
+                                                                                       2           0,00                0,00
+                                                                                       3           0,00                0,00
+                                                                                  IPI  1           0,00                0,00
+                                                                                       2           0,00                0,00
+                                                                                       3           0,00                0,00
+                                                                                  ST               0,00                0,00
+
+TOTAL GERAL DE 01/08/2011 A 31/08/2011                                            ICMS 1           0,00                0,00
+                                                                                       2           0,00                0,00
+                                                                                       3           0,00                0,00
+                                                                                  IPI  1           0,00                0,00
+                                                                                       2           0,00                0,00             
+                                                                                       3           0,00                0,00
+                                                                                                                                      
+                                                                                  ST               0,00                0,00
+                                                                                                                                       
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+              R E G I S T R O  DE  E N T R A D A S                       *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                         * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                          * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90              * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+PÁGINA:       2         MES OU PERIODO/ANO: 01/08/2011 A 31/08/2011      *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                *------- V A L O R E S  F I S C A I S -------*
+DATA DE      SERIE          DATA DO   CODIGO   UF      VALOR     CODIFICACAO                BASE CALCULO         IMPOSTO
+ENTRADA  ESP SUB-   NUMERO  DOCUMENTO EMITENTE ORIG   CONTABIL CONTABIL  FISCAL ICMS COD OU VALOR DA ALIQ    CREDITADO  OBSERVACOES
+             SERIE                                                              IPI  (a)    OPERACAO
+                                                                                ST
+
+------------------------------------------------------------------------------------------------------------------------------------
+                                         DEMONSTRATIVO DE ICMS POR ESTADO DE ORIGEM
+------------------------------------------------------------------------------------------------------------------------------------
+
+ESTADO                                     VALOR CONTABIL                  BASE CALCULO              VALOR SUBST              OUTRAS
+ORIGEM
+
+       T O T A L  G E R A L                          0,00                         0,00                     0,00                0,00
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+

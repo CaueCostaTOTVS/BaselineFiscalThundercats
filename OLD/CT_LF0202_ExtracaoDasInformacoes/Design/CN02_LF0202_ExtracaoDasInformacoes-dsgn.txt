@@ -1,0 +1,13 @@
+     Cenario : CN02_LF0202_ExtracaoDasInformacoes
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabel."
+EXECUTE,"Informar o valor '1' no Campo ."
+EXECUTE,"Informar o valor '' no Campo Série."
+EXECUTE,"Informar o valor 'ZZZZZ' no Campo ."
+EXECUTE,"Informar o valor '' no Campo Nota Fiscal."
+EXECUTE,"Informar o valor '9999999999' no Campo ."
+EXECUTE,"Informar o valor '01/05/2011' no Campo Data."

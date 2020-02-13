@@ -1,0 +1,335 @@
++----------------------------------------------------------------------------------------------------------------------------------+
+|                                  A - LAYOUT DO ARQUIVO DE DADOS MESTRE DE MERCADORIAS (SAIDAS)                                   |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|      |                                         | Posicao | Posicao | Tamanho |         |                                         |
+| Item | Campo                                   | Inicial |  Final  |  Campo  | Formato | Observacoes                             |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|   1  | Indicador do Movimento                  |     1   |     1   |     1   |    C    | "E" para Entrada e "S" para saida.      |
+|   2  | Modelo do Documento                     |     2   |     3   |     2   |    C    | Cfe Convenio ICMS 57/95.                |
+|   3  | Serie/Subserie do Documento             |     4   |     8   |     5   |    C    |                                         |
+|   4  | Numero do Documento                     |     9   |    14   |     6   |    N    |                                         |
+|   5  | Data de Emissao do Documento            |    15   |    22   |     8   |    N    |                                         |
+|   6  | Codigo do Participante                  |    23   |    36   |    14   |    C    | Codigo do Cliente.                      |
+|   7  | Data da Saida/Entrada                   |    37   |    44   |     8   |    N    |                                         |
+|   8  | Valor Total das Mercadorias             |    45   |    61   |    17   |    N    | Soma do campo "Valor Total do Item" dos |
+|      |                                         |         |         |         |         | itens da nota fiscal.                   |
+|   9  | Valor Total do Desconto                 |    62   |    78   |    17   |    N    | Valor total das mercadorias menos o val |
+|      |                                         |         |         |         |         | or liquido das mercadoria.              |
+|  10  | Valor do Frete                          |    79   |    95   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  11  | Valor do Seguro                         |    96   |   112   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  12  | Valor de Outras Despesas                |   113   |   129   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  13  | Valor Total de IPI                      |   130   |   146   |    17   |    N    | Valor total lancado no documento, sem s |
+|      |                                         |         |         |         |         | inal, pontos ou virgulas e com 2 casas  |
+|      |                                         |         |         |         |         | decimais.                               |
+|  14  | Valor Total do ICMS por Substituicao Tr |   147   |   163   |    17   |    N    | Soma do campo "valor do ICMS por substi |
+|      | ibutaria                                |         |         |         |         | tuicao tributaria referente aos itens d |
+|      |                                         |         |         |         |         | a nota fiscal do arquivo de itens.      |
+|  15  | Valor Total da Nota Fiscal              |   164   |   180   |    17   |    N    | Valor total da nota fiscal, sem sinal,  |
+|      |                                         |         |         |         |         | pontos ou virgulas e com 2 casas decima |
+|      |                                         |         |         |         |         | is.                                     |
+|  16  | Inscricao Estadual do Substituto Tribut |   181   |   194   |    14   |    C    | Inscricao estadual do substituto tribut |
+|      | ario                                    |         |         |         |         | ario na unidade da federacao de destino |
+|      |                                         |         |         |         |         | da mercadoria.                          |
+|  17  | Via de Transporte                       |   195   |   209   |    15   |    C    | Rodoviario, ferroviario, etc (de forma  |
+|      |                                         |         |         |         |         | abraviada com ate 15 caracteres).       |
+|  18  | Codigo do Transportador                 |   210   |   223   |    14   |    C    |                                         |
+|  19  | Quantide de Volumes                     |   224   |   240   |    17   |    N    | Quantidade sem sinal, pontos ou virgula |
+|      |                                         |         |         |         |         | s e sem casas decimais.                 |
+|  20  | Especie de Volume                       |   241   |   250   |    10   |    C    | Caixa, pacote, etc.                     |
+|  21  | Peso Bruto                              |   251   |   267   |    17   |    N    | Peso em quilogramas sem sinal, pontos o |
+|      |                                         |         |         |         |         | u virgulas e com 3 casas decimais.      |
+|  22  | Peso Liquido                            |   268   |   284   |    17   |    N    | Peso em quilogramas sem sinal, pontos o |
+|      |                                         |         |         |         |         | u virgulas e com 3 casas decimais.      |
+|  23  | Modalidade de Frete                     |   285   |   287   |     3   |    C    | CIF ou FOB.                             |
+|  24  | Identificacao do Veiculo                |   288   |   302   |    15   |    C    | Placa, prefixo, etc.                    |
+|  25  | Indicador de Situacao de Cancelamento d |   303   |   303   |     1   |    C    | "S" para cancelado e "N" para normal.   |
+|      | o Documento                             |         |         |         |         |                                         |
+|  26  | Tipo da Fatura                          |   304   |   304   |     1   |    C    | "1" para operacoes a vista e "2" para o |
+|      |                                         |         |         |         |         | peracoes a prazo.                       |
+|  27  | Observacoes                             |   305   |   349   |    45   |    C    |                                         |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
++----------------------------------------------------------------------------------------------------------------------------------+
+|                                B - LAYOUT DO ARQUIVO DE DADOS DOS ITENS DE MERCADORIAS (SAIDAS)                                  |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|      |                                         | Posicao | Posicao | Tamanho |         |                                         |
+| Item | Campo                                   | Inicial |  Final  |  Campo  | Formato | Observacoes                             |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|   1  | Indicador do Movimento                  |     1   |     1   |     1   |    C    | "E" para Entrada e "S" para saida.      |
+|   2  | Modelo do Documento                     |     2   |     3   |     2   |    C    | Cfe Convenio ICMS 57/95.                |
+|   3  | Serie/Subserie do Documento             |     4   |     8   |     5   |    C    |                                         |
+|   4  | Numero do Documento                     |     9   |    14   |     6   |    N    |                                         |
+|   5  | Data de Emissao do Documento            |    15   |    22   |     8   |    N    |                                         |
+|   6  | Numero do Item                          |    23   |    25   |     3   |    N    | Numero sequencia do item do documento.  |
+|   7  | Codigo da Mercadoria/Servico            |    26   |    45   |    20   |    C    | Codigo do item.                         |
+|   8  | Descricao Complementar                  |    46   |    90   |    45   |    C    | Descricao do Item.                      |
+|   9  | Codigo Fiscal de Operacao (CFOP)        |    91   |    94   |     4   |    C    | Conforme tabela do regulamento do Icms. |
+|  10  | Codigo da Natureza de Operacao          |    95   |   100   |     6   |    C    |                                         |
+|  11  | Classificacao Fiscal da Mercadoria      |   101   |   108   |     8   |    C    |                                         |
+|  12  | Quantidade                              |   109   |   125   |    17   |    N    | Quantidade sem sinal, pontos ou virgula |
+|      |                                         |         |         |         |         | s e com 3 casas decimais.               |
+|  13  | Unidade                                 |   126   |   128   |     3   |    C    | Unidade de medida de circulacao da merc |
+|      |                                         |         |         |         |         | adoria.                                 |
+|  14  | Valor Unitario                          |   129   |   145   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 4 casas decimais.                    |
+|  15  | Valor Total do Item                     |   146   |   162   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  16  | Valor do Desconto do Item               |   163   |   179   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  17  | Indicador de Tributacao de IPI          |   180   |   180   |     1   |    C    | 1-Tributado; 2-Isento ou Nao Tributado  |
+|      |                                         |         |         |         |         | 3-Outras.                               |
+|  18  | Aliquota do IPI                         |   181   |   185   |     5   |    N    | Na forma de percentual com 2 casas deci |
+|      |                                         |         |         |         |         | mais.                                   |
+|  19  | Base de Calculo do IPI                  |   186   |   202   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  20  | Valor do IPI                            |   203   |   219   |    17   |    N    | Valor do Imposto, com duas casas decima |
+|      |                                         |         |         |         |         | is.                                     |
+|  21  | Situacao Tributaria Estadual            |   220   |   222   |     3   |    C    | Conforme ajuste Sinief nro. 6 de 15 de  |
+|      |                                         |         |         |         |         | dezembro de 2000.                       |
+|  22  | Indicador de Tributacao de ICMS         |   223   |   223   |     1   |    C    | 1-Tributado; 2-Isento ou Nao Tributado  |
+|      |                                         |         |         |         |         | 3-Outras.                               |
+|  23  | Aliquota do ICMS                        |   224   |   228   |     5   |    N    | Na forma de percentual com 2 casas deci |
+|      |                                         |         |         |         |         | mais.                                   |
+|  24  | Base de Calculo do ICMS Proprio         |   229   |   245   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  25  | Valor do ICMS Proprio                   |   246   |   262   |    17   |    N    | Valor do Imposto, com duas casas decima |
+|      |                                         |         |         |         |         | is.                                     |
+|  26  | Base de Calculo do ICMS de Substituicao |   263   |   279   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      | Tributaria                              |         |         |         |         | om 2 casas decimais.                    |
+|  27  | Valor do ICMS por Substituicao Tributar |   280   |   296   |    17   |    N    | Valor do Imposto, com duas casas decima |
+|      | ia                                      |         |         |         |         | is.                                     |
+|  28  | Indicador de Movimentacao Fisica da Mer |   297   |   297   |     1   |    C    | "S" para baixa estoque e "N" para nao b |
+|      | cadoria                                 |         |         |         |         | aixa estoque.                           |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
++----------------------------------------------------------------------------------------------------------------------------------+
+|                                 C - LAYOUT DO ARQUIVO DE DADOS MESTRE DE MERCADORIAS (ENTRADAS)                                  |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|      |                                         | Posicao | Posicao | Tamanho |         |                                         |
+| Item | Campo                                   | Inicial |  Final  |  Campo  | Formato | Observacoes                             |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|   1  | Modelo do Documento                     |     1   |     2   |     2   |    C    | Cfe Convenio ICMS 57/95.                |
+|   2  | Serie/Subserie do Documento             |     3   |     7   |     5   |    C    |                                         |
+|   3  | Numero do Documento                     |     8   |    13   |     6   |    N    |                                         |
+|   4  | Data de Emissao do Documento            |    14   |    21   |     8   |    N    |                                         |
+|   5  | Codigo do Participante                  |    22   |    35   |    14   |    C    | Codigo do Cliente.                      |
+|   6  | Data da Entrada                         |    36   |    43   |     8   |    N    | Data da efetiva entrada.                |
+|   7  | Valor Total das Mercadorias             |    44   |    60   |    17   |    N    | Soma do campo "Valor Total do Item" dos |
+|      |                                         |         |         |         |         | itens da nota fiscal.                   |
+|   8  | Valor Total do Desconto                 |    61   |    77   |    17   |    N    | Valor total das mercadorias menos o val |
+|      |                                         |         |         |         |         | or liquido das mercadoria.              |
+|   9  | Valor do Frete                          |    78   |    94   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  10  | Valor do Seguro                         |    95   |   111   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  11  | Valor de Outras Despesas                |   112   |   128   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  12  | Valor Total de IPI                      |   129   |   145   |    17   |    N    | Valor total lancado no documento, sem s |
+|      |                                         |         |         |         |         | inal, pontos ou virgulas e com 2 casas  |
+|      |                                         |         |         |         |         | decimais.                               |
+|  13  | Valor Total do ICMS por Substituicao Tr |   146   |   162   |    17   |    N    | Soma do campo "valor do ICMS por substi |
+|      | ibutaria                                |         |         |         |         | tuicao tributaria referente aos itens d |
+|      |                                         |         |         |         |         | a nota fiscal do arquivo de itens.      |
+|  14  | Valor Total da Nota Fiscal              |   163   |   179   |    17   |    N    | Valor total da nota fiscal, sem sinal,  |
+|      |                                         |         |         |         |         | pontos ou virgulas e com 2 casas decima |
+|      |                                         |         |         |         |         | is.                                     |
+|  15  | Inscricao Estadual do Substituto Tribut |   180   |   193   |    14   |    C    | Inscricao estadual do substituto tribut |
+|      | ario                                    |         |         |         |         | ario na unidade da federacao de destino |
+|      |                                         |         |         |         |         | da mercadoria.                          |
+|  16  | Tipo da Fatura                          |   194   |   194   |     1   |    C    | "1" para operacoes a vista e "2" para o |
+|      |                                         |         |         |         |         | peracoes a prazo.                       |
+|  17  | Observacoes                             |   195   |   239   |    45   |    C    |                                         |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
++----------------------------------------------------------------------------------------------------------------------------------+
+|                               D - LAYOUT DO ARQUIVO DE DADOS DOS ITENS DE MERCADORIAS (ENTRADAS)                                 |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|      |                                         | Posicao | Posicao | Tamanho |         |                                         |
+| Item | Campo                                   | Inicial |  Final  |  Campo  | Formato | Observacoes                             |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|   1  | Modelo do Documento                     |     1   |     2   |     2   |    C    | Cfe Convenio ICMS 57/95.                |
+|   2  | Serie/Subserie do Documento             |     3   |     7   |     5   |    C    |                                         |
+|   3  | Numero do Documento                     |     8   |    13   |     6   |    N    |                                         |
+|   4  | Data de Emissao do Documento            |    14   |    21   |     8   |    N    |                                         |
+|   5  | Codigo do Participante                  |    22   |    35   |    14   |    C    | Codigo do Remetente.                    |
+|   6  | Numero do Item                          |    36   |    38   |     3   |    N    | Numero sequencia do item do documento.  |
+|   7  | Codigo da Mercadoria/Servico            |    39   |    58   |    20   |    C    | Codigo do item.                         |
+|   8  | Descricao Complementar                  |    59   |   103   |    45   |    C    | Descricao do Item.                      |
+|   9  | Codigo Fiscal de Operacao (CFOP)        |   104   |   107   |     4   |    C    | Conforme tabela do regulamento do Icms. |
+|  10  | C¢digo da Natureza de Operacao          |   108   |   113   |     6   |    C    |                                         |
+|  11  | Classificacao Fiscal da Mercadoria      |   114   |   121   |     8   |    C    |                                         |
+|  12  | Quantidade                              |   122   |   138   |    17   |    N    | Quantidade sem sinal, pontos ou virgula |
+|      |                                         |         |         |         |         | s e com 3 casas decimais.               |
+|  13  | Unidade                                 |   139   |   141   |     3   |    C    | Unidade de medida de circulacao da merc |
+|      |                                         |         |         |         |         | adoria.                                 |
+|  14  | Valor Unitario                          |   142   |   158   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 4 casas decimais.                    |
+|  15  | Valor Total do Item                     |   159   |   175   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  16  | Valor do Desconto do Item               |   176   |   192   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  17  | Indicador de Tributacao de IPI          |   193   |   193   |     1   |    C    | 1-Recupera IPI; 2-Isento ou Nao Tributa |
+|      |                                         |         |         |         |         | do 3-Outras.                            |
+|  18  | Aliquota do IPI                         |   194   |   198   |     5   |    N    | Na forma de percentual com 2 casas deci |
+|      |                                         |         |         |         |         | mais.                                   |
+|  19  | Base de Calculo do IPI                  |   199   |   215   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  20  | Valor do IPI                            |   216   |   232   |    17   |    N    | Valor do Imposto, com duas casas decima |
+|      |                                         |         |         |         |         | is.                                     |
+|  21  | Situacao Tributaria Estadual            |   233   |   235   |     3   |    C    | Conforme ajuste Sinief nro. 6 de 15 de  |
+|      |                                         |         |         |         |         | dezembro de 2000.                       |
+|  22  | Indicador de Tributacao de ICMS         |   236   |   236   |     1   |    C    | 1-Tributado; 2-Isento ou Nao Tributado  |
+|      |                                         |         |         |         |         | 3-Outras.                               |
+|  23  | Aliquota do ICMS                        |   237   |   241   |     5   |    N    | Na forma de percentual com 2 casas deci |
+|      |                                         |         |         |         |         | mais.                                   |
+|  24  | Base de Calculo do ICMS Proprio         |   242   |   258   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  25  | Valor do ICMS Proprio                   |   259   |   275   |    17   |    N    | Valor do Imposto, com duas casas decima |
+|      |                                         |         |         |         |         | is.                                     |
+|  26  | Base de Calculo do ICMS de Substituicao |   276   |   292   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      | Tributaria                              |         |         |         |         | om 2 casas decimais.                    |
+|  27  | Valor do ICMS por Substituicao Tributar |   293   |   309   |    17   |    N    | Valor do Imposto, com duas casas decima |
+|      | ia                                      |         |         |         |         | is.                                     |
+|  28  | Indicador de Movimentacao Fisica da Mer |   310   |   310   |     1   |    C    | "S" para baixa estoque e "N" para nao b |
+|      | cadoria                                 |         |         |         |         | aixa estoque.                           |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
++----------------------------------------------------------------------------------------------------------------------------------+
+|                           E - LAYOUT DO ARQUIVO DE DADOS MESTRE DE DOS DOCUMENTOS FISCAIS DE SERVICOS                            |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|      |                                         | Posicao | Posicao | Tamanho |         |                                         |
+| Item | Campo                                   | Inicial |  Final  |  Campo  | Formato | Observacoes                             |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|   1  | Serie/Subserie do Documento             |     1   |     5   |     5   |    C    |                                         |
+|   2  | Numero do Documento                     |     6   |    11   |     6   |    N    |                                         |
+|   3  | Data de Emissao do Documento            |    12   |    19   |     8   |    N    |                                         |
+|   4  | Codigo do Participante                  |    20   |    33   |    14   |    C    | Codigo do destinatario.                 |
+|   5  | Valor Total do Servico                  |    34   |    50   |    17   |    N    | Soma do campo "Valor da Mercadoria" dos |
+|      |                                         |         |         |         |         | itens da nota fiscal.                   |
+|   6  | Valor Total do Desconto                 |    51   |    67   |    17   |    N    | Valor total das mercadorias menos o val |
+|      |                                         |         |         |         |         | or liquido das mercadoria.              |
+|   7  | Aliquota do IRRF                        |    68   |    72   |     5   |    N    | Na forma de percentual, com 2 casas dec |
+|      |                                         |         |         |         |         | imais.decimais.                         |
+|   8  | Base de Calculo do IRRF                 |    73   |    89   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|   9  | Valor do IRRF                           |    90   |   106   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  10  | Base de Calculo da Rentencao INSS       |   107   |   123   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  11  | Valor Destacado para Retencao INSS      |   124   |   140   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  12  | Indicador de Situacao de Cancelamento d |   141   |   141   |     1   |    C    | "S" para cancelado e "N" para normal.   |
+|      | o Documento                             |         |         |         |         |                                         |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
++----------------------------------------------------------------------------------------------------------------------------------+
+|                           F - LAYOUT DO ARQUIVO DE DADOS DOS ITENS DOS DOCUMENTOS FISCAIS DE SERVICOS                            |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|      |                                         | Posicao | Posicao | Tamanho |         |                                         |
+| Item | Campo                                   | Inicial |  Final  |  Campo  | Formato | Observacoes                             |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|   1  | Serie/Subserie do Documento             |     1   |     4   |     5   |    C    |                                         |
+|   2  | Numero do Documento                     |     6   |    11   |     6   |    N    |                                         |
+|   3  | Data de Emissao do Documento            |    12   |    19   |     8   |    N    |                                         |
+|   4  | Numero do Item                          |    20   |    22   |     3   |    N    | Numero sequencia do item do documento.  |
+|   5  | Codigo do Servico                       |    23   |    42   |    20   |    C    | Codigo do item.                         |
+|   6  | Descricao Complementar                  |    43   |    87   |    45   |    C    | Descricao do Item.                      |
+|   7  | Valor do Servico                        |    88   |   104   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|   8  | Valor do Desconto do Servico            |   105   |   121   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|   9  | Aliquota do ISS                         |   122   |   126   |     5   |    N    | Na forma de percentual com 2 casas deci |
+|      |                                         |         |         |         |         | mais.                                   |
+|  10  | Base de Calculo do ISS                  |   127   |   143   |    17   |    N    | Valor sem sinal, pontos ou virgulas e c |
+|      |                                         |         |         |         |         | om 2 casas decimais.                    |
+|  11  | Valor do ISS                            |   144   |   160   |    17   |    N    | Valor do Imposto, com duas casas decima |
+|      |                                         |         |         |         |         | is.                                     |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
++----------------------------------------------------------------------------------------------------------------------------------+
+|                               G - LAYOUT DO ARQUIVO DE DADOS DOS DOCUMENTOS FISCAIS DE EXPORTACAO                                |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|      |                                         | Posicao | Posicao | Tamanho |         |                                         |
+| Item | Campo                                   | Inicial |  Final  |  Campo  | Formato | Observacoes                             |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|   1  | Modelo do Documento                     |     1   |     2   |     2   |    C    | Cfe Convenio ICMS 57/95.                |
+|   2  | Serie/Subserie do Documento             |     3   |     7   |     5   |    C    |                                         |
+|   3  | Numero do Documento                     |     8   |    13   |     6   |    N    |                                         |
+|   4  | Data de Emissao do Documento            |    14   |    21   |     8   |    N    |                                         |
+|   5  | Numero do Registro de Exportacao (RE)   |    22   |    33   |    12   |    N    | Numero do RE atribuido pelo Sistema Int |
+|      |                                         |         |         |         |         | egrado de Comercio Esterior (Siscomex). |
+|   6  | Numero do Despacho de Exportacao (DDE)  |    34   |    44   |    11   |    N    | Numero do DDE atribuido pelo Sistema In |
+|      |                                         |         |         |         |         | tegrado de Comercio Esterior (Siscomex) |
+|      |                                         |         |         |         |         | .                                       |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
++----------------------------------------------------------------------------------------------------------------------------------+
+|                               H - LAYOUT DO ARQUIVO DE DADOS DOS DOCUMENTOS FISCAIS DE IMPORTACAO                                |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|      |                                         | Posicao | Posicao | Tamanho |         |                                         |
+| Item | Campo                                   | Inicial |  Final  |  Campo  | Formato | Observacoes                             |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|   1  | Modelo do Documento                     |     1   |     2   |     2   |    C    | Cfe Convenio ICMS 57/95.                |
+|   2  | Serie/Subserie do Documento             |     3   |     7   |     5   |    C    |                                         |
+|   3  | Numero do Documento                     |     8   |    13   |     6   |    N    |                                         |
+|   4  | Data de Emissao do Documento            |    14   |    21   |     8   |    N    |                                         |
+|   5  | Numero da Declaracao de Importacao (DI) |    22   |    31   |    10   |    N    | Numero da DI atribuido pelo Sistema Int |
+|      |                                         |         |         |         |         | egrado de Comercio Esterior (Siscomex). |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
++----------------------------------------------------------------------------------------------------------------------------------+
+|                           I - LAYOUT DO ARQUIVO DE DADOS DAS PESSOAS JURIDICAS E FISICAS - EMITENTES                             |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|      |                                         | Posicao | Posicao | Tamanho |         |                                         |
+| Item | Campo                                   | Inicial |  Final  |  Campo  | Formato | Observacoes                             |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|   1  | Data de Atualizacao                     |     1   |     8   |     8   |    N    | Data de inclusao/alteracao.             |
+|   2  | Codigo do Participante                  |     9   |    22   |    14   |    C    | Codigo do cliente/remetente.            |
+|   3  | CNPJ/CPF                                |    23   |    36   |    14   |    C    |                                         |
+|   4  | CEI                                     |    37   |    48   |    12   |    C    |                                         |
+|   5  | Inscricao Estadual                      |    49   |    62   |    14   |    C    |                                         |
+|   6  | Inscricao Municipal                     |    63   |    76   |    14   |    C    |                                         |
+|   7  | Nome ou Razao Social                    |    77   |   146   |    70   |    C    |                                         |
+|   8  | Endereco                                |   147   |   206   |    60   |    C    |                                         |
+|   9  | Bairro                                  |   207   |   226   |    20   |    C    |                                         |
+|  10  | Municipio                               |   227   |   246   |    20   |    C    |                                         |
+|  11  | Unidade de Federacao                    |   247   |   248   |     2   |    C    |                                         |
+|  12  | Pais                                    |   249   |   268   |    20   |    C    |                                         |
+|  13  | CEP                                     |   269   |   276   |     8   |    C    |                                         |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
++----------------------------------------------------------------------------------------------------------------------------------+
+|                        IT - LAYOUT DO ARQUIVO DE DADOS DAS PESSOAS JURIDICAS E FISICAS - TRANSPORTADORES                         |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|      |                                         | Posicao | Posicao | Tamanho |         |                                         |
+| Item | Campo                                   | Inicial |  Final  |  Campo  | Formato | Observacoes                             |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|   1  | Data de Atualizacao                     |     1   |     8   |     8   |    N    | Data de inclusao/alteracao.             |
+|   2  | Codigo do Participante                  |     9   |    22   |    14   |    C    | Codigo do transportador.                |
+|   3  | CNPJ/CPF                                |    23   |    36   |    14   |    C    |                                         |
+|   4  | CEI                                     |    37   |    48   |    12   |    C    |                                         |
+|   5  | Inscricao Estadual                      |    49   |    62   |    14   |    C    |                                         |
+|   6  | Inscricao Municipal                     |    63   |    76   |    14   |    C    |                                         |
+|   7  | Nome ou Razao Social                    |    77   |   146   |    70   |    C    |                                         |
+|   8  | Endereco                                |   147   |   206   |    60   |    C    |                                         |
+|   9  | Bairro                                  |   207   |   226   |    20   |    C    |                                         |
+|  10  | Municipio                               |   227   |   246   |    20   |    C    |                                         |
+|  11  | Unidade de Federacao                    |   247   |   248   |     2   |    C    |                                         |
+|  12  | Pais                                    |   249   |   268   |    20   |    C    |                                         |
+|  13  | CEP                                     |   269   |   276   |     8   |    C    |                                         |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
++----------------------------------------------------------------------------------------------------------------------------------+
+|                                    J - LAYOUT DO ARQUIVO DE DADOS DAS NATUREZAS DE OPERACAO                                      |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|      |                                         | Posicao | Posicao | Tamanho |         |                                         |
+| Item | Campo                                   | Inicial |  Final  |  Campo  | Formato | Observacoes                             |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|   1  | Data de Atualizacao                     |     1   |     8   |     8   |    N    | Data de inclusao/alteracao.             |
+|   2  | Codigo da Natureza de Operacao          |     9   |    14   |     6   |    C    | Codigo da natureza de operacao.         |
+|   3  | Descricao                               |    15   |    59   |    45   |    C    | Descricao da natureza de operacao       |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
++----------------------------------------------------------------------------------------------------------------------------------+
+|                                            K - LAYOUT DO ARQUIVO DE DADOS DOS ITENS                                              |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|      |                                         | Posicao | Posicao | Tamanho |         |                                         |
+| Item | Campo                                   | Inicial |  Final  |  Campo  | Formato | Observacoes                             |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+
+|   1  | Data de Atualizacao                     |     1   |     8   |     8   |    N    | Data de inclusao/alteracao.             |
+|   2  | Codigo da Mercadoria/Produto/Insumo/Ser |     9   |    28   |    20   |    C    | Codigo do item.                         |
+|      | vico                                    |         |         |         |         |                                         |
+|   3  | Descricao                               |    29   |    73   |    45   |    C    | Descricao do item.                      |
++------+-----------------------------------------+---------+---------+---------+---------+-----------------------------------------+

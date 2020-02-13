@@ -1,0 +1,37 @@
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 15|
+Field: int-1 Ant: 0 Nov: 604
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 16|
+Field: int-1 Ant: 0 Nov: 605
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 17|
+Field: int-1 Ant: 0 Nov: 606
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 18|
+Field: int-1 Ant: 0 Nov: 607
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 19|
+Field: int-1 Ant: 0 Nov: 608
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 20|
+Field: int-1 Ant: 0 Nov: 609
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 21|
+Field: int-1 Ant: 0 Nov: 610
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 22|
+Field: int-1 Ant: 0 Nov: 611
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 23|
+Field: int-1 Ant: 0 Nov: 612
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 24|
+Field: int-1 Ant: 0 Nov: 613
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 25|
+Field: int-1 Ant: 0 Nov: 614
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 26|
+Field: int-1 Ant: 0 Nov: 615
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 27|
+Field: int-1 Ant: 0 Nov: 616
+=====> BD: mgcad Tabela: ri-param Evento: W Chave: 10000|
+Field: int-1 Ant: 603 Nov: 617
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 28|
+Field: int-1 Ant: 0 Nov: 617
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      ri-bem                                  0         14          0
+mgcad      ri-param                                0          1          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0         15          0

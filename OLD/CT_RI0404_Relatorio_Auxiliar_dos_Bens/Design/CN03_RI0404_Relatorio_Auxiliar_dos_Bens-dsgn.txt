@@ -1,0 +1,13 @@
+     Cenario : CN03_RI0404_Relatorio_Auxiliar_dos_Bens
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Radio Set ."
+EXECUTE,"Informar o valor '10000' no Campo Estabel."
+EXECUTE,"Informar o valor '3' no Campo Código do Grupo."
+EXECUTE,"Informar o valor '0' no Campo Bem."
+EXECUTE,"Informar o valor '31/05/2014' no Campo Data de Corte."
+EXECUTE,"Informar o valor 'no' na Opção Gera planilha?."
+EXECUTE,"Informar o valor 'no' na Opção Desconsiderar."

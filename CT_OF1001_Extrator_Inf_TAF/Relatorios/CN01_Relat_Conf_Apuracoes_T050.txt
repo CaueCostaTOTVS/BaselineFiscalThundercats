@@ -1,0 +1,2 @@
+Estabelecimento	Data Inicial Apuração	Data Final Apuração	Saldo Inicial ICMS	Somatório Parcelas	Valor Som. Saídas Trib./Export.	Valor Total Saídas	Indíce de Participação	ICMS Apropriado	Valor de Outros Créditos
+1	8/1/2011	8/31/2011	44068.71	879.24	1.00	1.00	1.00	879.24	0.00

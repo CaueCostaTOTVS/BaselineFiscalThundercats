@@ -1,0 +1,20 @@
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 126|1|10|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 126|2|10|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 126|1|20|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 126|1|30|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 126|1|40|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 126|1|50|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 126|1|60|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      clf-param-histor                        0          7          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0          7          0

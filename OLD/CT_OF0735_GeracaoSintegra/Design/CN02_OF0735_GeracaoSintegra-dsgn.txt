@@ -1,0 +1,18 @@
+     Cenario : CN02_OF0735_GeracaoSintegra
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estab."
+EXECUTE,"Informar o valor '01/05/2011' no Campo Data Documento."
+EXECUTE,"Informar o valor '31/05/2011' no Campo ."
+EXECUTE,"Informar o valor 'AC' no Campo Unidade da Federação."
+EXECUTE,"Informar o valor 'Outros (a especificar)' no Combo Box ."
+EXECUTE,"Informar o valor '' no Campo ."
+EXECUTE,"Informar o valor '99.999.999.999' no Campo Número de Bytes."
+EXECUTE,"Informar o valor 'c:/automacao/arquivos/' no Editor ."
+EXECUTE,"Informar o valor '' no Campo Marca."
+EXECUTE,"Informar o valor '' no Campo Modelo."
+EXECUTE,"Informar o valor '' no Campo Densidade."
+EXECUTE,"Informar o valor '' no Campo Fator de Bloco."

@@ -1,0 +1,728 @@
+=====> BD: mgcad Tabela: dwf-item Evento: C
+Field: cod-combust Nov: 
+Field: cod-ean Nov: 
+Field: cod-genero Nov: 73
+Field: cod-grp Nov: 
+Field: cod-item Nov: TQQCGQ
+Field: cod-item-ant Nov: 40T
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-marca Nov: 
+Field: cod-ncm Nov: 73083000
+Field: cod-servico Nov: 
+Field: cod-unid-medid Nov: KG
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 12/02/2020
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: des-item Nov: ITEM CONTROLE TOTAL
+Field: des-item-ant Nov: 
+Field: idi-tab-inciden Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: it-ult-ent Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: it-ult-ent Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: it-ult-ent Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: item Evento: W
+Field: char-2 Nov: 2                 00,0000,0000,0000,00122   0,00000   0,00000                                                                                                                                                           12/02/2020
+Field: desc-item Nov: Teste Automacao
+Field: descricao-1 Nov: Teste Automacao
+Field: descricao-2 Nov: 
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: item-dist Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: item-man Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: item-mat Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: item-uni-estab Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: item-uni-estab Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: narrativa Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: pend-item Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: pend-item Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: pend-item Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: pend-item Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: pend-item Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: pend-item Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: pend-item Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: pend-item Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: pend-item Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: pend-item Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: pend-item Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgcad Tabela: sit-tribut-relacto Evento: W
+Field: cod-item Nov: TQQCGQ
+=====> BD: mgcad Tabela: sit-tribut-relacto Evento: W
+Field: cod-item Nov: TQQCGQ
+=====> BD: mgcad Tabela: wm-item Evento: W
+Field: cod-item Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: consumo-estab Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: consumo-estab Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: consumo-estab Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: consumo-estab Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: devol-cli Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: devol-cli Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: devol-cli Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: devol-forn Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: devol-forn Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: estat-estab Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: fat-ser-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: it-nota-fisc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-doc-est Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-doc-est Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-doc-est Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-doc-est Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-doc-est Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-doc-est Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-doc-est Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-doc-est Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-doc-est Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-doc-est Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-doc-est Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-doc-est Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-doc-est Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-doc-est Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-doc-est Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-entr-st Evento: W
+Field: cod-item Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-estab Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-nfs-st Evento: W
+Field: cod-item Nov: TQQCGQ
+=====> BD: mgmov Tabela: item-nfs-st Evento: W
+Field: cod-item Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-fatur-antecip Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: movto-fatur-antecip Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: nota-fisc-adc Evento: W
+Field: cod-item Nov: TQQCGQ
+=====> BD: mgmov Tabela: nota-fisc-adc Evento: W
+Field: cod-item Nov: TQQCGQ
+=====> BD: mgmov Tabela: nota-fisc-adc Evento: W
+Field: cod-item Nov: TQQCGQ
+=====> BD: mgmov Tabela: nota-fisc-adc Evento: W
+Field: cod-item Nov: TQQCGQ
+=====> BD: mgmov Tabela: nota-fisc-adc Evento: W
+Field: cod-item Nov: TQQCGQ
+=====> BD: mgmov Tabela: nota-fisc-adc Evento: W
+Field: cod-item Nov: TQQCGQ
+=====> BD: mgmov Tabela: nota-fisc-adc Evento: W
+Field: cod-item Nov: TQQCGQ
+=====> BD: mgmov Tabela: pr-it-per Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: pr-it-per Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: pr-it-per Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-componente Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-lote Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-saldo-terc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-saldo-terc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-saldo-terc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-saldo-terc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rat-saldo-terc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rateio-it-duplic Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rateio-it-duplic Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rateio-it-duplic Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rateio-it-duplic Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rateio-it-duplic Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rateio-it-duplic Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rateio-it-duplic Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: rateio-it-duplic Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: saldo-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: saldo-estoq Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: saldo-terc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: saldo-terc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: saldo-terc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: saldo-terc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: saldo-terc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: saldo-terc Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: sdo-fatur-antecip Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: sdo-fatur-antecip Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: sl-it-per Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: sl-it-per Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: sl-it-per Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: sl-it-per Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: sl-it-per Evento: W
+Field: it-codigo Nov: TQQCGQ
+=====> BD: mgmov Tabela: sl-it-per Evento: W
+Field: it-codigo Nov: TQQCGQ
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      dwf-item                                1          0          0
+mgcad      it-ult-ent                              0          3          0
+mgcad      item                                    0          2          0
+mgcad      item-dist                               0          1          0
+mgcad      item-man                                0          1          0
+mgcad      item-mat                                0          1          0
+mgcad      item-uni-estab                          0          2          0
+mgcad      narrativa                               0          1          0
+mgcad      pend-item                               0         11          0
+mgcad      sit-tribut-relacto                      0          2          0
+mgcad      wm-item                                 0          1          0
+mgmov      componente                              0         18          0
+mgmov      consumo-estab                           0          4          0
+mgmov      devol-cli                               0          3          0
+mgmov      devol-forn                              0          2          0
+mgmov      estat-estab                             0          1          0
+mgmov      fat-ser-lote                            0         18          0
+mgmov      it-doc-fisc                             0         73          0
+mgmov      it-nota-fisc                            0         25          0
+mgmov      item-doc-est                            0         15          0
+mgmov      item-entr-st                            0          1          0
+mgmov      item-estab                              0          1          0
+mgmov      item-nfs-st                             0          2          0
+mgmov      movto-estoq                             0         77          0
+mgmov      movto-fatur-antecip                     0          2          0
+mgmov      nota-fisc-adc                           0          7          0
+mgmov      pr-it-per                               0          3          0
+mgmov      rat-componente                          0         10          0
+mgmov      rat-lote                                0         15          0
+mgmov      rat-saldo-terc                          0          5          0
+mgmov      rateio-it-duplic                        0          8          0
+mgmov      saldo-estoq                             0          2          0
+mgmov      saldo-terc                              0          6          0
+mgmov      sdo-fatur-antecip                       0          2          0
+mgmov      sl-it-per                               0          6          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              1        331          0

@@ -1,0 +1,5 @@
+Estabelecimento	Período	UF	Código Ajuste	Participante	Modelo	Série	Subsérie	Número do Documento	Data	Item	Valor Ajuste Item	Data Visto
+1	Aug-11	SC	SC139999	73628	01			0004038	4/5/2011	81.31.204-4	259.00	4/5/2011
+1	Aug-11	SC	SC149999	1.43801E+12	55	1		0000852	5/20/2011	40T	400.00	5/20/2011
+												
+1	Aug-11	SC	SC149999	73100	01	1		0000543	5/4/2011	83.01.014-2	201.37	5/4/2011

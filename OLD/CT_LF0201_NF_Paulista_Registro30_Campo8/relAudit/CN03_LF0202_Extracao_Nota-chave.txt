@@ -1,0 +1,22 @@
+=====> BD: mgcad Tabela: clf-param-gerador-arq-fisc Evento: C Chave: d04|TODAY|
+Field: cod-estab Nov: d04
+Field: nom-dir-dest Nov: 
+Field: nom-bco-dados Nov: 
+Field: dat-inic-valid Nov: TODAY
+Field: dat-fim-valid ?
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      clf-param-gerador-arq-fisc              1          0          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              1          0          0

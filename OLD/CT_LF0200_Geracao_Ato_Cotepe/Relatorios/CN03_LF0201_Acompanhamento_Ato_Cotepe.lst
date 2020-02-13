@@ -1,0 +1,65 @@
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        Relatório de Geração de Arquivos                                       Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+  Layout Desc Param                     Nome Campo                     Conteudo Inicial               Conteudo Final
+-------- ------------------------------ ------------------------------ ------------------------------ ------------------------------
+       1 Estabelecimento                codEstab                       1
+       1 Finalidade Arquivo             finalidadeArquivo              00 Remessa regular de arquivo
+       1 Dt Fechamento Inventário (Reg  dtFechInvent
+       1 Dados do Técnico/Empresa       Tecnico
+       1 Considera CFOPs Serviço        consideraCFOPServ              Sim
+       1 Código Versão (Ex: 0 ou 0000)  CodVersao
+       1 Código SRP (Ex: 0 ou 000)      CodSRP
+       1 Gera Registro 0210             gerareg0210                    Sim
+       1 Gera Registro C250             geraregC250                    Sim
+       1 Data Documento                 dataDocto                      01/05/2011                     31/05/2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Duração)  Arquivos Gerados
+----------------------------------------------------------------------------------------------------
+(00:00:00) c:/automacao/relatorios\atocotepe1TODAY1954.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------DATASUL -  - LF0201RP - V:0.00.00.000
+

@@ -1,0 +1,2 @@
+Estabelecimento	Tipo de Documento	Número da Declaração	Data da Declaração	Nat. Exportação	Data Averbação	Modelo	Série	Nota Fiscal	Chave NFE	Data Emissão	Código Item
+1	0	212664	8/5/2011	1	8/12/2011	01	5	0076171		8/1/2011	ABJC-100

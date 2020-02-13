@@ -1,0 +1,9 @@
+=====> BD: mgmov Tabela: param-extrat-taf Evento: W
+Field: param-caracter Nov: |18
+Field: param-inteiro Nov: 1
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgmov      param-extrat-taf                        0          1          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0          1          0

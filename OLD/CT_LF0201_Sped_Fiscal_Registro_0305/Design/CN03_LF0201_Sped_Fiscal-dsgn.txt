@@ -1,0 +1,6 @@
+     Cenario : CN03_LF0201_Sped_Fiscal
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

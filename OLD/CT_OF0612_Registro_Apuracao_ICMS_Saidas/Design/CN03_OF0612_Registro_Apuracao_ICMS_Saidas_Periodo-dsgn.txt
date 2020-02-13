@@ -1,0 +1,8 @@
+     Cenario : CN03_OF0612_Registro_Apuracao_ICMS_Saidas_Periodo
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '01/04/2011' no Campo Data emissão."
+EXECUTE,"Informar o valor '1' no Campo Estabelecimento."

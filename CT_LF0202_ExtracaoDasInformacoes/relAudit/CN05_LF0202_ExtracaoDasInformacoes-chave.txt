@@ -1,0 +1,7 @@
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: D Chave: 1|1|0000111|1|611st|29/08/16|
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgmov      dwf-docto-compl                         0          0          1
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0          0          1

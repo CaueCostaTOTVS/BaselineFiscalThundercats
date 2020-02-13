@@ -1,0 +1,3 @@
+Estabelecimento	Período	UF	Documento de Arrecadação	Obrigação Recolher	Valor da Obrigação Recolher	Data Vencimento	Código de Receita	Número do Processo	Origem Processo	Mês Referência	Descrição Complementar
+1	Aug-11	SC	D0000063	000	100.00	9/6/2011	2016	0911	1	Aug-11	RECOLHIMENTO JUSTICA FEDERAL
+1	Aug-11	SC	D0000064	090	300.00	9/5/2011	2016	09111	9	Aug-11	RECOLHIMENTO OUTROS

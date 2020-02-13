@@ -1,0 +1,4 @@
+Estabelecimento	Série	Número do Documento	Participante	Processo	Origem Processo
+1	5	0076177	70	45894	0
+1	5	0076177	70	7856	9
+1	5	0076179	70	01112016	2

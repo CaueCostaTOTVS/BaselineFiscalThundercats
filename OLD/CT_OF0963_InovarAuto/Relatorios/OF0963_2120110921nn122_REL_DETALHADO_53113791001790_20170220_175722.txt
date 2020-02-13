@@ -1,0 +1,211 @@
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Relatório de Conferência INOVAR-AUTO - Detalhado D                     Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+-----------------------------------------------------------------------------------------------DATASUL -  - OF0963RP - V:0.00.00.000
+
+----------------------------------------------------------------------------------------------------------------------------------
+  Empresa Matriz: ESTABELECIMENTO TOTVS - Ñ ALTERAR CONTAS                                              CNPJ: 53.113.791/0017-90
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+  Período Referência: 09/2011
+
+       CLIENTE:        13 - TREZA SA                                                     CNPJ: 61.101.895/0004-98
+
+       NOTA FISCAL    NAT OPERAÇÃO    SÉRIE    DATA EMISSÃO    VALOR NOTA FISCAL      PARCELA DEDUTÍVEL
+       -----------    ------------    ------   -------------   -------------------    -------------------
+
+
+       0076862        611-IE          5        05/09/2011                27000,00                  112,12
+         PRODUTO:  13c             QTD:  1,0000            FATOR:  112,12             PAR DEDUTÍVEL: 112,12
+
+       0076851        611-IE          5        05/09/2011                 1173,00                    5,25
+         PRODUTO:  13FF            QTD:  1,0000            FATOR:  5,25               PAR DEDUTÍVEL: 5,25
+         PRODUTO:  SOJA            QTD:  1,0000            FATOR:  0,00               PAR DEDUTÍVEL: 0,00
+
+       0000005        69901           12345    26/09/2011                 5000,00                    0,00
+         PRODUTO:  Filho1-Benefic  QTD:  20,0000           FATOR:  0,00               PAR DEDUTÍVEL: 0,00
+         PRODUTO:  Filho2-Benefic  QTD:  50,0000           FATOR:  0,00               PAR DEDUTÍVEL: 0,00
+
+                             TOTAL NOTAS FISCAIS:              33173,00              117,37
+                             (-) TOTAL DEVOLUÇÃO:                  0,00                0,00
+                             (-)  SALDO NEGATIVO:                  0,00                0,00
+
+                                       TOTAL XML:              33173,00              117,37
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+  Período Referência: 09/2011
+
+       CLIENTE:        14 - TESTE ESTRANGEIRO                                            CNPJ: 07.491.528/7863-40
+
+       NOTA FISCAL    NAT OPERAÇÃO    SÉRIE    DATA EMISSÃO    VALOR NOTA FISCAL      PARCELA DEDUTÍVEL
+       -----------    ------------    ------   -------------   -------------------    -------------------
+
+
+       0076861        7111            5        05/09/2011                  238,65                    0,00
+         PRODUTO:  ABJC-100        QTD:  10,0000           FATOR:  0,00               PAR DEDUTÍVEL: 0,00
+
+                             TOTAL NOTAS FISCAIS:                238,65                0,00
+                             (-) TOTAL DEVOLUÇÃO:                  0,00                0,00
+                             (-)  SALDO NEGATIVO:                  0,00                0,00
+
+                                       TOTAL XML:                238,65                0,00
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+  Período Referência: 09/2011
+
+       CLIENTE:        22 - EDI MERCANTIL MONTADORAS LTDA                                CNPJ: 47.803.846/0001-23
+
+       NOTA FISCAL    NAT OPERAÇÃO    SÉRIE    DATA EMISSÃO    VALOR NOTA FISCAL      PARCELA DEDUTÍVEL
+       -----------    ------------    ------   -------------   -------------------    -------------------
+
+
+       0076854        6123            MAN      05/09/2011                   12,00                  338,89
+         PRODUTO:  13d             QTD:  1,0000            FATOR:  338,89             PAR DEDUTÍVEL: 338,89
+
+       0076853        6123            MAN      05/09/2011                   12,00                  338,89
+         PRODUTO:  13d             QTD:  1,0000            FATOR:  338,89             PAR DEDUTÍVEL: 338,89
+
+       0076802        6123            MAN      05/09/2011                   12,00                  338,89
+         PRODUTO:  13d             QTD:  1,0000            FATOR:  338,89             PAR DEDUTÍVEL: 338,89
+
+       0076801        6123            MAN      02/09/2011                   12,00                  338,89
+         PRODUTO:  13d             QTD:  1,0000            FATOR:  338,89             PAR DEDUTÍVEL: 338,89
+
+       0076852        6123            5        05/09/2011                  155,52                   54,96
+         PRODUTO:  13T             QTD:  3,0000            FATOR:  4,58               PAR DEDUTÍVEL: 13,74
+         PRODUTO:  13T             QTD:  3,0000            FATOR:  4,58               PAR DEDUTÍVEL: 13,74
+         PRODUTO:  13T             QTD:  3,0000            FATOR:  4,58               PAR DEDUTÍVEL: 13,74
+         PRODUTO:  13T             QTD:  3,0000            FATOR:  4,58               PAR DEDUTÍVEL: 13,74
+
+                             TOTAL NOTAS FISCAIS:                203,52             1410,52
+                             (-) TOTAL DEVOLUÇÃO:                  0,00                0,00
+                             (-)  SALDO NEGATIVO:                  0,00                0,00
+
+                                       TOTAL XML:                203,52             1410,52
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+  Período Referência: 09/2011
+
+       CLIENTE:        70 - LOJA DO PINTOR E CONSTRUTOR LTDA                             CNPJ: 49.889.140/0001-51
+
+       NOTA FISCAL    NAT OPERAÇÃO    SÉRIE    DATA EMISSÃO    VALOR NOTA FISCAL      PARCELA DEDUTÍVEL
+       -----------    ------------    ------   -------------   -------------------    -------------------
+
+
+       0076850        699OTR          5        05/09/2011                    0,00                  577,37
+         PRODUTO:  13T             QTD:  3,6667            FATOR:  4,58               PAR DEDUTÍVEL: 16,79
+         PRODUTO:  13C             QTD:  5,0000            FATOR:  112,12             PAR DEDUTÍVEL: 560,58
+
+       0076848        699OTR          5        05/09/2011                    0,00                  596,18
+         PRODUTO:  13T             QTD:  1,3333            FATOR:  4,58               PAR DEDUTÍVEL: 6,11
+         PRODUTO:  13F             QTD:  5,0000            FATOR:  118,02             PAR DEDUTÍVEL: 590,08
+         PRODUTO:  REF             QTD:  5,0000            FATOR:  0,00               PAR DEDUTÍVEL: 0,00
+         PRODUTO:  P2              QTD:  4,0000            FATOR:  0,00               PAR DEDUTÍVEL: 0,00
+         PRODUTO:  CONF            QTD:  3,0000            FATOR:  0,00               PAR DEDUTÍVEL: 0,00
+
+                             TOTAL NOTAS FISCAIS:                  0,00             1173,55
+                             (-) TOTAL DEVOLUÇÃO:                  0,00                0,00
+                             (-)  SALDO NEGATIVO:                  0,00                0,00
+
+                                       TOTAL XML:                  0,00             1173,55
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+  Período Referência: 09/2011
+
+       CLIENTE:        83 - ANTONIO CARLOS NASCIMENTO                                    CNPJ: 49.005.382/0001-35
+
+       NOTA FISCAL    NAT OPERAÇÃO    SÉRIE    DATA EMISSÃO    VALOR NOTA FISCAL      PARCELA DEDUTÍVEL
+       -----------    ------------    ------   -------------   -------------------    -------------------
+
+
+       0076849        611otf          5        05/09/2011               242822,09                  577,37
+         PRODUTO:  13T             QTD:  3,6667            FATOR:  4,58               PAR DEDUTÍVEL: 16,79
+         PRODUTO:  13C             QTD:  5,0000            FATOR:  112,12             PAR DEDUTÍVEL: 560,58
+
+       0076845        6123            5        05/09/2011               149033,37                  466,37
+         PRODUTO:  13T             QTD:  1,3333            FATOR:  4,58               PAR DEDUTÍVEL: 6,11
+         PRODUTO:  13F             QTD:  2,0000            FATOR:  118,02             PAR DEDUTÍVEL: 236,03
+         PRODUTO:  13C             QTD:  2,0000            FATOR:  112,12             PAR DEDUTÍVEL: 224,23
+         PRODUTO:  P2              QTD:  2,0000            FATOR:  0,00               PAR DEDUTÍVEL: 0,00
+         PRODUTO:  REF             QTD:  2,0000            FATOR:  0,00               PAR DEDUTÍVEL: 0,00
+         PRODUTO:  CONF            QTD:  2,0000            FATOR:  0,00               PAR DEDUTÍVEL: 0,00
+
+       0076846        6123            5        05/09/2011                81361,79                   12,21
+         PRODUTO:  13T             QTD:  0,6667            FATOR:  4,58               PAR DEDUTÍVEL: 3,05
+         PRODUTO:  13T             QTD:  2,0000            FATOR:  4,58               PAR DEDUTÍVEL: 9,16
+
+       0076847        611otf          5        05/09/2011               179787,88                  596,18
+         PRODUTO:  13T             QTD:  1,3333            FATOR:  4,58               PAR DEDUTÍVEL: 6,11
+         PRODUTO:  13F             QTD:  5,0000            FATOR:  118,02             PAR DEDUTÍVEL: 590,08
+         PRODUTO:  REF             QTD:  5,0000            FATOR:  0,00               PAR DEDUTÍVEL: 0,00
+         PRODUTO:  P2              QTD:  4,0000            FATOR:  0,00               PAR DEDUTÍVEL: 0,00
+         PRODUTO:  CONF            QTD:  3,0000            FATOR:  0,00               PAR DEDUTÍVEL: 0,00
+
+                             TOTAL NOTAS FISCAIS:             653005,13             1652,13
+                             (-) TOTAL DEVOLUÇÃO:                  0,00                0,00
+                             (-)  SALDO NEGATIVO:                  0,00                0,00
+
+                                       TOTAL XML:             653005,13             1652,13
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+  Período Referência: 09/2011
+
+       CLIENTE:       978 - INCOESME IND COM ESQS LTDA                                   CNPJ: 75.485.524/0001-19
+
+       NOTA FISCAL    NAT OPERAÇÃO    SÉRIE    DATA EMISSÃO    VALOR NOTA FISCAL      PARCELA DEDUTÍVEL
+       -----------    ------------    ------   -------------   -------------------    -------------------
+
+
+       1234507        511CFT          32       30/09/2011                    0,00                23624,61
+         PRODUTO:  40T             QTD:  70,0000           FATOR:  107,36             PAR DEDUTÍVEL: 7515,48
+         PRODUTO:  13F             QTD:  70,0000           FATOR:  118,02             PAR DEDUTÍVEL: 8261,06
+         PRODUTO:  13C             QTD:  70,0000           FATOR:  112,12             PAR DEDUTÍVEL: 7848,07
+
+       1234506        511CRP          32       30/09/2011                  436,50                67498,88
+         PRODUTO:  40T             QTD:  200,0000          FATOR:  107,36             PAR DEDUTÍVEL: 21472,81
+         PRODUTO:  13F             QTD:  200,0000          FATOR:  118,02             PAR DEDUTÍVEL: 23603,02
+         PRODUTO:  13C             QTD:  200,0000          FATOR:  112,12             PAR DEDUTÍVEL: 22423,05
+
+       1234505        599CRM          32       30/09/2011                 8730,00                67498,88
+         PRODUTO:  40T             QTD:  200,0000          FATOR:  107,36             PAR DEDUTÍVEL: 21472,81
+         PRODUTO:  13F             QTD:  200,0000          FATOR:  118,02             PAR DEDUTÍVEL: 23603,02
+         PRODUTO:  13C             QTD:  200,0000          FATOR:  112,12             PAR DEDUTÍVEL: 22423,05
+
+       1234504        599CDS          32       30/09/2011                    0,00                 5062,42
+         PRODUTO:  40T             QTD:  15,0000           FATOR:  107,36             PAR DEDUTÍVEL: 1610,46
+         PRODUTO:  13C             QTD:  15,0000           FATOR:  112,12             PAR DEDUTÍVEL: 1681,73
+         PRODUTO:  13F             QTD:  15,0000           FATOR:  118,02             PAR DEDUTÍVEL: 1770,23
+
+       1234503        511CFT          32       30/09/2011                    0,00                 6277,38
+         PRODUTO:  40T             QTD:  4,0000            FATOR:  107,36             PAR DEDUTÍVEL: 429,46
+         PRODUTO:  13T             QTD:  40,0000           FATOR:  4,58               PAR DEDUTÍVEL: 183,20
+         PRODUTO:  13F             QTD:  48,0000           FATOR:  118,02             PAR DEDUTÍVEL: 5664,72
+
+       1234502        511CRP          32       30/09/2011                 1910,01                15693,45
+         PRODUTO:  40T             QTD:  10,0000           FATOR:  107,36             PAR DEDUTÍVEL: 1073,64
+         PRODUTO:  13T             QTD:  100,0000          FATOR:  4,58               PAR DEDUTÍVEL: 458,00
+         PRODUTO:  13F             QTD:  120,0000          FATOR:  118,02             PAR DEDUTÍVEL: 14161,81
+
+       1234501        599CRM          32       30/09/2011                15916,73                15693,45
+         PRODUTO:  40T             QTD:  10,0000           FATOR:  107,36             PAR DEDUTÍVEL: 1073,64
+         PRODUTO:  13T             QTD:  100,0000          FATOR:  4,58               PAR DEDUTÍVEL: 458,00
+         PRODUTO:  13F             QTD:  120,0000          FATOR:  118,02             PAR DEDUTÍVEL: 14161,81
+
+       1234508        599CDM          32       30/09/2011                 1887,15                 1709,02
+         PRODUTO:  40T             QTD:  4,5000            FATOR:  107,36             PAR DEDUTÍVEL: 483,14
+         PRODUTO:  13F             QTD:  8,2500            FATOR:  118,02             PAR DEDUTÍVEL: 973,62
+         PRODUTO:  13C             QTD:  2,2500            FATOR:  112,12             PAR DEDUTÍVEL: 252,26
+
+                             TOTAL NOTAS FISCAIS:              28880,39           203058,08
+                             (-) TOTAL DEVOLUÇÃO:                  0,00                0,00
+                             (-)  SALDO NEGATIVO:                  0,00                0,00
+
+                                       TOTAL XML:              28880,39           203058,08
+

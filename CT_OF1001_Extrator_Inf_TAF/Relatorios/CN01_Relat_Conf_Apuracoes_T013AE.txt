@@ -1,0 +1,3 @@
+Estabelecimento	Série	Número do Documento	Participante	Código Modelo Doc. Arrecadação	Número Doc. Arrecadação
+1	5	0076178	12704	1	03032014
+1	5	0076179	70	0	301181

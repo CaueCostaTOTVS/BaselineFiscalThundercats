@@ -1,0 +1,6 @@
+     Cenario : CN01_LF0218_Relatorio_Auxiliar_Contribuicao_Previdenciaria
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

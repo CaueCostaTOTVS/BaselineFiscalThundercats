@@ -1,0 +1,657 @@
+MEN702DC                              3.00.00.001    menu_uit                      TODAY  00:00:00
+BTB906ZA                              2.00.00.011    men702dc                      TODAY  00:00:00
+MEN901ZA                              2.00.00.006    men702dc                      TODAY  00:00:00
+UT-TRDFR                              3.00.00.001    men702dc                      TODAY  00:00:00
+RI0412                                2.00.00.013    men702dc                      TODAY  00:00:00
+BROKER                                3.00.00.001    ri0412                        TODAY  00:00:00
+BOFN068                               2.00.00.007    ri0412                        TODAY  00:00:00
+BTBSECURITY                           3.00.00.001    bofn068                       TODAY  00:00:00
+MEN901ZA                              2.00.00.006    btbsecur                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofn068                       TODAY  00:00:00
+UT-XMLPRS                             3.00.00.001    bofn068                       TODAY  00:00:00
+BOFN088                               2.00.00.005    ri0412                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofn088                       TODAY  00:00:00
+BOFN116                               2.00.00.005    ri0412                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofn116                       TODAY  00:00:00
+BTB970AA                              2.00.00.004    ri0412                        TODAY  00:00:00
+BTB432ZG                              2.00.01.008    btb970aa                      TODAY  00:00:00
+UT-VFREG                              3.00.00.001    ri0412                        TODAY  00:00:00
+UT-VFVLD                              3.00.00.001    ri0412                        TODAY  00:00:00
+UT-VFMOD                              2.00.00.003    ri0412                        TODAY  00:00:00
+UT-VFUSR                              3.00.00.001    ri0412                        TODAY  00:00:00
+MEN901ZA                              2.00.00.006    ri0412                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    ri0412                        TODAY  00:00:00
+UT-STYLE                              3.00.00.001    ri0412                        TODAY  00:00:00
+UT-EXTRA                              2.00.00.002    ut-style                      TODAY  00:00:00
+BTB920AA                              2.00.00.012    ri0412                        TODAY  00:00:00
+UT-TRCAMPOS                           2.00.00.009    ri0412                        TODAY  00:00:00
+UT-TRCAMPOS                           2.00.00.009    ri0412                        TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412                        TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412                        TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412                        TODAY  00:00:00
+UT-VLARQ                              3.00.00.001    ri0412                        TODAY  00:00:00
+RI0412RP                              2.00.00.070    ri0412                        TODAY  00:00:00
+CDAPI007A                             2.00.00.086    ri0412rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    cdapi007                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    cdapi007                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412rp                      TODAY  00:00:00
+BTB920AA                              2.00.00.012    ri0412rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412rp                      TODAY  00:00:00
+UT-ACOMP                              2.00.00.003    ri0412rp                      TODAY  00:00:00
+BODI453                               2.00.00.023    ri0412rp                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi453                       TODAY  00:00:00
+BODI453A                              2.00.00.017    ri0412rp                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi453a                      TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+UT-ACOMP                              2.00.00.003    ri0412rp                      TODAY  00:00:00
+UT-ACOMP                              2.00.00.003    ri0412rp                      TODAY  00:00:00
+UT-ACOMP                              2.00.00.003    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+UT-ACOMP                              2.00.00.003    ri0412rp                      TODAY  00:00:00
+TWDI458                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+     PonInicio Procedure execute - TODAY - 00:00:00                                                    
+     PonIntegracao EMS 5.0 -> yes - TODAY - 00:00:00                                                   
+     PonApos tratamento conexao bancos - TODAY - 00:00:00                                              
+     PonInicio bloco principal - TODAY - 00:00:00                                                      
+     PonLote -> 10/RI016121/1                                                                               
+TCAD095                               2.00.00.001    cdapi007                      TODAY  00:00:00
+TWAD095                               2.00.00.001    cdapi007                      TODAY  00:00:00
+     PonInicio processamento itens do lote  - TODAY - 00:00:00                                         
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+     PonFinal processamento itens do lote  - TODAY - 00:00:00                                          
+     PonAntes Atualizacao - TODAY - 00:00:00                                                           
+     PonSera feita a integracao com EMS 5.0 - TODAY - 00:00:00                                         
+fnc_mga_docto_pend_integr                 prgfin/fgl/fgl720za.py    1.00.01.117    TODAY  00:00:00
+fnc_funcoes_padrao_glob                   prgint/utb/utb925za.py    1.00.00.000    TODAY  00:00:00
+SPP_TRAT_CASAS_DEC                        no
+CDAPI543                              2.00.00.001    fgl720za                      TODAY  00:00:00
+CDAPI547                              2.00.00.011    fgl720za                      TODAY  00:00:00
+CDAPI548                              2.00.00.003    fgl720za                      TODAY  00:00:00
+
+ => INFORMAÇÃO tt-doc-pendente (REFERÊNCIA)
+    ======================================= 
+
+Empresa  Referência  Data Movto  Lancto Padrão  Data Cotação  Valor Movimento  Gera Estorno  Data Estorno  Histórico  Data Início Per  Data Fim Per  Série Início  Sério Fim  Situação  Estab 
+-------- ----------- ----------- -------------- ------------- ---------------- ------------- ------------- ---------- ---------------- ------------- ------------- ---------- --------- ------ 
+10        RI016121    30/06/2012       0                                     0  Não                           0        TODAY       TODAY             0             0 01        1    
+
+ => INFORMAÇÃO tt-lin-doc-pend (ITENS)
+    =================================== 
+
+Empresa  Referência  Sequência  Conta EMS  Sub-Conta EMS  Conta MG  Sub-Conta MG  Reduzida  Trans EMS  Trans MG  Histórico  Valor           Conta Contra Partida EMS  Sub-Conta Contra Partida EMS  Conta Contra Partida MG  Sub-Conta Contra Partida MG  Reduzida Par  Valor FASB      Data Cotação  Valor CMI       Valor Presente  Controle       Conta Contábil               Contra Partida        Estab   Unid Negoc  Unid Negoc Par
+-------- ----------- ---------- ---------- -------------- --------- ------------- --------- ---------- --------- ---------- --------------- ------------------------- ----------------------------- ------------------------ ---------------------------- ------------- --------------- ------------- --------------- --------------- --------- --------------------------- -------------------------- -------- ----------- --------------
+10       RI016121         1     21105040   01070201       00000000  00000              0     1         DB          0                23.046                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI016121         2     21105040   01070201       00000000  00000              0     1         DB          0                 2.285                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI016121         3     21105040   01070201       00000000  00000              0     1         DB          0                10.289                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI016121         4     31111111                  00000000  00000              0     2         DB          0                23.036                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI016121         5     31111111                  00000000  00000              0     2         DB          0                23.046                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI016121         6     31111111                  00000000  00000              0     1         DB          0                23.036                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI016121         7     31111111                  00000000  00000              0     2         DB          0                 2.275                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI016121         8     31111111                  00000000  00000              0     2         DB          0                 2.285                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI016121         9     31111111                  00000000  00000              0     1         DB          0                 2.275                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI016121        10     31111111                  00000000  00000              0     2         DB          0                10.279                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI016121        11     31111111                  00000000  00000              0     2         DB          0                10.289                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI016121        12     31111111                  00000000  00000              0     1         DB          0                10.279                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+
+CDAPI543                              2.00.00.001    fgl720za                      TODAY  00:00:00
+TDAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TDAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TDAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TDAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TDAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TDAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TDAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TDAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TDAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TDAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TDAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TDAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TDAD095                               2.00.00.002    cdapi007                      TODAY  00:00:00
+     PonIntegracao com o EMS 5.0 realizada - TODAY - 00:00:00                                          
+     PonFinal bloco principal - TODAY - 00:00:00                                                       
+     PonRetornando da cdapi007a.p - TODAY - 00:00:00                                                   
+UT-TRFRRP                             2.00.00.008    ri0412rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412rp                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    ri0412                        TODAY  00:00:00

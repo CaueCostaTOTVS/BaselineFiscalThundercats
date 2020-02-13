@@ -1,0 +1,13 @@
+     Cenario : CN02_RE0413_Por_Qtd_Conta_MOF_Desativo
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabel."
+EXECUTE,"Informar o valor '1' no Campo ."
+EXECUTE,"Informar o valor '29/09/2011' no Campo Data Transação."
+EXECUTE,"Informar o valor '21' no Campo Série."
+EXECUTE,"Informar o valor '0002909' no Campo Documento."
+EXECUTE,"Informar o valor '13' no Campo Emitente."
+EXECUTE,"Informar o valor '2406' no Campo Natureza."

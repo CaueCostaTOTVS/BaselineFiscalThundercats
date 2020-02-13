@@ -1,0 +1,9 @@
+     Cenario : CN12_OF0724_DIPI_Relacao_Dados_Entrada
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '01/07/2011' no Campo Dt Documento."
+EXECUTE,"Informar o valor '31/07/2011' no Campo ."
+EXECUTE,"Informar o valor '1' no Campo Estab."

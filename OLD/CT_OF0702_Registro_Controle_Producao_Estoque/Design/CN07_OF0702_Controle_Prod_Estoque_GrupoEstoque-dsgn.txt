@@ -1,0 +1,13 @@
+     Cenario : CN07_OF0702_Controle_Prod_Estoque_GrupoEstoque
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '0' no Campo Grupo de Estoque."
+EXECUTE,"Informar o valor '1' no Campo Estabel."
+EXECUTE,"Informar o valor '05' no Campo Mês/Ano Referência."
+EXECUTE,"Informar o valor '2011' no Campo ."
+EXECUTE,"Informar o valor '17' no Campo Termo  Abertura."
+EXECUTE,"Informar o valor '18' no Campo Termo Encerramento."
+EXECUTE,"Informar o valor '500' no Campo Número de Páginas."

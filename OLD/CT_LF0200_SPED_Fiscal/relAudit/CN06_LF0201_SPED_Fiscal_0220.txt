@@ -1,0 +1,27 @@
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: c:/automacao/relatorios
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: 1
+Field: dat-exec Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: Sim (CFOPs: 1933/2933/5933/6933)
+Field: dat-exec Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: Sim
+Field: dat-exec Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: 01/09/2011
+Field: cod-conteudo[2] Nov: 30/09/2011
+Field: dat-exec Nov: TODAY
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      clf-param-histor                        0          8          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0          8          0

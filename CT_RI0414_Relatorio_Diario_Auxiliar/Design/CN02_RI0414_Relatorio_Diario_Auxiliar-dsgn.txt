@@ -1,0 +1,6 @@
+     Cenario : CN02_RI0414_Relatorio_Diario_Auxiliar
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

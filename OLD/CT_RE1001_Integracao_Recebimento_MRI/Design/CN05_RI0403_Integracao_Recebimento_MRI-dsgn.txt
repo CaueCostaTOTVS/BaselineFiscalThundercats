@@ -1,0 +1,18 @@
+     Cenario : CN05_RI0403_Integracao_Recebimento_MRI
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabelecimento."
+EXECUTE,"Informar o valor '' no Campo Série."
+EXECUTE,"Informar o valor 'ZZZZZ' no Campo ."
+EXECUTE,"Informar o valor '' no Campo Nr. Documento."
+EXECUTE,"Informar o valor 'ZZZZZZZZZZZZZZZ' no Campo ."
+EXECUTE,"Informar o valor '' no Campo Nat Operação."
+EXECUTE,"Informar o valor 'ZZZZZZ' no Campo ."
+EXECUTE,"Informar o valor '0' no Campo Emitente."
+EXECUTE,"Informar o valor '999999999' no Campo ."
+EXECUTE,"Informar o valor 'TODAY' no Campo Data Docto."
+EXECUTE,"Informar o valor 'TODAY' no Campo ."
+EXECUTE,"Informar o valor '3' no Campo Cod Grupo Imposto."

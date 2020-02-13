@@ -1,0 +1,949 @@
+=====> BD: mgcad Tabela: dwf-estab Evento: C
+Field: cdn-cont Nov: 0
+Field: cdn-empresa Nov: 10
+Field: cdn-pessoa Nov: 645
+Field: cod-estab Nov: 10000
+Field: cod-estab-centrdor Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: dat-fim-valid Nov: TODAY
+Field: dat-inic-valid Nov: 07/10/2015
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: idi-centraliz-escrit Nov: 1
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: nom-fantasia Nov: Estab 10000 (NÇO EXCLUIR)
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 2
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: dwf-estab Evento: W
+Field: cdn-cont Nov: 54
+Field: cod-estab-centrdor Nov: 1
+Field: dat-inic-valid Nov: TODAY
+=====> BD: mgmov Tabela: dwf-consolid-contrib Evento: C
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: COFINS
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: val-contrib-acum-recolh Nov: 0
+Field: val-contrib-nao-acum-recolh Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-outras-deduc-acum Nov: 0
+Field: val-outras-deduc-nao-acum Nov: 0
+Field: val-retid-fonte-acum Nov: 0
+Field: val-retid-fonte-nao-acum Nov: 0
+Field: val-tot-contrib-acum Nov: 0
+Field: val-tot-contrib-nao-acum Nov: 0
+Field: val-tot-contrib-nao-acum-devid Nov: 0
+Field: val-tot-contrib-recolh Nov: 0
+Field: val-tot-cr-desctad Nov: 0
+Field: val-tot-cr-desctad-ant Nov: 0
+=====> BD: mgmov Tabela: dwf-consolid-contrib Evento: C
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: PIS
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: val-contrib-acum-recolh Nov: 0
+Field: val-contrib-nao-acum-recolh Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-outras-deduc-acum Nov: 0
+Field: val-outras-deduc-nao-acum Nov: 0
+Field: val-retid-fonte-acum Nov: 0
+Field: val-retid-fonte-nao-acum Nov: 0
+Field: val-tot-contrib-acum Nov: 0
+Field: val-tot-contrib-nao-acum Nov: 0
+Field: val-tot-contrib-nao-acum-devid Nov: 0
+Field: val-tot-contrib-recolh Nov: 0
+Field: val-tot-cr-desctad Nov: 0
+Field: val-tot-cr-desctad-ant Nov: 0
+=====> BD: mgmov Tabela: dwf-cr-period Evento: C
+Field: cod-cr Nov: 
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: COFINS
+Field: cod-indic-cr Nov: 0
+Field: cod-indic-utiliz-cr Nov: 0
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: val-ajust-acresc Nov: 0
+Field: val-ajust-reduc Nov: 0
+Field: val-aliq-impto Nov: 7,6
+Field: val-base Nov: 4729,95
+Field: val-cr Nov: 0
+Field: val-cr-desc Nov: 0
+Field: val-cr-difdo Nov: 0
+Field: val-cr-dispon Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-quant-aliq-impto Nov: 0
+Field: val-quant-base-impto Nov: 0
+Field: val-sdo-cr Nov: 0
+=====> BD: mgmov Tabela: dwf-cr-period Evento: C
+Field: cod-cr Nov: 
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: PIS
+Field: cod-indic-cr Nov: 0
+Field: cod-indic-utiliz-cr Nov: 0
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: val-ajust-acresc Nov: 0
+Field: val-ajust-reduc Nov: 0
+Field: val-aliq-impto Nov: 1,65
+Field: val-base Nov: 9459,9
+Field: val-cr Nov: 0
+Field: val-cr-desc Nov: 0
+Field: val-cr-difdo Nov: 0
+Field: val-cr-dispon Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-quant-aliq-impto Nov: 0
+Field: val-quant-base-impto Nov: 0
+Field: val-sdo-cr Nov: 0
+=====> BD: mgmov Tabela: dwf-cr-period Evento: D
+=====> BD: mgmov Tabela: dwf-cr-period Evento: D
+=====> BD: mgmov Tabela: dwf-cr-period Evento: D
+=====> BD: mgmov Tabela: dwf-cr-period Evento: D
+=====> BD: mgmov Tabela: dwf-detmnto-base-calc-cr Evento: C
+Field: cod-base-calc-cr Nov: 10
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: COFINS
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-sit-tributar Nov: 50
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-cr Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: num-seq-ident-reg-pai Nov: 1
+Field: val-base Nov: 2399,82
+Field: val-base-acum Nov: 16,85
+Field: val-base-nao-acum Nov: 2399,82
+Field: val-base-tot Nov: 2416,67
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-quant-base-impto Nov: 0
+Field: val-quant-base-impto-tot Nov: 0
+=====> BD: mgmov Tabela: dwf-detmnto-base-calc-cr Evento: C
+Field: cod-base-calc-cr Nov: 10
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: COFINS
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-sit-tributar Nov: 51
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-cr Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 2
+Field: num-seq-ident-reg-pai Nov: 1
+Field: val-base Nov: 2330,13
+Field: val-base-acum Nov: 16,36
+Field: val-base-nao-acum Nov: 2330,13
+Field: val-base-tot Nov: 2346,49
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-quant-base-impto Nov: 0
+Field: val-quant-base-impto-tot Nov: 0
+=====> BD: mgmov Tabela: dwf-detmnto-base-calc-cr Evento: C
+Field: cod-base-calc-cr Nov: 10
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: PIS
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-sit-tributar Nov: 50
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-cr Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: num-seq-ident-reg-pai Nov: 1
+Field: val-base Nov: 4799,63
+Field: val-base-acum Nov: 33,7
+Field: val-base-nao-acum Nov: 4799,63
+Field: val-base-tot Nov: 4833,33
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-quant-base-impto Nov: 0
+Field: val-quant-base-impto-tot Nov: 0
+=====> BD: mgmov Tabela: dwf-detmnto-base-calc-cr Evento: C
+Field: cod-base-calc-cr Nov: 10
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: PIS
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-sit-tributar Nov: 51
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-cr Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 2
+Field: num-seq-ident-reg-pai Nov: 1
+Field: val-base Nov: 4660,27
+Field: val-base-acum Nov: 32,72
+Field: val-base-nao-acum Nov: 4660,27
+Field: val-base-tot Nov: 4692,99
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-quant-base-impto Nov: 0
+Field: val-quant-base-impto-tot Nov: 0
+=====> BD: mgmov Tabela: dwf-detmnto-base-calc-cr Evento: D
+=====> BD: mgmov Tabela: dwf-detmnto-base-calc-cr Evento: D
+=====> BD: mgmov Tabela: dwf-detmnto-base-calc-cr Evento: D
+=====> BD: mgmov Tabela: dwf-detmnto-base-calc-cr Evento: D
+=====> BD: mgmov Tabela: dwf-detmnto-contrib Evento: C
+Field: cod-contrib Nov: 02
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: COFINS
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: num-seq-ident-reg-pai Nov: 1
+Field: val-ajust-acresc Nov: 0
+Field: val-ajust-reduc Nov: 0
+Field: val-aliq-impto Nov: 0
+Field: val-base-contrib Nov: 1324,7
+Field: val-contrib Nov: 0
+Field: val-contrib-apurad Nov: 0
+Field: val-contrib-difdo Nov: 0
+Field: val-contrib-difdo-ant Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-quant-aliq-impto Nov: 0
+Field: val-quant-base-impto Nov: 0
+Field: val-recta-bruta Nov: 102
+=====> BD: mgmov Tabela: dwf-detmnto-contrib Evento: C
+Field: cod-contrib Nov: 02
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: PIS
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: num-seq-ident-reg-pai Nov: 1
+Field: val-ajust-acresc Nov: 0
+Field: val-ajust-reduc Nov: 0
+Field: val-aliq-impto Nov: 0
+Field: val-base-contrib Nov: 2009,54
+Field: val-contrib Nov: 0
+Field: val-contrib-apurad Nov: 0
+Field: val-contrib-difdo Nov: 0
+Field: val-contrib-difdo-ant Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-quant-aliq-impto Nov: 0
+Field: val-quant-base-impto Nov: 0
+Field: val-recta-bruta Nov: 102
+=====> BD: mgmov Tabela: dwf-detmnto-contrib Evento: D
+=====> BD: mgmov Tabela: dwf-detmnto-contrib Evento: D
+=====> BD: mgmov Tabela: dwf-detmnto-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 413050100000502
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: COFINS
+Field: cod-indic-nat-recta Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: num-seq-ident-reg-pai Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-recta-bruta Nov: 0
+=====> BD: mgmov Tabela: dwf-detmnto-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 112110500000105
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: COFINS
+Field: cod-indic-nat-recta Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: num-seq-ident-reg-pai Nov: 2
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-recta-bruta Nov: 0
+=====> BD: mgmov Tabela: dwf-detmnto-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 112110500000105
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: COFINS
+Field: cod-indic-nat-recta Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: num-seq-ident-reg-pai Nov: 3
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-recta-bruta Nov: 0
+=====> BD: mgmov Tabela: dwf-detmnto-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 112110500000105
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: COFINS
+Field: cod-indic-nat-recta Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: num-seq-ident-reg-pai Nov: 4
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-recta-bruta Nov: 0
+=====> BD: mgmov Tabela: dwf-detmnto-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 112112000000120
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: COFINS
+Field: cod-indic-nat-recta Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: num-seq-ident-reg-pai Nov: 5
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-recta-bruta Nov: 0
+=====> BD: mgmov Tabela: dwf-detmnto-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 413050100000502
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: PIS
+Field: cod-indic-nat-recta Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: num-seq-ident-reg-pai Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-recta-bruta Nov: 0
+=====> BD: mgmov Tabela: dwf-detmnto-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 112110500000105
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: PIS
+Field: cod-indic-nat-recta Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: num-seq-ident-reg-pai Nov: 2
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-recta-bruta Nov: 0
+=====> BD: mgmov Tabela: dwf-detmnto-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 112110500000105
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: PIS
+Field: cod-indic-nat-recta Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: num-seq-ident-reg-pai Nov: 3
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-recta-bruta Nov: 0
+=====> BD: mgmov Tabela: dwf-detmnto-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 112112000000120
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: PIS
+Field: cod-indic-nat-recta Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: num-seq-ident-reg-pai Nov: 4
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-recta-bruta Nov: 0
+=====> BD: mgmov Tabela: dwf-detmnto-recta-isento Evento: D
+=====> BD: mgmov Tabela: dwf-detmnto-recta-isento Evento: D
+=====> BD: mgmov Tabela: dwf-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 413050100000502
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: COFINS
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-sit-tributar Nov: 06
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-tot-recta Nov: 0
+=====> BD: mgmov Tabela: dwf-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 112110500000105
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: COFINS
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-sit-tributar Nov: 07
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 2
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-tot-recta Nov: 0
+=====> BD: mgmov Tabela: dwf-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 112110500000105
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: COFINS
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-sit-tributar Nov: 04
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 3
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-tot-recta Nov: 0
+=====> BD: mgmov Tabela: dwf-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 112110500000105
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: COFINS
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-sit-tributar Nov: 08
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 4
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-tot-recta Nov: 0
+=====> BD: mgmov Tabela: dwf-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 112112000000120
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: COFINS
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-sit-tributar Nov: 09
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 5
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-tot-recta Nov: 0
+=====> BD: mgmov Tabela: dwf-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 413050100000502
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: PIS
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-sit-tributar Nov: 06
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-tot-recta Nov: 0
+=====> BD: mgmov Tabela: dwf-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 112110500000105
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: PIS
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-sit-tributar Nov: 07
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 2
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-tot-recta Nov: 0
+=====> BD: mgmov Tabela: dwf-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 112110500000105
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: PIS
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-sit-tributar Nov: 08
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 3
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-tot-recta Nov: 0
+=====> BD: mgmov Tabela: dwf-recta-isento Evento: C
+Field: cod-cta-ctbl Nov: 112112000000120
+Field: cod-empres Nov: 10
+Field: cod-impto Nov: PIS
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-sit-tributar Nov: 09
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 31/08/2011
+Field: des-compltar Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 4
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-tot-recta Nov: 0
+=====> BD: mgmov Tabela: dwf-recta-isento Evento: D
+=====> BD: mgmov Tabela: dwf-recta-isento Evento: D
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      dwf-estab                               1          1          0
+mgmov      dwf-consolid-contrib                    2          0          0
+mgmov      dwf-cr-period                           2          0          4
+mgmov      dwf-detmnto-base-calc-cr                4          0          4
+mgmov      dwf-detmnto-contrib                     2          0          2
+mgmov      dwf-detmnto-recta-isento                9          0          2
+mgmov      dwf-recta-isento                        9          0          2
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                             29          1         14

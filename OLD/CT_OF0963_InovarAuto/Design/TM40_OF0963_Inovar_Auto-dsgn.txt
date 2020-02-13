@@ -1,0 +1,8 @@
+     Cenario : TM40_OF0963_Inovar_Auto
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabelec Central."
+EXECUTE,"Informar o valor '01/09/2011' no Campo Período."

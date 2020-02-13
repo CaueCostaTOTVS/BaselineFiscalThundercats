@@ -1,0 +1,197 @@
+------------------------------------------------------------------------------------------------------------------------------------
+TOTVS S.A.                                       Extrator TAF                                                           Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+    Parâmetros
+
+                           Empresa: 10
+                   Estabelecimento: 1                |< >| 1
+                             Série:                  |< >| ZZZZZ
+                         Documento:                  |< >| ZZZZZZZZZZZZZZZZ
+                     Data Extração: 01/07/11         |< >| 31/07/11
+            Extrair Somente REINF?: Não
+
+                   Tipo de Geração: Arquivo Texto
+
+
+                   Apuração de ICMS / ICMS ST
+
+                                          Considerar CFOP de serviços?: Não
+
+                   Documentos Fiscais
+
+                                                               Entrada: Sim
+                                                                 Saída: Sim
+                                                               Serviço: Sim
+
+                   Plano de Contas Contábeis
+
+                                                          Empresa EMS5:
+                                                      Matriz de Contas:
+
+                   Controle de Crédito de ICMS do Ativo Permanente
+
+                           Primeira Entrega do Bloco G no SPED Fiscal?: Não
+
+                   CPRB - Notas Fiscais de Exportação pela Data de: Emissão
+
+                   Inventário
+
+                    Motivo                            Dt Fechamento  Preço Base ICMS  %Margem  Estab x Item
+                    --------------------------------  -------------  ---------------  -------  ------------
+                    Final do Período...........: Não
+                    Mudança Forma Tributação...: Não
+                    Solicitação Baixa Cadastral: Não
+                    Alteração Regime Pagamento.: Não
+                    Solicitação da Fiscalização: Não
+
+                    Período para Média das Entradas
+
+                    Data Transação Inicial:
+                    Data Transação Final:
+
+                    Inventário em Processo
+
+                    Considera Produtos em Fabricação: Não
+
+
+    Impressão
+
+        Destino: Arquivo
+        Arquivo: C:/automacao/relatorios/CN04_Acompa
+        Usuário: super
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------TOTVS -  - OF1001RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+TOTVS S.A.                                       Extrator TAF                                                           Página:    2
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+    Registros Selecionados:
+
+                    Controle da Produção e Estoque
+                    Documentos Fiscais
+
+
+Erro(s) Encontrado(s)
+----------------------------------------------------------------------------------------------------
+
+T007     Tipo do item não parametrizado para o item 13c
+T007     Tipo do item não parametrizado para o item 13f
+T007     Tipo do item não parametrizado para o item 13t
+T007     Tipo do item não parametrizado para o item af
+T007     Tipo do item não parametrizado para o item SOJA
+T007     Tipo do item não parametrizado para o item MILHO
+T007     Tipo do item não parametrizado para o item ka01s
+T007     Tipo do item não parametrizado para o item ka01l
+T007     Tipo do item não parametrizado para o item ka02l
+T007     Tipo do item não parametrizado para o item ka02r
+T007     Tipo do item não parametrizado para o item ka02s
+T007     Tipo do item não parametrizado para o item 40d
+T007     Tipo do item não parametrizado para o item 13D
+T007     Tipo do item não parametrizado para o item p2
+T007     Tipo do item não parametrizado para o item 13FF
+T007     Tipo do item não parametrizado para o item P1
+T007     Tipo do item não parametrizado para o item P3
+T007     Tipo do item não parametrizado para o item 13TL
+T007     Tipo do item não parametrizado para o item .danfe
+T007     Tipo do item não parametrizado para o item .danfee
+T007     Tipo do item não parametrizado para o item .DANFE-TamanhoCP
+T007     Tipo do item não parametrizado para o item ka03l
+T007     Tipo do item não parametrizado para o item ka03r
+T007     Tipo do item não parametrizado para o item ka03s
+T007     Tipo do item não parametrizado para o item ka04l
+T007     Tipo do item não parametrizado para o item ka01r
+T007     Tipo do item não parametrizado para o item ka04r
+T007     Tipo do item não parametrizado para o item al1122s
+T007     Tipo do item não parametrizado para o item ka04s
+T007     Tipo do item não parametrizado para o item .danfe-isento
+T007     Tipo do item não parametrizado para o item .danfe-tributado
+T007     Tipo do item não parametrizado para o item .danfe-reduzido
+T007     Tipo do item não parametrizado para o item compras05
+T007     Tipo do item não parametrizado para o item compras06
+T007     Tipo do item não parametrizado para o item TRIGO
+T007     Tipo do item não parametrizado para o item compras09
+T007     Tipo do item não parametrizado para o item compras10
+T007     Tipo do item não parametrizado para o item compras04
+T007     Tipo do item não parametrizado para o item compras02
+T007     Tipo do item não parametrizado para o item compras03
+T007     Tipo do item não parametrizado para o item compras01
+
+
+
+Arquivo Gerado
+----------------------------------------------------------------------------------------------------
+c:\automacao\relatorios\Estab-1_TAFTODAY170903.txt
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------TOTVS -  - OF1001RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+TOTVS S.A.                                       Extrator TAF                                                           Página:    3
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+Relatório Conferência Gerado
+----------------------------------------------------------------------------------------------------
+c:\automacao\relatorios\RELAT_CONF_TAFTODAY170903.xlsx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------TOTVS -  - OF1001RP - V:0.00.00.000
+

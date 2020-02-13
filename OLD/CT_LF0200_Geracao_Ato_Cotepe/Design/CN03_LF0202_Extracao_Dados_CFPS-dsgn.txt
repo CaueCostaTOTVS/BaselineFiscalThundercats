@@ -1,0 +1,17 @@
+     Cenario : CN03_LF0202_Extracao_Dados_CFPS
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabel."
+EXECUTE,"Informar o valor '1' no Campo ."
+EXECUTE,"Informar o valor '01/05/2011' no Campo Data."
+EXECUTE,"Informar o valor '01/05/2011' no Campo ."
+EXECUTE,"Informar o valor '1' no Campo Estabelecimento:."
+EXECUTE,"Informar o valor '00 Remessa regular de arquivo' no Combo Box Finalidade Arquivo:."
+EXECUTE,"Informar o valor '' no Campo Dt Fechamento Inventário (Reg Bloco H):."
+EXECUTE,"Informar o valor '' no Campo Dados do Técnico/Empresa:."
+EXECUTE,"Informar o valor 'Sim' no Combo Box Considera CFOPs Serviço:."
+EXECUTE,"Informar o valor 'c:/automacao/relatorios/CN03_LF0201_Acompanhamento_Ato_Cotepe.lst' no Editor ."
+EXECUTE,"Informar o valor '1' no Radio Set ."

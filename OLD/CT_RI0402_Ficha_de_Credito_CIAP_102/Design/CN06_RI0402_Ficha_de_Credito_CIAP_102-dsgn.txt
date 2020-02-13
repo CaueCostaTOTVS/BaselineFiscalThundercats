@@ -1,0 +1,11 @@
+     Cenario : CN06_RI0402_Ficha_de_Credito_CIAP_102
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabelecimento."
+EXECUTE,"Informar o valor '' no Campo Série."
+EXECUTE,"Informar o valor 'ZZZZZ' no Campo ."
+EXECUTE,"Informar o valor '01/11/2011' no Campo Data Docto."
+EXECUTE,"Informar o valor '30/11/2011' no Campo ."

@@ -1,0 +1,44 @@
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: D Chave: 1|1|0000111|1|611st|29/08/16|
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|1|1|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|2|1|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|1|3|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|1|4|TODAY|
+Field: cod-conteudo[1] Ant: /  / Nov: 
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|1|5|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|1|6|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|1|7|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|1|8|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|1|9|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 1|1|10|TODAY|
+Field: cdn-layout Nov: 1
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 10
+Field: cod-conteudo[1] Nov: Sim
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      clf-param-histor                        1          9          0
+mgmov      dwf-docto-compl                         0          0          1
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              1          9          1

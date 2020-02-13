@@ -1,0 +1,6 @@
+     Cenario : CN10_OF0530_Registro_Entrada_Comercio
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

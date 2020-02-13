@@ -1,0 +1,2 @@
+Estabelecimento	Número do Documento	Série	Participante	Nat. Operação	Data Documento	Item	Seq. Item	Classificação do Item	Tipo Receita	Participante
+1	7032014	5	13	621SER	8/20/2011	DD	10	1099	4	

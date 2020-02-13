@@ -1,0 +1,6 @@
+     Cenario : CN05_OF0313_Dados_IPI_Mensal
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

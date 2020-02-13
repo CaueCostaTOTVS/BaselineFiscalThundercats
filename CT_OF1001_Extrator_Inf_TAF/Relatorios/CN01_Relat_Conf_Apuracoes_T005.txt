@@ -1,0 +1,3 @@
+Unidade de Medida	Descrição	Código Unid Med ECF
+KG	KILOGRAMA	
+PC	PECA	

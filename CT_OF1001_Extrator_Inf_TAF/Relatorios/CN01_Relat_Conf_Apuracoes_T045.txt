@@ -1,0 +1,2 @@
+Estabelecimento	Período Inicial	Período Final
+1	7/1/2011	7/1/2011

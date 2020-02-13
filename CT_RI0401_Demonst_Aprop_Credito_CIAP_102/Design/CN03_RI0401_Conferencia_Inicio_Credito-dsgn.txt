@@ -1,0 +1,6 @@
+     Cenario : CN03_RI0401_Conferencia_Inicio_Credito
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

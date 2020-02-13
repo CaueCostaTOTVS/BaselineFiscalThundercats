@@ -1,0 +1,10 @@
+     Cenario : CN04_OF0739_IN86_2001_ADE_COFINS_15_2001
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabelecimento."
+EXECUTE,"Informar o valor '1' no Campo Estab."
+EXECUTE,"Informar o valor '5' no Campo Mês."
+EXECUTE,"Informar o valor '2011' no Campo ."

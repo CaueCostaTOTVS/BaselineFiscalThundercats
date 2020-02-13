@@ -1,0 +1,27 @@
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 126|1|10000|20/10/15|
+Field: cod-conteudo[1] Ant: c:\automacao\relatorios Nov: c:/automacao/relatorios
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 126|1|10|TODAY|
+Field: cod-conteudo[1] Ant: 10000 Nov: 1
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 126|2|10|TODAY|
+Field: cod-conteudo[1] Ant: 01/08/2011 Nov: 01/09/2011
+Field: cod-conteudo[2] Ant: 31/08/2011 Nov: 30/09/2011
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 126|1|20|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 126|1|30|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 126|1|40|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 126|1|50|TODAY|
+Field: cod-conteudo[1] Ant: NÆo Nov: Sim (CFOPs: 1933/2933/5933/6933)
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 126|1|60|TODAY|
+Field: cod-conteudo[1] Ant: NÆo Nov: Sim
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      clf-param-histor                        0          8          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0          8          0

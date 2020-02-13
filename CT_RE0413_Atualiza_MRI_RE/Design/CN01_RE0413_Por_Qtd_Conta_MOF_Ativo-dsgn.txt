@@ -1,0 +1,6 @@
+     Cenario : CN01_RE0413_Por_Qtd_Conta_MOF_Ativo
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

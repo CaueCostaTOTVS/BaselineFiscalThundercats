@@ -1,0 +1,7 @@
+Estabelecimento	Série	Número do Documento	Participante	Indicador Tipo Transp.	Participante Coleta	Participante Entrega
+1	5	0076188	90000033	0	87020	90000033
+1	11	0290849	13	0	77170	13
+1	11	0290850	13	0	77170	13
+1	11	0290855	13	0	77170	13
+1	11	0290852	13	0	77170	13
+1	11	0290857	13	0	77170	13

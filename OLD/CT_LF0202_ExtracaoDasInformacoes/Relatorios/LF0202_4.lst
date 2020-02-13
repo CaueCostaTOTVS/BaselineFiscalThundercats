@@ -1,0 +1,129 @@
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+Documentos Fiscais
+
+
+
+Dt Docto   Est   Ser   Doc Fisc         Cliente/Fornec Nome Abreviado Nat Oper UF
+---------- ----- ----- ---------------- -------------- -------------- -------- ----
+01/05/2011 1     5     9052011                      18 Manu           5949     SC
+01/05/2011 1     5     9352011                      13 TREZE          6949     SP
+LISTA DE BENS/COMPONENTES ATUALIZADOS - CIAP - 05/2011 - ESTABELECIMENTO: 1.                        
+                                                                                                    
+Bem/Componen Descrição do Bem/Componente              Nro Patrimônio  Seq Patrimônio  Tipo Movto    
+1            Bem 1                                                0          0           SI         
+2            Bem 2                                                0          0           SI         
+3            Bem 3                                                0          0           SI         
+4            Bem 4                                                0          0           SI         
+5            Bem 5                                                0          0           SI         
+41           Teste automacao                                      0          0           SI         
+42           Teste automaçao1                                     0          0           SI         
+43           Teste automaçao1                                     0          0           SI         
+48           Chamado TVKPI9                                       0          0           IM         
+48           Chamado TVKPI9                                       0          0           AT         
+48           Chamado TVKPI9                                       0          0           AT         
+48           Chamado TVKPI9                                       0          0           PE         
+48           Chamado TVKPI9                                       0          0           OT         
+50           Optiplex 7011                                        0          0           SI         
+51           Optiplex 7010 - 2                                    0          0           IA         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    2
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+            Seleção
+
+            Estabelecimento:   1            |< >|  1
+                       Data:   01/05/2011   |< >|  31/05/2011
+
+
+            Parâmetros
+
+                                            Entrada:  Sim
+                                              Saída:  Sim
+                                            Serviço:  Sim
+                    Atualiza Documento Já Integrado:  Não
+                   Extrair Documentos de Exportação:  Não
+                     Atualiza Dados CIAP no Período:  Sim
+            Primeira Entrega Bloco G do Sped Fiscal:  Não
+                    Extrair Automaticamente Bloco P:  Não
+           Considerar no Valor da Mercadoria (C170):  Não
+                        Notas Fiscais de Exportação:
+
+
+            Destino:  Arquivo          -   C://Automacao//Relatorios//LF0202_4.LST
+            Usuário:  super
+
+
+            Inventário
+
+            Motivo                            Dt Fechamento  Preço Base ICMS  %Margem  Estab x Item
+            --------------------------------  -------------  ---------------  -------  ------------
+            Final do Período...........: Não
+            Mudança Forma Tributação...: Não
+            Solicitação Baixa Cadastral: Não
+            Alteração Regime Pagamento.: Não
+            Solicitação da Fiscalização: Não
+
+            Período para Média das Entradas
+
+            Data Transação Inicial:
+              Data Transação Final:
+
+            Inventário em Processo
+
+            Considera Produtos em Fabricação: Não
+
+            Arquivos de Acompanhamento
+
+            Itens Selecionados Inventário:
+                Documentos Média Entradas:
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:0.00.00.000
+

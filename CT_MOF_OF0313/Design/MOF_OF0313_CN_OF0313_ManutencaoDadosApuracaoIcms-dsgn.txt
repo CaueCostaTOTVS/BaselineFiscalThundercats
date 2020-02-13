@@ -1,0 +1,6 @@
+     Cenario : MOF_OF0313_CN_OF0313_ManutencaoDadosApuracaoIcms
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

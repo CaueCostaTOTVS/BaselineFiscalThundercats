@@ -1,0 +1,3958 @@
+=====> BD: mgcad Tabela: doc-pendente Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-estabel Nov: 1
+Field: complemento Nov: 
+Field: da-fim-pend Nov: TODAY
+Field: da-ini-pend Nov: TODAY
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: data-estorno ?
+Field: data-movto Nov: 31/01/2011
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: gera-estorno Nov: no
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: lp-codigo Nov: 0
+Field: referencia Nov: RI011111
+Field: serie-fim-pend Nov: 0
+Field: serie-ini-pend Nov: 0
+Field: situacao Nov: 1
+Field: tp-contab Nov: 1
+Field: vl-movto Nov: 0
+=====> BD: mgcad Tabela: doc-pendente Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 121020400000204
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1TRANSFERÒNCIA DA CONTA DE FORNECEDORES PARA A CONTA DE IMPOSTOS PENDENTE entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50890
+Field: sequencia Nov: 1
+Field: transacao Nov: 1
+Field: valor Nov: 1300
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 211050400000521
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1IMPOSTO ATIVO APROPRIADO NO PERIODO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 010702010000201
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50899
+Field: sequencia Nov: 10
+Field: transacao Nov: 1
+Field: valor Nov: 52,09
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 211050400000522
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1TRANSFERÒNCIA DA CONTA DE FORNECEDORES PARA A CONTA DE IMPOSTOS PENDENTE entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 010701010000101
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50900
+Field: sequencia Nov: 11
+Field: transacao Nov: 2
+Field: valor Nov: 580
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 211050400000522
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1IMPOSTO ATIVO APROPRIADO NO PERIODO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 010702010000201
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50901
+Field: sequencia Nov: 12
+Field: transacao Nov: 1
+Field: valor Nov: 52,09
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 311111111111001
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1INICIO DE CREDITO IMPOSTO ATIVO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50902
+Field: sequencia Nov: 13
+Field: transacao Nov: 1
+Field: valor Nov: 915,04
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 311111111111001
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1TRANSFERENCIA 1 PARCELA DE LP PARA CP NO PERIODO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50903
+Field: sequencia Nov: 14
+Field: transacao Nov: 2
+Field: valor Nov: 72,08
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1INICIO DE CREDITO IMPOSTO ATIVO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50904
+Field: sequencia Nov: 15
+Field: transacao Nov: 1
+Field: valor Nov: 384,96
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1IMPOSTO ATIVO APROPRIADO NO PERIODO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50905
+Field: sequencia Nov: 16
+Field: transacao Nov: 2
+Field: valor Nov: 172,08
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1TRANSFERENCIA 1 PARCELA DE LP PARA CP NO PERIODO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50906
+Field: sequencia Nov: 17
+Field: transacao Nov: 1
+Field: valor Nov: 72,08
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 311111111111012
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1INICIO DE CREDITO IMPOSTO ATIVO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50907
+Field: sequencia Nov: 18
+Field: transacao Nov: 1
+Field: valor Nov: 434,92
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 311111111111012
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1TRANSFERENCIA 1 PARCELA DE LP PARA CP NO PERIODO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50908
+Field: sequencia Nov: 19
+Field: transacao Nov: 2
+Field: valor Nov: 52,09
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 121020400000204
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1INICIO DE CREDITO IMPOSTO ATIVO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50891
+Field: sequencia Nov: 2
+Field: transacao Nov: 2
+Field: valor Nov: 1300
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 311111111111013
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1INICIO DE CREDITO IMPOSTO ATIVO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50909
+Field: sequencia Nov: 20
+Field: transacao Nov: 1
+Field: valor Nov: 145,08
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 311111111111013
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1IMPOSTO ATIVO APROPRIADO NO PERIODO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50910
+Field: sequencia Nov: 21
+Field: transacao Nov: 2
+Field: valor Nov: 52,09
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 311111111111013
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1TRANSFERENCIA 1 PARCELA DE LP PARA CP NO PERIODO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50911
+Field: sequencia Nov: 22
+Field: transacao Nov: 1
+Field: valor Nov: 52,09
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 311111111111023
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1INICIO DE CREDITO IMPOSTO ATIVO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50912
+Field: sequencia Nov: 23
+Field: transacao Nov: 1
+Field: valor Nov: 434,92
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 311111111111023
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1TRANSFERENCIA 1 PARCELA DE LP PARA CP NO PERIODO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50913
+Field: sequencia Nov: 24
+Field: transacao Nov: 2
+Field: valor Nov: 52,09
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 311111111111024
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1INICIO DE CREDITO IMPOSTO ATIVO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50914
+Field: sequencia Nov: 25
+Field: transacao Nov: 1
+Field: valor Nov: 145,08
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 311111111111024
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1IMPOSTO ATIVO APROPRIADO NO PERIODO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50915
+Field: sequencia Nov: 26
+Field: transacao Nov: 2
+Field: valor Nov: 52,09
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 311111111111024
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1TRANSFERENCIA 1 PARCELA DE LP PARA CP NO PERIODO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50916
+Field: sequencia Nov: 27
+Field: transacao Nov: 1
+Field: valor Nov: 52,09
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 121020500000205
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1TRANSFERÒNCIA DA CONTA DE FORNECEDORES PARA A CONTA DE IMPOSTOS PENDENTE entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50892
+Field: sequencia Nov: 3
+Field: transacao Nov: 1
+Field: valor Nov: 580
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 121020500000205
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1INICIO DE CREDITO IMPOSTO ATIVO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50893
+Field: sequencia Nov: 4
+Field: transacao Nov: 2
+Field: valor Nov: 580
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 121020600000206
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1TRANSFERÒNCIA DA CONTA DE FORNECEDORES PARA A CONTA DE IMPOSTOS PENDENTE entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50894
+Field: sequencia Nov: 5
+Field: transacao Nov: 1
+Field: valor Nov: 580
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 121020600000206
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1INICIO DE CREDITO IMPOSTO ATIVO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50895
+Field: sequencia Nov: 6
+Field: transacao Nov: 2
+Field: valor Nov: 580
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 211050400000507
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1TRANSFERÒNCIA DA CONTA DE FORNECEDORES PARA A CONTA DE IMPOSTOS PENDENTE entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 010701010000101
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50896
+Field: sequencia Nov: 7
+Field: transacao Nov: 2
+Field: valor Nov: 1300
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 211050400000507
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1IMPOSTO ATIVO APROPRIADO NO PERIODO entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 010702010000201
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50897
+Field: sequencia Nov: 8
+Field: transacao Nov: 1
+Field: valor Nov: 172,08
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-controle Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-unid-negoc Nov: 
+Field: cod-unid-negoc-par Nov: 
+Field: complemento Nov: 
+Field: conta-contabil Nov: 
+Field: contra-partida Nov: 
+Field: ct-codigo Nov: 211050400000521
+Field: ct-contr-par Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: data-cotacao ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: ep-codigo Nov: 10
+Field: historico Nov: Est: 1TRANSFERÒNCIA DA CONTA DE FORNECEDORES PARA A CONTA DE IMPOSTOS PENDENTE entre 01/01/11 e 31/01/11
+Field: hp-codigo Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: reduzida Nov: 0
+Field: reduzida-par Nov: 0
+Field: referencia Nov: RI011111
+Field: sc-codigo Nov: 010701010000101
+Field: sc-contr-par Nov: 
+Field: seq-unica Nov: 50898
+Field: sequencia Nov: 9
+Field: transacao Nov: 2
+Field: valor Nov: 580
+Field: valor-cmi Nov: 0
+Field: valor-fasb Nov: 0
+Field: valor-presente Nov: 0
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: lin-doc-pend Evento: D
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 1
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 25
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 01/01/2011
+Field: quantidade Nov: 0
+Field: regiao Nov: 2011/01/01
+Field: tot-ped Nov: 3
+Field: un Nov: 
+Field: vl-aberto Nov: 412
+Field: vl-lucro-br Nov: 10
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 2
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 19
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 01/01/2011
+Field: quantidade Nov: 0
+Field: regiao Nov: 2011/01/01
+Field: tot-ped Nov: 3
+Field: un Nov: 
+Field: vl-aberto Nov: 412
+Field: vl-lucro-br Nov: 10
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 3
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 13
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 01/01/2011
+Field: quantidade Nov: 0
+Field: regiao Nov: 2011/01/01
+Field: tot-ped Nov: 3
+Field: un Nov: 
+Field: vl-aberto Nov: 412
+Field: vl-lucro-br Nov: 10
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 4
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 7
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 01/01/2011
+Field: quantidade Nov: 0
+Field: regiao Nov: 2011/01/01
+Field: tot-ped Nov: 3
+Field: un Nov: 
+Field: vl-aberto Nov: 412
+Field: vl-lucro-br Nov: 10
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 41
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 1
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 01/01/2011
+Field: quantidade Nov: 0
+Field: regiao Nov: 2011/01/01
+Field: tot-ped Nov: 3
+Field: un Nov: 
+Field: vl-aberto Nov: 412
+Field: vl-lucro-br Nov: 2,09
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 42
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 1
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 01/01/2011
+Field: quantidade Nov: 0
+Field: regiao Nov: 2011/01/01
+Field: tot-ped Nov: 1
+Field: un Nov: 
+Field: vl-aberto Nov: 412
+Field: vl-lucro-br Nov: 10
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 43
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 1
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 01/01/2011
+Field: quantidade Nov: 0
+Field: regiao Nov: 2011/01/01
+Field: tot-ped Nov: 1
+Field: un Nov: 
+Field: vl-aberto Nov: 412
+Field: vl-lucro-br Nov: 10
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 49
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 45
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 01/01/2011
+Field: quantidade Nov: 0
+Field: regiao Nov: 2011/01/01
+Field: tot-ped Nov: 1
+Field: un Nov: 
+Field: vl-aberto Nov: 412
+Field: vl-lucro-br Nov: 100
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 5
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 1
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 01/01/2011
+Field: quantidade Nov: 0
+Field: regiao Nov: 2011/01/01
+Field: tot-ped Nov: 3
+Field: un Nov: 
+Field: vl-aberto Nov: 412
+Field: vl-lucro-br Nov: 10
+=====> BD: mgcad Tabela: ri-bem-grupo Evento: W
+Field: log-1 Nov: yes
+=====> BD: mgcad Tabela: ri-bem-grupo Evento: W
+Field: log-1 Nov: yes
+=====> BD: mgcad Tabela: ri-bem-grupo Evento: W
+Field: log-1 Nov: yes
+=====> BD: mgcad Tabela: ri-bem-grupo Evento: W
+Field: log-1 Nov: yes
+=====> BD: mgcad Tabela: ri-bem-grupo Evento: W
+Field: log-1 Nov: yes
+=====> BD: mgcad Tabela: ri-bem-grupo Evento: W
+Field: log-1 Nov: yes
+=====> BD: mgcad Tabela: ri-bem-grupo Evento: W
+Field: log-1 Nov: yes
+=====> BD: mgcad Tabela: ri-bem-grupo Evento: W
+Field: log-1 Nov: yes
+=====> BD: mgcad Tabela: ri-estabelecimento Evento: W
+Field: dat-ult-contab Nov: 31/01/2011
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 121020400000204
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 10
+Field: val-imposto Nov: -100
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000507
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010701010000101
+Field: transacao Nov: 10
+Field: val-imposto Nov: 100
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 121020400000204
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 100
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111001
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -75,04
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -24,96
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 121020400000204
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 42
+Field: idi-tipo-contabil Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 10
+Field: val-imposto Nov: -360
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000507
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 42
+Field: idi-tipo-contabil Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010701010000101
+Field: transacao Nov: 10
+Field: val-imposto Nov: 360
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 121020400000204
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 42
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 360
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111001
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 42
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -240
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 42
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -120
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 121020400000204
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 43
+Field: idi-tipo-contabil Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 10
+Field: val-imposto Nov: -360
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000507
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 43
+Field: idi-tipo-contabil Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010701010000101
+Field: transacao Nov: 10
+Field: val-imposto Nov: 360
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 121020400000204
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 43
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 360
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111001
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 43
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -240
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 43
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -120
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 121020400000204
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 10
+Field: val-imposto Nov: -480
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000507
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010701010000101
+Field: transacao Nov: 10
+Field: val-imposto Nov: 480
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 121020400000204
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 480
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111001
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -360
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -120
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000507
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 1
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 1
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111001
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 1
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 1
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000507
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 2
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 2
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111001
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 2
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 2
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000507
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 3
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 3
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111001
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 3
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 3
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000507
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -2,08
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 2,08
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111001
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 2,08
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -2,08
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000507
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 42
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 42
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111001
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 42
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 42
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000507
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 43
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 43
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111001
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 43
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 43
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000507
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 49
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -100
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 49
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 100
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000507
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 4
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 4
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111001
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 4
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 4
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000507
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111001
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111002
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 121020600000206
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 10
+Field: val-imposto Nov: -100
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000521
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010701010000101
+Field: transacao Nov: 10
+Field: val-imposto Nov: 100
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 121020600000206
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 100
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111012
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -74,92
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -25,08
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 121020600000206
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 10
+Field: val-imposto Nov: -480
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000521
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010701010000101
+Field: transacao Nov: 10
+Field: val-imposto Nov: 480
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 121020600000206
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 480
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111012
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -360
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -120
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000521
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 1
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 1
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111012
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 1
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 1
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000521
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 2
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 2
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111012
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 2
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 2
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000521
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 3
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 3
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111012
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 3
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 3
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000521
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -2,09
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 2,09
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111012
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 2,09
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -2,09
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000521
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 4
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 4
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111012
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 4
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 4
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000521
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111012
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 2
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 121020500000205
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 10
+Field: val-imposto Nov: -100
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000522
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010701010000101
+Field: transacao Nov: 10
+Field: val-imposto Nov: 100
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 121020500000205
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 100
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111023
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -74,92
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111024
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -25,08
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 121020500000205
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 10
+Field: val-imposto Nov: -480
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000522
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010701010000101
+Field: transacao Nov: 10
+Field: val-imposto Nov: 480
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 121020500000205
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 480
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111023
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -360
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111024
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 01/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 9
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -120
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000522
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 1
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111024
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 1
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111023
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 1
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111024
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 1
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000522
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 2
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111024
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 2
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111023
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 2
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111024
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 2
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000522
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 3
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111024
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 3
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111023
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 3
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111024
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 3
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000522
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -2,09
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111024
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 2,09
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111023
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 2,09
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111024
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 41
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -2,09
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000522
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 4
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111024
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 4
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111023
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 4
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111024
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 4
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 211050400000522
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 010702010000201
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111024
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 10
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111023
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 2
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: ri-contabil Evento: C
+Field: cod-estabel Nov: 1
+Field: cod-grupo Nov: 3
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-unid-negoc Nov: 
+Field: conta-contabil Nov: 
+Field: ct-codigo Nov: 311111111111024
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-movto Nov: 31/01/2011
+Field: id-bem Nov: 5
+Field: idi-tipo-contabil Nov: 12
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: sc-codigo Nov: 
+Field: transacao Nov: 0
+Field: val-imposto Nov: -10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      doc-pendente                            1          0          1
+mgcad      lin-doc-pend                           27          0         27
+mgcad      ped-curva                              21          0          0
+mgcad      ri-bem-grupo                            0          8          0
+mgcad      ri-estabelecimento                      0          1          0
+mgmov      ri-contabil                           122          0          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                            171          9         28

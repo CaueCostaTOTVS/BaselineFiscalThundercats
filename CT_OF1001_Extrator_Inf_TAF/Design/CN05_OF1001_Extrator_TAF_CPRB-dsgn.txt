@@ -1,0 +1,6 @@
+     Cenario : CN05_OF1001_Extrator_TAF_CPRB
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

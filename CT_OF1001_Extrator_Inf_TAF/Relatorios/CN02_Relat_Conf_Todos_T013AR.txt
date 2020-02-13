@@ -1,0 +1,2 @@
+Estabelecimento	Série	Número do Documento	Participante	Indicador de Serviço	Data Início Serviço	Data Final Serviço	Período Fiscal	Código Área	Terminal	Tipo Assinante	Indicador Tipo de Receita	Valor Total Terceiros	Valor Serviços	Valor Serviços Não Trib.	Código Classe Consumo
+1	5	7032014	13	2	8/1/2011	8/31/2011	082011	122548	13	1	4	0.00	4500.00	0.00	99

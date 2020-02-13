@@ -1,0 +1,314 @@
+----------------------------------------------------------------------------------------------------------------------------------  
+              Relatório de Demonstração do Cálculo da Estrutura do Item por Movimentação Ordem de Produção - Bloco K   
+----------------------------------------------------------------------------------------------------------------------------------  
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+  Estabelecimento: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                                             CNPJ: 53113791001790
+----------------------------------------------------------------------------------------------------------------------------------
+
+  Período Referência: 09/2011
+
+----------------------------------------------------------------------------------------------------------------------------------
+  Origem Estrutura:   Origem Estrutura: OPF - Movimentação da Ordem de Produção com Fictício
+  Estrutura Filtrada: Não
+----------------------------------------------------------------------------------------------------------------------------------
+
+  Unidade de Negócio: 01
+
+    Item: ABJC-100_#F000001            Total Produzido:            30,000
+
+      Cod Insumo: 81.03.002-2
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   593 N                     30,000000            23,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): 81.03.002-2                   0,766667
+
+
+      ---
+
+      Cod Insumo: 81.65.017-9
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   593 N                     30,000000            30,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): 81.65.017-9                   1,000000
+
+
+      ---
+
+      Cod Insumo: BT-001-01
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   593 N                     30,000000            30,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): BT-001-01                     1,000000
+
+
+      ---
+
+      Cod Insumo: BT-001-02
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   593 N                     30,000000            30,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): BT-001-02                     1,000000
+
+
+      ---
+
+      Cod Insumo: JC-100-30
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   593 N                     30,000000            30,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): JC-100-30                     1,000000
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+
+    Item: BT-001-01_#F000001           Total Produzido:            20,000
+
+      Cod Insumo: 80.75.004-8
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   596 N                     20,000000             0,084000
+
+      Qtd Insumo (Total Insumo / Total Produzido): 80.75.004-8                   0,004200
+
+
+      ---
+
+      Cod Insumo: 85.11.001-2
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   596 N                     20,000000             7,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): 85.11.001-2                   0,350000
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+
+    Item: Item-pai-2                   Total Produzido:         1.500,000
+
+      Cod Insumo: Semi-2-A
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   571 N                  1.000,000000         2.000,000000
+                   574 N                    500,000000         1.000,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): Semi-2-A                      2,000000
+
+
+      ---
+
+      Cod Insumo: Semi-2-B
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   571 N                  1.000,000000         3.000,000000
+                   574 N                    500,000000         1.500,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): Semi-2-B                      3,000000
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+
+    Item: Item-pai-3                   Total Produzido:            20,000
+
+      Cod Insumo: Filho-Semi-A
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   588 S                     10,000000            13,333333
+                   589 S                     10,000000            12,500000
+
+      Qtd Insumo (Total Insumo / Total Produzido): Filho-Semi-A                  1,291667
+
+
+      ---
+
+      Cod Insumo: Semi-2-B
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   588 S                     10,000000            20,000000
+                   589 S                     10,000000            18,750000
+
+      Qtd Insumo (Total Insumo / Total Produzido): Semi-2-B                      1,937500
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+    Co-Produto: COPRO-PAI-3               Total Produzido:             5,000
+
+      Cod Insumo: Filho-Semi-A
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   588 S                      5,000000             6,666667
+                   589 S                      5,000000             6,250000
+
+      Qtd Insumo (Total Insumo / Total Produzido): Filho-Semi-A                  1,291667
+
+
+      ---
+
+      Cod Insumo: Semi-2-B
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   588 S                      5,000000            10,000000
+                   589 S                      5,000000             9,375000
+
+      Qtd Insumo (Total Insumo / Total Produzido): Semi-2-B                      1,937500
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+    Co-Produto: COPRO-PAI-3               Total Produzido:             6,000
+
+      Cod Insumo: Filho-Semi-A
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   588 S                      6,000000             8,000000
+                   589 S                      6,000000             7,500000
+
+      Qtd Insumo (Total Insumo / Total Produzido): Filho-Semi-A                  1,291667
+
+
+      ---
+
+      Cod Insumo: Semi-2-B
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   588 S                      6,000000            12,000000
+                   589 S                      6,000000            11,250000
+
+      Qtd Insumo (Total Insumo / Total Produzido): Semi-2-B                      1,937500
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+
+    Item: Pai-Benefic                  Total Produzido:            10,000
+
+      Cod Insumo: Filho1-Benefic
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   590 N                     10,000000            20,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): Filho1-Benefic                2,000000
+
+
+      ---
+
+      Cod Insumo: Filho2-Benefic
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   590 N                     10,000000            50,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): Filho2-Benefic                5,000000
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+
+    Item: Semi-2-A                     Total Produzido:         3.500,000
+
+      Cod Insumo: Filho-Semi-A
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   559 N                  1.000,000000         3.000,000000
+                   560 N                    500,000000         1.500,000000
+                   561 N                  1.000,000000         3.000,000000
+                   583 N                  1.000,000000             0,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): Filho-Semi-A                  2,142857
+
+
+      ---
+
+      Cod Insumo: Filho-Semi-A1
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   559 N                  1.000,000000         5.000,000000
+                   560 N                    500,000000         2.500,000000
+                   561 N                  1.000,000000         5.000,000000
+                   583 N                  1.000,000000             0,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): Filho-Semi-A1                 3,571429
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+
+    Item: Semi-2-B                     Total Produzido:         6.001,000
+
+      Cod Insumo: Semi-2-B-Filho
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   567 N                  1.500,000000         3.000,000000
+                   569 N                      1,000000             2,000000
+                   570 N                  3.000,000000         6.000,000000
+                   584 N                    500,000000         1.000,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): Semi-2-B-Filho                2,000000
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+
+    Item: Semi-2-B-Filho               Total Produzido:         8.000,000
+
+      Cod Insumo: Semi-2B - B
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   563 N                  2.000,000000         6.000,000000
+                   564 N                    145,000000             0,000000
+                   587 N                  5.000,000000        15.000,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): Semi-2B - B                   2,939118
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+
+    Item: Semi-2-B-Filho_#F000001      Total Produzido:         7.500,000
+
+      Cod Insumo: Semi-2C -C
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                   565 N                    240,000000             0,000000
+                   585 N                  1.500,000000         3.000,000000
+                   586 N                  5.000,000000        10.000,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): Semi-2C -C                    1,928783
+
+
+      ---
+
+
+----------------------------------------------------------------------------------------------------------------DATASUL - LF0228_1  

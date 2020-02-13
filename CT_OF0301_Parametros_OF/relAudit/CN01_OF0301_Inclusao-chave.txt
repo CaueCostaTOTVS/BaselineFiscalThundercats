@@ -1,0 +1,77 @@
+=====> BD: mgcad Tabela: param-of Evento: C Chave: 10001|
+Field: cod-estabel Nov: 10001
+Field: termo-ab-ent Nov: 17
+Field: termo-en-ent Nov: 18
+Field: termo-ab-sai Nov: 19
+Field: termo-en-sai Nov: 20
+Field: nr-pag-ent Nov: 1000
+Field: nr-pag-sai Nov: 1000
+Field: reini-pag Nov: no
+Field: termo-ab-serv Nov: 0
+Field: termo-en-serv Nov: 0
+Field: nr-pag-serv Nov: 50
+Field: nr-pag-ap-icms Nov: 150
+Field: nr-pag-ap-ipi Nov: 150
+Field: termo-en-ap-icms Nov: 0
+Field: termo-en-ap-ipi Nov: 0
+Field: termo-ab-ap-icms Nov: 0
+Field: termo-ab-ap-ipi Nov: 0
+Field: dt-congela Nov: 31/07/2015
+Field: reinicia-icms Nov: no
+Field: reinicia-fecha Nov: yes
+Field: char-1 Nov: DJALMA DOS SANTOS MACHADO   004734211175AV EDMUNDO DOUBRAWA               1001
+Field: char-2 Nov: N
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: yes
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+Field: cod-num-lre Nov: 
+Field: dat-ini-ciap-102 ?
+Field: cdn-formula-ciap Nov: 0
+Field: cod-nome-resp Nov: 
+Field: cod-fone-resp Nov: 
+Field: cod-logradouro Nov: 
+Field: cdn-numero Nov: 0
+Field: cod-complemento Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 10  0 0111100      SN                                            1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-format-cfop Nov: 01/01/2003
+Field: nr-lre Nov: 
+Field: log-contribt-ipi Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: log-livre-5 Nov: no
+Field: log-livre-6 Nov: no
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: cod-livre-3 Nov: 0
+Field: cod-livre-4 Nov: c:\automacao\relatorios
+Field: dat-pis-recup Nov: 01/01/2003
+Field: dat-cofins-recup Nov: 01/02/2004
+Field: num-pag-ciap Nov: 0
+Field: log-reinic-ciap Nov: no
+Field: log-escrit-nf-remes-operac-trian Nov: no
+Field: log-devol-consig Nov: no
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      param-of                                1          0          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              1          0          0

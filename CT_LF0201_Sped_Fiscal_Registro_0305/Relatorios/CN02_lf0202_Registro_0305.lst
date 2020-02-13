@@ -1,0 +1,129 @@
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+Documentos Fiscais
+
+
+
+LISTA DE BENS/COMPONENTES ATUALIZADOS - CIAP - 01/2011 - ESTABELECIMENTO: 1.                        
+                                                                                                    
+Bem/Componen Descrição do Bem/Componente              Nro Patrimônio  Seq Patrimônio  Tipo Movto    
+1            Bem 1                                                0          0           SI         
+2            Bem 2                                                0          0           SI         
+3            Bem 3                                                0          0           SI         
+4            Bem 4                                                0          0           SI         
+5            Bem 5                                                0          0           IM         
+41           Teste automacao                                      0          0           IM         
+42           Teste automaçao1                                     0          0           IM         
+43           Teste automaçao1                                     0          0           IM         
+49           Optiplex 7010                                        0          0           SI         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    2
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+            Seleção
+
+            Estabelecimento:   1            |< >|  1
+                       Data:   01/01/2011   |< >|  31/01/2011
+
+
+            Parâmetros
+
+                                            Entrada:  Sim
+                                              Saída:  Sim
+                                            Serviço:  Sim
+                    Atualiza Documento Já Integrado:  Sim
+                   Extrair Documentos de Exportação:  Não
+                     Atualiza Dados CIAP no Período:  Sim
+            Primeira Entrega Bloco G do Sped Fiscal:  Não
+                    Extrair Automaticamente Bloco P:  Não
+           Considerar no Valor da Mercadoria (C170):  Não
+                        Notas Fiscais de Exportação:
+
+
+            Destino:  Arquivo          -   c:/automacao/relatorios/CN02_lf0202_Regi
+            Usuário:  super
+
+
+            Inventário
+
+            Motivo                            Dt Fechamento  Preço Base ICMS  %Margem  Estab x Item
+            --------------------------------  -------------  ---------------  -------  ------------
+            Final do Período...........: Não
+            Mudança Forma Tributação...: Não
+            Solicitação Baixa Cadastral: Não
+            Alteração Regime Pagamento.: Não
+            Solicitação da Fiscalização: Não
+
+            Período para Média das Entradas
+
+            Data Transação Inicial:
+              Data Transação Final:
+
+            Inventário em Processo
+
+            Considera Produtos em Fabricação: Não
+
+            Arquivos de Acompanhamento
+
+            Itens Selecionados Inventário:
+                Documentos Média Entradas:
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:0.00.00.000
+

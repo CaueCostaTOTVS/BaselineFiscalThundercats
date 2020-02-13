@@ -1,0 +1,2683 @@
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290847
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0003001
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 4
+Field: cod-emitente Nov: 4
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: .compras            20.032    73089090
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211st
+Field: cod-natur-operac Nov: 611sta
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 09/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 09/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 10
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 17
+Field: val-control-sdo Nov: 8
+Field: val-lim-bc-icms-ult-entr Nov: 210
+Field: val-livre-1 Nov: 2
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 10
+Field: val-livre-4 Nov: 2
+Field: val-unit-base-calc-st Nov: 262,5
+Field: val-unit-bc-icms-ult-entr Nov: 210
+Field: val-unit-icms-ult-entr Nov: 14,7
+Field: val-unit-ressarcto Nov: 29,925
+Field: val-unit-ult-entr Nov: 200
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 35110861101895000498550010000040013212312111
+Field: cod-docto Nov: 0290847
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0004001
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 4
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 40f                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 55
+Field: cod-nat-operac-ult-entr Nov: 211st
+Field: cod-natur-operac Nov: 611sta
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 09/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 09/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 20
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 13
+Field: val-control-sdo Nov: 7
+Field: val-lim-bc-icms-ult-entr Nov: 30
+Field: val-livre-1 Nov: 3
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 10
+Field: val-livre-4 Nov: 3
+Field: val-unit-base-calc-st Nov: 37,5
+Field: val-unit-bc-icms-ult-entr Nov: 30
+Field: val-unit-icms-ult-entr Nov: 2,1
+Field: val-unit-ressarcto Nov: 2,775
+Field: val-unit-ult-entr Nov: 30
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290848
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0001002
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 1
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: DD                  FM-00     00000000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 611sub
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 09/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 01/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 10
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 30
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 17
+Field: val-control-sdo Nov: 8
+Field: val-lim-bc-icms-ult-entr Nov: 24
+Field: val-livre-1 Nov: 1
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 9
+Field: val-livre-4 Nov: 1
+Field: val-unit-base-calc-st Nov: 24
+Field: val-unit-bc-icms-ult-entr Nov: 24
+Field: val-unit-icms-ult-entr Nov: 1,68
+Field: val-unit-ressarcto Nov: 2,4
+Field: val-unit-ult-entr Nov: 24
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290848
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0001002
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 1
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 13d                 FM-00     00000000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 611sub
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 09/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 01/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 20
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 20
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 18
+Field: val-control-sdo Nov: 7
+Field: val-lim-bc-icms-ult-entr Nov: 25
+Field: val-livre-1 Nov: 2
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 9
+Field: val-livre-4 Nov: 2
+Field: val-unit-base-calc-st Nov: 25
+Field: val-unit-bc-icms-ult-entr Nov: 25
+Field: val-unit-icms-ult-entr Nov: 1,75
+Field: val-unit-ressarcto Nov: 2,75
+Field: val-unit-ult-entr Nov: 25
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 35110861101895000498550010000040013212312111
+Field: cod-docto Nov: 0290849
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0004001
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 40f                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 55
+Field: cod-nat-operac-ult-entr Nov: 211st
+Field: cod-natur-operac Nov: 69DEVL
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 09/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 09/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 10
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 13
+Field: val-control-sdo Nov: 4
+Field: val-lim-bc-icms-ult-entr Nov: 30
+Field: val-livre-1 Nov: 3
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 7
+Field: val-livre-4 Nov: 3
+Field: val-unit-base-calc-st Nov: 37,5
+Field: val-unit-bc-icms-ult-entr Nov: 30
+Field: val-unit-icms-ult-entr Nov: 2,1
+Field: val-unit-ressarcto Nov: 2,775
+Field: val-unit-ult-entr Nov: 30
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290849
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0001002
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 13d                 FM-00     00000000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 69DEVL
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 09/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 01/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 20
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 20
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 18
+Field: val-control-sdo Nov: 5
+Field: val-lim-bc-icms-ult-entr Nov: 25
+Field: val-livre-1 Nov: 2
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 7
+Field: val-livre-4 Nov: 2
+Field: val-unit-base-calc-st Nov: 25
+Field: val-unit-bc-icms-ult-entr Nov: 25
+Field: val-unit-icms-ult-entr Nov: 1,75
+Field: val-unit-ressarcto Nov: 2,75
+Field: val-unit-ult-entr Nov: 25
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290850
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0001003
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 1
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: .compras            20.032    73089090
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 6111
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 09/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 05/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 30
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 1
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 17
+Field: val-control-sdo Nov: 0
+Field: val-lim-bc-icms-ult-entr Nov: 30
+Field: val-livre-1 Nov: 92
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 1
+Field: val-livre-4 Nov: 100
+Field: val-unit-base-calc-st Nov: 30
+Field: val-unit-bc-icms-ult-entr Nov: 30
+Field: val-unit-icms-ult-entr Nov: 2,1
+Field: val-unit-ressarcto Nov: 3
+Field: val-unit-ult-entr Nov: 30
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290850
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0003001
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 4
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: .compras            20.032    73089090
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211st
+Field: cod-natur-operac Nov: 6111
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 09/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 09/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 30
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 17
+Field: val-control-sdo Nov: 0
+Field: val-lim-bc-icms-ult-entr Nov: 210
+Field: val-livre-1 Nov: 100
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 8
+Field: val-livre-4 Nov: 100
+Field: val-unit-base-calc-st Nov: 262,5
+Field: val-unit-bc-icms-ult-entr Nov: 210
+Field: val-unit-icms-ult-entr Nov: 14,7
+Field: val-unit-ressarcto Nov: 29,925
+Field: val-unit-ult-entr Nov: 200
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 35110861101895000498550010000040013212312111
+Field: cod-docto Nov: 0290850
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0004001
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 40t                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 55
+Field: cod-nat-operac-ult-entr Nov: 211st
+Field: cod-natur-operac Nov: 611st
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 09/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 09/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 10
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 20
+Field: qtd-ult-entr Nov: 30
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 15
+Field: val-control-sdo Nov: 10
+Field: val-lim-bc-icms-ult-entr Nov: 2,69
+Field: val-livre-1 Nov: 20
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 30
+Field: val-livre-4 Nov: 20
+Field: val-unit-base-calc-st Nov: 3,3627
+Field: val-unit-bc-icms-ult-entr Nov: 2,69
+Field: val-unit-icms-ult-entr Nov: ,1883
+Field: val-unit-ressarcto Nov: ,3161
+Field: val-unit-ult-entr Nov: 2,69
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290850
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0001002
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 13d                 FM-00     00000000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 611st
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 09/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 01/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 20
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 20
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 18
+Field: val-control-sdo Nov: 0
+Field: val-lim-bc-icms-ult-entr Nov: 25
+Field: val-livre-1 Nov: 5
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 5
+Field: val-livre-4 Nov: 5
+Field: val-unit-base-calc-st Nov: 25
+Field: val-unit-bc-icms-ult-entr Nov: 25
+Field: val-unit-icms-ult-entr Nov: 1,75
+Field: val-unit-ressarcto Nov: 2,75
+Field: val-unit-ult-entr Nov: 25
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 35110861101895000498550010000040013212312111
+Field: cod-docto Nov: 0290851
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0004001
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 70
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 40f                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 55
+Field: cod-nat-operac-ult-entr Nov: 211st
+Field: cod-natur-operac Nov: 6123
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 09/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 09/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 10
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 13
+Field: val-control-sdo Nov: 2
+Field: val-lim-bc-icms-ult-entr Nov: 30
+Field: val-livre-1 Nov: 2
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 4
+Field: val-livre-4 Nov: 2
+Field: val-unit-base-calc-st Nov: 37,5
+Field: val-unit-bc-icms-ult-entr Nov: 30
+Field: val-unit-icms-ult-entr Nov: 2,1
+Field: val-unit-ressarcto Nov: 2,775
+Field: val-unit-ult-entr Nov: 30
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290851
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0003001
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 4
+Field: cod-emitente Nov: 70
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 13f                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211st
+Field: cod-natur-operac Nov: 6123
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 09/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 09/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 20
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 20
+Field: qtd-ult-entr Nov: 5
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 7
+Field: val-control-sdo Nov: 2
+Field: val-lim-bc-icms-ult-entr Nov: 65
+Field: val-livre-1 Nov: 3
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 5
+Field: val-livre-4 Nov: 3
+Field: val-unit-base-calc-st Nov: 81,25
+Field: val-unit-bc-icms-ult-entr Nov: 65
+Field: val-unit-icms-ult-entr Nov: 4,55
+Field: val-unit-ressarcto Nov: 1,1375
+Field: val-unit-ult-entr Nov: 65
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290852
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0004589
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: .compras            20.032    73089090
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 699sta
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 15/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 12/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 10
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 4
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 17
+Field: val-control-sdo Nov: 0
+Field: val-lim-bc-icms-ult-entr Nov: 160
+Field: val-livre-1 Nov: 4
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 4
+Field: val-livre-4 Nov: 4
+Field: val-unit-base-calc-st Nov: 160
+Field: val-unit-bc-icms-ult-entr Nov: 160
+Field: val-unit-icms-ult-entr Nov: 11,2
+Field: val-unit-ressarcto Nov: 16
+Field: val-unit-ult-entr Nov: 160
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290852
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0004589
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: .DANF-e             11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 699sta
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 15/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 12/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 20
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 20
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 13
+Field: val-control-sdo Nov: 0
+Field: val-lim-bc-icms-ult-entr Nov: 189
+Field: val-livre-1 Nov: 10
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 10
+Field: val-livre-4 Nov: 10
+Field: val-unit-base-calc-st Nov: 189
+Field: val-unit-bc-icms-ult-entr Nov: 189
+Field: val-unit-icms-ult-entr Nov: 13,23
+Field: val-unit-ressarcto Nov: 11,34
+Field: val-unit-ult-entr Nov: 189
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290853
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0004590
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 1
+Field: cod-emitente Nov: 1
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 40f                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 699sta
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 15/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 12/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 10
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 15
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 13
+Field: val-control-sdo Nov: 10
+Field: val-lim-bc-icms-ult-entr Nov: 41
+Field: val-livre-1 Nov: 5
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 15
+Field: val-livre-4 Nov: 5
+Field: val-unit-base-calc-st Nov: 41
+Field: val-unit-bc-icms-ult-entr Nov: 41
+Field: val-unit-icms-ult-entr Nov: 2,87
+Field: val-unit-ressarcto Nov: 2,46
+Field: val-unit-ult-entr Nov: 41
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290853
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0004590
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 1
+Field: cod-emitente Nov: 1
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 40t                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 699sta
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 15/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 12/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 20
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 20
+Field: qtd-ult-entr Nov: 9
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 15
+Field: val-control-sdo Nov: 6
+Field: val-lim-bc-icms-ult-entr Nov: 20
+Field: val-livre-1 Nov: 3
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 9
+Field: val-livre-4 Nov: 3
+Field: val-unit-base-calc-st Nov: 20
+Field: val-unit-bc-icms-ult-entr Nov: 20
+Field: val-unit-icms-ult-entr Nov: 1,4
+Field: val-unit-ressarcto Nov: 1,6
+Field: val-unit-ult-entr Nov: 20
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290854
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0004590
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 1
+Field: cod-emitente Nov: 1
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 40f                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 699sta
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 15/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 12/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 10
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 15
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 13
+Field: val-control-sdo Nov: 6
+Field: val-lim-bc-icms-ult-entr Nov: 41
+Field: val-livre-1 Nov: 4
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 10
+Field: val-livre-4 Nov: 4
+Field: val-unit-base-calc-st Nov: 41
+Field: val-unit-bc-icms-ult-entr Nov: 41
+Field: val-unit-icms-ult-entr Nov: 2,87
+Field: val-unit-ressarcto Nov: 2,46
+Field: val-unit-ult-entr Nov: 41
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290854
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0004590
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 1
+Field: cod-emitente Nov: 1
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 40t                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 699sta
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 15/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 12/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 20
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 20
+Field: qtd-ult-entr Nov: 9
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 15
+Field: val-control-sdo Nov: 2
+Field: val-lim-bc-icms-ult-entr Nov: 20
+Field: val-livre-1 Nov: 4
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 6
+Field: val-livre-4 Nov: 4
+Field: val-unit-base-calc-st Nov: 20
+Field: val-unit-bc-icms-ult-entr Nov: 20
+Field: val-unit-icms-ult-entr Nov: 1,4
+Field: val-unit-ressarcto Nov: 1,6
+Field: val-unit-ult-entr Nov: 20
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290857
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0004590
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 1
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 40f                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 611-IE
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 31/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 12/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 20
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 15
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 13
+Field: val-control-sdo Nov: 3
+Field: val-lim-bc-icms-ult-entr Nov: 41
+Field: val-livre-1 Nov: 3
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 6
+Field: val-livre-4 Nov: 15
+Field: val-unit-base-calc-st Nov: 41
+Field: val-unit-bc-icms-ult-entr Nov: 41
+Field: val-unit-icms-ult-entr Nov: 2,87
+Field: val-unit-ressarcto Nov: 2,46
+Field: val-unit-ult-entr Nov: 41
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290857
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0201701
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 1
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 40f                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 2staou
+Field: cod-natur-operac Nov: 611-IE
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 31/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 23/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 20
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 2
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 13
+Field: val-control-sdo Nov: 0
+Field: val-lim-bc-icms-ult-entr Nov: 300
+Field: val-livre-1 Nov: 13
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 2
+Field: val-livre-4 Nov: 15
+Field: val-unit-base-calc-st Nov: 300
+Field: val-unit-bc-icms-ult-entr Nov: 300
+Field: val-unit-icms-ult-entr Nov: 21
+Field: val-unit-ressarcto Nov: 18
+Field: val-unit-ult-entr Nov: 300
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290857
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0201703
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 40f                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 2staou
+Field: cod-natur-operac Nov: 611-IE
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 31/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 18/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 20
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 13
+Field: val-control-sdo Nov: 0
+Field: val-lim-bc-icms-ult-entr Nov: 26
+Field: val-livre-1 Nov: 11
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 8
+Field: val-livre-4 Nov: 15
+Field: val-unit-base-calc-st Nov: 26
+Field: val-unit-bc-icms-ult-entr Nov: 26
+Field: val-unit-icms-ult-entr Nov: 1,82
+Field: val-unit-ressarcto Nov: 1,56
+Field: val-unit-ult-entr Nov: 26
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290857
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0201704
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 40f                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 21stou
+Field: cod-natur-operac Nov: 611-IE
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 31/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 23/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 20
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 20
+Field: qtd-ult-entr Nov: 2
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 13
+Field: val-control-sdo Nov: 0
+Field: val-lim-bc-icms-ult-entr Nov: 1000
+Field: val-livre-1 Nov: 15
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 2
+Field: val-livre-4 Nov: 15
+Field: val-unit-base-calc-st Nov: 1250
+Field: val-unit-bc-icms-ult-entr Nov: 1000
+Field: val-unit-icms-ult-entr Nov: 70
+Field: val-unit-ressarcto Nov: 92,5
+Field: val-unit-ult-entr Nov: 1000
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290857
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0201704
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: .compras            20.032    73089090
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 21stou
+Field: cod-natur-operac Nov: 611-IE
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 31/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 23/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 30
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 2
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 17
+Field: val-control-sdo Nov: 0
+Field: val-lim-bc-icms-ult-entr Nov: 315
+Field: val-livre-1 Nov: 3
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 2
+Field: val-livre-4 Nov: 3
+Field: val-unit-base-calc-st Nov: 393,75
+Field: val-unit-bc-icms-ult-entr Nov: 315
+Field: val-unit-icms-ult-entr Nov: 22,05
+Field: val-unit-ressarcto Nov: 44,8875
+Field: val-unit-ult-entr Nov: 300
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290857
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0201701
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: .danfe              11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 2staou
+Field: cod-natur-operac Nov: 611-IE
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 31/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 18/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 50
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 20
+Field: qtd-ult-entr Nov: 3
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 7
+Field: val-control-sdo Nov: 2
+Field: val-lim-bc-icms-ult-entr Nov: 67,9
+Field: val-livre-1 Nov: 1
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 3
+Field: val-livre-4 Nov: 1
+Field: val-unit-base-calc-st Nov: 67,9
+Field: val-unit-bc-icms-ult-entr Nov: 67,9
+Field: val-unit-icms-ult-entr Nov: 4,753
+Field: val-unit-ressarcto Nov: 0
+Field: val-unit-ult-entr Nov: 67,9
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290857
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0201701
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 40t                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 2staou
+Field: cod-natur-operac Nov: 611-IE
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 31/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 18/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 60
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 13
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 15
+Field: val-control-sdo Nov: 6
+Field: val-lim-bc-icms-ult-entr Nov: 100
+Field: val-livre-1 Nov: 6
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 12
+Field: val-livre-4 Nov: 6
+Field: val-unit-base-calc-st Nov: 100
+Field: val-unit-bc-icms-ult-entr Nov: 100
+Field: val-unit-icms-ult-entr Nov: 7
+Field: val-unit-ressarcto Nov: 8
+Field: val-unit-ult-entr Nov: 100
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290857
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0201703
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: .DANFE-TamanhoCP    11122     34031900
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 2staou
+Field: cod-natur-operac Nov: 611-IE
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 31/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 18/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 70
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 20
+Field: qtd-ult-entr Nov: 6
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 0
+Field: val-control-sdo Nov: 2
+Field: val-lim-bc-icms-ult-entr Nov: 100
+Field: val-livre-1 Nov: 4
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 6
+Field: val-livre-4 Nov: 4
+Field: val-unit-base-calc-st Nov: 100
+Field: val-unit-bc-icms-ult-entr Nov: 100
+Field: val-unit-icms-ult-entr Nov: 7
+Field: val-unit-ressarcto Nov: 0
+Field: val-unit-ult-entr Nov: 100
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290857
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0000896
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: .DANF-e             11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211STO
+Field: cod-natur-operac Nov: 611-IE
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 31/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 16/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 80
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 100
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 13
+Field: val-control-sdo Nov: 59
+Field: val-lim-bc-icms-ult-entr Nov: 30
+Field: val-livre-1 Nov: 41
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 100
+Field: val-livre-4 Nov: 41
+Field: val-unit-base-calc-st Nov: 30
+Field: val-unit-bc-icms-ult-entr Nov: 30
+Field: val-unit-icms-ult-entr Nov: 2,1
+Field: val-unit-ressarcto Nov: 1,8
+Field: val-unit-ult-entr Nov: 30
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0290857
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0001003
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 1
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: .compras.fisico     20.032    73089090
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 611-IE
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 11
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 31/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 05/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 90
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 20
+Field: qtd-ult-entr Nov: 3
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 7
+Field: val-control-sdo Nov: 0
+Field: val-lim-bc-icms-ult-entr Nov: 25
+Field: val-livre-1 Nov: 1
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 1
+Field: val-livre-4 Nov: 1
+Field: val-unit-base-calc-st Nov: 25
+Field: val-unit-bc-icms-ult-entr Nov: 25
+Field: val-unit-icms-ult-entr Nov: 1,75
+Field: val-unit-ressarcto Nov: 0
+Field: val-unit-ult-entr Nov: 25
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0071101
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0201701
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 40t                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 2staou
+Field: cod-natur-operac Nov: 610110
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 5
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 20/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 18/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 10
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 13
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 15
+Field: val-control-sdo Nov: 12
+Field: val-lim-bc-icms-ult-entr Nov: 100
+Field: val-livre-1 Nov: 1
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 13
+Field: val-livre-4 Nov: 1
+Field: val-unit-base-calc-st Nov: 100
+Field: val-unit-bc-icms-ult-entr Nov: 100
+Field: val-unit-icms-ult-entr Nov: 7
+Field: val-unit-ressarcto Nov: 8
+Field: val-unit-ult-entr Nov: 100
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0071104
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0201703
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 40f                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 2staou
+Field: cod-natur-operac Nov: 611sc
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 5
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 20/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 18/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 20
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 13
+Field: val-control-sdo Nov: 9
+Field: val-lim-bc-icms-ult-entr Nov: 26
+Field: val-livre-1 Nov: 1
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 10
+Field: val-livre-4 Nov: 1
+Field: val-unit-base-calc-st Nov: 26
+Field: val-unit-bc-icms-ult-entr Nov: 26
+Field: val-unit-icms-ult-entr Nov: 1,82
+Field: val-unit-ressarcto Nov: 1,56
+Field: val-unit-ult-entr Nov: 26
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0071105
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0001003
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 1
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: .compras.fisico     20.032    73089090
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 611sc
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 5
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 20/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 05/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 20
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 20
+Field: qtd-ult-entr Nov: 3
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 12
+Field: val-control-sdo Nov: 1
+Field: val-lim-bc-icms-ult-entr Nov: 25
+Field: val-livre-1 Nov: 2
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 3
+Field: val-livre-4 Nov: 2
+Field: val-unit-base-calc-st Nov: 25
+Field: val-unit-bc-icms-ult-entr Nov: 25
+Field: val-unit-icms-ult-entr Nov: 1,75
+Field: val-unit-ressarcto Nov: 1,25
+Field: val-unit-ult-entr Nov: 25
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0076196
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0001002
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 70
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 13d                 FM-00     00000000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 6123
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 5
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 03/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 01/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 40
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 20
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 18
+Field: val-control-sdo Nov: 9
+Field: val-lim-bc-icms-ult-entr Nov: 25
+Field: val-livre-1 Nov: 1
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 10
+Field: val-livre-4 Nov: 1
+Field: val-unit-base-calc-st Nov: 25
+Field: val-unit-bc-icms-ult-entr Nov: 25
+Field: val-unit-icms-ult-entr Nov: 1,75
+Field: val-unit-ressarcto Nov: 2,75
+Field: val-unit-ult-entr Nov: 25
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0076274
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0001002
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 81
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: DD                  FM-00     00000000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 611otf
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 5
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 10/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 01/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 30
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 30
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 17
+Field: val-control-sdo Nov: 6
+Field: val-lim-bc-icms-ult-entr Nov: 24
+Field: val-livre-1 Nov: 2
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 8
+Field: val-livre-4 Nov: 2
+Field: val-unit-base-calc-st Nov: 24
+Field: val-unit-bc-icms-ult-entr Nov: 24
+Field: val-unit-icms-ult-entr Nov: 1,68
+Field: val-unit-ressarcto Nov: 2,4
+Field: val-unit-ult-entr Nov: 24
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0076275
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0001002
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 70
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: DD                  FM-00     00000000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 699OTR
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 5
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 10/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 01/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 30
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 30
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 17
+Field: val-control-sdo Nov: 4
+Field: val-lim-bc-icms-ult-entr Nov: 24
+Field: val-livre-1 Nov: 2
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 6
+Field: val-livre-4 Nov: 2
+Field: val-unit-base-calc-st Nov: 24
+Field: val-unit-bc-icms-ult-entr Nov: 24
+Field: val-unit-icms-ult-entr Nov: 1,68
+Field: val-unit-ressarcto Nov: 2,4
+Field: val-unit-ult-entr Nov: 24
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0076317
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0001002
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 81
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: DD                  FM-00     00000000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 6123
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 5
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 12/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 01/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 30
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 30
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 17
+Field: val-control-sdo Nov: 3
+Field: val-lim-bc-icms-ult-entr Nov: 24
+Field: val-livre-1 Nov: 1
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 4
+Field: val-livre-4 Nov: 1
+Field: val-unit-base-calc-st Nov: 24
+Field: val-unit-bc-icms-ult-entr Nov: 24
+Field: val-unit-icms-ult-entr Nov: 1,68
+Field: val-unit-ressarcto Nov: 2,4
+Field: val-unit-ult-entr Nov: 24
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0076329
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0001002
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 1
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: DD                  FM-00     00000000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 6123
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 5
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 12/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 01/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 10
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 30
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 17
+Field: val-control-sdo Nov: 2
+Field: val-lim-bc-icms-ult-entr Nov: 24
+Field: val-livre-1 Nov: 1
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 3
+Field: val-livre-4 Nov: 1
+Field: val-unit-base-calc-st Nov: 24
+Field: val-unit-bc-icms-ult-entr Nov: 24
+Field: val-unit-icms-ult-entr Nov: 1,68
+Field: val-unit-ressarcto Nov: 2,4
+Field: val-unit-ult-entr Nov: 24
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0076331
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0001002
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 70
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: DD                  FM-00     00000000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 6123
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 5
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 12/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 01/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 10
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 30
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 17
+Field: val-control-sdo Nov: 0
+Field: val-lim-bc-icms-ult-entr Nov: 24
+Field: val-livre-1 Nov: 2
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 2
+Field: val-livre-4 Nov: 2
+Field: val-unit-base-calc-st Nov: 24
+Field: val-unit-bc-icms-ult-entr Nov: 24
+Field: val-unit-icms-ult-entr Nov: 1,68
+Field: val-unit-ressarcto Nov: 2,4
+Field: val-unit-ult-entr Nov: 24
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0076726
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0201701
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 1
+Field: cod-emitente Nov: 70
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 13f                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 2staou
+Field: cod-natur-operac Nov: 6123
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 5
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 31/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 23/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 20
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 20
+Field: qtd-ult-entr Nov: 2
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 25
+Field: val-control-sdo Nov: 1
+Field: val-lim-bc-icms-ult-entr Nov: 78
+Field: val-livre-1 Nov: 1
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 2
+Field: val-livre-4 Nov: 1
+Field: val-unit-base-calc-st Nov: 78
+Field: val-unit-bc-icms-ult-entr Nov: 78
+Field: val-unit-icms-ult-entr Nov: 5,46
+Field: val-unit-ressarcto Nov: 14,04
+Field: val-unit-ult-entr Nov: 78
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0076727
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0201701
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 1
+Field: cod-emitente Nov: 81
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 13f                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 2staou
+Field: cod-natur-operac Nov: 6123
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 5
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 31/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 23/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 20
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 20
+Field: qtd-ult-entr Nov: 2
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 25
+Field: val-control-sdo Nov: 0
+Field: val-lim-bc-icms-ult-entr Nov: 78
+Field: val-livre-1 Nov: 1
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 1
+Field: val-livre-4 Nov: 1
+Field: val-unit-base-calc-st Nov: 78
+Field: val-unit-bc-icms-ult-entr Nov: 78
+Field: val-unit-icms-ult-entr Nov: 5,46
+Field: val-unit-ressarcto Nov: 14,04
+Field: val-unit-ult-entr Nov: 78
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0076729
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0201701
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 22
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: DD                  FM-00     00000000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 2staou
+Field: cod-natur-operac Nov: 6123
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 5
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 31/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 18/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 30
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 30
+Field: qtd-ult-entr Nov: 5
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 17
+Field: val-control-sdo Nov: 0
+Field: val-lim-bc-icms-ult-entr Nov: 30
+Field: val-livre-1 Nov: 11
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 5
+Field: val-livre-4 Nov: 11
+Field: val-unit-base-calc-st Nov: 30
+Field: val-unit-bc-icms-ult-entr Nov: 30
+Field: val-unit-icms-ult-entr Nov: 2,1
+Field: val-unit-ressarcto Nov: 3
+Field: val-unit-ult-entr Nov: 30
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 20161101
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0201703
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 40f                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 2staou
+Field: cod-natur-operac Nov: 611jec
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 5
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 20/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 18/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 10
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 13
+Field: val-control-sdo Nov: 8
+Field: val-lim-bc-icms-ult-entr Nov: 26
+Field: val-livre-1 Nov: 1
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 9
+Field: val-livre-4 Nov: 1
+Field: val-unit-base-calc-st Nov: 26
+Field: val-unit-bc-icms-ult-entr Nov: 26
+Field: val-unit-icms-ult-entr Nov: 1,82
+Field: val-unit-ressarcto Nov: 1,56
+Field: val-unit-ult-entr Nov: 26
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 4032014
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0001002
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: DD                  FM-00     00000000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 6128
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: 5
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 03/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 01/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 10
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 30
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 17
+Field: val-control-sdo Nov: 9
+Field: val-lim-bc-icms-ult-entr Nov: 24
+Field: val-livre-1 Nov: 1
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 10
+Field: val-livre-4 Nov: 1
+Field: val-unit-base-calc-st Nov: 24
+Field: val-unit-bc-icms-ult-entr Nov: 24
+Field: val-unit-icms-ult-entr Nov: 1,68
+Field: val-unit-ressarcto Nov: 2,4
+Field: val-unit-ult-entr Nov: 24
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0000008
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0001001
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 12704
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: .compras            20.032    73089090
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 59932
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: un
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 02/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 01/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 10
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 10
+Field: qtd-ult-entr Nov: 10
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 17
+Field: val-control-sdo Nov: 0
+Field: val-lim-bc-icms-ult-entr Nov: 25
+Field: val-livre-1 Nov: 23
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 10
+Field: val-livre-4 Nov: 25
+Field: val-unit-base-calc-st Nov: 25
+Field: val-unit-bc-icms-ult-entr Nov: 25
+Field: val-unit-icms-ult-entr Nov: 1,75
+Field: val-unit-ressarcto Nov: 2,5
+Field: val-unit-ult-entr Nov: 25
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0000008
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0001002
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 12704
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: .compras            20.032    73089090
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 59932
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: un
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 02/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 01/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 10
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 40
+Field: qtd-ult-entr Nov: 2
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 17
+Field: val-control-sdo Nov: 0
+Field: val-lim-bc-icms-ult-entr Nov: 100
+Field: val-livre-1 Nov: 25
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 2
+Field: val-livre-4 Nov: 25
+Field: val-unit-base-calc-st Nov: 100
+Field: val-unit-bc-icms-ult-entr Nov: 100
+Field: val-unit-icms-ult-entr Nov: 7
+Field: val-unit-ressarcto Nov: 10
+Field: val-unit-ult-entr Nov: 100
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0000011
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0001001
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 13
+Field: cod-emitente Nov: 1
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 13d                 FM-00     00000000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211sto
+Field: cod-natur-operac Nov: 611tb
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: un
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 10/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 01/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 10
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 30
+Field: qtd-ult-entr Nov: 1
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 18
+Field: val-control-sdo Nov: 0
+Field: val-lim-bc-icms-ult-entr Nov: 300
+Field: val-livre-1 Nov: 1
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 1
+Field: val-livre-4 Nov: 1
+Field: val-unit-base-calc-st Nov: 300
+Field: val-unit-bc-icms-ult-entr Nov: 300
+Field: val-unit-icms-ult-entr Nov: 21
+Field: val-unit-ressarcto Nov: 33
+Field: val-unit-ult-entr Nov: 300
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: C
+Field: cdn-model-docto-arrecadac Nov: 0
+Field: cdn-motiv-ressarcto Nov: 1
+Field: cdn-respons-ret Nov: 1
+Field: cod-chave-aces-nfe-ret Nov: 
+Field: cod-chave-nfe-ult-entr Nov: 
+Field: cod-docto Nov: 0000011
+Field: cod-docto-arrecadac Nov: 
+Field: cod-docto-nfe-ret Nov: 
+Field: cod-docto-ult-entr Nov: 0003001
+Field: cod-emit-nfe-ret Nov: 
+Field: cod-emit-ult-entr Nov: 4
+Field: cod-emitente Nov: 1
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 13f                 11122     73083000
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-ult-entr Nov: 01
+Field: cod-nat-operac-ult-entr Nov: 211st
+Field: cod-natur-operac Nov: 611tb
+Field: cod-ser-nfe-ret Nov: 
+Field: cod-ser-ult-entr Nov: 1
+Field: cod-serie Nov: un
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 01/01/0001
+Field: dat-livre-1 Nov: 10/08/2011
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-ult-entr Nov: 09/08/2011
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: yes
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-seq-item Nov: 20
+Field: num-seq-item-nfe-ret Nov: 0
+Field: num-seq-item-ult-entr Nov: 20
+Field: qtd-ult-entr Nov: 5
+Field: val-aliq-icms-ult-entr Nov: 7
+Field: val-aliq-st-ult-entr Nov: 25
+Field: val-control-sdo Nov: 0
+Field: val-lim-bc-icms-ult-entr Nov: 65
+Field: val-livre-1 Nov: 2
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 2
+Field: val-livre-4 Nov: 2
+Field: val-unit-base-calc-st Nov: 81,25
+Field: val-unit-bc-icms-ult-entr Nov: 65
+Field: val-unit-icms-ult-entr Nov: 4,55
+Field: val-unit-ressarcto Nov: 15,7625
+Field: val-unit-ult-entr Nov: 65
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: dwf-doc-it-ressarcto-cat Evento: D
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 59
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 2
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 10
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 3
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 2
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 6
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 2
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 2
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: val-livre-2 Nov: 0
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgmov      dwf-doc-it-ressarcto-cat               46          0         50
+mgmov      it-doc-fisc                             0         46          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                             46         46         50

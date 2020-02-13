@@ -1,0 +1,64 @@
+=====> BD: mgcad Tabela: clf-param-histor Evento: C
+Field: cdn-layout Nov: 12
+Field: cod-conteudo[1] Nov: 
+Field: cod-conteudo[2] Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: dat-exec Nov: 12/02/2020
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: idi-tip-param Nov: 1
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-seq-param Nov: 75
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: clf-param-histor Evento: C
+Field: cdn-layout Nov: 12
+Field: cod-conteudo[1] Nov: 
+Field: cod-conteudo[2] Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: dat-exec Nov: 12/02/2020
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: idi-tip-param Nov: 1
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-seq-param Nov: 90
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: 12/02/2020
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: 12/02/2020
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: 009
+Field: dat-exec Nov: 12/02/2020
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: 31/12/2012
+Field: dat-exec Nov: 12/02/2020
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: 12/02/2020
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: 12/02/2020
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: 12/02/2020
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: 12/02/2020
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: dat-exec Nov: 12/02/2020
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: 01/01/2011
+Field: cod-conteudo[2] Nov: 31/01/2011
+Field: dat-exec Nov: 12/02/2020
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      clf-param-histor                        2         13          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              2         13          0

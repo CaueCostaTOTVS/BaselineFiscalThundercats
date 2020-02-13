@@ -1,0 +1,10 @@
+     Cenario : CN01_OF0631_Apuracao_ICMS_ST
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor 'AC' no Campo Estado/UF."
+EXECUTE,"Informar o valor '01/05/2011' no Campo Período."
+EXECUTE,"Informar o valor '1' no Campo Estabel.."
+EXECUTE,"Informar o valor 'c:/automacao/relatorios/CN01_OF0631_Apuracao_ICMS_ST.lst' no Editor ."

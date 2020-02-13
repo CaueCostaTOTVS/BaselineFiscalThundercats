@@ -1,0 +1,8 @@
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 53|
+Field: int-1 Ant: 0 Nov: 604
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      ri-bem                                  0          1          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0          1          0

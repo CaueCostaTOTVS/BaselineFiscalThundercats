@@ -1,0 +1,252 @@
+----------------------------------------------------------------------------------------------------------------------------------  
+              Relatório de Demonstração do Cálculo da Estrutura do Item por Movimentação Ordem de Produção - Bloco K   
+----------------------------------------------------------------------------------------------------------------------------------  
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+  Estabelecimento: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                                             CNPJ: 53113791001790
+----------------------------------------------------------------------------------------------------------------------------------
+
+  Período Referência: 10/2013
+
+----------------------------------------------------------------------------------------------------------------------------------
+  Origem Estrutura:   Origem Estrutura: ENG - Engenharia do Produto
+  Estrutura Filtrada: Não
+----------------------------------------------------------------------------------------------------------------------------------
+
+  Unidade de Negócio: 123
+
+    Item: MBK-COPROD-F-01              Total Produzido:             7,800
+    *Possui lista de componentes cadastrada                     
+
+      Cod Insumo: MBK-COPROD-01
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.816 S                      3,900000             4,051948
+                10.817 S                      3,900000             3,741007
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-COPROD-01                 0,999097
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+    Co-Produto: MBK-COPROD-F-02           Total Produzido:             2,400
+
+      Cod Insumo: MBK-COPROD-01
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.816 S                      2,400000             2,493506
+                10.817 S                      2,400000             2,302158
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-COPROD-01                 0,999097
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+    Co-Produto: MBK-COPROD-F-02           Total Produzido:             2,400
+
+      Cod Insumo: MBK-COPROD-01
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.816 S                      2,400000             2,493506
+                10.817 S                      2,400000             2,302158
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-COPROD-01                 0,999097
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+    Co-Produto: MBK-COPROD-F-03           Total Produzido:             2,125
+
+      Cod Insumo: MBK-COPROD-01
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.816 S                      2,125000             2,207792
+                10.817 S                      2,125000             2,038369
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-COPROD-01                 0,999097
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+    Co-Produto: MBK-COPROD-F-03           Total Produzido:             2,125
+
+      Cod Insumo: MBK-COPROD-01
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.816 S                      2,125000             2,207792
+                10.817 S                      2,125000             2,038369
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-COPROD-01                 0,999097
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+    Co-Produto: MBK-COPROD-F-04           Total Produzido:             1,200
+
+      Cod Insumo: MBK-COPROD-01
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.816 S                      1,200000             1,246753
+                10.817 S                      1,200000             1,151079
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-COPROD-01                 0,999097
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+    Co-Produto: MBK-COPROD-F-05           Total Produzido:             2,000
+
+      Cod Insumo: MBK-COPROD-01
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.816 S                      2,000000             2,077922
+                10.817 S                      2,000000             1,918465
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-COPROD-01                 0,999097
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+
+    Item: MBK-DT-VAL-01                Total Produzido:             4,000
+    *Possui mudança de estrutura no período                     
+
+      Cod Insumo: MBK-DT-VAL-F-01
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.797 N                      1,000000            10,000000
+                10.798 N                      1,000000            10,000000
+                10.799 N                      1,000000            10,000000
+                10.800 N                      1,000000            10,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-DT-VAL-F-01              10,000000
+
+
+      ---
+
+      Cod Insumo: MBK-DT-VAL-F-02
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.797 N                      1,000000            12,000000
+                10.798 N                      1,000000            12,000000
+                10.799 N                      1,000000            12,000000
+                10.800 N                      1,000000            12,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-DT-VAL-F-02              12,000000
+
+
+      ---
+
+      Cod Insumo: MBK-DT-VAL-F-03
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.798 N                      1,000000            12,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-DT-VAL-F-03              12,000000
+
+
+      ---
+
+      Cod Insumo: MBK-DT-VAL-F-04
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.797 N                      1,000000            20,000000
+                10.800 N                      1,000000            20,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-DT-VAL-F-04              20,000000
+
+
+      ---
+
+      Cod Insumo: MBK-DT-VAL-F-05
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.797 N                      1,000000             6,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-DT-VAL-F-05               6,000000
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+    --------------------------------------------------------------------------------------------------------------------------------
+    --------------------------------------------------------------------------------------------------------------------------------
+
+    Item: MBK-LIST-01                  Total Produzido:             3,000
+    *Possui lista de componentes cadastrada                     
+
+      Cod Insumo: MBK-LIST-F-01
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.794 N                      1,000000            10,000000
+                10.795 N                      1,000000            15,000000
+                10.796 N                      1,000000            12,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-LIST-F-01                12,333333
+
+
+      ---
+
+      Cod Insumo: MBK-LIST-F-02
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.794 N                      1,000000            10,000000
+                10.795 N                      1,000000            13,000000
+                10.796 N                      1,000000            20,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-LIST-F-02                14,333333
+
+
+      ---
+
+      Cod Insumo: MBK-LIST-F-03
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.794 N                      1,000000            20,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-LIST-F-03                20,000000
+
+
+      ---
+
+      Cod Insumo: MBK-LIST-F-04
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.795 N                      1,000000            13,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-LIST-F-04                13,000000
+
+
+      ---
+
+      Cod Insumo: MBK-LIST-F-05
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.796 N                      1,000000             8,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-LIST-F-05                 8,000000
+
+
+      ---
+    --------------------------------------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------------------DATASUL - LF0228_1  

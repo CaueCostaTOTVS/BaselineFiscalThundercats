@@ -1,0 +1,18 @@
+=====> BD: mgmov Tabela: param-extrat-taf Evento: W Chave: *|Utiliz-SelecaoAuto|
+Field: param-caracter Ant: |1|2|4|5|6|8|9|10|11|12|13|14|15|16|17|18|100 Nov: |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18
+Field: param-inteiro Ant: 17 Nov: 18
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 53|
+Field: int-1 Ant: 0 Nov: 604
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 54|
+Field: int-1 Ant: 0 Nov: 605
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 56|
+Field: int-1 Ant: 0 Nov: 606
+=====> BD: mgcad Tabela: ri-bem Evento: W Chave: 57|
+Field: int-1 Ant: 0 Nov: 607
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      ri-bem                                  0          4          0
+mgmov      param-extrat-taf                        0          1          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0          5          0

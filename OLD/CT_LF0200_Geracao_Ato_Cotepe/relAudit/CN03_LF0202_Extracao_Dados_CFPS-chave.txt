@@ -1,0 +1,493 @@
+=====> BD: mgcad Tabela: reg-inf-compl Evento: C Chave: natur-cfps-relac|cod-cfps|
+Field: cod-tab-inform Nov: natur-cfps-relac
+Field: cod-campo-inform Nov: cod-cfps
+Field: cdn-identif Nov: 115
+Field: des-campo-inform Nov: C¢digo CFPS
+Field: idi-tipo Nov: 0
+Field: num-decimal Nov: 0
+Field: cod-format-campo Nov: X(08)
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|18013|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 18013
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|1802|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 1802
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|1803|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 1803
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|181OS|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 181OS
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|1933|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 1933
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|193301|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 193301
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|199DEE|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 199DEE
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|28013|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 28013
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|2802|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 2802
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|2803|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 2803
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|281OS|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 281OS
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 8101
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|2933|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 2933
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|5026|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 5026
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|511SER|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 511SER
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|5202|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 5202
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|5933|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 5933
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|59333S|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 59333S
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|5933m|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 5933m
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|5933ma|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 5933ma
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|599SGN|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 599SGN
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|6933|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 6933
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 115|6933ma|0|
+Field: cdn-identif Nov: 115
+Field: cod-indice Nov: 6933ma
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: D Chave: 1|1|0000111|1|611st|29/08/16|
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: C Chave: 1|1|0000111|1|611st|TODAY|
+Field: cod-estab Nov: 1
+Field: cod-serie Nov: 1
+Field: cod-docto Nov: 0000111
+Field: cod-emitente Nov: 1
+Field: cod-natur-operac Nov: 611st
+Field: dat-inic-valid Nov: TODAY
+Field: dat-fim-valid ?
+Field: val-fundo-uf-dest Nov: 0
+Field: val-icms-uf-dest Nov: 270
+Field: val-icms-uf-remet Nov: 180
+Field: cod-uf-dest Nov: SP
+Field: cod-uf-remet Nov: SC
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|1|1|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|2|1|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|1|3|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|1|4|TODAY|
+Field: cod-conteudo[1] Ant: /  / Nov: 
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|1|5|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|1|6|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|1|7|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|1|8|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 1|1|9|TODAY|
+Field: dat-exec Ant: 30/05/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 1|1|10|TODAY|
+Field: cdn-layout Nov: 1
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 10
+Field: cod-conteudo[1] Nov: Sim
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      clf-param-histor                        1          9          0
+mgcad      inf-compl                              22          0          0
+mgcad      reg-inf-compl                           1          0          0
+mgmov      dwf-docto-compl                         1          0          1
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                             25          9          1

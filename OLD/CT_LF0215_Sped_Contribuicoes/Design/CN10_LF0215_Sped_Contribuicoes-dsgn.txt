@@ -1,0 +1,7 @@
+     Cenario : CN10_LF0215_Sped_Contribuicoes
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '01/08/2011' no Campo Data Docto."

@@ -1,0 +1,13 @@
+     Cenario : CN03_OF0320_Geracao_Item_065
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '2011' no Campo Ano Apuração."
+EXECUTE,"Informar o valor '05' no Campo Mês Apuração."
+EXECUTE,"Informar o valor '1' no Campo Orig."
+EXECUTE,"Informar o valor '1740' no Campo Cod Receita."
+EXECUTE,"Informar o valor '156' no Campo Classe Vencto."
+EXECUTE,"Informar o valor '10/05/2011' no Campo Data Vencto."
+EXECUTE,"Informar o valor '150,00' no Campo Valor."

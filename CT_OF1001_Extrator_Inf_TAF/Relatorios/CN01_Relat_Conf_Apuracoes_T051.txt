@@ -1,0 +1,7 @@
+Estabelecimento	Período	Estado	Valor Saldo Credor Ant. Difal	Valor Total Déb. Difal	Valor Out. Déb. Difal	Valor Estorno Créd. Difal	Valor Total Créd. Difal	Valor Out. Créd. Difal	Valor Estorno Déb. Difal	Valor Saldo Dev. Ant. Difal	Valor Deduções Difal	Valor Recolher Difal	Valor Saldo Credor Transp. Difal	Valor Déb. Especial Difal	Valor Saldo Credor Ant. FCP	Valor Total Déb. FCP	Valor Out. Déb. FCP	Valor Estorno Créd. FCP	Valor Total Créd. FCP	Valor Out. Créd. FCP	Valor Estorno Déb. FCP	Valor Saldo Dev. Ant. FCP	Valor Deduções FCP	Valor Recolher FCP	Valor Saldo Credor Transp. FCP	Valor Déb. Especial FCP
+1	Aug-11	CE	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+1	Aug-11	MG	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+1	Aug-11	MS	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+1	Aug-11	MT	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+1	Aug-11	SC	2078.36	498.90	2100.00	321.00	0.00	214.00	100.00	527.54	250.00	277.54	0.00	785.00	655.31	0.00	1500.00	140.00	0.00	300.00	234.69	655.31	25.18	630.13	0.00	328.00
+1	Aug-11	SP	0.00	299.26	0.00	0.00	0.00	0.00	0.00	299.26	0.00	299.26	0.00	0.00	110.42	110.42	0.00	0.00	0.00	0.00	0.00	110.42	0.00	110.42	0.00	0.00

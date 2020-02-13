@@ -1,0 +1,129 @@
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Geração e Envio REINF                                                  Página:    1
+-------------------------------------------------------------------------------------------------------------- 14/12/2018 - 10:25:55
+
+ Resultado Geração - Contribuição Previdenciária Sobre Receita Bruta - R-2060:
+ ----------------------------------------------------------------------------
+
+ Eventos Não Integrados (Ambiente: Produção Restrita):
+
+ Estab/CNO      CNPJ/CNO/Proc             ID do Evento/Status Integração TSS
+ -------------- ------------------------- ---------------------------------------------------------------------------------------- 
+ 1                                        ID1531137910000002018121410255300000                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0401RP - V:2.00.00.021
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Geração e Envio REINF                                                  Página:    2
+-------------------------------------------------------------------------------------------------------------- 14/12/2018 - 10:25:55
+
+
+    Seleção:
+                                            Estabelecimento: 1     |< >| 1
+
+    Parâmetros:
+                                                    Período: 201401
+                                                      Faixa: 01/01/2014 |< >| 31/01/2014
+                                         Estab Contribuinte:
+
+    Movimentos Periódicos
+                                    Serviços Tomados R-2010: Não
+                                  Serviços Prestados R-2020: Não
+        Recursos Recebidos por Associação Desportiva R-2030: Não
+      Recursos Repassados para Associação Desportiva R-2040: Não
+                   Comercialização da Produção Rural R-2050: Não
+     Contribuição Previdenciária Sobre Receita Bruta R-2060: Sim
+
+    Movimentos não Periódicos
+                    Receita de Espetáculo Desportivo R-3010: Não
+
+    Cadastros
+                                        Contribuinte R-1000: Não
+                                           Processos R-1070: Não
+
+    Reabertura/Fechamento
+                   Reabertura dos Eventos Periódicos R-2098: Não
+                   Fechamento dos Eventos Periódicos R-2099: Não
+
+    Geração:
+                                   Integrar dados com o TSS: Não
+                                  Exportar XML's em Arquivo: Sim
+                                 Diretório Exportação XML's: C:\Automacao\Relatorios\
+
+    Impressão:
+                                                    Destino: 2
+                                                    Arquivo: C:\Automacao\Relatorios\CN_LF0401_R2060_DT_EMIS.ls
+                                                    Usuário: super
+
+
+
+    Arquivos auxiliares para conferência gerados em:  c:\tmp\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0401RP - V:2.00.00.021
+

@@ -1,0 +1,9 @@
+     Cenario : CN09_OF0540_Registro_Entradas
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabel."
+EXECUTE,"Informar o valor '01/07/2011' no Campo Data."
+EXECUTE,"Informar o valor '31/07/2011' no Campo ."

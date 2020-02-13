@@ -1,0 +1,94 @@
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2011|5|
+Field: id-ult-bem Ant: 8 Nov: 0
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2011|6|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2011
+Field: mes Nov: 6
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 0
+Field: val-tot-imposto-a-aprop Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2011|6|
+Field: id-ult-bem Ant: 6 Nov: 0
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2011|7|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2011
+Field: mes Nov: 7
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 110
+Field: val-tot-imposto-a-aprop Nov: 5280
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 979,24
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2011|7|
+Field: id-ult-bem Ant: 16 Nov: 8
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/07/11|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 102
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/07/2011
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      ri-contr-livros                         1          0          0
+mgmov      ri-fatur-mes                            0          3          0
+mgmov      ri-fatur-mes-grupo-impto                2          0          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              3          3          0

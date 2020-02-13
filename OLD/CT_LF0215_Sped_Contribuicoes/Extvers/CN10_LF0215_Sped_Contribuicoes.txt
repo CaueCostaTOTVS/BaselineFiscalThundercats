@@ -1,0 +1,239 @@
+MEN702DC                              3.00.00.001    menu_uit                      TODAY  00:00:00
+BTB906ZA                              2.00.00.011    men702dc                      TODAY  00:00:00
+MEN901ZA                              2.00.00.006    men702dc                      TODAY  00:00:00
+UT-TRDFR                              3.00.00.001    men702dc                      TODAY  00:00:00
+LF0200                                2.00.00.020    men702dc                      TODAY  00:00:00
+MEN901ZA                              2.00.00.006    lf0200                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    lf0200                        TODAY  00:00:00
+BTB970AA                              2.00.00.004    lf0200                        TODAY  00:00:00
+BTB432ZG                              2.00.01.008    btb970aa                      TODAY  00:00:00
+BOFI157                               2.00.00.011    lf0200                        TODAY  00:00:00
+BTBSECURITY                           3.00.00.001    bofi157                       TODAY  00:00:00
+MEN901ZA                              2.00.00.006    btbsecur                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofi157                       TODAY  00:00:00
+WINDOWSTYLES                          3.00.00.001    lf0200                        TODAY  00:00:00
+UT-TRCAMPOS                           2.00.00.009    lf0200                        TODAY  00:00:00
+LF0215                                2.00.00.040    lf0200                        TODAY  00:00:00
+MEN901ZA                              2.00.00.006    lf0215                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    lf0215                        TODAY  00:00:00
+BTB970AA                              2.00.00.004    lf0215                        TODAY  00:00:00
+THINFOLDER                            2.00.00.002    lf0215                        TODAY  00:00:00
+UT-TRCAMPOS                           2.00.00.009    lf0215                        TODAY  00:00:00
+BTB920AA                              2.00.00.012    lf0215                        TODAY  00:00:00
+LF0215RP                              2.00.00.037    lf0215                        TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    lf0215rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    lf0215rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    lf0215rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    lf0215rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    lf0215rp                      TODAY  00:00:00
+BTB920AA                              2.00.00.012    lf0215rp                      TODAY  00:00:00
+CD9970                                2.00.00.005    lf0215rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    lf0215rp                      TODAY  00:00:00
+UT-ACOMP                              2.00.00.003    lf0215rp                      TODAY  00:00:00
+LF0215A                               2.00.01.053    lf0215rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    lf0215a                       TODAY  00:00:00
+CDCFGFISCAL                           2.00.00.004    lf0215a                       TODAY  00:00:00
+CDCFGFISCAL-1                         2.00.00.005    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-2                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-3                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-4                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-5                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+TDFI376                               2.00.00.000    lf0215a                       TODAY  00:00:00
+TDFI376                               2.00.00.000    lf0215a                       TODAY  00:00:00
+TDFI375                               2.00.00.000    lf0215a                       TODAY  00:00:00
+TDFI375                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BOFI376                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofi376                       TODAY  00:00:00
+BTBCUSTOM                             3.00.00.001    bofi376                       TODAY  00:00:00
+TCFI376                               2.00.00.000    bofi376                       TODAY  00:00:00
+TWFI376                               2.00.00.000    bofi376                       TODAY  00:00:00
+TCFI376                               2.00.00.000    bofi376                       TODAY  00:00:00
+TWFI376                               2.00.00.000    bofi376                       TODAY  00:00:00
+BOFI375                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofi375                       TODAY  00:00:00
+TCFI375                               2.00.00.000    bofi375                       TODAY  00:00:00
+TWFI375                               2.00.00.000    bofi375                       TODAY  00:00:00
+TDFI376                               2.00.00.000    lf0215a                       TODAY  00:00:00
+TDFI376                               2.00.00.000    lf0215a                       TODAY  00:00:00
+TDFI375                               2.00.00.000    lf0215a                       TODAY  00:00:00
+TDFI375                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BOFI376                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofi376                       TODAY  00:00:00
+TCFI376                               2.00.00.000    bofi376                       TODAY  00:00:00
+TWFI376                               2.00.00.000    bofi376                       TODAY  00:00:00
+TCFI376                               2.00.00.000    bofi376                       TODAY  00:00:00
+TWFI376                               2.00.00.000    bofi376                       TODAY  00:00:00
+BOFI375                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofi375                       TODAY  00:00:00
+TCFI375                               2.00.00.000    bofi375                       TODAY  00:00:00
+TWFI375                               2.00.00.000    bofi375                       TODAY  00:00:00
+TDFI386                               2.00.00.000    lf0215a                       TODAY  00:00:00
+TDFI385                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BOFI386                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofi386                       TODAY  00:00:00
+TCFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+TWFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+TCFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+TWFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+TCFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+TWFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+TCFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+TWFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+BOFI385                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofi385                       TODAY  00:00:00
+TCFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TWFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TCFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TWFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TCFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TWFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TCFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TWFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TDFI386                               2.00.00.000    lf0215a                       TODAY  00:00:00
+TDFI385                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BOFI386                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofi386                       TODAY  00:00:00
+TCFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+TWFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+TCFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+TWFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+TCFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+TWFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+TCFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+TWFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+TCFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+TWFI386                               2.00.00.000    bofi386                       TODAY  00:00:00
+BOFI385                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofi385                       TODAY  00:00:00
+TCFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TWFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TCFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TWFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TCFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TWFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TCFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TWFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TCFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TWFI385                               2.00.00.000    bofi385                       TODAY  00:00:00
+TDFI379                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BOFI379                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofi379                       TODAY  00:00:00
+TCFI379                               2.00.00.000    bofi379                       TODAY  00:00:00
+TWFI379                               2.00.00.000    bofi379                       TODAY  00:00:00
+BOFI378                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofi378                       TODAY  00:00:00
+TCFI378                               2.00.00.000    bofi378                       TODAY  00:00:00
+TWFI378                               2.00.00.000    bofi378                       TODAY  00:00:00
+TDFI379                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BOFI379                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofi379                       TODAY  00:00:00
+TCFI379                               2.00.00.000    bofi379                       TODAY  00:00:00
+TWFI379                               2.00.00.000    bofi379                       TODAY  00:00:00
+BOFI378                               2.00.00.000    lf0215a                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofi378                       TODAY  00:00:00
+TCFI378                               2.00.00.000    bofi378                       TODAY  00:00:00
+TWFI378                               2.00.00.000    bofi378                       TODAY  00:00:00
+     PonInicio pi-carrega-0500-0600                                                                         
+BTB009ZA                              2.00.00.003    lf0215a                       TODAY  00:00:00
+api_valida_emp_estab                      prgint/utb/utb786za.py    1.00.00.036    TODAY  00:00:00
+     PonEmpresa: 10                                                                                         
+     Pontt-cta.cod_cta:                                                                                     
+     Pontt-cta.cod_ccus:                                                                                    
+     PonERRO: Conta Cont bil  da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl                       
+     Pontt-cta.cod_cta: 112110500000105                                                                     
+     Pontt-cta.cod_ccus:                                                                                    
+     PonERRO: Conta Cont bil 112110000000100 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 112000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 110000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 100000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     Pontt-cta.cod_cta: 112110500000105                                                                     
+     Pontt-cta.cod_ccus: 010701010000101                                                                    
+     PonERRO: Conta Cont bil 112110000000100 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 112000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 110000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 100000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     Pontt-cta.cod_cta: 112110700000107                                                                     
+     Pontt-cta.cod_ccus:                                                                                    
+     PonERRO: Conta Cont bil 112110000000100 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 112000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 110000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 100000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     Pontt-cta.cod_cta: 112112000000120                                                                     
+     Pontt-cta.cod_ccus:                                                                                    
+     PonERRO: Conta Cont bil 112110000000100 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 112000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 110000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 100000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     Pontt-cta.cod_cta: 112210600000106                                                                     
+     Pontt-cta.cod_ccus:                                                                                    
+     PonERRO: Conta Cont bil 112210000000100 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 112000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 110000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 100000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     Pontt-cta.cod_cta: 112211400000114                                                                     
+     Pontt-cta.cod_ccus:                                                                                    
+     PonERRO: Conta Cont bil 112210000000100 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 112000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 110000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 100000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     Pontt-cta.cod_cta: 112500100000001                                                                     
+     Pontt-cta.cod_ccus:                                                                                    
+     PonERRO: Conta Cont bil 112500000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 112000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 110000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 100000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     Pontt-cta.cod_cta: 112510100000101                                                                     
+     Pontt-cta.cod_ccus:                                                                                    
+     PonERRO: Conta Cont bil 112500000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 112000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 110000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 100000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     Pontt-cta.cod_cta: 113015800000158                                                                     
+     Pontt-cta.cod_ccus:                                                                                    
+     PonERRO: Conta Cont bil 113010000000100 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 113000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 110000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 100000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     Pontt-cta.cod_cta: 132020100000201                                                                     
+     Pontt-cta.cod_ccus:                                                                                    
+     PonERRO: Conta Cont bil 132020000000200 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 132000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 130000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 100000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     Pontt-cta.cod_cta: 211050400000530                                                                     
+     Pontt-cta.cod_ccus:                                                                                    
+     PonERRO: Conta Cont bil 211000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 210000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 200000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     Pontt-cta.cod_cta: 211050400000601                                                                     
+     Pontt-cta.cod_ccus:                                                                                    
+     PonERRO: Conta Cont bil 211000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 210000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 200000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     Pontt-cta.cod_cta: 311311311312113                                                                     
+     Pontt-cta.cod_ccus:                                                                                    
+     PonERRO: Conta Cont bil 300000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     Pontt-cta.cod_cta: 311311311315113                                                                     
+     Pontt-cta.cod_ccus:                                                                                    
+     PonERRO: Conta Cont bil 300000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     Pontt-cta.cod_cta: 413050100000502                                                                     
+     Pontt-cta.cod_ccus:                                                                                    
+     PonERRO: Conta Cont bil 413000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 410000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 400000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     Pontt-cta.cod_cta: 413050100000503                                                                     
+     Pontt-cta.cod_ccus:                                                                                    
+     PonERRO: Conta Cont bil 413000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 410000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 400000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     Pontt-cta.cod_cta: 511110100000101                                                                     
+     Pontt-cta.cod_ccus:                                                                                    
+     PonERRO: Conta Cont bil 511110000000100 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 511100000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 511000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 510000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonERRO: Conta Cont bil 500000000000000 da empresa 10 nÆo foi encontrada na tabela dwf-cta-ctbl-refer  
+     PonFim pi-carrega-0500-0600                                                                            
+BTB918ZB                              2.00.00.002    lf0215                        TODAY  00:00:00
+CD9150E                               2.00.00.015    menu_uit                      TODAY  00:00:00
+CD9150G                               2.00.00.002    cdp\cd91                      TODAY  00:00:00

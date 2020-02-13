@@ -1,0 +1,9 @@
+     Cenario : CN01_OF1001_Extrator_TAF_GIA_RJ
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '10' no Campo Empresa."
+EXECUTE,"Informar o valor '1' no Campo Estabelecimento."
+EXECUTE,"Informar o valor '01/05/2011' no Campo Data Extração."

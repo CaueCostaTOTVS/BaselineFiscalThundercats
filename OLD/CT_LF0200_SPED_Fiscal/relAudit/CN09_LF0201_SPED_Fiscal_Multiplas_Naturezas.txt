@@ -1,0 +1,46 @@
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: 01/10/2011
+Field: cod-conteudo[2] Nov: 31/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W
+Field: dat-livre-1 Nov: 01/10/2011
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      clf-param-histor                        0          1          0
+mgcad      dwf-alter-dados                         0         18          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0         19          0

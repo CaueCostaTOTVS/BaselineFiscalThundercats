@@ -1,0 +1,133 @@
+------------------------------------------------------------------------------------------------------------------------------------
+TOTVS S.A.                                       Extrator TAF                                                           Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+    Parâmetros
+
+                           Empresa: 10
+                   Estabelecimento: 1                |< >| 1
+                             Série:                  |< >| ZZZZZ
+                         Documento:                  |< >| ZZZZZZZZZZZZZZZZ
+                     Data Extração: 01/01/14         |< >| 31/01/14
+            Extrair Somente REINF?: Não
+
+                   Tipo de Geração: Arquivo Texto
+
+
+                   Apuração de ICMS / ICMS ST
+
+                                          Considerar CFOP de serviços?: Não
+
+                   Documentos Fiscais
+
+                                                               Entrada: Não
+                                                                 Saída: Não
+                                                               Serviço: Não
+
+                   Plano de Contas Contábeis
+
+                                                          Empresa EMS5:
+                                                      Matriz de Contas:
+
+                   Controle de Crédito de ICMS do Ativo Permanente
+
+                           Primeira Entrega do Bloco G no SPED Fiscal?: Não
+
+                   CPRB - Notas Fiscais de Exportação pela Data de: Emissão
+
+                   Inventário
+
+                    Motivo                            Dt Fechamento  Preço Base ICMS  %Margem  Estab x Item
+                    --------------------------------  -------------  ---------------  -------  ------------
+                    Final do Período...........: Não
+                    Mudança Forma Tributação...: Não
+                    Solicitação Baixa Cadastral: Não
+                    Alteração Regime Pagamento.: Não
+                    Solicitação da Fiscalização: Não
+
+                    Período para Média das Entradas
+
+                    Data Transação Inicial:
+                    Data Transação Final:
+
+                    Inventário em Processo
+
+                    Considera Produtos em Fabricação: Não
+
+
+    Impressão
+
+        Destino: Arquivo
+        Arquivo: c:/automacao/relatorios/CN05_Acompa
+        Usuário: super
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------TOTVS -  - OF1001RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+TOTVS S.A.                                       Extrator TAF                                                           Página:    2
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+    Registros Selecionados:
+
+                    Contribuição Previdenciária sobre a Receita Bruta – CPRB
+
+Arquivo Gerado
+----------------------------------------------------------------------------------------------------
+c:\automacao\relatorios\Estab-1_TAFTODAY170616.txt
+
+Relatório Conferência Gerado
+----------------------------------------------------------------------------------------------------
+c:\automacao\relatorios\RELAT_CONF_TAFTODAY170616.xlsx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------TOTVS -  - OF1001RP - V:0.00.00.000
+

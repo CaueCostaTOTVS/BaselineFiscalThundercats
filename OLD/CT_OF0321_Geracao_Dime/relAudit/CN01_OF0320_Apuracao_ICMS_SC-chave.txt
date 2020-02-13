@@ -1,0 +1,143 @@
+=====> BD: mgcad Tabela: guia-icms Evento: C Chave: 2011|6|255721161|
+Field: gia-ano Nov: 2011
+Field: gia-mes Nov: 6
+Field: ins-estadual Nov: 255721161
+Field: cgc Nov: 
+Field: cd-ativ-econ Nov: 
+Field: id-contrib Nov: 1
+Field: nome-estab Nov: 
+Field: cd-municipio Nov: 
+Field: cidade Nov: 
+Field: estado Nov: 
+Field: observacoes Nov: 
+Field: fatur-mensal Nov: 0
+Field: data-inicial Nov: 01/01/0001
+Field: data-final Nov: TODAY
+Field: telefone Nov: 
+Field: endereco Nov: 
+Field: cd-lograd Nov: 
+Field: compl-ender Nov: 
+Field: bairro Nov: 
+Field: cep Nov: 
+Field: nr-edific Nov: 
+Field: cpf-contad Nov: 79195806920
+Field: crc-contad Nov: 
+Field: nome-contad Nov: contabilista new
+Field: tel-contad Nov: 
+Field: end-contad Nov: 
+Field: nr-ed-contad Nov: 
+Field: bairro-cont Nov: 
+Field: cd-mun-cont Nov: 
+Field: cidade-cont Nov: 
+Field: cep-contad Nov: 
+Field: estado-cont Nov: 
+Field: cd-apuracao[1] Nov: 0
+Field: cd-apuracao[2] Nov: 0
+Field: cd-apuracao[3] Nov: 0
+Field: cd-apuracao[4] Nov: 0
+Field: cd-apuracao[5] Nov: 0
+Field: cd-apuracao[6] Nov: 0
+Field: cd-apuracao[7] Nov: 0
+Field: cd-apuracao[8] Nov: 0
+Field: cd-apuracao[9] Nov: 0
+Field: cd-apuracao[10] Nov: 0
+Field: cd-apuracao[11] Nov: 0
+Field: cd-apuracao[12] Nov: 0
+Field: cd-apuracao[13] Nov: 0
+Field: cd-apuracao[14] Nov: 0
+Field: cd-apuracao[15] Nov: 0
+Field: cd-apuracao[16] Nov: 0
+Field: cd-apuracao[17] Nov: 0
+Field: cd-apuracao[18] Nov: 0
+Field: cd-apuracao[19] Nov: 0
+Field: cd-apuracao[20] Nov: 0
+Field: cd-apuracao[21] Nov: 0
+Field: cd-apuracao[22] Nov: 0
+Field: cd-apuracao[23] Nov: 0
+Field: cd-apuracao[24] Nov: 0
+Field: cd-apuracao[25] Nov: 0
+Field: vl-apurado[1] Nov: 0
+Field: vl-apurado[2] Nov: 0
+Field: vl-apurado[3] Nov: 0
+Field: vl-apurado[4] Nov: 0
+Field: vl-apurado[5] Nov: 0
+Field: vl-apurado[6] Nov: 0
+Field: vl-apurado[7] Nov: 0
+Field: vl-apurado[8] Nov: 0
+Field: vl-apurado[9] Nov: 0
+Field: vl-apurado[10] Nov: 0
+Field: vl-apurado[11] Nov: 0
+Field: vl-apurado[12] Nov: 0
+Field: vl-apurado[13] Nov: 0
+Field: vl-apurado[14] Nov: 0
+Field: vl-apurado[15] Nov: 0
+Field: vl-apurado[16] Nov: 0
+Field: vl-apurado[17] Nov: 0
+Field: vl-apurado[18] Nov: 0
+Field: vl-apurado[19] Nov: 0
+Field: vl-apurado[20] Nov: 0
+Field: vl-apurado[21] Nov: 0
+Field: vl-apurado[22] Nov: 0
+Field: vl-apurado[23] Nov: 0
+Field: vl-apurado[24] Nov: 0
+Field: vl-apurado[25] Nov: 0
+Field: cd-receita[1] Nov: 0
+Field: cd-receita[2] Nov: 0
+Field: cd-receita[3] Nov: 0
+Field: cd-receita[4] Nov: 0
+Field: cd-receita[5] Nov: 0
+Field: cd-receita[6] Nov: 0
+Field: cd-receita[7] Nov: 0
+Field: cd-receita[8] Nov: 0
+Field: cd-receita[9] Nov: 0
+Field: cd-receita[10] Nov: 0
+Field: dt-vencto-r[1] ?
+Field: dt-vencto-r[2] ?
+Field: dt-vencto-r[3] ?
+Field: dt-vencto-r[4] ?
+Field: dt-vencto-r[5] ?
+Field: dt-vencto-r[6] ?
+Field: dt-vencto-r[7] ?
+Field: dt-vencto-r[8] ?
+Field: dt-vencto-r[9] ?
+Field: dt-vencto-r[10] ?
+Field: vl-receita[1] Nov: 0
+Field: vl-receita[2] Nov: 0
+Field: vl-receita[3] Nov: 0
+Field: vl-receita[4] Nov: 0
+Field: vl-receita[5] Nov: 0
+Field: vl-receita[6] Nov: 0
+Field: vl-receita[7] Nov: 0
+Field: vl-receita[8] Nov: 0
+Field: vl-receita[9] Nov: 0
+Field: vl-receita[10] Nov: 0
+Field: cd-mun-adic[1] Nov: 
+Field: cd-mun-adic[2] Nov: 
+Field: cd-mun-adic[3] Nov: 
+Field: cd-mun-adic[4] Nov: 
+Field: cd-mun-adic[5] Nov: 
+Field: vl-adic-min[1] Nov: 0
+Field: vl-adic-min[2] Nov: 0
+Field: vl-adic-min[3] Nov: 0
+Field: vl-adic-min[4] Nov: 0
+Field: vl-adic-min[5] Nov: 0
+Field: banco Nov: 0
+Field: agencia Nov: 
+Field: conta Nov: 
+Field: char-1 Nov: 1111  31110
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      guia-icms                               1          0          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              1          0          0

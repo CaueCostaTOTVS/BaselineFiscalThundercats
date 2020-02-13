@@ -1,0 +1,6 @@
+     Cenario : CN14_LF0201_SPED_Consigacao_Set_2011
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

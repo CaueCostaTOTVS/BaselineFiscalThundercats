@@ -1,0 +1,418 @@
+**********************************[INI FUNCAO]*****************************
+
+
+Função EMS2                                        Módulo
+-------------------------------------------------- ------
+adm-acr-ems-5.00                                   ems2
+adm-apb-ems-5.00                                   ems2
+adm-apl-ems-5.00                                   ems2
+adm-cdc-ems-5.00                                   ems2
+adm-cdf-ems-5.00                                   ems2
+adm-cfl-ems-5.00                                   ems2
+adm-cmg-ems-5.00                                   ems2
+adm-fas-ems-5.00                                   ems2
+adm-fgl-ems-5.00                                   ems2
+adm-period-ctbl                                    ems2
+aut-impto                                          ems2
+ccusto-produtivo-estab                             ems2
+Clientes 2.00                                      ems2
+conv-i-4ad                                         ems2
+ems2-unidade-negocio                               ems2
+eqapi300a                                          ems2
+Espécie APB 2.00                                   ems2
+fatura-item-composto-WMS                           ems2
+FI-REFER                                           ems2
+Fornecedor 2.00                                    ems2
+IFRS-Anual                                         ems2
+Integra_MLA_EMS                                    ems2
+LOG_RET_EMB_WMS                                    ems2
+Ped-Venda-Reprov-MLA                               ems2
+Repres 2.00                                        ems2
+RI                                                 ems2
+RI001                                              ems2
+RI002                                              ems2
+RI01                                               ems2
+RI1                                                ems2
+RI10                                               ems2
+RI10000                                            ems2
+RI10002                                            ems2
+RI10027                                            ems2
+RI102                                              ems2
+RI18                                               ems2
+RI2                                                ems2
+RI301                                              ems2
+RIA1                                               ems2
+RIAV1                                              ems2
+RIca                                               ems2
+RIsp1                                              ems2
+RITM                                               ems2
+sfc-mudancas                                       ems2
+spp-                                               ems2
+spp-"un-piscofins"                                 ems2
+spp-42.1408.53.113.791/001                         ems2
+spp-acum-matriz                                    ems2
+spp-adm-ems-5.00                                   ems2
+spp-adm-vdr-ems-5.00                               ems2
+spp-agr-compr-antes                                ems2
+spp-APUR-IMPTO                                     ems2
+spp-aut-impto                                      ems2
+spp-bgc-ems-5.00                                   ems2
+spp-bloqueia-lote-devol                            ems2
+spp-bx-ch-recib                                    ems2
+spp-cad-cod-ret                                    ems2
+spp-cadastro-parametros-erp                        ems2
+spp-CD4035-nfe-c110                                ems2
+spp-CON TA-MOF                                     ems2
+spp-considera-tot-despesa                          ems2
+spp-conta-mof                                      ems2
+spp-CONTA-MRI-MOF                                  ems2
+spp-CONV-NFE-ENTRADA                               ems2
+spp-conversor-nfe                                  ems2
+SPP-CORR-PIS                                       ems2
+spp-cq-nao-insp                                    ems2
+spp-dat-atz-movto-est-wms                          ems2
+spp-desconto-nfe                                   ems2
+spp-desconto-zfm-item                              ems2
+spp-diego                                          ems2
+spp-dt-transacao-wms                               ems2
+spp-ec87                                           ems2
+spp-ems2-unidade-negocio                           ems2
+spp-ENT-FUT                                        ems2
+spp-entfut                                         ems2
+spp-esp-nfe-ver-comp                               ems2
+spp-espn-nfe-ver-comp                              ems2
+spp-estab-esoc                                     ems2
+spp-exportaTempTable                               ems2
+spp-FDA                                            ems2
+spp-FI-REFER                                       ems2
+spp-finnfe                                         ems2
+spp-fis-sped-bloco-1900                            ems2
+spp-FIS/CFG-TRIB/03                                ems2
+spp-FIS|178652012|01                               ems2
+spp-FIS|178732012|01                               ems2
+spp-FIS|CFG-TRIB|01                                ems2
+spp-fis|CFG-TRIB|03                                ems2
+spp-FIS|CFG-TRIB|05                                ems2
+spp-FIS|decimais-pis-cofins|01                     ems2
+spp-fis|sped-bloco-1900|01                         ems2
+spp-fis|sped-bloco-1900|01                         ems2
+spp-FIS|SPED-MSG-DOC-FISC|01                       ems2
+spp-fn-des-fabr-medic                              ems2
+spp-FT090442.1408.53.113.791/                      ems2
+spp-FT4100                                         ems2
+spp-habilitaLogix                                  ems2
+spp-his                                            ems2
+spp-IFRS-Anual                                     ems2
+spp-INTEG-NFSE                                     ems2
+spp-integ-tss                                      ems2
+spp-integ-tss-sincrono                             ems2
+spp-INTEG.NFE                                      ems2
+spp-INTEG.NFSE                                     ems2
+spp-integr-tss                                     ems2
+spp-integr-tss-sincrono                            ems2
+spp-Integra_MLA_EMS                                ems2
+SPP-INTWS                                          ems2
+spp-iss-retido                                     ems2
+spp-is|sped-bloco-1900|01                          ems2
+spp-l-funcao-ccusto-estab                          ems2
+spp-l-grãos-ativo                                  ems2
+spp-log-sequenciamento                             ems2
+spp-LOTE-AVANCADO                                  ems2
+spp-mab-impl                                       ems2
+spp-MAB-NF                                         ems2
+spp-mao-impl                                       ems2
+spp-mco-impl                                       ems2
+spp-merc-zfm-sem-arred                             ems2
+spp-mgf-impl                                       ems2
+spp-mla                                            ems2
+spp-mmv-impl                                       ems2
+spp-mnd-impl                                       ems2
+spp-mpn-impl                                       ems2
+spp-mult-excel-db0405-dbr                          ems2
+SPP-NEOLOG                                         ems2
+spp-nf-e                                           ems2
+spp-nfe                                            ems2
+spp-Nfe-sem-modulo-MEX                             ems2
+spp-nfeft4003                                      ems2
+spp-nove-casas-dec                                 ems2
+spp-novoex                                         ems2
+spp-OBS-CONTATO                                    ems2
+spp-oi                                             ems2
+spp-P100-efd-contrib-ncm-ex                        ems2
+spp-pagina-razao                                   ems2
+spp-Ped-Venda-Reprov-MLA                           ems2
+spp-perc-aplic-pauta                               ems2
+spp-PORTAL-LIBERA-CANCEL                           ems2
+spp-PORTAL-LIBERA-CANCELAMENT                      ems2
+spp-PORTAL-PARADIGMA                               ems2
+spp-rec-sec-ct-operac                              ems2
+spp-sdo-fisc                                       ems2
+spp-segur-estab-transf                             ems2
+spp-ser-fat-est                                    ems2
+spp-sigla-un                                       ems2
+spp-sigla-un-sped                                  ems2
+spp-SL-AB-VENC                                     ems2
+spp-spap0505                                       ems2
+spp-splf010                                        ems2
+spp-spp-aut-impto                                  ems2
+spp-spp-conta-mof                                  ems2
+spp-SPP-CONTA-MRI-MOF                              ems2
+spp-SPP-FI-REFER                                   ems2
+spp-spp-finnfe                                     ems2
+spp-spp-habilita-mod-qtd                           ems2
+spp-spp-ifrs-contab-estoq                          ems2
+spp-SPP-iNTEG-NFSE                                 ems2
+spp-SPP-INTEG-TSS-SINCRON                          ems2
+spp-spp-mab-impl                                   ems2
+spp-spp-mult-excel-db0405-dbr                      ems2
+spp-spp-nfe                                        ems2
+spp-Spp-Ped-Venda-Reprov-MLA                       ems2
+spp-SPP-PORTAL-LIBERA-CANCELA                      ems2
+spp-Spp-segur-estab-transf                         ems2
+spp-SPP-VALIDA-CHAVE-NFE-HOMO                      ems2
+spp-spp-var-pedidos-conv                           ems2
+spp-STA-Entrada                                    ems2
+spp-totvs                                          ems2
+spp-TOTVS Colaboration                             ems2
+spp-TOTVS-COLABORACAO                              ems2
+spp-tss-sincrono                                   ems2
+spp-tt-manut-dcto.ct-codigo                        ems2
+spp-un-piscofins                                   ems2
+spp-un_piscofins                                   ems2
+spp-VALIDA-CHAVE-AMB-HOMOLOG                       ems2
+spp-ValidaConvItem                                 ems2
+spp-var-pedidos-conv                               ems2
+spp-Vdesc                                          ems2
+spp-vlbruzfm                                       ems2
+spp-Y:\Temp\caue\DPF                               ems2
+spp_converte_conta                                 ems2
+USA-MULT-NAT-RECEB                                 ems2
+valida-doc-espec24                                 ems2
+valida-doc-espec25                                 ems2
+valida-doc-espec26                                 ems2
+valida-doc-espec28                                 ems2
+ValidaDataCorteCF                                  ems2
+**********************************[FIM FUNCAO]*****************************
+
+**********************************[INI FUNCAO]*****************************
+
+
+Função EMS5                                        Módulo
+-------------------------------------------------- ----------
+10 - spp_sdo_ctbl_apartir_empenho                  BGC
+api_execucao_orcamentaria                          BGC
+ATUALIZADO MATRIZ SPED - MELHORIAS SPED            utb
+fgl902za12806FiscalDolar                           FGL
+fgl902za12806FiscalIFRS I                          FGL
+fgl902za12806FiscalIFRS II                         FGL
+fgl902za12806IFRS IICorrente                       FGL
+fgl902za12806IFRS IIDolar                          FGL
+fgl902za12806IFRS IIFinalid                        FGL
+fgl902za12806IFRS IIFiscal                         FGL
+fgl902za12806IFRS IIIFRS I                         FGL
+fgl902za12806IFRS IIIFRS II                        FGL
+fgl902za12806IFRSCorrente                          FGL
+fgl902za12806IFRSDolar                             FGL
+fgl902za12806IFRSFinalid                           FGL
+fgl902za12806IFRSFiscal                            FGL
+fgl902za12806IFRSIFRS I                            FGL
+fgl902za12806IFRSIFRS II                           FGL
+fgl902za12806SocialDolar                           FGL
+fgl902za12806SocialFinalid                         FGL
+fgl902za12806SocialIFRS I                          FGL
+fgl902za12806SocialIFRS II                         FGL
+fnc_acerta_campos_id_feder                         UFN
+spp_abat_prev_acr_zera_sdo                         ACR
+spp_acertar_movto_cta_corren_transf                CMG
+spp_acertar_tipo_imposto                           SPP
+spp_acertar_tipo_secao_fluxo                       CFL
+spp_acertar_tipo_secao_fluxo                       CFL
+spp_acertar_val_aprop_ctbl                         ACR
+spp_acerta_abat_pagto_tit_ap                       APB
+spp_acerta_aprop_ctbl_ap
+spp_acerta_aprop_liq_encto_cta                     ACR
+spp_acerta_aprop_tit_acr_devolucao                 acr
+spp_Acerta_ctbz_movto_estorno                      APB
+spp_acerta_data_apurac_impto                       APB
+spp_acerta_estorno_cheq                            APB
+spp_acerta_juros_tit_ap                            APB
+spp_acerta_log_cancdo_cheq_ap                      apb
+spp_acerta_situacao_antecip_pef                    apb
+spp_acerto_aprop_ctbl_acr_iof                      ACR
+spp_acerto_dat_ult_apurac_tit_ap_Novo              apb
+spp_acerto_estorno_subst_nota                      APB
+SPP_ACERTO_ITEM_DOCTO_ENTR                         FAS
+spp_acerto_param_estab                             APB
+spp_acerto_tit_comis_repres                        acr
+spp_acerto_tit_nc_nb                               acr
+spp_acerto_tit_nc_nb                               apb
+spp_acerto_tot_avp                                 UTB
+spp_acum_por_matriz                                ufn
+spp_agenda_ausen_eec_elimina                       EEC
+SPP_alter_codigo_barra                             UFN
+spp_antecip_pef_pend                               APB
+spp_Api_deprec                                     UFN
+spp_aprop_ctbl_acr_acerto_estab                    ACR
+spp_aprop_ctbl_acr__desc_bcia                      ACR
+spp_aprop_ctbl_ap                                  APB
+spp_aprop_ctbl_apl_negativo                        APL
+spp_aprop_ctbl_ap_2                                APB
+spp_aprop_ctbl_ap_acerto                           APB
+spp_aprop_ctbl_ap_dat_trans                        APB
+spp_aprop_ctbl_ap_dat_transa                       APB
+spp_aprop_ctbl_ap_pef_impto                        APB
+spp_ativa_funcao_imposto_apb                       APB
+spp_atualizar_dat_liquidac_tit_acr                 ACR
+spp_atualizar_dat_ult_apurac_val_apb               apb
+spp_atualizar_dat_ult_apurac_val_Novo              ACR
+spp_atualizar_fornec_pessoa_fisica                 APB
+spp_atualiza_unid_orctaria                         bdg
+spp_atualiz_tip_cobr_portad_edi                    ACR
+spp_baixa_estab_tit                                UFN
+spp_bem_pat_acerto_quant                           FAS
+spp_bem_pat_cofins                                 fas
+spp_bem_pat_descricao                              fas
+spp_bem_pat_descricao_bem                          FAS
+spp_bem_pat_pis                                    FAS
+SPP_BF_FIN_APROP                                   UFN
+SPP_BLOQUEIO_FGL                                   UFN
+spp_bord_ap_sit_bxa                                APB
+spp_bxa_bem_manuf                                  UFN
+spp_cheq_acr_val_vincul                            acr
+spp_cheq_ap                                        APB
+spp_cheq_ap_dat_confir                             APB
+spp_clien_fornec_codigo_difer                      APB
+spp_col_demonst_ctbl_alter_nom                     mgl
+spp_compl_movto_pagto                              APB
+spp_compl_movto_pagto_cheq_adm                     APB
+spp_consiste_portador                              acr
+spp_corrige_campo_arredonda                        SPP
+spp_corrige_comissoes                              acr
+spp_corrigir_antecip_fluxo                         ACR
+spp_corrigir_estorno_bordero                       APB
+spp_corrigir_refer_movto_dcto                      ACR
+spp_corrigir_val_aprop_desf                        ACR
+spp_corrigir_val_tit_ap_val_sdo                    APB
+spp_criter_distrib_cta_ctbl                        utb
+spp_cta_ctbl_elimina_pai                           FGL
+spp_cta_ctbl_integr_acerto
+spp_demonst_ctbl_acerto                            mgl
+spp_despes_proces_eec                              EEC
+spp_dupl_vendor_dados_ant                          vdr
+spp_elimina_bem_filho_sem_pai                      spp
+spp_elimina_movto_pend_lote_liquidac               ACR
+spp_elimina_vlr_abatido                            apb
+spp_estornar_acum_pagto                            UFN
+spp_estorn_tit_estorndo_item_bord                  apb
+spp_estrut_tip_fluxo_financ_reseq                  cfl
+spp_FIN_ACERTO_AVP_VAL_TAX_DESC                    utb
+spp_fornec_financ_imposto                          APB
+spp_fornec_num_pessoa                              APB
+spp_gera_conta_aprop_ctbl_ap                       ACR
+spp_habilit_trig_fin                               APB
+spp_habilit_trig_fin_fgl                           FGL
+spp_habilit_trig_periodos                          FGL
+spp_histor_impto_empres                            APB
+spp_histor_item_distrib_gerc                       mgl
+spp_impto_impl_pend_ap                             APB
+spp_ind_aprop_impto_despes                         APL
+spp_inicia_seguranca_ucf                           cfl
+spp_integr_ativo_mri                               UFN
+spp_Integr_manufatura                              UFN
+spp_item_bord_ap_agrup_val                         APB
+spp_item_cheq_ap_estorno                           apb
+spp_item_demonst_ctbl_del_strut_visua              mgl
+spp_item_distrib_gerc_ctbl                         spp
+spp_item_integr_ctbl_ext                           dcf
+spp_layout_boleto
+spp_layout_dupl
+spp_layout_fluxo_cx_flex                           CFL
+spp_layout_fluxo_cx_flex_1                         CFL
+spp_libera_bf_fin_aprop                            ufn
+spp_lin_layout_ccusto                              dcu
+spp_lin_layout_movto_cta                           cmg
+spp_lin_layout_movto_cta_seq                       cmg
+spp_lista_pagto_parcial_bordero                    APB
+spp_lote_ctbl_acerto_base                          FGL
+spp_mapa_distrib_gerc_ctbl_analitica               MGL
+spp_metod_calc_dpr                                 fas
+spp_movto_comis_repres_acerto                      acr
+spp_movto_comis_repres_moeda                       ACR
+spp_movto_comis_vendor                             vdr
+spp_movto_fluxo_cx_elimina                         CFL
+spp_movto_fluxo_cx_oracle                          CFL
+spp_movto_ocor_bcia_elimina                        acr
+spp_movto_spc_param                                acr
+spp_movto_tit_acr_despesa                          acr
+spp_movto_tit_acr_impto                            ACR
+spp_movto_tit_Acr_transf_estab                     acr
+spp_movto_tit_ap_1                                 CMG
+spp_movto_tit_ap_acerto_impto                      APB
+spp_nampnvdtsvc                                    FIN
+spp_operac_financ_estorno                          acr
+spp_orig_movto_cmg_ems2                            CMG
+spp_param_ctbz_ativo_fixo                          fas
+spp_param_integr_ems                               utb
+spp_ped_vda_tit_acr                                ACR
+spp_pessoa_fisic_acerto_base                       UTB
+spp_pessoa_fisic_jurid_telef                       spp_
+spp_portad_finalid_econ_verifica                   ACR
+spp_proces_pagto_transf_estab                      APB
+spp_proj_financ_estab                              utb
+spp_rat_ctbl_acerto
+spp_reducao_base_tributavel                        UFN
+spp_relat_conf_valores_ir                          UFN
+spp_representante_dat_deslig                       spp_
+spp_repres_tit_acr_acerto_base                     ACR
+spp_repres_tit_acr_comis                           ACR
+spp_saldo_cfl                                      UFN
+spp_saldo_cmg                                      UFN
+spp_sdo_ctbl_zera_empenh                           bgc
+SPP_SDO_FISC                                       FGL
+spp_sdo_orcto_ctbl_bgc_vinc_plan                   bdg
+spp_sdo_orc_ctb_bgc_ace_cod_liv                    BGC
+spp_SPP_CONSULT_TIT_ACR_EXPORT                     UFN
+spp_tab_livre_emsfin_deduc                         apb
+spp_tip_trans_cx_cta_ctbl_emp                      CMG
+spp_tip_trans_cx_val_perc_rat                      CMG
+spp_tit_acr_aviso_debito                           ACR
+spp_tit_acr_dat_fluxo                              spp
+spp_tit_acr_liquidac_ad                            ACR
+spp_tit_acr_liquidac_gera_an                       ACR
+spp_tit_acr_val_liq                                ACR
+spp_tit_ap_acerta_estorno                          APB
+spp_tit_ap_acerta_movto                            APB
+spp_tit_ap_dat_liquidac                            APB
+spp_tit_ap_dat_vencto_an                           apb
+spp_tit_ap_leasing                                 APB
+spp_tit_ap_subst_tit_dp                            APB
+spp_trad_org_ext                                   utb
+spp_val_origin_bem_pat_zero2                       FAS
+spp_val_tit_ap_transf_estab                        apb
+spp_verifica_fnc_reduc_base                        APB
+spp_verif_item_bord_ocor_cancel                    apb
+utiliza operações em moeda extrangeira             APL
+**********************************[FIM FUNCAO]*****************************
+
+****************************[INI PROGRAMA PERSISTENTE]***********************
+
+
+Programas Persistentes
+--------------------------------------------------
+btb/btapi008.p
+btb/btb432zg.p
+btb/btb901zo.p
+btb/btb906zb.p
+btb/btbcustom.p
+btb/btbsecurity.p
+dibo/bodi063.p
+men/men901za.p
+ofp/of0320.w
+utp/thinfolder.w
+utp/ut-func.p
+utp/ut-globalsession.p
+utp/ut-log.p
+utp/ut-win.p
+utp/windowstyles.p
+**********************[FIM PROGRAMA PERSISTENTE]*****************************
+

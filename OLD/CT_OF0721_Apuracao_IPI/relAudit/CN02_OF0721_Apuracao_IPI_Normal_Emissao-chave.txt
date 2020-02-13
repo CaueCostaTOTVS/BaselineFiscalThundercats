@@ -1,0 +1,46 @@
+=====> BD: mgmov Tabela: imp-valor Evento: C Chave: 1|2|01/05/11|31/05/11|17|1|
+Field: cod-estabel Nov: 1
+Field: cod-lanc Nov: 17
+Field: descricao Nov: 
+Field: dt-apur-ini Nov: 01/05/2011
+Field: dt-apur-fim Nov: 31/05/2011
+Field: nr-sequencia Nov: 1
+Field: tp-imposto Nov: 2
+Field: vl-lancamento Nov: 365888,5
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+Field: cod-ajust-uf Nov: 
+=====> BD: mgmov Tabela: imp-valor Evento: W Chave: 1|2|01/05/11|31/05/11|17|1|
+Field: vl-lancamento Ant: 365888,5 Nov: 104393,07
+=====> BD: mgcad Tabela: contr-livros Evento: C Chave: 1|31/05/11|5|
+Field: cod-estabel Nov: 1
+Field: livro Nov: 5
+Field: nr-ult-pag Nov: 14
+Field: dt-ult-emi Nov: 31/05/2011
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      contr-livros                            1          0          0
+mgmov      imp-valor                               1          1          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              2          1          0

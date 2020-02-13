@@ -1,0 +1,29 @@
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|10000|29/01/09|
+Field: cod-conteudo[1] Ant: c:/Automacao/Relatorios Nov: c:/Automacao/Relatorios/
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|10|TODAY|
+Field: dat-exec Ant: 25/10/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|2|10|TODAY|
+Field: cod-conteudo[1] Ant: 01/10/2013 Nov: 01/09/2011
+Field: cod-conteudo[2] Ant: 31/10/2013 Nov: 30/09/2011
+Field: dat-exec Ant: 25/10/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|20|TODAY|
+Field: dat-exec Ant: 25/10/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|30|TODAY|
+Field: cod-conteudo[1] Ant: 011 Nov: 009
+Field: dat-exec Ant: 25/10/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|40|TODAY|
+Field: dat-exec Ant: 25/10/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|45|TODAY|
+Field: dat-exec Ant: 25/10/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|50|TODAY|
+Field: dat-exec Ant: 25/10/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|60|TODAY|
+Field: dat-exec Ant: 25/10/2016 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|70|TODAY|
+Field: dat-exec Ant: 25/10/2016 Nov: TODAY
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      clf-param-histor                        0         10          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0         10          0

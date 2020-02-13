@@ -1,0 +1,28 @@
+=====> BD: mgcad Tabela: guia-recol Evento: C
+Field: agencia-gnr Nov: 358
+Field: banco-gnr Nov: 237
+Field: char-1 Nov: 160523
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-estabel Nov: 1
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dt-gnr Nov: 09/06/2011
+Field: dt-vencto Nov: 09/06/2011
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: mes-ref Nov: 31/05/2011
+Field: nr-gnr Nov: 160523
+Field: protocolo Nov: PROTOCOLO ICMS 196 DE 11/1
+Field: uf Nov: SP
+Field: vl-gnr Nov: 106825,1
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      guia-recol                              1          0          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              1          0          0

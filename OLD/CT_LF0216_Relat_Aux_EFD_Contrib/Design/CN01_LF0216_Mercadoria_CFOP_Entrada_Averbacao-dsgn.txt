@@ -1,0 +1,7 @@
+     Cenario : CN01_LF0216_Mercadoria_CFOP_Entrada_Averbacao
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '01/05/2011' no Campo Dato Docto."

@@ -1,0 +1,257 @@
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        Relatório de Geração de Arquivos                                       Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+    Seleção
+
+                        Data Docto: 01/05/2011 |< >| 31/05/2011
+
+
+    Parâmetro
+
+                           Empresa: 10
+                 Versão do Arquivo: 009
+             Finalidade do Arquivo: Retificadora
+         Número do Recibo Anterior: 99123
+                 Situação Especial: Normal
+       Natureza da Pessoa Jurídica: Pessoa jurídica em geral (não participante de SCP como sócia ostensiva
+   Tipo de Atividade Preponderante: Industrial ou Equiparado a Industrial
+  Gera Arquivo Conferencia Bloco M: Não
+  Converte Para a Unidade do FISCO: Não
+        Tipo de Operação Realizada: Gerar Arquivo
+                     Contabilidade: EMS 5
+       Notas Fiscais de Exportação: Averbação
+   Para notas de entrada considera: Itens COM e SEM crédito
+
+
+    Impressão
+
+                           Destino: Arquivo
+                           Arquivo: c:/automacao/relatorios/LF0215_06.LST
+                           Usuário: super
+
+
+Erro(s) Encontrado(s)
+----------------------------------------------------------------------------------------------------
+
+ 52162   A Natureza da Base de Cálculo do Crédito utilizada no SPED PIS/COFINS não foi encontrada para o CFOP 1556. Favor acessar
+         o CD0680 e realizar o cadastro de uma natureza para este CFOP. Para o SPED Fiscal esta informação não é necessária.
+ 52154   O Código de Tipo de Crédito não foi encontrado.
+         No programa LF0203, na tabela "M100/M500 - Relação Tipo de Créd" não foi encontrada a seguinte regra: Nat Base Calc Cr ,
+         CFOP 1556, Sit Trib 50, Aliq 1,65.
+         Favor cadastrar uma regra específica para esta situação ou uma regra mais genérica por Nat Base Calc Cr e Alíquota.
+ 52154   O Código de Tipo de Crédito não foi encontrado.
+         No programa LF0203, na tabela "M100/M500 - Relação Tipo de Créd" não foi encontrada a seguinte regra: Nat Base Calc Cr ,
+         CFOP 1556, Sit Trib 50, Aliq 7,6.
+         Favor cadastrar uma regra específica para esta situação ou uma regra mais genérica por Nat Base Calc Cr e Alíquota.
+ 52154   O Código de Tipo de Crédito não foi encontrado.
+         No programa LF0203, na tabela "M100/M500 - Relação Tipo de Créd" não foi encontrada a seguinte regra: Nat Base Calc Cr
+         10, CFOP , Sit Trib 51, Aliq 1,65.
+         Favor cadastrar uma regra específica para esta situação ou uma regra mais genérica por Nat Base Calc Cr e Alíquota.
+ 52154   O Código de Tipo de Crédito não foi encontrado.
+         No programa LF0203, na tabela "M100/M500 - Relação Tipo de Créd" não foi encontrada a seguinte regra: Nat Base Calc Cr
+         10, CFOP , Sit Trib 51, Aliq 7,6.
+         Favor cadastrar uma regra específica para esta situação ou uma regra mais genérica por Nat Base Calc Cr e Alíquota.
+ 52154   O Código de Tipo de Crédito não foi encontrado.
+         No programa LF0203, na tabela "M100/M500 - Relação Tipo de Créd" não foi encontrada a seguinte regra: Nat Base Calc Cr
+         10, CFOP , Sit Trib 52, Aliq 1,65.
+         Favor cadastrar uma regra específica para esta situação ou uma regra mais genérica por Nat Base Calc Cr e Alíquota.
+ 52154   O Código de Tipo de Crédito não foi encontrado.
+         No programa LF0203, na tabela "M100/M500 - Relação Tipo de Créd" não foi encontrada a seguinte regra: Nat Base Calc Cr
+         10, CFOP , Sit Trib 52, Aliq 7,6.
+         Favor cadastrar uma regra específica para esta situação ou uma regra mais genérica por Nat Base Calc Cr e Alíquota.
+-----------------------------------------------------------------------------------------------DATASUL -  - LF0215RP - V:0.00.00.000
+
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        Relatório de Geração de Arquivos                                       Página:    2
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+ 52154   O Código de Tipo de Crédito não foi encontrado.
+         No programa LF0203, na tabela "M100/M500 - Relação Tipo de Créd" não foi encontrada a seguinte regra: Nat Base Calc Cr
+         10, CFOP , Sit Trib 50, Aliq 1,65.
+         Favor cadastrar uma regra específica para esta situação ou uma regra mais genérica por Nat Base Calc Cr e Alíquota.
+ 52154   O Código de Tipo de Crédito não foi encontrado.
+         No programa LF0203, na tabela "M100/M500 - Relação Tipo de Créd" não foi encontrada a seguinte regra: Nat Base Calc Cr
+         10, CFOP , Sit Trib 50, Aliq 7,6.
+         Favor cadastrar uma regra específica para esta situação ou uma regra mais genérica por Nat Base Calc Cr e Alíquota.
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 1, CFOP 6403, Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 14, CFOP 7101, Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 00000000, Emitente 57864, CFOP 5551     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 00000000, Emitente 57864, CFOP 5551     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 00000000, Emitente 57864, CFOP 5551     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 00000000, Emitente 57864, CFOP 5551     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 00000000, Emitente 1, CFOP 5949     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 18645, CFOP 6109     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 18645, CFOP 6109     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 18645, CFOP 6109     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 18645, CFOP 6109     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 18645, CFOP 6109     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+-----------------------------------------------------------------------------------------------DATASUL -  - LF0215RP - V:0.00.00.000
+
+         Sit Tribt 08, Classif 73083000, Emitente 18645, CFOP 6109     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        Relatório de Geração de Arquivos                                       Página:    3
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 18645, CFOP 6109     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 17925, CFOP 6501     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 1, CFOP 6403, Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 14, CFOP 7101, Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 00000000, Emitente 57864, CFOP 5551     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 00000000, Emitente 57864, CFOP 5551     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 00000000, Emitente 57864, CFOP 5551     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 00000000, Emitente 57864, CFOP 5551     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 00000000, Emitente 1, CFOP 5949     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 18645, CFOP 6109     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 18645, CFOP 6109     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 18645, CFOP 6109     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 18645, CFOP 6109     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 18645, CFOP 6109     , Aliq         0,0000.
+-----------------------------------------------------------------------------------------------DATASUL -  - LF0215RP - V:0.00.00.000
+
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        Relatório de Geração de Arquivos                                       Página:    4
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 18645, CFOP 6109     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 18645, CFOP 6109     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+ 52152   A Natureza da Receita (Ind Nat Rec) não foi encontrada para as seguintes informações:
+         Sit Tribt 08, Classif 73083000, Emitente 17925, CFOP 6501     , Aliq         0,0000.
+         Favor cadastrar através do LF0203, na tabela "M410/M810 Relação Natur Recta" uma regra específica para esta situação, ou
+         uma regra mais genérica por Sit Trib (CST).
+
+
+
+Arquivo Gerado
+------------------------------------------------------------------------------------------------------------------------
+c:\automacao\relatorios\PISCOFINSTODAY0922.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------DATASUL -  - LF0215RP - V:0.00.00.000
+

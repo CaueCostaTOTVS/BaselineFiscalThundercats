@@ -1,0 +1,6 @@
+     Cenario : CN03_OF0607_Estorno_Credito_ICMS_Saidas_Isentas
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

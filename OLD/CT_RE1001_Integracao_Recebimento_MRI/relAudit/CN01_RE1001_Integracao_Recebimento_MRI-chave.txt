@@ -1,0 +1,2353 @@
+=====> BD: mgcad Tabela: gg-ext-docum-est Evento: C Chave: 1|0134941|12704|211MRI|1|
+Field: cod-estabel Nov: 1
+Field: nat-operacao Nov: 211MRI
+Field: serie-docto Nov: 1
+Field: nro-docto Nov: 0134941
+Field: cod-contrato Nov: 
+Field: cod-emitente Nov: 12704
+Field: ind-forma Nov: 1
+Field: log-comp-valor Nov: no
+Field: cod_unid_negoc Nov: 
+Field: cod_centro_custo Nov: 
+Field: qtd-peso-bruto Nov: 0
+Field: qtd-peso-liq Nov: 0
+Field: qtd-peso-tara Nov: 0
+Field: cod-placa Nov: 
+Field: ind-modal Nov: 1
+Field: cod-emitente-dest Nov: 0
+Field: serie-docto-glob Nov: 
+Field: nro-docto-glob Nov: 
+Field: cod-emitente-glob Nov: 0
+Field: nat-operacao-glob Nov: 
+Field: nome-transp Nov: 
+Field: log-tara Nov: no
+Field: log-liq Nov: no
+Field: cidade-cif Nov: 
+Field: log-transito Nov: no
+Field: cod-rota Nov: 
+Field: cod-servico Nov: 0
+Field: des-tipo-docto Nov: 
+Field: desc-finalidade Nov: 
+Field: desc-tipo Nov: 
+Field: usuario-fiscal Nov: 
+Field: it-codigo Nov: 
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-livre-5 Nov: 
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-livre-5 Nov: 0
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-livre-5 ?
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: log-livre-5 Nov: no
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-livre-5 Nov: 0
+Field: ep-codigo Nov: 10
+=====> BD: mgmov Tabela: docum-est Evento: C Chave: 1|0134941|12704|211MRI|
+Field: esp-docto Nov: 21
+Field: serie-docto Nov: 1
+Field: nro-docto Nov: 0134941
+Field: cod-emitente Nov: 12704
+Field: dt-emissao Nov: TODAY
+Field: dt-trans Nov: TODAY
+Field: dt-atualiza Nov: TODAY
+Field: hr-atualiza Nov: <hora>
+Field: base-icm Nov: 0
+Field: base-ipi Nov: 0
+Field: base-iss Nov: 0
+Field: tot-valor Nov: 0
+Field: nat-operacao Nov: 211MRI
+Field: icm-fonte Nov: 0
+Field: embalagem Nov: 
+Field: tot-peso Nov: 0
+Field: ct-transit Nov: 211050400000528
+Field: sc-transit Nov: 010702030000203
+Field: cod-estabel Nov: 1
+Field: tipo-docto Nov: 1
+Field: cod-observa Nov: 1
+Field: uf Nov: SP
+Field: via-transp Nov: 1
+Field: cod-ibge Nov: 1
+Field: aliquota-icm Nov: 0
+Field: icm-complem Nov: 0
+Field: icm-deb-cre Nov: 0
+Field: icm-nao-trib Nov: 0
+Field: icm-outras Nov: 0
+Field: despesa-nota Nov: 0
+Field: iss-deb-cre Nov: 0
+Field: ipi-deb-cre Nov: 0
+Field: ipi-nao-trib Nov: 0
+Field: iss-nao-trib Nov: 0
+Field: ipi-outras Nov: 0
+Field: iss-outras Nov: 0
+Field: estado Nov: 1
+Field: aliquota-iss Nov: 0
+Field: ap-atual Nov: no
+Field: ipi-despesa Nov: 0
+Field: valor-embal Nov: 0
+Field: valor-frete Nov: 0
+Field: valor-mercad Nov: 0
+Field: valor-outras Nov: 0
+Field: valor-seguro Nov: 0
+Field: tot-desconto Nov: 0
+Field: nff Nov: no
+Field: of-atual Nov: no
+Field: estab-de-or Nov: 
+Field: CE-atual Nov: no
+Field: observacao Nov: 
+Field: base-icm-fas[1] Nov: 0
+Field: base-icm-fas[2] Nov: 0
+Field: base-ipi-fas[1] Nov: 0
+Field: base-ipi-fas[2] Nov: 0
+Field: base-iss-fas[1] Nov: 0
+Field: base-iss-fas[2] Nov: 0
+Field: desp-fasb[1] Nov: 0
+Field: desp-fasb[2] Nov: 0
+Field: icm-cpl-fasb[1] Nov: 0
+Field: icm-cpl-fasb[2] Nov: 0
+Field: icm-dc-fasb[1] Nov: 0
+Field: icm-dc-fasb[2] Nov: 0
+Field: icm-fnt-fasb[1] Nov: 0
+Field: icm-fnt-fasb[2] Nov: 0
+Field: icm-ntr-fasb[1] Nov: 0
+Field: icm-ntr-fasb[2] Nov: 0
+Field: icm-out-fasb[1] Nov: 0
+Field: icm-out-fasb[2] Nov: 0
+Field: ipi-dc-fasb[1] Nov: 0
+Field: ipi-dc-fasb[2] Nov: 0
+Field: ipi-ntr-fasb[1] Nov: 0
+Field: ipi-ntr-fasb[2] Nov: 0
+Field: ipi-out-fasb[1] Nov: 0
+Field: ipi-out-fasb[2] Nov: 0
+Field: iss-dc-fasb[1] Nov: 0
+Field: iss-dc-fasb[2] Nov: 0
+Field: iss-ntr-fasb[1] Nov: 0
+Field: iss-ntr-fasb[2] Nov: 0
+Field: iss-out-fasb[1] Nov: 0
+Field: iss-out-fasb[2] Nov: 0
+Field: tot-des-fasb[1] Nov: 0
+Field: tot-des-fasb[2] Nov: 0
+Field: tot-vl-fasb[1] Nov: 0
+Field: tot-vl-fasb[2] Nov: 0
+Field: vl-emb-fasb[1] Nov: 0
+Field: vl-emb-fasb[2] Nov: 0
+Field: vl-fre-fasb[1] Nov: 0
+Field: vl-fre-fasb[2] Nov: 0
+Field: vl-merc-fasb[1] Nov: 0
+Field: vl-merc-fasb[2] Nov: 0
+Field: vl-out-fasb[1] Nov: 0
+Field: vl-out-fasb[2] Nov: 0
+Field: vl-seg-fasb[1] Nov: 0
+Field: vl-seg-fasb[2] Nov: 0
+Field: cotacao-fasb Nov: 0
+Field: vl-imp-impor[1] Nov: 0
+Field: vl-imp-impor[2] Nov: 0
+Field: pais-origem Nov: RE1001
+Field: usuario Nov: super
+Field: mod-frete Nov: 1
+Field: valor-irf Nov: 0
+Field: ok-fornec Nov: 1
+Field: estab-fisc Nov: 1
+Field: ok-observ Nov: 
+Field: ok-data ?
+Field: ok-user Nov: 
+Field: cr-atual Nov: no
+Field: dt-venc-iss Nov: TODAY
+Field: dt-venc-ipi Nov: TODAY
+Field: dt-venc-icm Nov: TODAY
+Field: base-subs Nov: 0
+Field: vl-subs Nov: 0
+Field: vl-subs-fasb[1] Nov: 0
+Field: vl-subs-fasb[2] Nov: 0
+Field: base-subs-fasb[1] Nov: 0
+Field: base-subs-fasb[2] Nov: 0
+Field: acresc-financ Nov: no
+Field: rateia-frete Nov: 1
+Field: aliq-irf Nov: 0
+Field: esp-irf Nov: 
+Field: cod-imp-irf Nov: 
+Field: cod-ret-irf Nov: 0
+Field: dia-util-irf Nov: 0
+Field: ind-extrac Nov: no
+Field: origem Nov: 
+Field: c-nr-invoice Nov: 
+Field: i-sequencia Nov: 0
+Field: dt-entr-merc ?
+Field: taxa-conv-imp Nov: 0
+Field: imp-import Nov: 0
+Field: qt-tot-imp Nov: 0
+Field: atual-ft Nov: no
+Field: mod-atual Nov: 0
+Field: estorn-comis Nov: no
+Field: rec-fisico Nov: no
+Field: ind-orig-entrada Nov: 1
+Field: ind-via-envio Nov: 1
+Field: nro-proc-entrada Nov: 0
+Field: nro-proc-saida Nov: 0
+Field: nf-emitida-est Nov: no
+Field: conta-transit Nov: 
+Field: tot-taxa Nov: 0
+Field: mo-codigo Nov: 0
+Field: cotacao-dia Nov: 1
+Field: valor-frete-me Nov: 0
+Field: valor-seguro-me Nov: 0
+Field: valor-embal-me Nov: 0
+Field: valor-outras-me Nov: 0
+Field: tot-desconto-me Nov: 0
+Field: tot-valor-me Nov: 0
+Field: valor-mercad-me Nov: 0
+Field: despesa-nota-me Nov: 0
+Field: tot-taxa-me Nov: 0
+Field: tp-rat-fret Nov: 0
+Field: sit-docum Nov: 1
+Field: sit-edi Nov: 1
+Field: ind-tipo-rateio Nov: yes
+Field: ind-rateio Nov: no
+Field: sit-atual Nov: 2
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+Field: tipo-nota Nov: 1
+Field: atualiza-cr Nov: yes
+Field: cod-tax-fre Nov: 0
+Field: cod-tax-div Nov: 0
+Field: perc-tax-fre Nov: 0
+Field: perc-tax-div Nov: 0
+Field: vl-tax-frete Nov: 0
+Field: vl-tax-diversos Nov: 0
+Field: esp-fiscal Nov: NFE
+Field: base-pis-subs Nov: 0
+Field: base-cofins-subs Nov: 0
+Field: vl-pis-subs Nov: 0
+Field: vl-cofins-subs Nov: 0
+Field: cp-atual Nov: no
+Field: embarque Nov: 
+Field: cod-imp-frete Nov: 0
+Field: cod-imp-seguro Nov: 0
+Field: cod-imp-embal Nov: 0
+Field: cod-imp-outras Nov: 0
+Field: vl-imp-frete Nov: 0
+Field: vl-imp-seguro Nov: 0
+Field: vl-imp-embalagem Nov: 0
+Field: vl-imp-outras Nov: 0
+Field: vl-imp-frete-me Nov: 0
+Field: vl-imp-seguro-me Nov: 0
+Field: vl-imp-embalagem-me Nov: 0
+Field: vl-imp-outras-me Nov: 0
+Field: perc-tax-seg Nov: 0
+Field: perc-tax-emb Nov: 0
+Field: declaracao-import Nov: 
+Field: log-ft-atual Nov: no
+Field: log-cc-atual Nov: no
+Field: log-pt-atual Nov: no
+Field: ft-atual Nov: no
+Field: cc-atual Nov: no
+Field: pt-atual Nov: no
+Field: cod-rma Nov: 
+Field: dat-validade ?
+Field: val-perc-restocagem Nov: 0
+Field: val-restocagem Nov: 0
+Field: dat-aprovacao ?
+Field: desc-motivo-aprov Nov: 
+Field: num-seq-cont-emit Nov: 0
+Field: Fat-despesa Nov: no
+Field: log-wms-atual Nov: no
+Field: peso-bruto-tot Nov: 0
+Field: peso-liquido-tot Nov: 0
+Field: cod-servico Nov: 0
+Field: log-draw-atlzdo Nov: no
+Field: idi-nf-simples-remes Nov: 3
+Field: log-memorando Nov: no
+Field: cdn-modalid-transp Nov: 0
+Field: cod-placa[1] Nov: 
+Field: cod-placa[2] Nov: 
+Field: cod-placa[3] Nov: 
+Field: cod-uf-placa[1] Nov: 
+Field: cod-uf-placa[2] Nov: 
+Field: cod-uf-placa[3] Nov: 
+Field: nome-transp Nov: 
+Field: cod-entrega Nov: PadrÆo
+Field: endereco Nov: RUA ATICA, 49
+Field: bairro Nov: BROOKLIN
+Field: cep Nov: 04634040
+Field: cidade Nov: SÆo Paulo
+Field: pais Nov: Brasil
+Field: log-consid-ender-nf-saida Nov: no
+Field: log-recuper-impto-atlzdo Nov: no
+Field: log-entreg-fut Nov: no
+Field: cod-natur-vincul Nov: 
+Field: cod-chave-aces-nf-eletro Nov: 
+Field: cdn-sit-nfe Nov: 0
+Field: log-tax-siscomex Nov: no
+Field: idi-sit-nf-eletro Nov: 0
+Field: idi-bxa-devol Nov: 1
+Field: log-atualiz-proces-export Nov: no
+=====> BD: mgmov Tabela: item-doc-est Evento: C Chave: 1|0134941|12704|211MRI|1|
+Field: cod-emitente Nov: 12704
+Field: nro-docto Nov: 0134941
+Field: serie-docto Nov: 1
+Field: nat-operacao Nov: 211MRI
+Field: aliquota-ipi Nov: 0
+Field: aliquota-iss Nov: 0
+Field: cd-trib-icm Nov: 3
+Field: cd-trib-iss Nov: 1
+Field: class-fiscal Nov: 00000000
+Field: it-codigo Nov: 
+Field: sequencia Nov: 1
+Field: peso-liquido Nov: 0
+Field: quantidade Nov: 2
+Field: un Nov: pc
+Field: base-ipi[1] Nov: 0
+Field: base-ipi[2] Nov: 0
+Field: base-icm[1] Nov: 0
+Field: base-icm[2] Nov: 0
+Field: base-iss[1] Nov: 0
+Field: base-iss[2] Nov: 0
+Field: despesas[1] Nov: 0
+Field: despesas[2] Nov: 0
+Field: ipi-ntrib[1] Nov: 0
+Field: ipi-ntrib[2] Nov: 0
+Field: icm-ntrib[1] Nov: 0
+Field: icm-ntrib[2] Nov: 0
+Field: iss-ntrib[1] Nov: 0
+Field: iss-ntrib[2] Nov: 0
+Field: ipi-outras[1] Nov: 2400,66
+Field: ipi-outras[2] Nov: 0
+Field: icm-outras[1] Nov: 2400,66
+Field: icm-outras[2] Nov: 0
+Field: iss-outras[1] Nov: 0
+Field: iss-outras[2] Nov: 0
+Field: preco-total[1] Nov: 2400,66
+Field: preco-total[2] Nov: 0
+Field: icm-complem[1] Nov: 0
+Field: icm-complem[2] Nov: 0
+Field: cod-depos Nov: ESP
+Field: lote Nov: 
+Field: componente Nov: no
+Field: nro-comp Nov: 
+Field: serie-comp Nov: 
+Field: aliquota-icm Nov: 7
+Field: codigo-rejei Nov: 0
+Field: cotacao-fasb Nov: 0
+Field: ct-codigo Nov: 413290100000901
+Field: dt-retorno Nov: TODAY
+Field: desconto[1] Nov: 0
+Field: desconto[2] Nov: 0
+Field: dt-vali-lote ?
+Field: nr-ficha Nov: 0
+Field: atualiza-pa Nov: yes
+Field: encerra-pa Nov: no
+Field: reabre-pa Nov: no
+Field: nat-comp Nov: 
+Field: nr-ord-produ Nov: 0
+Field: num-pedido Nov: 0
+Field: numero-ordem Nov: 0
+Field: parcela Nov: 0
+Field: qt-do-forn Nov: 2
+Field: sc-codigo Nov: 010701010000101
+Field: vl-imp-impor[1] Nov: 0
+Field: vl-imp-impor[2] Nov: 0
+Field: nr-pedcli Nov: 
+Field: nr-pd-seq Nov: 0
+Field: narrativa Nov: 
+Field: reabre-pd Nov: no
+Field: valor-ipi[1] Nov: 0
+Field: valor-ipi[2] Nov: 0
+Field: valor-icm[1] Nov: 168,05
+Field: valor-icm[2] Nov: 168,05
+Field: valor-iss[1] Nov: 0
+Field: valor-iss[2] Nov: 0
+Field: preco-unit[1] Nov: 1200,33
+Field: preco-unit[2] Nov: 0
+Field: data-comp ?
+Field: dt-ent-prev ?
+Field: pr-total[1] Nov: 0
+Field: pr-total[2] Nov: 0
+Field: pr-total[3] Nov: 0
+Field: baixa-ce Nov: yes
+Field: dt-nota-comp ?
+Field: cod-refer Nov: 
+Field: base-icm-cmi Nov: 0
+Field: base-ipi-cmi Nov: 0
+Field: base-iss-cmi Nov: 0
+Field: desconto-cmi Nov: 0
+Field: despesas-cmi Nov: 0
+Field: icm-comp-cmi Nov: 0
+Field: icm-ntr-cmi Nov: 0
+Field: icm-out-cmi Nov: 0
+Field: ipi-ntr-cmi Nov: 0
+Field: ipi-out-cmi Nov: 0
+Field: iss-ntr-cmi Nov: 0
+Field: iss-out-cmi Nov: 0
+Field: pr-total-cmi Nov: 0
+Field: vl-icm-cmi Nov: 0
+Field: vl-ipi-cmi Nov: 0
+Field: vl-iss-cmi Nov: 0
+Field: vl-imp-cmi Nov: 0
+Field: seq-comp Nov: 0
+Field: vl-subs-cmi Nov: 0
+Field: nr-pd-ent Nov: 0
+Field: cod-emit-benef Nov: 0
+Field: i-nr-gi Nov: 0
+Field: c-nr-invoice Nov: 
+Field: i-seq-inv Nov: 0
+Field: pc-restituicao Nov: 0
+Field: nivel-restituicao Nov: 
+Field: emite-comp Nov: 0
+Field: cotacao-cmi Nov: 0
+Field: pr-unit-cmi Nov: 0
+Field: pr-mob-cmi Nov: 0
+Field: vl-subs[1] Nov: 0
+Field: vl-subs[2] Nov: 0
+Field: base-subs[1] Nov: 0
+Field: base-subs[2] Nov: 0
+Field: pre-unit-mob[1] Nov: 0
+Field: pre-unit-mob[2] Nov: 0
+Field: base-subs-cmi Nov: 0
+Field: qt-real Nov: 0
+Field: num-ord-inv Nov: 0
+Field: nat-of Nov: 211MRI
+Field: cod-localiz Nov: 
+Field: cd-trib-ipi Nov: 3
+Field: conta-contabil Nov: 
+Field: item-pai Nov: 
+Field: cod-roteiro Nov: 
+Field: op-codigo Nov: 0
+Field: origem Nov: 9
+Field: cod-esp Nov: 
+Field: vl-taxa Nov: 0
+Field: cod-tax Nov: 0
+Field: vl-isr Nov: 0
+Field: hora Nov: <hora>
+Field: vl-taxa-me Nov: 0
+Field: fn-docto-ap Nov: 0
+Field: qt-saldo Nov: 0
+Field: preco-total-alt[1] Nov: 0
+Field: preco-total-alt[2] Nov: 0
+Field: nr-docto-ap Nov: 
+Field: preco-fatura Nov: 0
+Field: cota-moeda[1] Nov: 0
+Field: cota-moeda[2] Nov: 0
+Field: perc-vat Nov: 0
+Field: perc-sales-tax Nov: 0
+Field: perc-isr Nov: 0
+Field: cod-tax-isr Nov: 0
+Field: usuario Nov: 
+Field: data Nov: TODAY
+Field: est-cob Nov: 
+Field: preco-unit-me Nov: 0
+Field: preco-total-me Nov: 0
+Field: desconto-me Nov: 0
+Field: sit-item Nov: 1
+Field: cotacao-alt[1] Nov: 0
+Field: cotacao-alt[2] Nov: 0
+Field: vl-unit-mob Nov: 0
+Field: etiquetas Nov: 0
+Field: flag-atu Nov: 2
+Field: qt-etiquetas Nov: 2
+Field: char-1 Nov: 
+Field: char-2 Nov: 0                                                                                                                                                              0     0
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+Field: vl-isr-me Nov: 0
+Field: despesas-me[1] Nov: 0
+Field: despesas-me[2] Nov: 0
+Field: quant-conf Nov: 0
+Field: base-pis-subs Nov: 0
+Field: base-cofins-subs Nov: 0
+Field: vl-pis-subs Nov: 0
+Field: vl-cofins-subs Nov: 0
+Field: log-fifo-oc Nov: no
+Field: seq-evento Nov: 0
+Field: log-icm-retido Nov: no
+Field: cod-emit-terc Nov: 0
+Field: nro-docto-terc Nov: 
+Field: serie-terc Nov: 
+Field: nat-terc Nov: 
+Field: seq-terc Nov: 0
+Field: nr-ato-concessorio Nov: 
+Field: valor-frete Nov: 0
+Field: valor-frete-me Nov: 0
+Field: nr-proc-imp Nov: 
+Field: declaracao-import Nov: 
+Field: num-seq-rma Nov: 0
+Field: log-geracao-ncr-ap Nov: no
+Field: val-perc-restocagem Nov: 0
+Field: val-restocagem Nov: 0
+Field: cdn-devolucao Nov: 0
+Field: cod-motivo Nov: 
+Field: cod-disposicao Nov: 
+Field: cod-despesa Nov: 
+Field: fornec-comp Nov: 0
+Field: val-perc-rep-ipi Nov: 0
+Field: val-perc-red-icms Nov: 0
+Field: val-sdo-alocad-oc Nov: 0
+Field: val-sdo-alocad-terc Nov: 0
+Field: num-event-contrat Nov: 0
+Field: num-ret-om Nov: 0
+Field: peso-bruto-item Nov: 0
+Field: peso-liquido-item Nov: 0
+Field: cod-estab-compon Nov: 
+Field: idi-tributac-cofins Nov: 3
+Field: val-aliq-cofins Nov: 0
+Field: val-base-calc-cofins Nov: 2400,66
+Field: val-cofins Nov: 0
+Field: val-cofins-fasb Nov: 0
+Field: val-cofins-cmi Nov: 0
+Field: idi-tributac-pis Nov: 3
+Field: val-aliq-pis Nov: 0
+Field: base-pis Nov: 2400,66
+Field: valor-pis Nov: 0
+Field: valor-pis-fasb Nov: 0
+Field: valor-pis-cmi Nov: 0
+Field: num-ord-import Nov: 0
+Field: num-parc-import Nov: 0
+Field: cdn-impto-retid Nov: 0
+Field: val-aliq-impto-retid Nov: 0
+Field: val-impto-retid Nov: 0
+Field: val-impto-retid-me Nov: 0
+Field: val-aduana-pis Nov: 0
+Field: val-despes-aduana-pis Nov: 0
+Field: val-aliq-impto-import Nov: 0
+Field: val-aliq-ext-ipi Nov: 0
+Field: val-aliq-ext-pis Nov: 0
+Field: val-aliq-ext-cofins Nov: 0
+Field: val-aliq-ext-icms Nov: 0
+Field: val-aduana-cofins Nov: 0
+Field: val-despes-aduana-cofins Nov: 0
+Field: val-unit-pis-import Nov: 0
+Field: val-unit-vol-pis-import Nov: 0
+Field: val-unit-cofins-import Nov: 0
+Field: val-unit-vol-cofins-import Nov: 0
+Field: val-reduc-cofins-import Nov: 0
+Field: val-reduc-pis-import Nov: 0
+Field: cod-unid-negoc Nov: 01
+Field: log-usa-unid-negoc-fifo Nov: no
+Field: id-bem Nov: 0
+Field: log-gerou-ncredito Nov: no
+Field: cod-parc-devol Nov: 
+Field: num-sit-trib-icms Nov: 0
+Field: val-base-st-antec Nov: 0
+Field: val-st-antec Nov: 0
+Field: cod-lote-fabrican Nov: 
+Field: dat-valid-lote-fabrican ?
+Field: cod-barras Nov: 
+Field: dat-fabricc-lote ?
+Field: nom-fabrican Nov: 
+=====> BD: mgmov Tabela: rat-lote Evento: C Chave: 1|0134941|12704|211MRI|1|
+Field: cod-lote-fabrican Nov: 
+Field: cod-emitente Nov: 12704
+Field: serie-docto Nov: 1
+Field: nro-docto Nov: 0134941
+Field: cod-depos Nov: ESP
+Field: lote Nov: 
+Field: nat-operacao Nov: 211MRI
+Field: dt-vali-lote ?
+Field: quantidade Nov: 2
+Field: sequencia Nov: 1
+Field: it-codigo Nov: 
+Field: nr-ficha Nov: 0
+Field: cod-localiz Nov: 
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+Field: tipo-nota Nov: 1
+Field: vl-movto Nov: 0
+Field: cod-refer Nov: 
+Field: num-seq-rma-dep Nov: 0
+Field: num-seq-rma-dep-mov Nov: 0
+Field: per-ppm Nov: 0
+Field: qtd-origin Nov: 0
+Field: cod-barras Nov: 
+Field: dat-valid-lote-fabrican ?
+Field: dat-fabricc-lote ?
+Field: nom-fabrican Nov: 
+Field: cod-lote-orig Nov: 
+Field: qtd-embal-cq Nov: 0
+=====> BD: mgmov Tabela: docum-est Evento: W Chave: 1|0134941|12704|211MRI|
+Field: base-icm Ant: 0 Nov: 2400,66
+Field: base-ipi Ant: 0 Nov: 2400,66
+Field: tot-valor Ant: 0 Nov: 2400,66
+Field: icm-deb-cre Ant: 0 Nov: 168,05
+Field: valor-mercad Ant: 0 Nov: 2400,66
+Field: char-2 Ant:  Nov: 0                                     0
+=====> BD: mgmov Tabela: docum-est Evento: W Chave: 1|0134941|12704|211MRI|
+Field: char-2 Ant: 0                                     0 Nov: 0                                     0,00
+=====> BD: mgmov Tabela: dupli-apagar Evento: C Chave: 1|0134941|12704|211MRI|1|
+Field: cod-emitente Nov: 12704
+Field: serie-docto Nov: 1
+Field: cod-esp Nov: NF
+Field: nro-docto Nov: 0134941
+Field: parcela Nov: 1
+Field: dt-emissao Nov: TODAY
+Field: dt-trans Nov: TODAY
+Field: dt-vencim Nov: 31/01/2014
+Field: vl-a-pagar Nov: 2400,66
+Field: desconto Nov: 0
+Field: dt-venc-desc ?
+Field: esp-movto Nov: 1
+Field: estado-cq Nov: 1
+Field: nat-operacao Nov: 211MRI
+Field: vl-desconto Nov: 0
+Field: vl-ap-fasb[1] Nov: 0
+Field: vl-ap-fasb[2] Nov: 0
+Field: nr-duplic Nov: 0134941
+Field: observacao Nov: 
+Field: perc-juros Nov: 0
+Field: dias-atraso Nov: 0
+Field: perc-mora Nov: 0
+Field: ep-codigo Nov: 10
+Field: cod-estabel Nov: 1
+Field: tp-despesa Nov: 117
+Field: historico Nov: 
+Field: aliq-irf Nov: 0
+Field: esp-irf Nov: 
+Field: cod-imp-irf Nov: 
+Field: cod-ret-irf Nov: 0
+Field: dia-util-irf Nov: 0
+Field: imposto-ir Nov: 0
+Field: imposto-iss Nov: 0
+Field: imposto-inss Nov: 0
+Field: char-1 Nov: 0                   0                   0
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: vl-taxa Nov: 0
+Field: vl-frete Nov: 0
+Field: vl-outros Nov: 0
+Field: Valor-a-pagar-me Nov: 2400,66
+Field: check-sum Nov: 
+Field: mo-codigo Nov: 0
+Field: vl-a-pagar-mo Nov: 0
+Field: vl-descto-mo Nov: 0
+Field: val-difer-remito-fatur Nov: 0
+Field: val-difer-remito-fatur-me Nov: 0
+=====> BD: mgcad Tabela: item-uni-estab Evento: W Chave: |1|
+Field: data-ult-ent Ant: 07/11/2011 Nov: TODAY
+Field: preco-ul-ent Ant: 91,05 Nov: 1200,33
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 103|0134941/0/1/211MRI/|0|
+Field: cdn-identif Nov: 103
+Field: cod-indice Nov: 0134941/0/1/211MRI/
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 104|0134941/0/1/211MRI/|0|
+Field: cdn-identif Nov: 104
+Field: cod-indice Nov: 0134941/0/1/211MRI/
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 105|1/1/0134941/12704/211MRI/10|0|
+Field: cdn-identif Nov: 105
+Field: cod-indice Nov: 1/1/0134941/12704/211MRI/10
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: inf-compl Evento: C Chave: 106|1/1/0134941/12704/211MRI/10|0|
+Field: cdn-identif Nov: 106
+Field: cod-indice Nov: 1/1/0134941/12704/211MRI/10
+Field: num-campo Nov: 0
+Field: log-campo Nov: no
+Field: dat-campo Nov: TODAY
+Field: val-campo Nov: 0
+Field: des-campo Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: doc-fiscal Evento: C Chave: 1|1|0134941|12704|211MRI|
+Field: cod-estabel Nov: 1
+Field: serie Nov: 1
+Field: nr-doc-fis Nov: 0134941
+Field: cod-emitente Nov: 12704
+Field: nome-ab-emi Nov: NICOM COM 1
+Field: dt-emis-doc Nov: TODAY
+Field: ind-sit-doc Nov: 1
+Field: endereco Nov: RUA ATICA, 49
+Field: bairro Nov: BROOKLIN
+Field: cidade Nov: SÆo Paulo
+Field: estado Nov: SP
+Field: cep Nov: 04634040
+Field: pais Nov: Brasil
+Field: cgc Nov: 60403110000207
+Field: ins-estadual Nov: 112787846111
+Field: cod-des-merc Nov: 2
+Field: vl-cont-doc Nov: 2400,66
+Field: nat-operacao Nov: 211MRI
+Field: preco-saida Nov: 1
+Field: ind-tip-nota Nov: 8
+Field: observacao Nov: 
+Field: esp-docto Nov: NFE
+Field: cod-observa Nov: 1
+Field: aliquota-icm Nov: 0
+Field: vl-bicms Nov: 0
+Field: vl-icms Nov: 0
+Field: vl-icmsnt Nov: 0
+Field: vl-icmsou Nov: 2400,66
+Field: vl-bsubs Nov: 0
+Field: vl-icmsub Nov: 0
+Field: manut-icm-it Nov: no
+Field: manut-ipi-it Nov: no
+Field: ind-icm-ret Nov: no
+Field: vl-icms-com Nov: 0
+Field: tipo-nat Nov: 1
+Field: cd-situacao Nov: 0
+Field: cd-registro Nov: 98
+Field: vl-ipi Nov: 0
+Field: vl-bipi Nov: 0
+Field: vl-ipiou Nov: 2400,66
+Field: vl-ipint Nov: 0
+Field: vl-biss Nov: 0
+Field: vl-iss Nov: 0
+Field: vl-issou Nov: 0
+Field: vl-issnt Nov: 0
+Field: vl-irf Nov: 0
+Field: ind-imprenda Nov: no
+Field: perc-red-iss Nov: 0
+Field: perc-red-ipi Nov: 0
+Field: perc-red-icm Nov: 0
+Field: dt-docto Nov: TODAY
+Field: vl-finsocial Nov: 0
+Field: vl-pis Nov: 0
+Field: ind-cifob Nov: 1
+Field: dt-ult-alt ?
+Field: user-alt Nov: 
+Field: ind-ori-doc Nov: 2
+Field: dt-impl Nov: TODAY
+Field: nivel-restituicao Nov: 
+Field: pc-desc-icms Nov: 0
+Field: pc-restituicao Nov: 0
+Field: vl-ipi-devol Nov: 0
+Field: cod-mensagem Nov: 0
+Field: cod-rejeicao Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+Field: nr-siscomex Nov: 
+Field: endereco_text Nov: 
+Field: ipi-deb-cre Nov: 0
+Field: via-transp Nov: 1
+Field: tot-desconto Nov: 0
+Field: sigla-emb Nov: 
+Field: qt-volumes Nov: 0
+Field: peso-liq-tot Nov: 0
+Field: peso-bru-tot Nov: 0
+Field: vl-frete Nov: 0
+Field: vl-embalagem Nov: 0
+Field: vl-seguro Nov: 0
+Field: val-desp-outros Nov: 0
+Field: nome-transp Nov: 
+Field: vl-mercad Nov: 0
+Field: emite-duplic Nov: no
+Field: nr-fatura Nov: 
+Field: placa Nov: 
+Field: cidade-cif Nov: 
+Field: dt-embarque ?
+Field: vl-redespacho Nov: 0
+Field: nr-redespacho Nov: 
+Field: nr-re Nov: 
+Field: cod-moeda Nov: 0
+Field: cod-vencto Nov: 1
+Field: cod-cfop Nov: 2551
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: log-livre-5 Nov: no
+Field: log-livre-6 Nov: no
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: serie-nota Nov: 
+Field: val-base-contrib-social Nov: 0
+Field: cod-pais-siscomex Nov: 
+Field: log-averb Nov: no
+Field: cdn-moed-siscomex Nov: 0
+Field: des-decla-import Nov: 
+Field: cod-solicit-despch Nov: 
+Field: dat-solicit-despch ?
+Field: val-despch Nov: 0
+Field: dat-reg-export ?
+Field: cod-conhecto Nov: 
+Field: dat-conhecto ?
+Field: cdn-tip-conhecto Nov: 0
+Field: cod-comprov-export Nov: 
+Field: dat-comprov-export ?
+Field: cdn-cidade Nov: 0
+Field: cdn-modalid-transp Nov: 1
+Field: cod-placa[1] Nov: 
+Field: cod-placa[2] Nov: 
+Field: cod-placa[3] Nov: 
+Field: cod-uf-placa[1] Nov: 
+Field: cod-uf-placa[2] Nov: 
+Field: cod-uf-placa[3] Nov: 
+Field: log-bxa-estoq Nov: yes
+Field: cod-cnpj-transpdor Nov: 
+Field: cod-inscr-estad-transpdor Nov: 
+Field: cod-uf-transpdor Nov: 
+Field: cod-chave-aces-nf-eletro Nov: 
+Field: idi-sit-nf-eletro Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: C Chave: 1|1|0134941|12704|211MRI|10|
+Field: cod-estabel Nov: 1
+Field: serie Nov: 1
+Field: nr-seq-doc Nov: 10
+Field: cod-emitente Nov: 12704
+Field: it-codigo Nov: 
+Field: peso-liq Nov: 0
+Field: vl-merc-liq Nov: 2400,66
+Field: vl-tot-item Nov: 2400,66
+Field: nat-operacao Nov: 211MRI
+Field: cd-trib-ipi Nov: 3
+Field: aliquota-ipi Nov: 0
+Field: perc-red-ipi Nov: 0
+Field: cd-trib-iss Nov: 1
+Field: aliquota-ISS Nov: 0
+Field: cd-trib-icm Nov: 3
+Field: perc-red-icm Nov: 0
+Field: vl-despes-it Nov: 0
+Field: vl-bicms-it Nov: 0
+Field: vl-icms-it Nov: 0
+Field: vl-icmsnt-it Nov: 0
+Field: vl-icmsou-it Nov: 2400,66
+Field: vl-bipi-it Nov: 0
+Field: vl-ipi-it Nov: 0
+Field: vl-ipint-it Nov: 0
+Field: vl-ipiou-it Nov: 2400,66
+Field: vl-biss-it Nov: 0
+Field: vl-iss-it Nov: 0
+Field: vl-issnt-it Nov: 0
+Field: vl-issou-it Nov: 0
+Field: vl-bsubs-it Nov: 0
+Field: vl-icmsub-it Nov: 0
+Field: tipo-contr Nov: 4
+Field: perc-red-iss Nov: 0
+Field: vl-merc-sicm Nov: 2400,66
+Field: quantidade Nov: 2
+Field: un Nov: pc
+Field: class-fiscal Nov: 00000000
+Field: nr-doc-fis Nov: 0134941
+Field: dt-emis-doc Nov: TODAY
+Field: tipo-nat Nov: 1
+Field: cd-vin-ipi Nov: 
+Field: dt-ent-doc ?
+Field: dt-docto Nov: TODAY
+Field: descricao-db Nov: 
+Field: codigo-rejei Nov: 0
+Field: serie-com Nov: 
+Field: nr-nota-com Nov: 
+Field: dt-emis-com ?
+Field: cod-servico Nov: 0
+Field: ind-ori-doc Nov: 2
+Field: vl-ipi-dev Nov: 0
+Field: nivel-restituicao Nov: 
+Field: pc-desc-icms Nov: 0
+Field: pc-restituicao Nov: 0
+Field: vl-ipi-devol Nov: 0
+Field: ct-codigo Nov: 413290100000901
+Field: sc-codigo Nov: 010701010000101
+Field: aliquota-icm Nov: 0
+Field: conta-contabil Nov: 
+Field: char-1 Nov: 110           0
+Field: char-2 Nov: 0       0                                                                                             0             2400,66          0        0                                                               0      0        0
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+Field: vl-bsubs-it-en Nov: 0
+Field: vl-icmsub-it-en Nov: 0
+Field: vl-irf-it Nov: 0
+Field: baixa-estoq Nov: no
+Field: cod-sit-tri Nov: 0
+Field: vl-ipi-comp Nov: 0
+Field: vl-icms-comp Nov: 0
+Field: nro-comp Nov: 
+Field: despesas Nov: 0
+Field: desconto Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: log-livre-5 Nov: no
+Field: log-livre-6 Nov: no
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: val-livre-1 Nov: 168,05
+Field: val-livre-2 Nov: 0
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: val-icms-subst-entr Nov: 0
+Field: val-inss-retid Nov: 0
+Field: valor-ipi-beb Nov: 0
+Field: esp-beb Nov: 0
+Field: tipo-recip-beb Nov: 1
+Field: enquad-beb Nov: 0
+Field: cdn-espec-produt Nov: 0
+Field: capac-recip-beb Nov: 1
+Field: cd-trib-pis Nov: 3
+Field: cd-trib-cofins Nov: 3
+Field: perc-red-pis Nov: 0
+Field: perc-red-cofins Nov: 0
+Field: aliq-pis Nov: 0
+Field: aliq-cofins Nov: 0
+Field: val-pis Nov: 0
+Field: val-cofins Nov: 0
+Field: serie-nota Nov: 
+Field: val-retenc-csll Nov: 0
+Field: val-retenc-pis Nov: 0
+Field: val-retenc-cofins Nov: 0
+Field: idi-tip-apurac-ipi Nov: 2
+Field: val-base-calc-pis Nov: 2400,66
+Field: val-base-calc-cofins Nov: 2400,66
+=====> BD: emsmov Tabela: aprop_ctbl_pend_ap Evento: C Chave: 1|11EH64899|10||Alfa|211050400000528|01|Alfa|010702030000203|2.1.15|
+Field: cod_empresa Nov: 10
+Field: cod_estab Nov: 1
+Field: cod_refer Nov: 11EH64899
+Field: cod_plano_cta_ctbl Nov: Alfa
+Field: cod_cta_ctbl Nov: 211050400000528
+Field: cod_unid_negoc Nov: 01
+Field: cod_plano_ccusto Nov: Alfa
+Field: cod_ccusto Nov: 010702030000203
+Field: cod_tip_fluxo_financ Nov: 2.1.15
+Field: cod_pais Nov: 
+Field: cod_classif_impto Nov: 00000
+Field: cod_unid_federac Nov: 
+Field: cod_imposto Nov: 
+Field: num_seq_refer Nov: 10
+Field: val_aprop_ctbl Nov: 2400,66
+Field: log_impto_val_agreg Nov: no
+Field: log_mutuo_pagto Nov: no
+Field: cod_livre_1 Nov: 
+Field: cod_estab_aprop_ctbl Nov: 
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+=====> BD: emsmov Tabela: item_lote_impl_ap Evento: C Chave: 1|11EH64899|10|
+Field: cod_empresa Nov: 10
+Field: cod_estab Nov: 1
+Field: cod_refer Nov: 11EH64899
+Field: num_seq_refer Nov: 10
+Field: cdn_fornecedor Nov: 12704
+Field: cod_espec_docto Nov: NF
+Field: cod_ser_docto Nov: 1
+Field: cod_tit_ap Nov: 0134941
+Field: cod_parcela Nov: 1
+Field: cod_forma_pagto Nov: DOC
+Field: dat_emis_docto Nov: TODAY
+Field: dat_vencto_tit_ap Nov: 31/01/2014
+Field: dat_prev_pagto Nov: 31/01/2014
+Field: dat_desconto ?
+Field: cod_indic_econ Nov: REAL
+Field: val_tit_ap Nov: 2400,66
+Field: val_desconto Nov: 0
+Field: val_perc_desc Nov: 0
+Field: num_dias_atraso Nov: 0
+Field: val_juros_dia_atraso Nov: 0
+Field: val_perc_juros_dia_atraso Nov: 0
+Field: val_perc_multa_atraso Nov: 0
+Field: cod_portador Nov: 25
+Field: cod_apol_seguro Nov: 
+Field: cod_seguradora Nov: 
+Field: cod_arrendador Nov: 
+Field: cod_contrat_leas Nov: 
+Field: cod_histor_padr Nov: 
+Field: des_text_histor Nov: 
+Field: num_pessoa Nov: 143
+Field: cod_pagto_padr Nov: 
+Field: cod_pagto_provis_repet Nov: 
+Field: cb4_tit_ap_bco_cobdor Nov: 
+Field: cod_livre_1 Nov: 
+Field: dsl_obs_tit_ap Nov: 
+Field: ind_origin_tit_ap Nov: REC
+Field: cod_estab_tit_ap Nov: 1
+Field: cod_tit_ap_bco_cobdor Nov: 
+Field: val_cotac_indic_econ Nov: 1
+Field: num_ord_invest Nov: 0
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+Field: num_id_item_lote_impl_ap Nov: 0
+Field: cod_num_docto_esoc Nov: 
+Field: cod_estab_embarq Nov: 
+Field: cod_embarq Nov: 
+Field: cod_safra Nov: 
+Field: cod_contrat_graos Nov: 
+=====> BD: emsmov Tabela: lote_impl_tit_ap Evento: C Chave: 1|11EH64899|
+Field: cod_empresa Nov: 10
+Field: cod_estab Nov: 1
+Field: cod_refer Nov: 11EH64899
+Field: cdn_fornecedor ?
+Field: num_fatur_ap Nov: 0
+Field: cod_espec_docto Nov: 
+Field: dat_transacao Nov: TODAY
+Field: qtd_parcela Nov: 1
+Field: num_periodic_prev_ap Nov: 0
+Field: cod_indic_econ Nov: 
+Field: val_tot_lote_impl_tit_ap Nov: 0
+Field: val_tot_lote_infor_tit_ap Nov: 2400,66
+Field: ind_origin_tit_ap Nov: REC
+Field: ind_tip_espec_docto Nov: Normal
+Field: num_pessoa Nov: 0
+Field: cod_histor_padr Nov: 
+Field: cod_histor_padr_dupl Nov: 
+Field: cod_livre_1 Nov: 
+Field: ind_sit_lote_impl Nov: 
+Field: hra_inic_digitac Nov: <hora>
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+Field: log_darf_ap Nov: no
+Field: log_vincul_autom Nov: yes
+Field: log_import_tit_sdo Nov: no
+Field: log_fornec_dif Nov: no
+=====> BD: emsmov Tabela: tab_livre_emsfin Evento: C Chave: APB|tit_ap|12704
+
+Normal|1
+6097|
+Field: cod_modul_dtsul Nov: APB
+Field: cod_tab_dic_dtsul Nov: tit_ap
+Field: cod_compon_1_idx_tab Nov: 12704
+
+Normal
+Field: cod_compon_2_idx_tab Nov: 1
+6097
+Field: cod_livre_1 Nov: 
+Field: cod_livre_2 Nov: 
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+Field: dat_livre_1 Nov: TODAY
+Field: dat_livre_2 Nov: TODAY
+=====> BD: emsmov Tabela: rat_movto_tit_ap Evento: C Chave: 1|9773|1|
+Field: cod_estab Nov: 1
+Field: num_id_movto_tit_ap Nov: 9773
+Field: num_seq Nov: 1
+Field: cod_unid_negoc Nov: 01
+Field: cod_plano_cta_ctbl Nov: Alfa
+Field: cod_cta_ctbl Nov: 211050400000528
+Field: cod_plano_ccusto Nov: Alfa
+Field: cod_ccusto Nov: 010702030000203
+Field: cod_tip_fluxo_financ Nov: 2.1.15
+Field: val_aprop_ctbl Nov: 2400,66
+Field: cod_livre_1 Nov: 
+Field: num_livre_1 Nov: 0
+Field: dat_livre_1 ?
+Field: val_livre_1 Nov: 0
+Field: log_livre_1 Nov: no
+Field: cod_livre_2 Nov: 
+Field: num_livre_2 Nov: 0
+Field: dat_livre_2 ?
+Field: val_livre_2 Nov: 0
+Field: log_livre_2 Nov: no
+Field: log_impto_val_agreg Nov: no
+=====> BD: emsmov Tabela: val_tit_ap Evento: C Chave: 1|6097|9773|Corrente|01|2.1.15|
+Field: cod_estab Nov: 1
+Field: num_id_tit_ap Nov: 6097
+Field: num_id_movto_tit_ap Nov: 9773
+Field: cod_unid_negoc Nov: 01
+Field: cod_tip_fluxo_financ Nov: 2.1.15
+Field: cod_finalid_econ Nov: Corrente
+Field: dat_cotac_indic_econ Nov: TODAY
+Field: val_cotac_indic_econ Nov: 1
+Field: val_cotac_tax_juros Nov: 0
+Field: val_origin_tit_ap Nov: 2400,66
+Field: val_entr_transf_unid_negoc Nov: 0
+Field: val_multa_tit_ap Nov: 0
+Field: val_juros Nov: 0
+Field: val_cm_tit_ap Nov: 0
+Field: val_ajust_val_tit_ap Nov: 0
+Field: val_pagto_tit_ap Nov: 0
+Field: val_abat_tit_ap Nov: 0
+Field: val_desconto Nov: 0
+Field: val_transf_estab Nov: 0
+Field: val_entr_transf_estab Nov: 0
+Field: val_saida_subst_nf_dupl Nov: 0
+Field: val_saida_transf_unid_negoc Nov: 0
+Field: val_variac_cambial Nov: 0
+Field: val_acerto_cmcac Nov: 0
+Field: val_ganho_perda_cm Nov: 0
+Field: val_ganho_perda_projec Nov: 0
+Field: val_sdo_tit_ap Nov: 2400,66
+Field: val_perc_rat Nov: 100
+Field: cod_empresa Nov: 10
+Field: num_id_val_tit_ap Nov: 6516
+Field: cod_livre_1 Nov: database/tgfin/tcp/tcfin273.p ; prgfin/apb/apb750za.py ; pi_atualiza_titulo_apb prgfin/apb/apb739za.py ; prgfin/apb/apb739za.py ; prgfin/apb/apb704zc.py ; pi_controlar_importacao_apb prgfin/apb/apb900zg.py ; pi_integr_apb_criar_tabela prgfin/apb/apb900zg.py
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+=====> BD: emsmov Tabela: val_tit_ap Evento: C Chave: 1|6097|9773|IFRS I|01|2.1.15|
+Field: cod_estab Nov: 1
+Field: num_id_tit_ap Nov: 6097
+Field: num_id_movto_tit_ap Nov: 9773
+Field: cod_unid_negoc Nov: 01
+Field: cod_tip_fluxo_financ Nov: 2.1.15
+Field: cod_finalid_econ Nov: IFRS I
+Field: dat_cotac_indic_econ Nov: TODAY
+Field: val_cotac_indic_econ Nov: 1,0006389985
+Field: val_cotac_tax_juros Nov: 0
+Field: val_origin_tit_ap Nov: 2399,13
+Field: val_entr_transf_unid_negoc Nov: 0
+Field: val_multa_tit_ap Nov: 0
+Field: val_juros Nov: 0
+Field: val_cm_tit_ap Nov: 0
+Field: val_ajust_val_tit_ap Nov: 0
+Field: val_pagto_tit_ap Nov: 0
+Field: val_abat_tit_ap Nov: 0
+Field: val_desconto Nov: 0
+Field: val_transf_estab Nov: 0
+Field: val_entr_transf_estab Nov: 0
+Field: val_saida_subst_nf_dupl Nov: 0
+Field: val_saida_transf_unid_negoc Nov: 0
+Field: val_variac_cambial Nov: 0
+Field: val_acerto_cmcac Nov: 0
+Field: val_ganho_perda_cm Nov: 0
+Field: val_ganho_perda_projec Nov: 0
+Field: val_sdo_tit_ap Nov: 2399,13
+Field: val_perc_rat Nov: 100
+Field: cod_empresa Nov: 10
+Field: num_id_val_tit_ap Nov: 6517
+Field: cod_livre_1 Nov: database/tgfin/tcp/tcfin273.p ; prgfin/apb/apb750za.py ; pi_atualiza_titulo_apb prgfin/apb/apb739za.py ; prgfin/apb/apb739za.py ; prgfin/apb/apb704zc.py ; pi_controlar_importacao_apb prgfin/apb/apb900zg.py ; pi_integr_apb_criar_tabela prgfin/apb/apb900zg.py
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+=====> BD: emsmov Tabela: val_tit_ap Evento: C Chave: 1|6097|9773|IFRS II|01|2.1.15|
+Field: cod_estab Nov: 1
+Field: num_id_tit_ap Nov: 6097
+Field: num_id_movto_tit_ap Nov: 9773
+Field: cod_unid_negoc Nov: 01
+Field: cod_tip_fluxo_financ Nov: 2.1.15
+Field: cod_finalid_econ Nov: IFRS II
+Field: dat_cotac_indic_econ Nov: TODAY
+Field: val_cotac_indic_econ Nov: 1,01
+Field: val_cotac_tax_juros Nov: 0
+Field: val_origin_tit_ap Nov: 2376,89
+Field: val_entr_transf_unid_negoc Nov: 0
+Field: val_multa_tit_ap Nov: 0
+Field: val_juros Nov: 0
+Field: val_cm_tit_ap Nov: 0
+Field: val_ajust_val_tit_ap Nov: 0
+Field: val_pagto_tit_ap Nov: 0
+Field: val_abat_tit_ap Nov: 0
+Field: val_desconto Nov: 0
+Field: val_transf_estab Nov: 0
+Field: val_entr_transf_estab Nov: 0
+Field: val_saida_subst_nf_dupl Nov: 0
+Field: val_saida_transf_unid_negoc Nov: 0
+Field: val_variac_cambial Nov: 0
+Field: val_acerto_cmcac Nov: 0
+Field: val_ganho_perda_cm Nov: 0
+Field: val_ganho_perda_projec Nov: 0
+Field: val_sdo_tit_ap Nov: 2376,89
+Field: val_perc_rat Nov: 100
+Field: cod_empresa Nov: 10
+Field: num_id_val_tit_ap Nov: 6518
+Field: cod_livre_1 Nov: database/tgfin/tcp/tcfin273.p ; prgfin/apb/apb750za.py ; pi_atualiza_titulo_apb prgfin/apb/apb739za.py ; prgfin/apb/apb739za.py ; prgfin/apb/apb704zc.py ; pi_controlar_importacao_apb prgfin/apb/apb900zg.py ; pi_integr_apb_criar_tabela prgfin/apb/apb900zg.py
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+=====> BD: emsmov Tabela: val_movto_ap_correc_val Evento: C Chave: 1|9773|Corrente|
+Field: cod_empresa Nov: 10
+Field: cod_estab Nov: 1
+Field: num_id_movto_tit_ap Nov: 9773
+Field: cod_finalid_econ Nov: Corrente
+Field: val_cotac_indic_econ Nov: 1
+Field: val_cotac_tax_juros Nov: 0
+Field: val_prev_cotac_fasb Nov: 0
+Field: val_cotac_cm_emis Nov: 0
+Field: val_cotac_cm_vencto Nov: 0
+Field: val_cotac_cm_pagto Nov: 0
+Field: val_movto_ap Nov: 2400,66
+Field: val_variac_cambial Nov: 0
+Field: val_acerto_cmcac Nov: 0
+Field: val_ganho_perda_cm Nov: 0
+Field: val_ganho_perda_projec Nov: 0
+Field: val_fatorf Nov: 0
+Field: val_fatorx Nov: 0
+Field: val_fatory Nov: 0
+Field: ind_forma_conver Nov: Direta
+Field: cod_livre_1 Nov: 
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+=====> BD: emsmov Tabela: val_movto_ap_correc_val Evento: C Chave: 1|9773|IFRS I|
+Field: cod_empresa Nov: 10
+Field: cod_estab Nov: 1
+Field: num_id_movto_tit_ap Nov: 9773
+Field: cod_finalid_econ Nov: IFRS I
+Field: val_cotac_indic_econ Nov: 1,0006389985
+Field: val_cotac_tax_juros Nov: 0
+Field: val_prev_cotac_fasb Nov: 0
+Field: val_cotac_cm_emis Nov: 0
+Field: val_cotac_cm_vencto Nov: 0
+Field: val_cotac_cm_pagto Nov: 0
+Field: val_movto_ap Nov: 2399,13
+Field: val_variac_cambial Nov: 0
+Field: val_acerto_cmcac Nov: 0
+Field: val_ganho_perda_cm Nov: 0
+Field: val_ganho_perda_projec Nov: 0
+Field: val_fatorf Nov: 0
+Field: val_fatorx Nov: 0
+Field: val_fatory Nov: 0
+Field: ind_forma_conver Nov: Multimoeda
+Field: cod_livre_1 Nov: 
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+=====> BD: emsmov Tabela: val_movto_ap_correc_val Evento: C Chave: 1|9773|IFRS II|
+Field: cod_empresa Nov: 10
+Field: cod_estab Nov: 1
+Field: num_id_movto_tit_ap Nov: 9773
+Field: cod_finalid_econ Nov: IFRS II
+Field: val_cotac_indic_econ Nov: 1,0009539645
+Field: val_cotac_tax_juros Nov: 0
+Field: val_prev_cotac_fasb Nov: 1,01
+Field: val_cotac_cm_emis Nov: 1,0003210299
+Field: val_cotac_cm_vencto Nov: 0
+Field: val_cotac_cm_pagto Nov: 0
+Field: val_movto_ap Nov: 2376,89
+Field: val_variac_cambial Nov: 0
+Field: val_acerto_cmcac Nov: 0
+Field: val_ganho_perda_cm Nov: 0
+Field: val_ganho_perda_projec Nov: 0
+Field: val_fatorf Nov: 0
+Field: val_fatorx Nov: 0
+Field: val_fatory Nov: 0
+Field: ind_forma_conver Nov: FASB
+Field: cod_livre_1 Nov: 
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+=====> BD: emsmov Tabela: val_aprop_ctbl_ap Evento: C Chave: 1|15158|Corrente|
+Field: cod_estab Nov: 1
+Field: num_id_aprop_ctbl_ap Nov: 15158
+Field: cod_finalid_econ Nov: Corrente
+Field: val_aprop_ctbl Nov: 2400,66
+Field: dat_cotac_indic_econ Nov: TODAY
+Field: val_cotac_indic_econ Nov: 1
+Field: cod_empresa Nov: 
+Field: num_id_aprop_lancto_ctbl Nov: 0
+Field: cod_livre_1 Nov: database/tgfin/tcp/tcfin274.p ; pi_gerar_val_apropriacao_contabil_ap prgfin/apb/apb704zl.py ; pi_gerar_apropriacao_contabil_ap prgfin/apb/apb704zl.py ; pi_gerar_apropriacao_ctbl_impl_tit_ap prgfin/apb/apb704zl.py ; prgfin/apb/apb704zl.py ; pi_atualiza_titulo_apb prgfin/apb/apb739za.py ; prgfin/apb/apb739za.py
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+=====> BD: emsmov Tabela: val_aprop_ctbl_ap Evento: C Chave: 1|15158|IFRS I|
+Field: cod_estab Nov: 1
+Field: num_id_aprop_ctbl_ap Nov: 15158
+Field: cod_finalid_econ Nov: IFRS I
+Field: val_aprop_ctbl Nov: 2399,13
+Field: dat_cotac_indic_econ Nov: TODAY
+Field: val_cotac_indic_econ Nov: 1,0006389985
+Field: cod_empresa Nov: 
+Field: num_id_aprop_lancto_ctbl Nov: 0
+Field: cod_livre_1 Nov: database/tgfin/tcp/tcfin274.p ; pi_gerar_val_apropriacao_contabil_ap prgfin/apb/apb704zl.py ; pi_gerar_apropriacao_contabil_ap prgfin/apb/apb704zl.py ; pi_gerar_apropriacao_ctbl_impl_tit_ap prgfin/apb/apb704zl.py ; prgfin/apb/apb704zl.py ; pi_atualiza_titulo_apb prgfin/apb/apb739za.py ; prgfin/apb/apb739za.py
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+=====> BD: emsmov Tabela: val_aprop_ctbl_ap Evento: C Chave: 1|15158|IFRS II|
+Field: cod_estab Nov: 1
+Field: num_id_aprop_ctbl_ap Nov: 15158
+Field: cod_finalid_econ Nov: IFRS II
+Field: val_aprop_ctbl Nov: 2376,89
+Field: dat_cotac_indic_econ Nov: TODAY
+Field: val_cotac_indic_econ Nov: 1,0009539645
+Field: cod_empresa Nov: 
+Field: num_id_aprop_lancto_ctbl Nov: 0
+Field: cod_livre_1 Nov: database/tgfin/tcp/tcfin274.p ; pi_gerar_val_apropriacao_contabil_ap prgfin/apb/apb704zl.py ; pi_gerar_apropriacao_contabil_ap prgfin/apb/apb704zl.py ; pi_gerar_apropriacao_ctbl_impl_tit_ap prgfin/apb/apb704zl.py ; prgfin/apb/apb704zl.py ; pi_atualiza_titulo_apb prgfin/apb/apb739za.py ; prgfin/apb/apb739za.py
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+=====> BD: emsmov Tabela: aprop_ctbl_ap Evento: C Chave: 1|15158|
+Field: cod_empresa Nov: 10
+Field: cod_estab Nov: 1
+Field: cod_estab_aprop_ctbl Nov: 1
+Field: cod_plano_cta_ctbl Nov: Alfa
+Field: cod_cta_ctbl Nov: 211010100000101
+Field: cod_unid_negoc Nov: 01
+Field: cod_plano_ccusto Nov: 
+Field: cod_ccusto Nov: 
+Field: cod_indic_econ Nov: REAL
+Field: ind_natur_lancto_ctbl Nov: CR
+Field: ind_tip_aprop_ctbl Nov: Saldo
+Field: ind_gera_val_aprop_ctbl_ap Nov: Todas FE
+Field: val_aprop_ctbl Nov: 2400,66
+Field: num_id_movto_tit_ap Nov: 9773
+Field: num_id_aprop_ctbl_ap Nov: 15158
+Field: num_livro_fisc Nov: 0
+Field: num_pag_livro_fisc Nov: 0
+Field: log_ctbz_aprop_ctbl Nov: yes
+Field: log_impto_val_agreg Nov: no
+Field: dat_transacao Nov: TODAY
+Field: cod_livre_1 Nov: 1.00.00.158
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+=====> BD: emsmov Tabela: val_aprop_ctbl_ap Evento: C Chave: 1|15159|Corrente|
+Field: cod_estab Nov: 1
+Field: num_id_aprop_ctbl_ap Nov: 15159
+Field: cod_finalid_econ Nov: Corrente
+Field: val_aprop_ctbl Nov: 2400,66
+Field: dat_cotac_indic_econ Nov: TODAY
+Field: val_cotac_indic_econ Nov: 1
+Field: cod_empresa Nov: 10
+Field: num_id_aprop_lancto_ctbl Nov: 0
+Field: cod_livre_1 Nov: database/tgfin/tcp/tcfin274.p ; pi_gerar_val_apropriacao_contabil_ap prgfin/apb/apb704zl.py ; pi_gerar_apropriacao_contabil_ap prgfin/apb/apb704zl.py ; pi_gerar_apropriacao_ctbl_impl_tit_ap prgfin/apb/apb704zl.py ; prgfin/apb/apb704zl.py ; pi_atualiza_titulo_apb prgfin/apb/apb739za.py ; prgfin/apb/apb739za.py
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+=====> BD: emsmov Tabela: val_aprop_ctbl_ap Evento: C Chave: 1|15159|IFRS I|
+Field: cod_estab Nov: 1
+Field: num_id_aprop_ctbl_ap Nov: 15159
+Field: cod_finalid_econ Nov: IFRS I
+Field: val_aprop_ctbl Nov: 2399,13
+Field: dat_cotac_indic_econ Nov: TODAY
+Field: val_cotac_indic_econ Nov: 1,0006389985
+Field: cod_empresa Nov: 10
+Field: num_id_aprop_lancto_ctbl Nov: 0
+Field: cod_livre_1 Nov: database/tgfin/tcp/tcfin274.p ; pi_gerar_val_apropriacao_contabil_ap prgfin/apb/apb704zl.py ; pi_gerar_apropriacao_contabil_ap prgfin/apb/apb704zl.py ; pi_gerar_apropriacao_ctbl_impl_tit_ap prgfin/apb/apb704zl.py ; prgfin/apb/apb704zl.py ; pi_atualiza_titulo_apb prgfin/apb/apb739za.py ; prgfin/apb/apb739za.py
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+=====> BD: emsmov Tabela: val_aprop_ctbl_ap Evento: C Chave: 1|15159|IFRS II|
+Field: cod_estab Nov: 1
+Field: num_id_aprop_ctbl_ap Nov: 15159
+Field: cod_finalid_econ Nov: IFRS II
+Field: val_aprop_ctbl Nov: 2376,89
+Field: dat_cotac_indic_econ Nov: TODAY
+Field: val_cotac_indic_econ Nov: 1,0009539645
+Field: cod_empresa Nov: 10
+Field: num_id_aprop_lancto_ctbl Nov: 0
+Field: cod_livre_1 Nov: database/tgfin/tcp/tcfin274.p ; pi_gerar_val_apropriacao_contabil_ap prgfin/apb/apb704zl.py ; pi_gerar_apropriacao_contabil_ap prgfin/apb/apb704zl.py ; pi_gerar_apropriacao_ctbl_impl_tit_ap prgfin/apb/apb704zl.py ; prgfin/apb/apb704zl.py ; pi_atualiza_titulo_apb prgfin/apb/apb739za.py ; prgfin/apb/apb739za.py
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+=====> BD: emsmov Tabela: aprop_ctbl_ap Evento: C Chave: 1|15159|
+Field: cod_empresa Nov: 10
+Field: cod_estab Nov: 1
+Field: cod_estab_aprop_ctbl Nov: 1
+Field: cod_plano_cta_ctbl Nov: Alfa
+Field: cod_cta_ctbl Nov: 211050400000528
+Field: cod_unid_negoc Nov: 01
+Field: cod_plano_ccusto Nov: Alfa
+Field: cod_ccusto Nov: 010702030000203
+Field: cod_indic_econ Nov: REAL
+Field: ind_natur_lancto_ctbl Nov: DB
+Field: ind_tip_aprop_ctbl Nov: Despesa
+Field: ind_gera_val_aprop_ctbl_ap Nov: Todas FE
+Field: val_aprop_ctbl Nov: 2400,66
+Field: num_id_movto_tit_ap Nov: 9773
+Field: num_id_aprop_ctbl_ap Nov: 15159
+Field: num_livro_fisc Nov: 0
+Field: num_pag_livro_fisc Nov: 0
+Field: log_ctbz_aprop_ctbl Nov: yes
+Field: log_impto_val_agreg Nov: no
+Field: dat_transacao Nov: TODAY
+Field: cod_livre_1 Nov: 1.00.00.158
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+=====> BD: emsmov Tabela: histor_tit_movto_ap Evento: C Chave: 1|6097|9773|1|
+Field: cod_estab Nov: 1
+Field: num_id_tit_ap Nov: 6097
+Field: num_id_movto_tit_ap Nov: 9773
+Field: ind_orig_histor_ap Nov: Erro
+Field: des_text_histor Nov: Integra‡Æo On-line CFL !
+Field: num_seq_histor_movto_ap Nov: 1
+Field: cod_livre_1 Nov: 
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+=====> BD: emsmov Tabela: movto_tit_ap Evento: C Chave: 1|6097|9773|
+Field: cod_empresa Nov: 10
+Field: cod_estab Nov: 1
+Field: num_id_tit_ap Nov: 6097
+Field: dat_gerac_movto Nov: TODAY
+Field: hra_gerac_movto Nov: <hora>
+Field: cod_usuario Nov: super
+Field: dat_transacao Nov: TODAY
+Field: dat_apurac_variac_val_ant Nov: TODAY
+Field: ind_trans_ap Nov: Implanta‡Æo
+Field: ind_trans_ap_abrev Nov: IMPL
+Field: ind_motiv_acerto_val Nov: 
+Field: cod_refer Nov: 11EH64899
+Field: val_movto_ap Nov: 2400,66
+Field: val_movto_fluxo_cx_bco Nov: 0
+Field: val_desconto Nov: 0
+Field: val_abat_tit_ap Nov: 0
+Field: val_juros Nov: 0
+Field: val_multa_tit_ap Nov: 0
+Field: val_cm_tit_ap Nov: 0
+Field: num_id_movto_tit_ap Nov: 9773
+Field: cod_estab_tit_ap_pai Nov: 
+Field: num_id_movto_tit_ap_pai Nov: 0
+Field: cdn_fornec_fatur Nov: 0
+Field: num_fatur_ap Nov: 0
+Field: log_movto_estordo Nov: no
+Field: log_ctbz_aprop_ctbl Nov: yes
+Field: log_aprop_ctbl_ctbzda Nov: no
+Field: cod_usuar_gerac_ctbz Nov: 
+Field: dat_gerac_ctbz ?
+Field: hra_gerac_ctbz Nov: <hora>
+Field: cdn_fornec_pef Nov: 0
+Field: num_id_movto_bxa Nov: 0
+Field: cod_espec_docto Nov: NF
+Field: cdn_fornecedor Nov: 12704
+Field: num_id_movto_cta_corren Nov: 0
+Field: log_bxa_contra_antecip Nov: no
+Field: cod_estab_enctro_cta Nov: 
+Field: num_id_enctro_cta Nov: 0
+Field: log_movto_tit_ap_cartcred Nov: no
+Field: cod_portador Nov: 25
+Field: cod_estab_portad_mutuo Nov: 
+Field: cod_portad_mutuo Nov: 
+Field: log_reembol Nov: no
+Field: cod_estab_reembol Nov: 
+Field: cod_grp_fornec Nov: 
+Field: dat_fluxo_cx_movto Nov: TODAY
+Field: cod_livre_1 Nov: 
+Field: ind_origin_tit_ap Nov: APB
+Field: log_integr_cfl_atlzdo Nov: no
+Field: val_sdo_apos_movto Nov: 0
+Field: cb4_tit_ap_bco_cobdor Nov: 
+Field: cod_tit_ap_bco_cobdor Nov: 
+Field: cod_sist_nac_bcio_cobdor Nov: 
+Field: cod_contrat_cambio Nov: 
+Field: dat_contrat_cambio_import Nov: TODAY
+Field: num_contrat_id_cambio Nov: 0
+Field: cod_estab_contrat_cambio Nov: 
+Field: cod_refer_contrat_cambio Nov: 
+Field: dat_refer_contrat_cambio Nov: TODAY
+Field: num_ord_invest Nov: 0
+Field: num_ped_compra Nov: 0
+Field: num_ord_compra Nov: 0
+Field: num_event_invest Nov: 0
+Field: cod_estab_proces_bxa Nov: 
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+Field: log_pagto_sem_desemb Nov: no
+Field: log_utiliza_iva_compens Nov: no
+Field: val_iva_retid Nov: 0
+Field: log_import_tit_sdo Nov: no
+=====> BD: emsmov Tabela: tit_ap Evento: C Chave: 1|12704|NF|1|0134941|1|
+Field: cod_empresa Nov: 10
+Field: cod_estab Nov: 1
+Field: cod_espec_docto Nov: NF
+Field: cod_ser_docto Nov: 1
+Field: cdn_fornecedor Nov: 12704
+Field: cod_tit_ap Nov: 0134941
+Field: cod_parcela Nov: 1
+Field: num_fatur_ap Nov: 0
+Field: ind_origin_tit_ap Nov: REC
+Field: ind_sit_tit_ap Nov: Liberado
+Field: log_pagto_bloqdo Nov: no
+Field: log_sdo_tit_ap Nov: yes
+Field: log_tit_ap_estordo Nov: no
+Field: cod_portador Nov: 25
+Field: dat_transacao Nov: TODAY
+Field: dat_emis_docto Nov: TODAY
+Field: dat_vencto_tit_ap Nov: 31/01/2014
+Field: dat_desconto ?
+Field: dat_prev_pagto Nov: 31/01/2014
+Field: dat_ult_pagto ?
+Field: dat_ult_apurac_variac_val Nov: TODAY
+Field: dat_liquidac_tit_ap Nov: 31/12/9999
+Field: num_dias_atraso Nov: 0
+Field: val_perc_juros_dia_atraso Nov: 0
+Field: val_juros_dia_atraso Nov: 0
+Field: val_perc_multa_atraso Nov: 0
+Field: val_perc_desc Nov: 0
+Field: val_desconto Nov: 0
+Field: cod_apol_seguro Nov: 
+Field: cod_seguradora Nov: 
+Field: cod_arrendador Nov: 
+Field: cod_contrat_leas Nov: 
+Field: num_pessoa Nov: 143
+Field: log_calc_fasb Nov: no
+Field: log_calc_cmcac Nov: no
+Field: cod_indic_econ Nov: REAL
+Field: val_origin_tit_ap Nov: 2400,66
+Field: val_juros Nov: 0
+Field: val_multa_tit_ap Nov: 0
+Field: val_ajust_val_tit_ap Nov: 0
+Field: val_cm_tit_ap Nov: 0
+Field: val_pagto_tit_ap Nov: 0
+Field: val_desc_tit_ap Nov: 0
+Field: val_abat_tit_ap Nov: 0
+Field: val_transf_estab Nov: 0
+Field: val_saida_subst_nf_dupl Nov: 0
+Field: val_entr_transf_estab Nov: 0
+Field: val_sdo_tit_ap Nov: 2400,66
+Field: num_id_tit_ap Nov: 6097
+Field: cod_refer Nov: 11EH64899
+Field: ind_tip_espec_docto Nov: Normal
+Field: num_id_movto_tit_ap_ult Nov: 9773
+Field: cod_forma_pagto Nov: DOC
+Field: num_seq_refer Nov: 10
+Field: num_id_movto_cta_corren Nov: 0
+Field: cod_tit_ap_bco Nov: 
+Field: log_pagto_cartcred Nov: no
+Field: cb4_tit_ap_bco_cobdor Nov: 
+Field: cod_grp_fornec Nov: 
+Field: cod_sist_nac_bcio_cobdor Nov: 
+Field: cod_tit_ap_bco_cobdor Nov: 
+Field: cod_livre_1 Nov: 
+Field: log_integr_cfl_atlzdo Nov: no
+Field: log_concil Nov: no
+Field: cod_proces_import Nov: 
+Field: cod_livre_2 Nov: 
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+Field: cod_estab_embarq Nov: 
+Field: cod_embarq Nov: 
+Field: cod_safra Nov: 
+Field: cod_contrat_graos Nov: 
+=====> BD: emsmov Tabela: aprop_ctbl_pend_ap Evento: D Chave: 1|11EH64899|10||Alfa|211050400000528|01|Alfa|010702030000203|2.1.15|
+=====> BD: emsmov Tabela: item_lote_impl_ap Evento: D Chave: 1|11EH64899|10|
+=====> BD: emsmov Tabela: lote_impl_tit_ap Evento: D Chave: 1|11EH64899|
+=====> BD: mgmov Tabela: dupli-apagar Evento: W Chave: 1|0134941|12704|211MRI|1|
+Field: vl-ap-fasb[1] Ant: 0 Nov: 2446,45
+=====> BD: mgmov Tabela: movto-estoq Evento: C Chave: 88235|
+Field: cod-estabel Nov: 1
+Field: cod-depos Nov: ESP
+Field: it-codigo Nov: 
+Field: lote Nov: 
+Field: tipo-trans Nov: 2
+Field: ct-codigo Nov: 413290100000901
+Field: sc-codigo Nov: 010701010000101
+Field: dt-trans Nov: TODAY
+Field: esp-docto Nov: 21
+Field: num-sequen Nov: 0
+Field: serie-docto Nov: 1
+Field: quantidade Nov: 2
+Field: un Nov: pc
+Field: numero-ordem Nov: 0
+Field: referencia Nov: 
+Field: nro-docto Nov: 0134941
+Field: cod-emitente Nov: 12704
+Field: peso-liquido Nov: 0
+Field: valor-nota Nov: 2232,61
+Field: valor-icm Nov: 0
+Field: valor-ipi Nov: 0
+Field: nat-operacao Nov: 211MRI
+Field: descricao-db Nov: 
+Field: tipo-valor Nov: 1
+Field: valor-iss Nov: 0
+Field: vl-icm-fasb[1] Nov: 0
+Field: vl-icm-fasb[2] Nov: 0
+Field: vl-ipi-fasb[1] Nov: 0
+Field: vl-ipi-fasb[2] Nov: 0
+Field: vl-iss-fasb[1] Nov: 0
+Field: vl-iss-fasb[2] Nov: 0
+Field: vl-nota-fasb[1] Nov: 2275,19
+Field: vl-nota-fasb[2] Nov: 0
+Field: tipo-preco[1] Nov: 0
+Field: tipo-preco[2] Nov: 0
+Field: tipo-preco[3] Nov: 0
+Field: cod-refer Nov: 
+Field: dt-nf-saida ?
+Field: op-seq Nov: 0
+Field: usuario Nov: Super
+Field: nr-trans Nov: 88235
+Field: cod-estabel-des Nov: 
+Field: sequen-nf Nov: 1
+Field: origem-valor Nov: 
+Field: num-ord-des Nov: 0
+Field: num-seq-des Nov: 0
+Field: num-ord-inv Nov: 0
+Field: nr-ord-refer Nov: 0
+Field: nr-req-sum Nov: 0
+Field: cod-roteiro Nov: 
+Field: nr-reporte Nov: 0
+Field: item-pai Nov: 
+Field: op-codigo Nov: 0
+Field: cod-localiz Nov: 
+Field: cod-usu-ult-alter Nov: 
+Field: hr-trans Nov: <hora>
+Field: conta-contabil Nov: 
+Field: nr-trans-deb Nov: 0
+Field: cod-orig-trans Nov: 
+Field: ct-saldo Nov: 112510100000101
+Field: sc-saldo Nov: 
+Field: conta-saldo Nov: 
+Field: valor-mat-m[1] Nov: 2232,61
+Field: valor-mat-m[2] Nov: 2275,19
+Field: valor-mat-m[3] Nov: 2230,48
+Field: valor-mob-m[1] Nov: 0
+Field: valor-mob-m[2] Nov: 0
+Field: valor-mob-m[3] Nov: 0
+Field: valor-ggf-m[1] Nov: 0
+Field: valor-ggf-m[2] Nov: 0
+Field: valor-ggf-m[3] Nov: 0
+Field: valor-mat-o[1] Nov: 0
+Field: valor-mat-o[2] Nov: 0
+Field: valor-mat-o[3] Nov: 0
+Field: valor-mob-o[1] Nov: 0
+Field: valor-mob-o[2] Nov: 0
+Field: valor-mob-o[3] Nov: 0
+Field: valor-ggf-o[1] Nov: 0
+Field: valor-ggf-o[2] Nov: 0
+Field: valor-ggf-o[3] Nov: 0
+Field: valor-mat-p[1] Nov: 0
+Field: valor-mat-p[2] Nov: 0
+Field: valor-mat-p[3] Nov: 0
+Field: valor-mob-p[1] Nov: 0
+Field: valor-mob-p[2] Nov: 0
+Field: valor-mob-p[3] Nov: 0
+Field: valor-ggf-p[1] Nov: 0
+Field: valor-ggf-p[2] Nov: 0
+Field: valor-ggf-p[3] Nov: 0
+Field: cod-prog-orig Nov: RE1005
+Field: refer-contab Nov: 
+Field: dt-contab Nov: TODAY
+Field: hr-contab Nov: <hora>
+Field: contabilizado Nov: no
+Field: nr-ord-produ Nov: 0
+Field: vl-taxa Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+Field: dt-criacao Nov: TODAY
+Field: base-calculo Nov: 1
+Field: saldo-req Nov: 0
+Field: per-ppm Nov: 0
+Field: val-cofins Nov: 0
+Field: val-cofins-fasb Nov: 0
+Field: val-cofins-cmi Nov: 0
+Field: valor-pis Nov: 0
+Field: vl-pis-fasb Nov: 0
+Field: vl-pis-cmi Nov: 0
+Field: cod-unid-negoc Nov: 01
+Field: cod-unid-negoc-sdo Nov: 01
+Field: cod-barras Nov: 
+Field: cod-lote-fabrican Nov: 
+Field: dat-valid-lote-fabrican ?
+Field: dat-fabricc-lote ?
+Field: nom-fabrican Nov: 
+=====> BD: mgmov Tabela: movto-estoq Evento: C Chave: 88233|
+Field: cod-estabel Nov: 1
+Field: cod-depos Nov: ESP
+Field: it-codigo Nov: 
+Field: lote Nov: 
+Field: tipo-trans Nov: 1
+Field: ct-codigo Nov: 211050400000528
+Field: sc-codigo Nov: 010702030000203
+Field: dt-trans Nov: TODAY
+Field: esp-docto Nov: 21
+Field: num-sequen Nov: 0
+Field: serie-docto Nov: 1
+Field: quantidade Nov: 2
+Field: un Nov: pc
+Field: numero-ordem Nov: 0
+Field: referencia Nov: 
+Field: nro-docto Nov: 0134941
+Field: cod-emitente Nov: 12704
+Field: peso-liquido Nov: 0
+Field: valor-nota Nov: 2232,61
+Field: valor-icm Nov: 0
+Field: valor-ipi Nov: 0
+Field: nat-operacao Nov: 211MRI
+Field: descricao-db Nov: 
+Field: tipo-valor Nov: 1
+Field: valor-iss Nov: 0
+Field: vl-icm-fasb[1] Nov: 0
+Field: vl-icm-fasb[2] Nov: 0
+Field: vl-ipi-fasb[1] Nov: 0
+Field: vl-ipi-fasb[2] Nov: 0
+Field: vl-iss-fasb[1] Nov: 0
+Field: vl-iss-fasb[2] Nov: 0
+Field: vl-nota-fasb[1] Nov: 2275,19
+Field: vl-nota-fasb[2] Nov: 0
+Field: tipo-preco[1] Nov: 0
+Field: tipo-preco[2] Nov: 0
+Field: tipo-preco[3] Nov: 0
+Field: cod-refer Nov: 
+Field: dt-nf-saida ?
+Field: op-seq Nov: 0
+Field: usuario Nov: Super
+Field: nr-trans Nov: 88233
+Field: cod-estabel-des Nov: 
+Field: sequen-nf Nov: 1
+Field: origem-valor Nov: 
+Field: num-ord-des Nov: 0
+Field: num-seq-des Nov: 0
+Field: num-ord-inv Nov: 0
+Field: nr-ord-refer Nov: 0
+Field: nr-req-sum Nov: 0
+Field: cod-roteiro Nov: 
+Field: nr-reporte Nov: 0
+Field: item-pai Nov: 
+Field: op-codigo Nov: 0
+Field: cod-localiz Nov: 
+Field: cod-usu-ult-alter Nov: 
+Field: hr-trans Nov: <hora>
+Field: conta-contabil Nov: 
+Field: nr-trans-deb Nov: 0
+Field: cod-orig-trans Nov: 
+Field: ct-saldo Nov: 112510100000101
+Field: sc-saldo Nov: 
+Field: conta-saldo Nov: 
+Field: valor-mat-m[1] Nov: 2232,61
+Field: valor-mat-m[2] Nov: 2275,19
+Field: valor-mat-m[3] Nov: 2230,48
+Field: valor-mob-m[1] Nov: 0
+Field: valor-mob-m[2] Nov: 0
+Field: valor-mob-m[3] Nov: 0
+Field: valor-ggf-m[1] Nov: 0
+Field: valor-ggf-m[2] Nov: 0
+Field: valor-ggf-m[3] Nov: 0
+Field: valor-mat-o[1] Nov: 0
+Field: valor-mat-o[2] Nov: 0
+Field: valor-mat-o[3] Nov: 0
+Field: valor-mob-o[1] Nov: 0
+Field: valor-mob-o[2] Nov: 0
+Field: valor-mob-o[3] Nov: 0
+Field: valor-ggf-o[1] Nov: 0
+Field: valor-ggf-o[2] Nov: 0
+Field: valor-ggf-o[3] Nov: 0
+Field: valor-mat-p[1] Nov: 0
+Field: valor-mat-p[2] Nov: 0
+Field: valor-mat-p[3] Nov: 0
+Field: valor-mob-p[1] Nov: 0
+Field: valor-mob-p[2] Nov: 0
+Field: valor-mob-p[3] Nov: 0
+Field: valor-ggf-p[1] Nov: 0
+Field: valor-ggf-p[2] Nov: 0
+Field: valor-ggf-p[3] Nov: 0
+Field: cod-prog-orig Nov: RE1005
+Field: refer-contab Nov: 
+Field: dt-contab Nov: TODAY
+Field: hr-contab Nov: <hora>
+Field: contabilizado Nov: no
+Field: nr-ord-produ Nov: 0
+Field: vl-taxa Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+Field: dt-criacao Nov: TODAY
+Field: base-calculo Nov: 1
+Field: saldo-req Nov: 0
+Field: per-ppm Nov: 0
+Field: val-cofins Nov: 0
+Field: val-cofins-fasb Nov: 0
+Field: val-cofins-cmi Nov: 0
+Field: valor-pis Nov: 0
+Field: vl-pis-fasb Nov: 0
+Field: vl-pis-cmi Nov: 0
+Field: cod-unid-negoc Nov: 01
+Field: cod-unid-negoc-sdo Nov: 01
+Field: cod-barras Nov: 
+Field: cod-lote-fabrican Nov: 
+Field: dat-valid-lote-fabrican ?
+Field: dat-fabricc-lote ?
+Field: nom-fabrican Nov: 
+=====> BD: mgmov Tabela: movto-estoq Evento: C Chave: 88239|
+Field: cod-estabel Nov: 1
+Field: cod-depos Nov: ESP
+Field: it-codigo Nov: 
+Field: lote Nov: 
+Field: tipo-trans Nov: 2
+Field: ct-codigo Nov: 211050400000509
+Field: sc-codigo Nov: 010702020000202
+Field: dt-trans Nov: TODAY
+Field: esp-docto Nov: 21
+Field: num-sequen Nov: 0
+Field: serie-docto Nov: 1
+Field: quantidade Nov: 0
+Field: un Nov: 
+Field: numero-ordem Nov: 0
+Field: referencia Nov: MRI
+Field: nro-docto Nov: 0134941
+Field: cod-emitente Nov: 12704
+Field: peso-liquido Nov: 0
+Field: valor-nota Nov: 0
+Field: valor-icm Nov: 0
+Field: valor-ipi Nov: 0
+Field: nat-operacao Nov: 211MRI
+Field: descricao-db Nov: 
+Field: tipo-valor Nov: 1
+Field: valor-iss Nov: 0
+Field: vl-icm-fasb[1] Nov: 0
+Field: vl-icm-fasb[2] Nov: 0
+Field: vl-ipi-fasb[1] Nov: 0
+Field: vl-ipi-fasb[2] Nov: 0
+Field: vl-iss-fasb[1] Nov: 0
+Field: vl-iss-fasb[2] Nov: 0
+Field: vl-nota-fasb[1] Nov: 0
+Field: vl-nota-fasb[2] Nov: 0
+Field: tipo-preco[1] Nov: 0
+Field: tipo-preco[2] Nov: 0
+Field: tipo-preco[3] Nov: 0
+Field: cod-refer Nov: 
+Field: dt-nf-saida ?
+Field: op-seq Nov: 0
+Field: usuario Nov: Super
+Field: nr-trans Nov: 88239
+Field: cod-estabel-des Nov: 
+Field: sequen-nf Nov: 1
+Field: origem-valor Nov: 
+Field: num-ord-des Nov: 0
+Field: num-seq-des Nov: 0
+Field: num-ord-inv Nov: 0
+Field: nr-ord-refer Nov: 0
+Field: nr-req-sum Nov: 0
+Field: cod-roteiro Nov: 
+Field: nr-reporte Nov: 0
+Field: item-pai Nov: 
+Field: op-codigo Nov: 0
+Field: cod-localiz Nov: 
+Field: cod-usu-ult-alter Nov: 
+Field: hr-trans Nov: <hora>
+Field: conta-contabil Nov: 
+Field: nr-trans-deb Nov: 0
+Field: cod-orig-trans Nov: 
+Field: ct-saldo Nov: 112510100000101
+Field: sc-saldo Nov: 
+Field: conta-saldo Nov: 
+Field: valor-mat-m[1] Nov: 168,05
+Field: valor-mat-m[2] Nov: 169,48
+Field: valor-mat-m[3] Nov: 0
+Field: valor-mob-m[1] Nov: 0
+Field: valor-mob-m[2] Nov: 0
+Field: valor-mob-m[3] Nov: 0
+Field: valor-ggf-m[1] Nov: 0
+Field: valor-ggf-m[2] Nov: 0
+Field: valor-ggf-m[3] Nov: 0
+Field: valor-mat-o[1] Nov: 0
+Field: valor-mat-o[2] Nov: 0
+Field: valor-mat-o[3] Nov: 0
+Field: valor-mob-o[1] Nov: 0
+Field: valor-mob-o[2] Nov: 0
+Field: valor-mob-o[3] Nov: 0
+Field: valor-ggf-o[1] Nov: 0
+Field: valor-ggf-o[2] Nov: 0
+Field: valor-ggf-o[3] Nov: 0
+Field: valor-mat-p[1] Nov: 0
+Field: valor-mat-p[2] Nov: 0
+Field: valor-mat-p[3] Nov: 0
+Field: valor-mob-p[1] Nov: 0
+Field: valor-mob-p[2] Nov: 0
+Field: valor-mob-p[3] Nov: 0
+Field: valor-ggf-p[1] Nov: 0
+Field: valor-ggf-p[2] Nov: 0
+Field: valor-ggf-p[3] Nov: 0
+Field: cod-prog-orig Nov: 
+Field: refer-contab Nov: 
+Field: dt-contab Nov: TODAY
+Field: hr-contab Nov: <hora>
+Field: contabilizado Nov: no
+Field: nr-ord-produ Nov: 0
+Field: vl-taxa Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+Field: dt-criacao Nov: TODAY
+Field: base-calculo Nov: 1
+Field: saldo-req Nov: 0
+Field: per-ppm Nov: 0
+Field: val-cofins Nov: 0
+Field: val-cofins-fasb Nov: 0
+Field: val-cofins-cmi Nov: 0
+Field: valor-pis Nov: 0
+Field: vl-pis-fasb Nov: 0
+Field: vl-pis-cmi Nov: 0
+Field: cod-unid-negoc Nov: 01
+Field: cod-unid-negoc-sdo Nov: 01
+Field: cod-barras Nov: 
+Field: cod-lote-fabrican Nov: 
+Field: dat-valid-lote-fabrican ?
+Field: dat-fabricc-lote ?
+Field: nom-fabrican Nov: 
+=====> BD: mgmov Tabela: movto-estoq Evento: C Chave: 88237|
+Field: cod-estabel Nov: 1
+Field: cod-depos Nov: ESP
+Field: it-codigo Nov: 
+Field: lote Nov: 
+Field: tipo-trans Nov: 1
+Field: ct-codigo Nov: 211050400000528
+Field: sc-codigo Nov: 010702030000203
+Field: dt-trans Nov: TODAY
+Field: esp-docto Nov: 21
+Field: num-sequen Nov: 0
+Field: serie-docto Nov: 1
+Field: quantidade Nov: 0
+Field: un Nov: 
+Field: numero-ordem Nov: 0
+Field: referencia Nov: MRI
+Field: nro-docto Nov: 0134941
+Field: cod-emitente Nov: 12704
+Field: peso-liquido Nov: 0
+Field: valor-nota Nov: 0
+Field: valor-icm Nov: 0
+Field: valor-ipi Nov: 0
+Field: nat-operacao Nov: 211MRI
+Field: descricao-db Nov: 
+Field: tipo-valor Nov: 1
+Field: valor-iss Nov: 0
+Field: vl-icm-fasb[1] Nov: 0
+Field: vl-icm-fasb[2] Nov: 0
+Field: vl-ipi-fasb[1] Nov: 0
+Field: vl-ipi-fasb[2] Nov: 0
+Field: vl-iss-fasb[1] Nov: 0
+Field: vl-iss-fasb[2] Nov: 0
+Field: vl-nota-fasb[1] Nov: 0
+Field: vl-nota-fasb[2] Nov: 0
+Field: tipo-preco[1] Nov: 0
+Field: tipo-preco[2] Nov: 0
+Field: tipo-preco[3] Nov: 0
+Field: cod-refer Nov: 
+Field: dt-nf-saida ?
+Field: op-seq Nov: 0
+Field: usuario Nov: Super
+Field: nr-trans Nov: 88237
+Field: cod-estabel-des Nov: 
+Field: sequen-nf Nov: 1
+Field: origem-valor Nov: 
+Field: num-ord-des Nov: 0
+Field: num-seq-des Nov: 0
+Field: num-ord-inv Nov: 0
+Field: nr-ord-refer Nov: 0
+Field: nr-req-sum Nov: 0
+Field: cod-roteiro Nov: 
+Field: nr-reporte Nov: 0
+Field: item-pai Nov: 
+Field: op-codigo Nov: 0
+Field: cod-localiz Nov: 
+Field: cod-usu-ult-alter Nov: 
+Field: hr-trans Nov: <hora>
+Field: conta-contabil Nov: 
+Field: nr-trans-deb Nov: 0
+Field: cod-orig-trans Nov: 
+Field: ct-saldo Nov: 112510100000101
+Field: sc-saldo Nov: 
+Field: conta-saldo Nov: 
+Field: valor-mat-m[1] Nov: 168,05
+Field: valor-mat-m[2] Nov: 169,48
+Field: valor-mat-m[3] Nov: 0
+Field: valor-mob-m[1] Nov: 0
+Field: valor-mob-m[2] Nov: 0
+Field: valor-mob-m[3] Nov: 0
+Field: valor-ggf-m[1] Nov: 0
+Field: valor-ggf-m[2] Nov: 0
+Field: valor-ggf-m[3] Nov: 0
+Field: valor-mat-o[1] Nov: 0
+Field: valor-mat-o[2] Nov: 0
+Field: valor-mat-o[3] Nov: 0
+Field: valor-mob-o[1] Nov: 0
+Field: valor-mob-o[2] Nov: 0
+Field: valor-mob-o[3] Nov: 0
+Field: valor-ggf-o[1] Nov: 0
+Field: valor-ggf-o[2] Nov: 0
+Field: valor-ggf-o[3] Nov: 0
+Field: valor-mat-p[1] Nov: 0
+Field: valor-mat-p[2] Nov: 0
+Field: valor-mat-p[3] Nov: 0
+Field: valor-mob-p[1] Nov: 0
+Field: valor-mob-p[2] Nov: 0
+Field: valor-mob-p[3] Nov: 0
+Field: valor-ggf-p[1] Nov: 0
+Field: valor-ggf-p[2] Nov: 0
+Field: valor-ggf-p[3] Nov: 0
+Field: cod-prog-orig Nov: 
+Field: refer-contab Nov: 
+Field: dt-contab Nov: TODAY
+Field: hr-contab Nov: <hora>
+Field: contabilizado Nov: no
+Field: nr-ord-produ Nov: 0
+Field: vl-taxa Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+Field: dt-criacao Nov: TODAY
+Field: base-calculo Nov: 1
+Field: saldo-req Nov: 0
+Field: per-ppm Nov: 0
+Field: val-cofins Nov: 0
+Field: val-cofins-fasb Nov: 0
+Field: val-cofins-cmi Nov: 0
+Field: valor-pis Nov: 0
+Field: vl-pis-fasb Nov: 0
+Field: vl-pis-cmi Nov: 0
+Field: cod-unid-negoc Nov: 01
+Field: cod-unid-negoc-sdo Nov: 01
+Field: cod-barras Nov: 
+Field: cod-lote-fabrican Nov: 
+Field: dat-valid-lote-fabrican ?
+Field: dat-fabricc-lote ?
+Field: nom-fabrican Nov: 
+=====> BD: emscad Tabela: histor_exec_especial Evento: D Chave: BGC|api_execucao_orcamentaria||19/10/16|124624|
+=====> BD: emscad Tabela: histor_exec_especial Evento: C Chave: BGC|api_execucao_orcamentaria||TODAY|173041|
+Field: cod_modul_dtsul Nov: BGC
+Field: cod_prog_dtsul Nov: api_execucao_orcamentaria
+Field: cod_vers_prog Nov: 
+Field: dat_gerac_movto Nov: TODAY
+Field: hra_gerac_movto Nov: <hora>
+Field: cod_usuar_gerac_movto Nov: 
+Field: cod_livre_1 Nov: 
+Field: cod_livre_2 Nov: 
+Field: log_livre_1 Nov: no
+Field: log_livre_2 Nov: no
+Field: num_livre_1 Nov: 0
+Field: num_livre_2 Nov: 0
+Field: val_livre_1 Nov: 0
+Field: val_livre_2 Nov: 0
+Field: dat_livre_1 ?
+Field: dat_livre_2 ?
+=====> BD: mgmov Tabela: docum-est Evento: W Chave: 1|0134941|12704|211MRI|
+Field: hr-atualiza Ant: <hora> Nov: <hora>
+Field: ap-atual Ant: no Nov: yes
+Field: of-atual Ant: no Nov: yes
+Field: CE-atual Ant: no Nov: yes
+Field: base-icm-fas[1] Ant: 0 Nov: 2446,45
+Field: base-ipi-fas[1] Ant: 0 Nov: 2446,45
+Field: icm-dc-fasb[1] Ant: 0 Nov: 167,94
+Field: tot-vl-fasb[1] Ant: 0 Nov: 2446,45
+Field: vl-merc-fasb[1] Ant: 0 Nov: 2446,45
+Field: cotacao-fasb Ant: 0 Nov: ,98128308
+=====> BD: mgcad Tabela: item Evento: W Chave: |
+Field: data-ult-ent Ant: 07/11/2011 Nov: TODAY
+Field: preco-ul-ent Ant: 91,05 Nov: 1200,33
+=====> BD: mgmov Tabela: consist-nota Evento: C Chave: 1|0134941|12704|211MRI|1|
+Field: nro-docto Nov: 0134941
+Field: serie-docto Nov: 1
+Field: cod-emitente Nov: 12704
+Field: mensagem Nov: 30625
+Field: calculado Nov: 0
+Field: informado Nov: 0
+Field: nat-operacao Nov: 211MRI
+Field: tipo Nov: 1
+Field: tipo-nota Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+Field: sequencia Nov: 0
+Field: situacao Nov: 1
+=====> BD: mgmov Tabela: item-doc-est Evento: W Chave: 1|0134941|12704|211MRI|1|
+Field: preco-total[2] Ant: 0 Nov: 2446,45
+Field: cotacao-fasb Ant: 0 Nov: ,98128308
+Field: valor-icm[2] Ant: 168,05 Nov: 167,94
+Field: preco-unit[2] Ant: 0 Nov: 1223,225
+=====> BD: mgcad Tabela: bc-trans Evento: C Chave: 1571|
+Field: nr-trans Nov: 1571
+Field: ep-codigo Nov: 10
+Field: usuario Nov: super
+Field: data Nov: TODAY
+Field: horario Nov: <hora>
+Field: data-atualizacao ?
+Field: hora-atualizacao Nov: <hora>
+Field: cd-trans Nov: Etiq-rec
+Field: detalhe Nov: Etiq-rec -> Item:  Quantidade:         2,0000
+Field: estado-trans Nov: 1
+Field: etiq-impressa Nov: no
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+Field: des-observacao Nov: 
+Field: ind-tipo-trans Nov: 1
+Field: ind-processo Nov: 1
+Field: qtd_etiqueta Nov: 0
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+emscad     histor_exec_especial                    1          0          1
+emsmov     aprop_ctbl_ap                           2          0          0
+emsmov     aprop_ctbl_pend_ap                      1          0          1
+emsmov     histor_tit_movto_ap                     1          0          0
+emsmov     item_lote_impl_ap                       1          0          1
+emsmov     lote_impl_tit_ap                        1          0          1
+emsmov     movto_tit_ap                            1          0          0
+emsmov     rat_movto_tit_ap                        1          0          0
+emsmov     tab_livre_emsfin                        1          0          0
+emsmov     tit_ap                                  1          0          0
+emsmov     val_aprop_ctbl_ap                       6          0          0
+emsmov     val_movto_ap_correc_val                 3          0          0
+emsmov     val_tit_ap                              3          0          0
+mgcad      bc-trans                                1          0          0
+mgcad      gg-ext-docum-est                        1          0          0
+mgcad      inf-compl                               4          0          0
+mgcad      item                                    0          1          0
+mgcad      item-uni-estab                          0          1          0
+mgmov      consist-nota                            1          0          0
+mgmov      doc-fiscal                              1          0          0
+mgmov      docum-est                               1          3          0
+mgmov      dupli-apagar                            1          1          0
+mgmov      it-doc-fisc                             1          0          0
+mgmov      item-doc-est                            1          1          0
+mgmov      movto-estoq                             4          0          0
+mgmov      rat-lote                                1          0          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                             40          7          4

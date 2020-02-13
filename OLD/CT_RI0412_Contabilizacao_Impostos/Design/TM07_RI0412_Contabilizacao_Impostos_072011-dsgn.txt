@@ -1,0 +1,12 @@
+     Cenario : TM07_RI0412_Contabilizacao_Impostos_072011
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabelec."
+EXECUTE,"Informar o valor '1' no Campo ."
+EXECUTE,"Informar o valor '07/2011' no Campo Período."
+EXECUTE,"Informar o valor '1' no Radio Set ."
+EXECUTE,"Informar o valor 'yes' na Opção Gera Movimentos."
+EXECUTE,"Informar o valor 'yes' na Opção Integração com Contabilidade."

@@ -1,0 +1,6 @@
+     Cenario : CN03_OF0736_Nova_GIA_SP
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

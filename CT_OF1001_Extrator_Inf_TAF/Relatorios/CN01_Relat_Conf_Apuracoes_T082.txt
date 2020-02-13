@@ -1,0 +1,5 @@
+Empresa	Estabelecimento	Data Início Apur	Data Fim Apur	Vlr Recta Bruta Total Estab Períod	Atividade	Vlr Recta Bruta Ativ Estab	Vlr Exclusões	Vlr Base Calc CPRB	Alíquota CPRB	Vlr Cont Apur Recta Bruta	Conta Contábil	Vlr Suspensão CPRB	Informação Complementar
+10	1	1/1/2014	1/31/2014	0.00	19000000	12250.00	0.00	12250.00	2.5000	306.25	33510212	0.00	
+10	1	1/1/2014	1/31/2014	0.00	1901EX01	6250.00	0.00	6250.00	1.0000	62.50	33510212	0.00	
+10	1	1/1/2014	1/31/2014	0.00	73082000	2920.00	428.25	2920.00	2.5000	73.00	33510212	0.00	
+10	1	1/1/2014	1/31/2014	0.00	76129090	1196.57	751.14	1196.57	2.5000	29.91	33510212	0.00	

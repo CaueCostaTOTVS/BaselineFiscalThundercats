@@ -1,0 +1,21 @@
+     Cenario : CN04_OF0735_Interestaduais_ST
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estab."
+EXECUTE,"Informar o valor '01/05/2011' no Campo Data Documento."
+EXECUTE,"Informar o valor '31/05/2011' no Campo ."
+EXECUTE,"Informar o valor 'SP' no Campo Unidade da Federação."
+EXECUTE,"Informar o valor '1' no Campo Estabelecimento."
+EXECUTE,"Informar o valor 'SP' no Campo Unidade Federação."
+EXECUTE,"Informar o valor '31/05/2011' no Campo Mês/Ano Referência."
+EXECUTE,"Informar o valor '160523' no Campo Número GNR."
+EXECUTE,"Informar o valor '' no Campo Ajuste Obrigação."
+EXECUTE,"Informar o valor '' no Campo Receita Obrigação."
+EXECUTE,"Informar o valor '09/06/2011' no Campo Data GNR."
+EXECUTE,"Informar o valor '237' no Campo Banco GNR."
+EXECUTE,"Informar o valor '358' no Campo Agência GNR."
+EXECUTE,"Informar o valor '106.825,10' no Campo Valor GNR."
+EXECUTE,"Informar o valor '09/06/2011' no Campo Dt Vencto."

@@ -1,0 +1,9 @@
+     Cenario : CN02_LF0227_Conf_Mes_Seguinte_Bloco_K
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '01/10/2011' no Campo Data Docto."
+EXECUTE,"Informar o valor '1' no Campo Estab."
+EXECUTE,"Informar o valor 'C:/automacao/relatorios/LF0227_Bloco_k_10_2011.lst' no Editor ."

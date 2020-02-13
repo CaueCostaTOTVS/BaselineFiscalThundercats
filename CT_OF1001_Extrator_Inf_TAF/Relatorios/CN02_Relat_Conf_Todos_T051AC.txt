@@ -1,0 +1,6 @@
+Estabelecimento	Período	UF	Código Ajuste	Participante	Modelo	Série	Subsérie	Número do Documento	Data	Item	Valor Ajuste Item	Data Visto
+1	Aug-11	SC	SC100002	1.43801E+12	55	1		0000852	5/20/2011	40T	12.00	
+** Value 35110553113791001790550010000008520000000000 cannot be displayed using ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>9.<<<<<<<<<<<<<<<<. (74)												
+???????????????????????????????????????												
+1	Aug-11	SC	SC100002	12704	01	1		0001294	7/29/2011	.COMPRAS	10.00	
+1	Aug-11	SC	SC120005	14	01	1		0001054	5/20/2011	40T	147.37	

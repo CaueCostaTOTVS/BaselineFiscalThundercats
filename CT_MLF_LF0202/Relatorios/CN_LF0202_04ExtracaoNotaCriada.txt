@@ -1,0 +1,193 @@
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    1
+-------------------------------------------------------------------------------------------------------------- 12/02/2020 - 11:07:39
+
+
+Documentos Fiscais
+
+
+
+Dt Docto   Est   Ser   Doc Fisc         Cliente/Fornec Nome Abreviado Nat Oper UF
+---------- ----- ----- ---------------- -------------- -------------- -------- ----
+12/02/2020 1     1     0001030                       1 SASAZAKI       111a     SP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:2.00.01.080
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    2
+-------------------------------------------------------------------------------------------------------------- 12/02/2020 - 11:07:39
+
+            Seleção
+
+            Estabelecimento:   1            |< >|  1
+                       Data:   01/02/2020   |< >|  29/02/2020
+
+
+            Parâmetros
+
+                                            Entrada:  Sim
+                                              Saída:  Sim
+                                            Serviço:  Sim
+                    Atualiza Documento Já Integrado:  Sim
+                   Extrair Documentos de Exportação:  Não
+                     Atualiza Dados CIAP no Período:  Não
+            Primeira Entrega Bloco G do Sped Fiscal:  Não
+                    Extrair Automaticamente Bloco P:  Não
+           Considerar no Valor da Mercadoria (C170):  Não
+                        Notas Fiscais de Exportação:
+
+
+            Destino:  Arquivo          -   c:/automacao/relatorios/CN_LF0202_04Extr
+            Usuário:  SUPER
+
+
+            Inventário
+
+            Motivo                            Dt Fechamento  Preço Base ICMS  %Margem  Estab x Item
+            --------------------------------  -------------  ---------------  -------  ------------
+            Final do Período...........: Não
+            Mudança Forma Tributação...: Não
+            Solicitação Baixa Cadastral: Não
+            Alteração Regime Pagamento.: Não
+            Solicitação da Fiscalização: Não
+
+            % Margem por Item..........: Não
+
+            Período para Média das Entradas
+
+            Data Transação Inicial:
+              Data Transação Final:
+
+            Inventário em Processo
+
+            Considera Produtos em Fabricação: Não
+
+            Arquivos de Acompanhamento
+
+            Itens Selecionados Inventário:
+                Documentos Média Entradas:
+
+
+            ------------------------------------------   
+            Relacionamento Natureza de Operação - CFPS   
+
+            Nat Operação CFPS
+            ------------ ------------
+            1933         8933
+            2903         8903
+            2933         8933
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:2.00.01.080
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    3
+-------------------------------------------------------------------------------------------------------------- 12/02/2020 - 11:07:39
+
+
+            Nat Operação CFPS
+            ------------ ------------
+            2955         8955
+            511SER       9111
+            611-ie       9333
+            611se1       9444
+            611ser       9555
+            611ss        9666
+            6123         9777
+            6serc        9222
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:2.00.01.080
+

@@ -1,0 +1,6 @@
+     Cenario : CN01_RI0202_Inclusao_de_Bens
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

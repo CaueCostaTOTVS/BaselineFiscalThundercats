@@ -1,0 +1,6 @@
+     Cenario : CN05_OF0520_Registro_Entrada_Industria
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

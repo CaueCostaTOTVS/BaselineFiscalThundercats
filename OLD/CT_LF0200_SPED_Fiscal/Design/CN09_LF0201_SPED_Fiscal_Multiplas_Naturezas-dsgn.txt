@@ -1,0 +1,11 @@
+     Cenario : CN09_LF0201_SPED_Fiscal_Multiplas_Naturezas
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '01/10/2011' no Campo ."
+EXECUTE,"Informar o valor '1' no Campo Estabelecimento:."
+EXECUTE,"Informar o valor '0 - Remessa do arquivo original' no Combo Box Finalidade do Arquivo:."
+EXECUTE,"Informar o valor 'c:/Automacao/Relatorios/CN09_LF0201_Acompanhamento_Multiplas_Naturezas.lst' no Editor ."
+EXECUTE,"Informar o valor '1' no Radio Set ."

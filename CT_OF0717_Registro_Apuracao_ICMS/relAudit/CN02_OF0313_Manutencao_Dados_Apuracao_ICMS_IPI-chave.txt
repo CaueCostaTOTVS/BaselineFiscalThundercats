@@ -1,0 +1,136 @@
+=====> BD: mgmov Tabela: apur-imposto Evento: C Chave: 1|1|01/07/11|31/07/11|
+Field: cod-estabel Nov: 1
+Field: dt-apur-ini Nov: 01/07/2011
+Field: dt-apur-fim Nov: 31/07/2011
+Field: dt-entrega Nov: 30/07/2011
+Field: loc-entrega Nov: 
+Field: observacao Nov: 
+Field: tp-imposto Nov: 1
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+=====> BD: mgmov Tabela: dwf-apurac-impto-ajust Evento: C Chave: 1|01/07/11|31/07/11|ICMS||SP009999||002|1|TODAY|
+Field: cod-estab Nov: 1
+Field: dat-apurac-inicial-impto Nov: 01/07/2011
+Field: dat-apurac-final-impto Nov: 31/07/2011
+Field: cod-impto Nov: ICMS
+Field: cod-uf Nov: 
+Field: cod-ajust Nov: SP009999
+Field: cod-ajust-uf Nov: 
+Field: cod-lancto Nov: 002
+Field: num-seq-ajust Nov: 1
+Field: val-ajust-apurac Nov: 100
+Field: dsl-ajust-apurac Nov: 
+Field: dat-inic-valid Nov: TODAY
+Field: dat-fim-valid ?
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 9
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgmov Tabela: imp-valor Evento: C Chave: 1|1|01/07/11|31/07/11|2|1|
+Field: cod-estabel Nov: 1
+Field: cod-lanc Nov: 2
+Field: descricao Nov: 
+Field: dt-apur-ini Nov: 01/07/2011
+Field: dt-apur-fim Nov: 31/07/2011
+Field: nr-sequencia Nov: 1
+Field: tp-imposto Nov: 1
+Field: vl-lancamento Nov: 100
+Field: char-1 Nov: SP009999
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+Field: cod-ajust-uf Nov: 
+=====> BD: mgmov Tabela: apur-imposto Evento: C Chave: 1|2|01/07/11|31/07/11|
+Field: cod-estabel Nov: 1
+Field: dt-apur-ini Nov: 01/07/2011
+Field: dt-apur-fim Nov: 31/07/2011
+Field: dt-entrega Nov: 30/07/2011
+Field: loc-entrega Nov: 
+Field: observacao Nov: 
+Field: tp-imposto Nov: 2
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+=====> BD: mgmov Tabela: dwf-apurac-impto-ajust Evento: C Chave: 1|01/07/11|31/07/11|IPI||099||005|1|TODAY|
+Field: cod-estab Nov: 1
+Field: dat-apurac-inicial-impto Nov: 01/07/2011
+Field: dat-apurac-final-impto Nov: 31/07/2011
+Field: cod-impto Nov: IPI
+Field: cod-uf Nov: 
+Field: cod-ajust Nov: 099
+Field: cod-ajust-uf Nov: 
+Field: cod-lancto Nov: 005
+Field: num-seq-ajust Nov: 1
+Field: val-ajust-apurac Nov: 100
+Field: dsl-ajust-apurac Nov: 
+Field: dat-inic-valid Nov: TODAY
+Field: dat-fim-valid ?
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 9
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgmov Tabela: imp-valor Evento: C Chave: 1|2|01/07/11|31/07/11|5|1|
+Field: cod-estabel Nov: 1
+Field: cod-lanc Nov: 5
+Field: descricao Nov: 
+Field: dt-apur-ini Nov: 01/07/2011
+Field: dt-apur-fim Nov: 31/07/2011
+Field: nr-sequencia Nov: 1
+Field: tp-imposto Nov: 2
+Field: vl-lancamento Nov: 100
+Field: char-1 Nov: 099
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+Field: cod-ajust-uf Nov: 
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgmov      apur-imposto                            2          0          0
+mgmov      dwf-apurac-impto-ajust                  2          0          0
+mgmov      imp-valor                               2          0          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              6          0          0

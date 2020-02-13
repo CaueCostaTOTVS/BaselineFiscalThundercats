@@ -1,0 +1,71 @@
+MEN702DC                              3.00.00.001    menu_uit                      TODAY  00:00:00
+BTB906ZA                              2.00.00.011    men702dc                      TODAY  00:00:00
+MEN901ZA                              2.00.00.008    men702dc                      TODAY  00:00:00
+UT-TRDFR                              3.00.00.001    men702dc                      TODAY  00:00:00
+LF0200                                2.00.00.024    men702dc                      TODAY  00:00:00
+MEN901ZA                              2.00.00.008    lf0200                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    lf0200                        TODAY  00:00:00
+BTB970AA                              2.00.00.004    lf0200                        TODAY  00:00:00
+BTB432ZG                              2.00.01.011    btb970aa                      TODAY  00:00:00
+BOFI157                               2.00.00.011    lf0200                        TODAY  00:00:00
+BTBSECURITY                           3.00.00.001    bofi157                       TODAY  00:00:00
+MEN901ZA                              2.00.00.008    btbsecur                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofi157                       TODAY  00:00:00
+WINDOWSTYLES                          2.00.00.003    lf0200                        TODAY  00:00:00
+UT-TRCAMPOS                           2.00.00.009    lf0200                        TODAY  00:00:00
+     PonBOFI157 - VERSÇO PARA CONTROLE                                                                      
+     PonBOFI157 - Versao Atual = 7                                                                          
+     PonBOFI157 - Data Liberacao = 12/03/13                                                                 
+     PonBOFI157 - AMBIENTE DO CLIENTE                                                                       
+     PonBOFI157 - Nome Abrev Layout = NF Paulista                                                           
+     PonBOFI157 - Nome Layout = Arquivo Magn‚tico REDF - Portaria CAT 102/2007 [NR 3]                       
+LF0201                                2.00.00.100    lf0200                        TODAY  00:00:00
+MEN901ZA                              2.00.00.008    lf0201                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    lf0201                        TODAY  00:00:00
+BTB970AA                              2.00.00.004    lf0201                        TODAY  00:00:00
+THINFOLDER                            2.00.00.002    lf0201                        TODAY  00:00:00
+UT-TRCAMPOS                           2.00.00.009    lf0201                        TODAY  00:00:00
+BTB920AA                              2.00.00.012    lf0201                        TODAY  00:00:00
+TWFI159                               2.00.00.003    lf0201                        TODAY  00:00:00
+TWFI159                               2.00.00.003    lf0201                        TODAY  00:00:00
+TWFI159                               2.00.00.003    lf0201                        TODAY  00:00:00
+TWFI159                               2.00.00.003    lf0201                        TODAY  00:00:00
+TWFI159                               2.00.00.003    lf0201                        TODAY  00:00:00
+TWFI159                               2.00.00.003    lf0201                        TODAY  00:00:00
+TWFI159                               2.00.00.003    lf0201                        TODAY  00:00:00
+TWFI159                               2.00.00.003    lf0201                        TODAY  00:00:00
+TWFI159                               2.00.00.003    lf0201                        TODAY  00:00:00
+TCFI159                               2.00.00.003    lf0201                        TODAY  00:00:00
+TWFI159                               2.00.00.003    lf0201                        TODAY  00:00:00
+LF0201RP                              2.00.00.075    lf0201                        TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    lf0201rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    lf0201rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    lf0201rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    lf0201rp                      TODAY  00:00:00
+BTB920AA                              2.00.00.012    lf0201rp                      TODAY  00:00:00
+CD9970                                2.00.00.005    lf0201rp                      TODAY  00:00:00
+UT-ACOMP                              2.00.00.003    lf0201rp                      TODAY  00:00:00
+BOFI999                               2.00.03.043    lf0201rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    bofi999                       TODAY  00:00:00
+CDCFGFISCAL                           2.00.00.004    bofi999                       TODAY  00:00:00
+CDCFGFISCAL-1                         2.00.00.005    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-2                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-3                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-4                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-5                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+UT-ACOMP                              2.00.00.003    bofi999                       TODAY  00:00:00
+CDAPI020B                             2.00.00.037    bofi999                       TODAY  00:00:00
+LF0201B                               2.00.00.004    bofi999                       TODAY  00:00:00
+BOFI999A                              2.00.02.052    bofi999                       TODAY  00:00:00
+CDCFGFISCAL                           2.00.00.004    bofi999a                      TODAY  00:00:00
+CDCFGFISCAL-1                         2.00.00.005    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-2                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-3                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-4                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-5                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+BOFI999B                              2.00.00.004    bofi999                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    bofi999b                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    bofi999b                      TODAY  00:00:00
+     PonBOFI999 - REGISTROS SELECIONADOS                                                                    
+CD9150E                               2.00.00.015    menu_uit                      TODAY  00:00:00
+CD9150G                               2.00.00.002    cdp\cd91                      TODAY  00:00:00

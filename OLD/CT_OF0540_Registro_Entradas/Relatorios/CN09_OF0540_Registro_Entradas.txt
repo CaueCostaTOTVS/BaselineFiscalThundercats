@@ -1,0 +1,725 @@
+              R E G I S T R O  DE  E N T R A D A S                                           *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                                             * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                                              * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90                                  * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:       2          MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011                          *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                          *--- ICMS VALORES  FISCAIS ---*  *--- IPI VALORES FISCAIS ---*
+DATA DE      SERIE         DATA DO    CODIGO   UF   VALOR       CODIFICACAO     COD  BASE CALCULO/         IMPOSTO  COD  BASE CALCULO/  IMPOSTO
+ENTRADA  ESP SUB-   NUMERO DOCUMENTO  EMITENTE ORIG  CONTABIL    CONTABIL  FISCAL (a)   VALOR OPERAC  ALIQ CREDITADO  (a)  VALOR OPERAC CREDITADO OBSERVACOES
+             SERIE
+
+
+02/07/11 NFE  un   0002071 02/07/11          1 SP        210000,00          2101 1       200000,00 12,00   24000,00 1      200000,00    10000,00
+
+03/07/11 NFD  5    0075229 03/07/11      18179 SP          2260,50          2201 1         2130,12 18,00     383,42 3        2130,12        0,00
+                                                                                  ST       2854,37           130,38
+
+03/07/11 NFE  5    0075572 03/07/11      77222 SP            15,57          1124 1           15,57 18,00       2,80 3          15,57        0,00
+
+05/07/11 NFE  1    0010121 05/07/11   90000032 PR         13400,00               2        13400,00             0,00 2       13400,00        0,00
+
+05/07/11 NFE  un 011070501 05/07/11   90000032 PR         33916,67               2        33916,67             0,00 2       33916,67        0,00
+
+06/07/11 NFE  1    0000001 06/07/11   90000033 MT         36000,00          2101 2        36000,00             0,00 2       36000,00        0,00
+
+06/07/11 NFE  un   0001234 06/07/11          1 SP           100,00          1101 1          100,00 18,00      18,00 3         100,00        0,00
+
+06/07/11 NFE  un   0005678 06/07/11          1 SP          1250,00          1101 1         1250,00 18,00     225,00 3        1250,00        0,00
+
+06/07/11 NFE  un   0008910 06/07/11          1 SP           389,00          1101 1          389,00 18,00      70,02 3         389,00        0,00
+
+07/07/11 NFE  1    0000001 07/07/11   90000032 PR         36000,00          2101 2        36000,00             0,00 2       36000,00        0,00
+
+07/07/11 NFE  1    0000002 07/07/11   90000033 MT         12000,00          2101 2        12000,00             0,00 2       12000,00        0,00
+
+07/07/11 NFE  1    0000003 07/07/11   90000033 MT         36000,00          2101 2        36000,00             0,00 2       36000,00        0,00
+
+07/07/11 NFE  UN   0070711 07/07/11      12704 SC           100,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     5,00 
+
+07/07/11 NFE  un   0707112 07/07/11          1 SP           331,00          1101 1          331,00 18,00      59,58 3         331,00        0,00
+
+07/07/11 NFE  un   0707113 07/07/11          1 SP           100,00          1101 1          100,00 18,00      18,00 3         100,00        0,00
+
+08/07/11 NFE       0001415 08/07/11      70275 SP         50000,00          1551 3        50000,00             0,00 2       50000,00        0,00
+
+08/07/11 NFE  1    0807111 08/07/11   90000033 PR           670,00               2          670,00             0,00 2         670,00        0,00
+
+08/07/11 NFE  gra  0005633 08/07/11   90000032 PR          3350,00          2949 3         3350,00             0,00 3        3350,00        0,00 Mercadoria f
+                                                                                                                                                 ornecida por
+                                                                                                                                                  COOPERATIVA
+                                                                                                                                                  AMIGOS DO C
+                                                                                                                                                 AMPO COM. AG
+
+08/07/11 NFE  un   0000145 08/07/11      74004 SP          6000,00          2101 1         6000,00 12,00     720,00 3        6000,00        0,00
+
+08/07/11 NFE  un   0001024 08/07/11       9179 RJ           100,00          2101 2          100,00             0,00 2         100,00        0,00
+
+08/07/11 NFE  UN   0001256 08/07/11   90000037 sc         50000,00          1551 3        50000,00             0,00 2       50000,00        0,00
+
+08/07/11 NFE  un   0005007 08/07/11      74004 SP          6000,00          2101 1         6000,00 12,00     720,00 3        6000,00        0,00
+
+              R E G I S T R O  DE  E N T R A D A S                                           *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                                             * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                                              * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90                                  * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:       3          MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011                          *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                          *--- ICMS VALORES  FISCAIS ---*  *--- IPI VALORES FISCAIS ---*
+DATA DE      SERIE         DATA DO    CODIGO   UF   VALOR       CODIFICACAO     COD  BASE CALCULO/         IMPOSTO  COD  BASE CALCULO/  IMPOSTO
+ENTRADA  ESP SUB-   NUMERO DOCUMENTO  EMITENTE ORIG  CONTABIL    CONTABIL  FISCAL (a)   VALOR OPERAC  ALIQ CREDITADO  (a)  VALOR OPERAC CREDITADO OBSERVACOES
+             SERIE
+
+
+08/07/11 NFE  un   0807111 08/07/11          1 SP           444,00          1101 1          544,00 18,00      97,92 3         544,00        0,00
+
+08/07/11 NFE  un   0807112 08/07/11          1 SP           448,00          1101 1          448,00 18,00      80,64 3         448,00        0,00
+
+10/07/11 NFE  1    0008722 10/07/11   90000032 PR          6700,00               2         6700,00             0,00 2        6700,00        0,00
+
+11/07/11 NFE  1    0000004 11/07/11   90000033 MT          4320,00          2101 2         4320,00             0,00 2        4320,00        0,00
+
+11/07/11 NFE  1    0000015 11/07/11   90000033 MT         26665,94          2101 2        26665,94             0,00 2       26665,94        0,00
+
+11/07/11 NFE  1    1107001 11/07/11   90000032 PR         33500,00               2        33500,00             0,00 2       33500,00        0,00
+
+11/07/11 NFE  5    0001107 11/07/11      70613 SP          2000,00          2101 1         2000,00 12,00     240,00 2        2000,00        0,00
+
+11/07/11 NFE  5    0002422 11/07/11   90000032 PR          1340,00               2         1340,00             0,00 2        1340,00        0,00
+
+11/07/11 NFE  un   0026321 11/07/11          1 SP             1,00          1101 1            1,00 18,00       0,18 3           1,00        0,00
+
+11/07/11 NFE  un   0026322 11/07/11          1 SP             1,00          1101 1            1,00 18,00       0,18 3           1,00        0,00
+
+11/07/11 NFE  un   0026323 11/07/11          1 SP             1,00          1101 1            1,00 18,00       0,18 3           1,00        0,00
+
+11/07/11 NFE  un   0026324 11/07/11          1 SP             1,00          1101 1            1,00 18,00       0,18 3           1,00        0,00
+
+11/07/11 NFE  un   0110711 11/07/11          1 SP           355,00          1101 1          355,00 18,00      63,90 3         355,00        0,00
+
+11/07/11 NFE  un   0110712 11/07/11          1 SP             1,00          1101 1            1,00 18,00       0,18 3           1,00        0,00
+
+11/07/11 NFE  un   0110713 11/07/11          1 SP           223,00          1101 1          223,00 18,00      40,14 3         223,00        0,00
+
+12/07/11 NFE  1    0000008 12/07/11   90000033 MT         11680,00          2101 2        11680,00             0,00 2       11680,00        0,00
+
+12/07/11 NFE  1  011071204 12/07/11   90000032 PR          1271,88               2         1271,88             0,00 2        1271,88        0,00
+
+12/07/11 NFE  5  011071201 12/07/11   90000032 PR          3777,50          2101 2         3777,50             0,00 2        3777,50        0,00
+
+12/07/11 NFE  5  011071202 12/07/11   90000032 PR          3936,84          2101 2         3936,84             0,00 2        3936,84        0,00
+
+12/07/11 NFE  gra  0006711 12/07/11   90000032 PR         20100,00          2101 2        20100,00             0,00 2       20100,00        0,00
+
+12/07/11 NFE  un   0036333 12/07/11          1 SP             1,00          1101 1            1,00 18,00       0,18 3           1,00        0,00
+
+12/07/11 NFE  un   0120711 12/07/11          1 SP           644,00          1101 1          644,00 18,00     115,92 3         644,00        0,00
+
+12/07/11 NFE  un   0120711 12/07/11      12704 SC            24,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     1,20 
+
+12/07/11 NFE  un   0121212 12/07/11          1 SP           500,00          1101 1          500,00 18,00      90,00 3         500,00        0,00
+
+12/07/11 NFE  un 011071203 12/07/11   90000032 PR         33916,67               2        33916,67             0,00 2       33916,67        0,00
+              R E G I S T R O  DE  E N T R A D A S                                           *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                                             * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                                              * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90                                  * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:       4          MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011                          *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                          *--- ICMS VALORES  FISCAIS ---*  *--- IPI VALORES FISCAIS ---*
+DATA DE      SERIE         DATA DO    CODIGO   UF   VALOR       CODIFICACAO     COD  BASE CALCULO/         IMPOSTO  COD  BASE CALCULO/  IMPOSTO
+ENTRADA  ESP SUB-   NUMERO DOCUMENTO  EMITENTE ORIG  CONTABIL    CONTABIL  FISCAL (a)   VALOR OPERAC  ALIQ CREDITADO  (a)  VALOR OPERAC CREDITADO OBSERVACOES
+             SERIE
+
+
+
+13/07/11 NFE  UN   0033262 13/07/11          1 SP             1,00          1101 1            1,00 18,00       0,18 3           1,00        0,00
+
+13/07/11 NFE  un   0033621 13/07/11          1 SP             1,00          1101 1            1,00 18,00       0,18 3           1,00        0,00
+
+13/07/11 NFE  un   0110711 13/07/11      12704 SC             3,00          1902 1           60,00 17,00      10,20 1          60,00        3,00 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0070711 S
+                                                                                                                                                 érie: UN de 
+
+13/07/11 NFE  un   0120711 13/07/11      12704 SC             1,50          1902 1           30,00 17,00       5,10 1          30,00        1,50 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0070711 S
+                                                                                                                                                 érie: UN de 
+
+13/07/11 NFE  un   0130710 13/07/11      40001 SP           200,00          1101 1          200,00 18,00      36,00 3         200,00        0,00 material esc
+                                                                                                                                                 ritório/repo
+                                                                                                                                                 sição estoqu
+                                                                                                                                                 e           
+
+13/07/11 NFE  un   0130711 13/07/11      40001 SP            36,75          1101 1           36,75 18,00       6,62 3          35,00        0,00
+
+14/07/11 NFE  1    0140701 14/07/11   90000033 MT         30000,00               2        30000,00             0,00 2       30000,00        0,00
+
+14/07/11 NFE  1    0140702 14/07/11   90000033 MT         15000,00               2        15000,00             0,00 2       15000,00        0,00
+
+14/07/11 NFE  1    0140703 14/07/11   90000033 MT         22500,00               2        22500,00             0,00 2       22500,00        0,00
+
+14/07/11 NFE  1    0140704 14/07/11   90000032 PR         30000,00               2        30000,00             0,00 2       30000,00        0,00
+
+14/07/11 NFE  1    0140705 14/07/11   90000032 PR         37500,00               2        37500,00             0,00 2       37500,00        0,00
+
+14/07/11 NFE  1    0140706 14/07/11   90000032 PR         15000,00               2        15000,00             0,00 2       15000,00        0,00
+
+14/07/11 NFE  un   0014000 14/07/11          1 SP        150000,00          2551 3       150000,00             0,00 3      150000,00        0,00
+
+14/07/11 NFE  un 011071401 14/07/11   90000032 PR          1187,08               2         1187,08             0,00 2        1187,08        0,00
+
+14/07/11 NFE  un 011071402 14/07/11   90000032 PR          1187,08               2         1187,08             0,00 2        1187,08        0,00
+
+14/07/11 NFE  un 011071403 14/07/11   90000032 PR          1061,93               2         1061,93             0,00 2        1061,93        0,00
+
+15/07/11 NFE  5    0000023 15/07/11   90000033 MT           486,67          2101 2          486,67             0,00 2         486,67        0,00
+
+17/07/11 NFE  un   0018001 17/07/11          1 SP        100000,00          2551 3       100000,00             0,00 3      100000,00        0,00
+
+17/07/11 NFE  un   0170711 17/07/11      12704 SC           500,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:    25,00 
+              R E G I S T R O  DE  E N T R A D A S                                           *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                                             * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                                              * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90                                  * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:       5          MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011                          *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                          *--- ICMS VALORES  FISCAIS ---*  *--- IPI VALORES FISCAIS ---*
+DATA DE      SERIE         DATA DO    CODIGO   UF   VALOR       CODIFICACAO     COD  BASE CALCULO/         IMPOSTO  COD  BASE CALCULO/  IMPOSTO
+ENTRADA  ESP SUB-   NUMERO DOCUMENTO  EMITENTE ORIG  CONTABIL    CONTABIL  FISCAL (a)   VALOR OPERAC  ALIQ CREDITADO  (a)  VALOR OPERAC CREDITADO OBSERVACOES
+             SERIE
+
+
+
+18/07/11 NFE  1    0001111 18/07/11      12704 SC           100,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     5,00 
+
+18/07/11 NFE  1    0001112 18/07/11      12704 SC             5,00          1101 1          100,00 17,00      17,00 1         100,00        5,00 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0001111 S
+                                                                                                                                                 érie: 1 de 3
+
+18/07/11 NFE  1    0001260 18/07/11      12704 SC           348,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:    17,40 
+
+18/07/11 NFE  1    0001261 18/07/11      12704 SC             5,10          1902 1          102,00 17,00       0,00 1         102,00        5,10 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0001260 S
+                                                                                                                                                 érie: 1 de 1
+
+18/07/11 NFE  1    0001262 18/07/11      12704 SC             1,20          1902 1           24,00 17,00       4,08 1          24,00        1,20 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0001260 S
+                                                                                                                                                 érie: 1 de 1
+
+18/07/11 NFE  1    0001434 18/07/11      12704 SC            75,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     3,75 
+
+18/07/11 NFE  1    0001435 18/07/11      12704 SC           125,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     6,25 
+
+18/07/11 NFE  1    0180701 18/07/11   90000033 MT         21666,67               2        21666,67             0,00 2       21666,67        0,00
+
+18/07/11 NFE  1    0180702 18/07/11   90000033 MT         17333,33               2        17333,33             0,00 2       17333,33        0,00
+
+18/07/11 NFE  un   0001707 18/07/11          1 SP           525,00          1101 1          525,00 18,00      94,50 3         500,00        0,00
+
+18/07/11 NFE  un   0180711 18/07/11      12704 SC           500,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:    25,00 
+
+18/07/11 NFE  un   0180711 18/07/11      12704 SC            15,00          1101 1          300,00 17,00      51,00 1         300,00       15,00 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0180711 S
+                                                                                                                                                 érie: un de 
+
+              R E G I S T R O  DE  E N T R A D A S                                           *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                                             * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                                              * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90                                  * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:       6          MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011                          *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                          *--- ICMS VALORES  FISCAIS ---*  *--- IPI VALORES FISCAIS ---*
+DATA DE      SERIE         DATA DO    CODIGO   UF   VALOR       CODIFICACAO     COD  BASE CALCULO/         IMPOSTO  COD  BASE CALCULO/  IMPOSTO
+ENTRADA  ESP SUB-   NUMERO DOCUMENTO  EMITENTE ORIG  CONTABIL    CONTABIL  FISCAL (a)   VALOR OPERAC  ALIQ CREDITADO  (a)  VALOR OPERAC CREDITADO OBSERVACOES
+             SERIE
+
+
+19/07/11 NFE  1    0190701 19/07/11   90000033 MT         25999,99               2        25999,99             0,00 2       25999,99        0,00
+
+19/07/11 NFE  1    1907001 19/07/11   90000032 PR           670,00               2          670,00             0,00 2         670,00        0,00
+
+19/07/11 NFE  un   0190711 19/07/11      12704 SC           200,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     5,00 
+
+20/07/11 NFE  1    0001436 20/07/11      12704 SC             3,75          1101 1           75,00 17,00      12,75 1          75,00        3,75 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0001434 S
+                                                                                                                                                 érie: 1 de 3
+
+20/07/11 NFE  1    0001437 20/07/11      12704 SC             6,25          1902 1          125,00 17,00      21,25 1         125,00        6,25 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0001435 S
+                                                                                                                                                 érie: 1 de 1
+
+20/07/11 NFD  gra  0006511 20/07/11   90000032 PR            22,30          2202 2           22,30             0,00 2          22,30        0,00
+
+20/07/11 NFE  un   0190711 20/07/11      12704 SC            10,00          1101 1          200,00 17,00      34,00 1         200,00       10,00 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0180711 S
+                                                                                                                                                 érie: un de 
+
+20/07/11 NFE  un   0200711 20/07/11      12704 SC            50,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     2,50 
+
+20/07/11 NFE  un   0200711 20/07/11      12704 SC             2,30          1101 1           46,00 17,00       7,82 1          46,00        2,30 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0120711 S
+                                                                                                                                                 érie: un de 
+
+20/07/11 NFE  un   2200711 20/07/11      12704 SC           100,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     5,00 
+
+21/07/11 NFE  1    0001438 21/07/11      12704 SC            70,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     3,50 
+
+21/07/11 NFE  1    0001439 21/07/11      12704 SC           154,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     7,70 
+
+21/07/11 NFE  1    0001441 21/07/11      12704 SC           198,00          1101 3            0,00             0,00                              Simples Fatu
+              R E G I S T R O  DE  E N T R A D A S                                           *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                                             * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                                              * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90                                  * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:       7          MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011                          *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                          *--- ICMS VALORES  FISCAIS ---*  *--- IPI VALORES FISCAIS ---*
+DATA DE      SERIE         DATA DO    CODIGO   UF   VALOR       CODIFICACAO     COD  BASE CALCULO/         IMPOSTO  COD  BASE CALCULO/  IMPOSTO
+ENTRADA  ESP SUB-   NUMERO DOCUMENTO  EMITENTE ORIG  CONTABIL    CONTABIL  FISCAL (a)   VALOR OPERAC  ALIQ CREDITADO  (a)  VALOR OPERAC CREDITADO OBSERVACOES
+             SERIE
+
+
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     9,90 
+
+21/07/11 NFE  1    0001442 21/07/11      12704 SC            90,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     4,50 
+
+21/07/11 NFE  1    0210701 21/07/11   90000033 MT         17333,33               2        17333,33             0,00 2       17333,33        0,00
+
+22/07/11 NFE  1    0001440 22/07/11      12704 SC             3,50          1101 1           70,00 17,00      11,90 1          70,00        3,50 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0001438 S
+                                                                                                                                                 érie: 1 de 3
+
+22/07/11 NFE  1    0001443 22/07/11      12704 SC             4,50          1902 1           90,00 17,00      15,30 1          90,00        4,50 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0001442 S
+                                                                                                                                                 érie: 1 de 2
+
+22/07/11 NFE  un   0020001 22/07/11          1 SP          1000,00          2551 3         1000,00             0,00 3        1000,00        0,00
+
+22/07/11 NFE  un   0022000 22/07/11          1 SP          1000,00          2551 3         1000,00             0,00 3        1000,00        0,00
+
+22/07/11 NFE  un   0022002 22/07/11          1 SP          1000,00          2551 3         1000,00             0,00 3        1000,00        0,00
+
+22/07/11 NFE  un   0022003 22/07/11          1 SP          1000,00          2551 3         1000,00             0,00 3        1000,00        0,00
+
+22/07/11 NFE  un   0022004 22/07/11          1 SP          1500,00          2551 3         1500,00             0,00 3        1500,00        0,00
+
+22/07/11 NFE  un   0022005 22/07/11          1 SP          1000,00          2551 3         1000,00             0,00 3        1000,00        0,00
+
+22/07/11 NFE  un   0210711 22/07/11      12704 SC           100,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     5,00 
+
+25/07/11 NFE  1    0001268 25/07/11      12704 SC           402,50          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:    20,13 
+
+25/07/11 NFE  1    0001422 25/07/11      12704 SC          1000,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:    50,00 
+
+25/07/11 NFE  1    0001424 25/07/11      12704 SC          1000,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:    50,00 
+
+25/07/11 NFE  un   0000250 25/07/11          1 SP             3,00          1101 1            3,00 18,00       0,54 3           3,00        0,00
+
+              R E G I S T R O  DE  E N T R A D A S                                           *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                                             * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                                              * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90                                  * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:       8          MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011                          *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                          *--- ICMS VALORES  FISCAIS ---*  *--- IPI VALORES FISCAIS ---*
+DATA DE      SERIE         DATA DO    CODIGO   UF   VALOR       CODIFICACAO     COD  BASE CALCULO/         IMPOSTO  COD  BASE CALCULO/  IMPOSTO
+ENTRADA  ESP SUB-   NUMERO DOCUMENTO  EMITENTE ORIG  CONTABIL    CONTABIL  FISCAL (a)   VALOR OPERAC  ALIQ CREDITADO  (a)  VALOR OPERAC CREDITADO OBSERVACOES
+             SERIE
+
+
+25/07/11 NFE  un   0001261 25/07/11      12704 SC            11,10          1902 1          222,00 17,00      37,74 1         222,00       11,10 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0001260 S
+                                                                                                                                                 érie: 1 de 1
+
+25/07/11 NFE  un   0240711 25/07/11      12704 SC           100,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     5,00 
+
+25/07/11 NFE  un   0250711 25/07/11      12704 SC           100,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     5,00 
+
+25/07/11 NFE  un   0250711 25/07/11      12704 SC             5,00          1902 1          100,00 17,00      17,00 1         100,00        5,00 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0250711 S
+                                                                                                                                                 érie: un de 
+
+26/07/11 NFE  1    0001270 26/07/11      12704 SC           390,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:    19,50 
+
+26/07/11 NFE  1    0001271 26/07/11      12704 SC             1,95          1902 1           39,00 17,00       6,63 1          39,00        1,95 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0001270 S
+                                                                                                                                                 érie: 1 de 2
+
+26/07/11 NFE  1    0001275 26/07/11      12704 SC           285,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:    14,25 
+
+26/07/11 NFE  1    0001276 26/07/11      12704 SC            14,25          1101 1          285,00 17,00      48,45 1         285,00       14,25 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0001275 S
+                                                                                                                                                 érie: 1 de 1
+
+26/07/11 NFE  1    0001423 26/07/11      12704 SC            50,00          1101 1         1000,00 17,00     170,00 1        1000,00       50,00 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0001422 S
+                                                                                                                                                 érie: 1 de 2
+
+26/07/11 NFE  1    0001425 26/07/11      12704 SC            50,00          1902 1         1000,00 17,00     170,00 1        1000,00       50,00 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0001424 S
+                                                                                                                                                 érie: 1 de 2
+              R E G I S T R O  DE  E N T R A D A S                                           *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                                             * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                                              * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90                                  * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:       9          MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011                          *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                          *--- ICMS VALORES  FISCAIS ---*  *--- IPI VALORES FISCAIS ---*
+DATA DE      SERIE         DATA DO    CODIGO   UF   VALOR       CODIFICACAO     COD  BASE CALCULO/         IMPOSTO  COD  BASE CALCULO/  IMPOSTO
+ENTRADA  ESP SUB-   NUMERO DOCUMENTO  EMITENTE ORIG  CONTABIL    CONTABIL  FISCAL (a)   VALOR OPERAC  ALIQ CREDITADO  (a)  VALOR OPERAC CREDITADO OBSERVACOES
+             SERIE
+
+
+
+26/07/11 NFE  1    0260701 26/07/11   90000033 MT         16666,67               2        16666,67             0,00 2       16666,67        0,00
+
+26/07/11 NFE  un   0026071 26/07/11          1 SP           112,00          1101 1          112,00 18,00      20,16 3         112,00        0,00
+
+26/07/11 NFE  un   0026072 26/07/11          1 SP            13,00          1101 1           13,00 18,00       2,34 3          13,00        0,00
+
+26/07/11 NFE  un   0230711 26/07/11      12704 SC            10,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     0,50 
+
+26/07/11 NFE  un   0230711 26/07/11      12704 SC             0,25          1902 1            5,00 17,00       0,85 1           5,00        0,25 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0230711 S
+                                                                                                                                                 érie: un de 
+
+26/07/11 NFE  un   0240711 26/07/11      12704 SC             0,25          1902 1            5,00 17,00       0,85 1           5,00        0,25 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0230711 S
+                                                                                                                                                 érie: un de 
+
+26/07/11 NFE  un   0250711 26/07/11      12704 SC             8,40          1101 1            8,40 17,00       1,43 3           8,00        0,00
+
+26/07/11 NFE  un   0250711 26/07/11      12704 SC           200,00          1902 3          200,00             0,00 3         200,00        0,00
+
+26/07/11 NFE  un   0260711 26/07/11      12704 SC           100,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     5,00 
+
+26/07/11 NFE  un   0270711 26/07/11      12704 SC           100,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     5,00 
+
+27/07/11 NFE  1    0001269 27/07/11      12704 SC           117,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     5,85 
+
+27/07/11 NFE  1    0001277 27/07/11      12704 SC           348,60          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:    17,43 
+
+27/07/11 NFE  1    0001279 27/07/11      12704 SC           240,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:    12,00 
+
+27/07/11 NFE  1    0001281 27/07/11      12704 SC            12,00          1101 1          240,00 17,00      40,80 1         240,00       12,00 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0001279 S
+              R E G I S T R O  DE  E N T R A D A S                                           *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                                             * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                                              * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90                                  * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:      10          MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011                          *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                          *--- ICMS VALORES  FISCAIS ---*  *--- IPI VALORES FISCAIS ---*
+DATA DE      SERIE         DATA DO    CODIGO   UF   VALOR       CODIFICACAO     COD  BASE CALCULO/         IMPOSTO  COD  BASE CALCULO/  IMPOSTO
+ENTRADA  ESP SUB-   NUMERO DOCUMENTO  EMITENTE ORIG  CONTABIL    CONTABIL  FISCAL (a)   VALOR OPERAC  ALIQ CREDITADO  (a)  VALOR OPERAC CREDITADO OBSERVACOES
+             SERIE
+
+
+                                                                                                                                                 érie: 1 de 1
+
+27/07/11 NFE  1    0001282 27/07/11      12704 SC           175,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     8,75 
+
+27/07/11 NFE  1    0001283 27/07/11      12704 SC           202,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:    10,10 
+
+27/07/11 NFE  1    0001284 27/07/11      12704 SC           366,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:    18,30 
+
+27/07/11 NFE  1    0001426 27/07/11      12704 SC          2500,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:   125,00 
+
+27/07/11 NFE  1    0001428 27/07/11      12704 SC          3000,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:   150,00 
+
+27/07/11 NFE  1    0270202 27/07/11   90000033 MT          1431,66               2         1431,66             0,00 2        1431,66        0,00
+
+27/07/11 NFE  1    0270701 27/07/11   90000033 MT          4401,67               2         4401,67             0,00 2        4401,67        0,00
+
+27/07/11 NFE  1    0270703 27/07/11   90000033 MT          8666,60               2         8666,60             0,00 2        8666,60        0,00
+
+27/07/11 NFE  1    2707001 27/07/11   90000032 PR           670,00               2          670,00             0,00 2         670,00        0,00
+
+27/07/11 NFE  1    2707002 27/07/11   90000032 PR           335,00               2          335,00             0,00 2         335,00        0,00
+
+27/07/11 NFE  1    2707003 27/07/11   90000032 PR           603,00               2          603,00             0,00 2         603,00        0,00
+
+27/07/11 NFE  un   0010811 27/07/11      12704 SC           100,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     5,00 
+
+27/07/11 NFE  un   0270711 27/07/11      12704 SC           100,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     5,00 
+
+27/07/11 NFE  un   0310711 27/07/11      12704 SC           100,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     5,00 
+
+28/07/11 NFE  1    0001285 28/07/11      12704 SC           165,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     4,50 
+
+28/07/11 NFE  1    0001287 28/07/11      12704 SC           250,00          1101 3            0,00             0,00                              Simples Fatu
+              R E G I S T R O  DE  E N T R A D A S                                           *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                                             * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                                              * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90                                  * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:      11          MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011                          *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                          *--- ICMS VALORES  FISCAIS ---*  *--- IPI VALORES FISCAIS ---*
+DATA DE      SERIE         DATA DO    CODIGO   UF   VALOR       CODIFICACAO     COD  BASE CALCULO/         IMPOSTO  COD  BASE CALCULO/  IMPOSTO
+ENTRADA  ESP SUB-   NUMERO DOCUMENTO  EMITENTE ORIG  CONTABIL    CONTABIL  FISCAL (a)   VALOR OPERAC  ALIQ CREDITADO  (a)  VALOR OPERAC CREDITADO OBSERVACOES
+             SERIE
+
+
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:    12,50 
+
+28/07/11 NFE  1    0001288 28/07/11      12704 SC           165,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     8,25 
+
+28/07/11 NFE  1    0001427 28/07/11      12704 SC           125,00          1101 1         2500,00 17,00     425,00 1        2500,00      125,00 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0001426 S
+                                                                                                                                                 érie: 1 de 2
+
+28/07/11 NFE  1    0001429 28/07/11      12704 SC            45,00          1902 1          900,00 17,00     153,00 1         900,00       45,00 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0001428 S
+                                                                                                                                                 érie: 1 de 2
+
+28/07/11 NFE  1    0001430 28/07/11      12704 SC           100,00          1101 1         2000,00 17,00     340,00 1        2000,00      100,00 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0001426 S
+                                                                                                                                                 érie: 1 de 2
+
+28/07/11 NFE  1    0001431 28/07/11      12704 SC            37,50          1902 1          750,00 17,00     127,50 1         750,00       37,50 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0001428 S
+                                                                                                                                                 érie: 1 de 2
+
+28/07/11 NFE  1    0280704 28/07/11   90000033 MT         13333,33               2        13333,33             0,00 2       13333,33        0,00
+
+28/07/11 NFE  1    0280705 28/07/11   90000033 MT         20000,00               2        20000,00             0,00 2       20000,00        0,00
+
+28/07/11 NFE  1    0280706 28/07/11   90000033 MT         10000,00               2        10000,00             0,00 2       10000,00        0,00
+
+28/07/11 NFE  1    2807001 28/07/11   90000032 PR           670,00               2          670,00             0,00 2         670,00        0,00
+
+28/07/11 NFE  123345678901 28/07/11      12704 SC           105,00          1101 1          105,00 17,00      17,85 3         100,00        0,00
+
+28/07/11 NFE  un   0280711 28/07/11      12704 SC           250,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:    12,50 
+
+28/07/11 NFE  un   0280711 28/07/11      12704 SC             7,50          1902 1          150,00 17,00      25,50 1         150,00        7,50 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0280711 S
+                                                                                                                                                 érie: un de 
+
+              R E G I S T R O  DE  E N T R A D A S                                           *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                                             * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                                              * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90                                  * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:      12          MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011                          *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                          *--- ICMS VALORES  FISCAIS ---*  *--- IPI VALORES FISCAIS ---*
+DATA DE      SERIE         DATA DO    CODIGO   UF   VALOR       CODIFICACAO     COD  BASE CALCULO/         IMPOSTO  COD  BASE CALCULO/  IMPOSTO
+ENTRADA  ESP SUB-   NUMERO DOCUMENTO  EMITENTE ORIG  CONTABIL    CONTABIL  FISCAL (a)   VALOR OPERAC  ALIQ CREDITADO  (a)  VALOR OPERAC CREDITADO OBSERVACOES
+             SERIE
+
+
+28/07/11 NFE  un   0280711 28/07/11      12704 SC           250,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:    12,50 
+
+29/07/11 NFE       0076667 29/07/11      12704 SC             0,00          1101 1          500,00 17,00      85,00 3         500,00        0,00 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0076666 S
+                                                                                                                                                 érie: un de 
+
+29/07/11 NFE  1    0001291 29/07/11      12704 SC            23,10          1101 1           23,10 17,00       3,93 3          22,00        0,00
+
+29/07/11 NFE  1    0001292 29/07/11      12704 SC            65,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     3,25 
+
+29/07/11 NFE  1    0001293 29/07/11      12704 SC            47,25          1101 1           45,00 17,00       7,65 3          45,00        0,00
+
+29/07/11 NFE  1    0001294 29/07/11      12704 SC            75,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     3,75 
+
+29/07/11 NFE  1    0290701 29/07/11   90000033 MT         22008,33               2        22008,33             0,00 2       22008,33        0,00
+
+29/07/11 NFE  1    0290702 29/07/11   90000033 MT         17606,67               2        17606,67             0,00 2       17606,67        0,00
+
+29/07/11 NFE  1    2907001 29/07/11   90000032 PR            16,75               2           16,75             0,00 2          16,75        0,00
+
+29/07/11 NFE  1    2907002 29/07/11   90000032 PR            16,75               2           16,75             0,00 2          16,75        0,00
+
+29/07/11 NFE  un   0001292 29/07/11      12704 SC            23,10          1101 1           22,00 17,00       3,74 3          22,00        0,00
+
+29/07/11 NFE  un   0290711 29/07/11      12704 SC           250,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:    12,50 
+
+29/07/11 NFE  UN   0290711 29/07/11      12704 SC            12,50          1902 1          250,00 17,00      42,50 1         250,00       12,50 Nota Fiscal 
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0290711 S
+                                                                                                                                                 érie: un de 
+
+30/07/11 NFE  un   0300711 30/07/11      12704 SC           100,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     5,00 
+
+30/07/11 NFE  un   0300711 30/07/11      12704 SC           150,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     7,50 
+
+30/07/11 NFE  un   0300711 30/07/11      12704 SC             7,50          1101 1          150,00 17,00      25,50 1         150,00        7,50 Nota Fiscal 
+              R E G I S T R O  DE  E N T R A D A S                                           *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                                             * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                                              * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90                                  * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:      13          MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011                          *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                          *--- ICMS VALORES  FISCAIS ---*  *--- IPI VALORES FISCAIS ---*
+DATA DE      SERIE         DATA DO    CODIGO   UF   VALOR       CODIFICACAO     COD  BASE CALCULO/         IMPOSTO  COD  BASE CALCULO/  IMPOSTO
+ENTRADA  ESP SUB-   NUMERO DOCUMENTO  EMITENTE ORIG  CONTABIL    CONTABIL  FISCAL (a)   VALOR OPERAC  ALIQ CREDITADO  (a)  VALOR OPERAC CREDITADO OBSERVACOES
+             SERIE
+
+
+                                                                                                                                                 de Simples F
+                                                                                                                                                 aturamento n
+                                                                                                                                                 r: 0300711 S
+                                                                                                                                                 érie: un de 
+
+31/07/11 NFE  UN   0310711 31/07/11      12704 SC           100,00          1101 3            0,00             0,00                              Simples Fatu
+                                                                                                                                                 ramento - IP
+                                                                                                                                                 I:     5,00 
+
+SUBTOTAL DE 01/07/11 A 31/07/11 ..............................                   1       233448,94         29048,26 1      210818,00    10540,90
+                                                                                 2       668670,31             0,00 2      770670,31        0,00
+                                                                                 3       360050,00             0,00 3      280647,69        0,00
+                                                                                 ST        2854,37           130,38
+
+TOTAL GERAL 01/07/11 A 31/07/11 ..............................                   1       233448,94         29048,26 1      210818,00    10540,90
+                                                                                 2       668670,31             0,00 2      770670,31        0,00
+                                                                                 3       360050,00             0,00 3      280647,69        0,00
+                                                                                 ST        2854,37           130,38
+
+

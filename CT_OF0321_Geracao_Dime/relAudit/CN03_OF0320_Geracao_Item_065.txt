@@ -1,0 +1,96 @@
+=====> BD: mgcad Tabela: guia-icms Evento: W
+Field: observacoes Nov: 00000000000000000                 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000                 00000000000000000                 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000                                                                                                                                                                                                                                                                                                                                                                                                                                         00000000000005000                 00000000000015000                                                                                                                                                                                                            00000000000000000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   0000000482293190800000004735461553000000440442869280000000383072945700000007929252841000000046388913520000000009657020100000000633899511000000000000000000000000051954213700000000000000000000000206426655310000000000000000000000004994526336000000019178815650000000330865501400000009278036907000000003777904170000000233862030000000016076050491000000440442869280000001002517164600000034019115282000000200516581350000001396745714700000010129199044000000049648692720000000001290500000000000120633152                 0000000485744112000000001230069665000000000000000000000000362707143600000000799898149000000003127679510000000068438911600000000058816154000000025100250520000000443507390000000004472080607000000000231234500000000003874480300000000035573009000000000660465630000000046661681700000000088457578000000006515931040000000069513432400000020199168614                                                                                                      00000001126611169                 00000000000000000                 000000028271732860000000000000000000000000000000000000000000000000000000000000000000000000000000000000                                                                                                                                                                                                                                                                                                                                                                                                   0000000000000000000000000028143750                                                                     00000000000000000yes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             00000000000000000                                                                                                                                                         00000000000000000
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 156516
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 1
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 1740
+Field: int-2 Nov: 156
+Field: it-codigo Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 10/05/2011
+Field: quantidade Nov: 0
+Field: regiao Nov: 255721161
+Field: tot-ped Nov: 0
+Field: un Nov: 1
+Field: vl-aberto Nov: 3205201105
+Field: vl-lucro-br Nov: 150
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 4526
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 2
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 1449
+Field: int-2 Nov: 10421
+Field: it-codigo Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 20/05/2011
+Field: quantidade Nov: 0
+Field: regiao Nov: 255721161
+Field: tot-ped Nov: 0
+Field: un Nov: 1
+Field: vl-aberto Nov: 3205201105
+Field: vl-lucro-br Nov: 2225966,12
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 752641
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 3
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 3000
+Field: int-2 Nov: 10243
+Field: it-codigo Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 10/05/2015
+Field: quantidade Nov: 0
+Field: regiao Nov: 255721161
+Field: tot-ped Nov: 0
+Field: un Nov: 1
+Field: vl-aberto Nov: 3205201105
+Field: vl-lucro-br Nov: 191755,64
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 7892
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 4
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 1473
+Field: int-2 Nov: 10049
+Field: it-codigo Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 10/05/2011
+Field: quantidade Nov: 0
+Field: regiao Nov: 255721161
+Field: tot-ped Nov: 0
+Field: un Nov: 2
+Field: vl-aberto Nov: 3205201105
+Field: vl-lucro-br Nov: 244804,28
+=====> BD: mgcad Tabela: ped-curva Evento: D
+=====> BD: mgcad Tabela: ped-curva Evento: D
+=====> BD: mgcad Tabela: ped-curva Evento: D
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      guia-icms                               0          1          0
+mgcad      ped-curva                               4          0          3
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              4          1          3

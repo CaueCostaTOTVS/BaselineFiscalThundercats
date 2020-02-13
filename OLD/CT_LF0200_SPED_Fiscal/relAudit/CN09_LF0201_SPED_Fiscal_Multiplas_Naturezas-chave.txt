@@ -1,0 +1,46 @@
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|2|10|TODAY|
+Field: cod-conteudo[1] Ant: 01/05/2011 Nov: 01/10/2011
+Field: cod-conteudo[2] Ant: 31/05/2011 Nov: 31/10/2011
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|65.21.515-2|01/04/09|1|01/01/00|
+Field: dat-livre-1 ?
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|65.31.516-5|01/04/09|1|01/01/00|
+Field: dat-livre-1 ?
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|70.01.301-0|09/03/09|1|01/01/00|
+Field: dat-livre-1 ?
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|70.01.311-8|09/03/09|1|01/01/00|
+Field: dat-livre-1 ?
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|70.02.101-3|09/03/09|1|01/01/00|
+Field: dat-livre-1 ?
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|70.02.111-0|09/03/09|1|01/01/00|
+Field: dat-livre-1 ?
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|70.02.201-0|09/03/09|1|01/01/00|
+Field: dat-livre-1 ?
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|70.02.211-7|09/03/09|1|01/01/00|
+Field: dat-livre-1 ?
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|70.02.212-5|09/03/09|1|01/01/00|
+Field: dat-livre-1 ?
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|70.02.312-1|09/03/09|1|01/01/00|
+Field: dat-livre-1 ?
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|70.02.612-0|09/03/09|1|01/01/00|
+Field: dat-livre-1 ?
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|70.03.101-9|09/03/09|1|01/01/00|
+Field: dat-livre-1 ?
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|70.03.112-4|09/03/09|1|01/01/00|
+Field: dat-livre-1 ?
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|70.03.201-5|09/03/09|1|01/01/00|
+Field: dat-livre-1 ?
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|70.03.211-2|09/03/09|1|01/01/00|
+Field: dat-livre-1 ?
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|70.03.212-0|09/03/09|1|01/01/00|
+Field: dat-livre-1 ?
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|72.04.422-3|10/11/08|1|01/01/00|
+Field: dat-livre-1 ?
+=====> BD: mgcad Tabela: dwf-alter-dados Evento: W Chave: ITEM|82.63.512-2|29/04/09|1|01/01/00|
+Field: dat-livre-1 ?
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      clf-param-histor                        0          1          0
+mgcad      dwf-alter-dados                         0         18          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0         19          0

@@ -1,0 +1,129 @@
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    1
+-------------------------------------------------------------------------------------------------------------- 21/02/2019 - 10:42:17
+
+
+Documentos Fiscais
+
+
+
+Dt Docto   Est   Ser   Doc Fisc         Cliente/Fornec Nome Abreviado Nat Oper UF
+---------- ----- ----- ---------------- -------------- -------------- -------- ----
+20/10/2011 1     1     0001645                       1 SASAZAKI       1112     SP
+20/10/2011 1     1     0001645                       1 SASAZAKI       111a     SP
+20/10/2011 1     1     0080009                       1 SASAZAKI       111a     SP
+20/10/2011 1     1     0080008                       1 SASAZAKI       611-13   SP
+20/10/2011 1     1     0080008                       1 SASAZAKI       611-IE   SP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:2.00.01.074
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    2
+-------------------------------------------------------------------------------------------------------------- 21/02/2019 - 10:42:18
+
+            Seleção
+
+            Estabelecimento:   1            |< >|  1
+                       Data:   01/10/2011   |< >|  31/10/2011
+
+
+            Parâmetros
+
+                                            Entrada:  Sim
+                                              Saída:  Sim
+                                            Serviço:  Sim
+                    Atualiza Documento Já Integrado:  Sim
+                   Extrair Documentos de Exportação:  Não
+                     Atualiza Dados CIAP no Período:  Não
+            Primeira Entrega Bloco G do Sped Fiscal:  Não
+                    Extrair Automaticamente Bloco P:  Não
+           Considerar no Valor da Mercadoria (C170):  Não
+                        Notas Fiscais de Exportação:
+
+
+            Destino:  Arquivo          -   c:/automacao/relatorios/CN02_LF0202_13Ex
+            Usuário:  SUPER
+
+
+            Inventário
+
+            Motivo                            Dt Fechamento  Preço Base ICMS  %Margem  Estab x Item
+            --------------------------------  -------------  ---------------  -------  ------------
+            Final do Período...........: Não
+            Mudança Forma Tributação...: Não
+            Solicitação Baixa Cadastral: Não
+            Alteração Regime Pagamento.: Não
+            Solicitação da Fiscalização: Não
+
+            Período para Média das Entradas
+
+            Data Transação Inicial:
+              Data Transação Final:
+
+            Inventário em Processo
+
+            Considera Produtos em Fabricação: Não
+
+            Arquivos de Acompanhamento
+
+            Itens Selecionados Inventário:
+                Documentos Média Entradas:
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:2.00.01.074
+

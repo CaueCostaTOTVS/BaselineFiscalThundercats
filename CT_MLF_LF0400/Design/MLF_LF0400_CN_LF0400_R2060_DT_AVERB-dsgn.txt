@@ -1,0 +1,6 @@
+     Cenario : MLF_LF0400_CN_LF0400_R2060_DT_AVERB
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

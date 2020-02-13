@@ -1,0 +1,129 @@
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator REINF                                                         Página:    1
+-------------------------------------------------------------------------------------------------------------- 05/06/2019 - 10:06:43
+
+ REINF Contribuinte - R-1000:                                
+
+
+  Estab Período ClasTrib IndCPRB IndSitPJ CPF Contato Fone Contato  Nome Contato                                       E-mail Contato
+  ----- ------- -------- ------- -------- ----------- ------------- -------------------------------------------------- ----------------------------------------
+  1     2014-01       99       1        0 79195806920 4721210000    contabilista new                                   contador2@totvs.com.br
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0400RP - V:2.00.00.021
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator REINF                                                         Página:    2
+-------------------------------------------------------------------------------------------------------------- 05/06/2019 - 10:06:43
+
+
+    Parâmetros:
+
+                   Estabelecimento: 1                |< >| 1
+                             Série:                  |< >| ZZZZZ
+                         Documento:                  |< >| ZZZZZZZZZZZZZZZZ
+                     Data Extração: 01/01/14         |< >| 31/01/14
+                          Emitente: 0                |< >| 999999999
+
+    Cadastros:
+
+               Contribuinte R-1000: Sim
+                Estab Contribuinte: 1
+                  Processos R-1070: Não
+
+    Movimentos:
+
+              Serv. Tomados Contas a Pagar R-2010: Não
+  Serv. Tomados Recebimento/Obrig. Fiscais R-2010: Não
+          Serv. Prestados Contas a Receber R-2020: Não
+Serv. Prestados Faturamento/Obrig. Fiscais R-2020: Não
+            Comercialização Produção Rural R-2050: Não
+   Contrib. Previdenc. sobre receita bruta R-2060: Não
+             Repasse Associação Desportiva R-2040: Não
+  CPRB - Notas Fiscais de Exportação pela Data de: Emissão
+
+    Impressão:
+
+        Destino: 2
+        Arquivo: c:/automacao/relatorios/CN_LF0400_R
+        Usuário: super
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0400RP - V:2.00.00.021
+

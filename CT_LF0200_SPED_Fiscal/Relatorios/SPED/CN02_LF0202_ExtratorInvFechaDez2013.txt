@@ -1,0 +1,129 @@
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    1
+-------------------------------------------------------------------------------------------------------------- 21/02/2019 - 10:43:20
+
+
+Documentos Fiscais
+
+
+
+
+Dados de Inventário atualizados com sucesso para Estabelecimento: 1     - Motivo: Final do Período            - Período: 31/12/2013.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:2.00.01.074
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    2
+-------------------------------------------------------------------------------------------------------------- 21/02/2019 - 10:45:03
+
+            Seleção
+
+            Estabelecimento:   1            |< >|  1
+                       Data:   01/12/2013   |< >|  31/12/2013
+
+
+            Parâmetros
+
+                                            Entrada:  Sim
+                                              Saída:  Sim
+                                            Serviço:  Sim
+                    Atualiza Documento Já Integrado:  Sim
+                   Extrair Documentos de Exportação:  Não
+                     Atualiza Dados CIAP no Período:  Não
+            Primeira Entrega Bloco G do Sped Fiscal:  Não
+                    Extrair Automaticamente Bloco P:  Não
+           Considerar no Valor da Mercadoria (C170):  Não
+                        Notas Fiscais de Exportação:
+
+
+            Destino:  Arquivo          -   c:/automacao/relatorios/CN02_LF0202_Extr
+            Usuário:  SUPER
+
+
+            Inventário
+
+            Motivo                            Dt Fechamento  Preço Base ICMS  %Margem  Estab x Item
+            --------------------------------  -------------  ---------------  -------  ------------
+            Final do Período...........: Sim  31/12/2013                               Selecionados
+            Mudança Forma Tributação...: Não
+            Solicitação Baixa Cadastral: Não
+            Alteração Regime Pagamento.: Não
+            Solicitação da Fiscalização: Não
+
+            Período para Média das Entradas
+
+            Data Transação Inicial:
+              Data Transação Final:
+
+            Inventário em Processo
+
+            Considera Produtos em Fabricação: Não
+
+            Arquivos de Acompanhamento
+
+            Itens Selecionados Inventário: c:\tmp\inv_estab_item.txt
+                Documentos Média Entradas:
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:2.00.01.074
+

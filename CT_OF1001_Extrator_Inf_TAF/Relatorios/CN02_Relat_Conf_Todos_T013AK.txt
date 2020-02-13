@@ -1,0 +1,3 @@
+Estabelecimento	Série	Número do Documento	Participante	Transportador	ID Veículo	Cód. Autorização	Número Passe Fiscal	Hora Saída	Temperatura	Quant. Volume	Peso Bruto	Peso Líquido	Nome Motorista	CPF Motorista
+1	5	0076188	90000033	T1	RDS8945			00:00:00		0	41250.00	41250.00		
+1	11	0290851	70		MEX7458			00:00:00		0	155.85	146.70		

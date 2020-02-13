@@ -1,0 +1,18 @@
+     Cenario : CN03_Baixa_de_Bens_Transferencia_Total
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '3' no Campo Cod Identificador Bem."
+EXECUTE,"Informar o valor '10000' no Campo Estabelecimento Destino."
+EXECUTE,"Informar o valor '1' no Campo Série."
+EXECUTE,"Informar o valor '1531' no Campo Nro Docto."
+EXECUTE,"Informar o valor '5111' no Campo Nat Oper."
+EXECUTE,"Informar o valor '13' no Campo Emitente."
+EXECUTE,"Informar o valor '10' no Campo Sequencia."
+EXECUTE,"Informar o valor '31/01/2010' no Campo Data Saída."
+EXECUTE,"Informar o valor '3' no Radio Set ."
+EXECUTE,"Informar o valor '100,00' no Campo ."
+EXECUTE,"Informar o valor 'no' na Opção Estorna Credito."
+EXECUTE,"Informar o valor '' no Campo Observação."

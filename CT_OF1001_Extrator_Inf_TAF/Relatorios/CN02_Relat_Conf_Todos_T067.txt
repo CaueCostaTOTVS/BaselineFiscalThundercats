@@ -1,0 +1,2 @@
+Estabelecimento	Data Início	Data Fim	Ajuste	Saldo Credor Anterior	Crédito Apropriado	Créditos Recebidos	Créditos Utilizados	Saldo Credor
+1	8/1/2011	8/31/2011	SP049999	0.00	229.76	0.00	0.00	0.00

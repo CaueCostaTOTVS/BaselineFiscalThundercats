@@ -1,0 +1,6 @@
+     Cenario : CN04_OF0312_Importacao_Nota_Entrada_Interestadual
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

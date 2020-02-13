@@ -1,0 +1,129 @@
+FIRMA : Estabelecimento TOTVS - Ñ ALTERAR CONTAS      INSCR. EST. - 255721161           C.N.P.J. - 53113791001790       FOLHA      1
+
+
+PERÍODO  - 01/05 A 31/05/2011                      APURAÇÃO DE PIS/COFINS NAS ENTRADAS - RETIDO
+
+CÓDIGO                                    VALOR     VALOR PIS/PASEP        VALOR COFINS
+FISCAL                                 CONTÁBIL
+
+1.933      TOTAL                            1.000,00               15,95               72,30
+AQUISIÇÃO SERV. TRIB. ISS
+
+1.000         TOTAL                         1.000,00               15,95               72,30
+
+2.933      TOTAL                            1.000,00                1,52                3,69
+AQUISICAO SERV. TRIB. ISS
+
+2.000         TOTAL                         1.000,00                1,52                3,69
+
+Total Entradas                              2.000,00               17,47               75,99
+
+
+                                                   APURAÇÃO DE PIS/COFINS NAS SAÍDAS - RETIDO  
+
+
+5.933      TOTAL                            1.000,00               98,63              183,79
+PRESTAÇÃO DE SERVIÇOS
+
+5.949      TOTAL                            1.000,00               47,56              111,19
+OUTRAS SAIDAS
+
+5.000         TOTAL                         2.000,00              146,19              294,98
+
+6.933      TOTAL                            1.000,00               31,58               74,33
+PRESTAÇÃO DE SERVIÇOS
+
+6.949      TOTAL                           10.000,00               99,99              999,99
+OUTRAS SAIDAS
+
+6.000         TOTAL                        11.000,00              131,57            1.074,32
+
+Total Saídas                               13.000,00              277,76            1.369,30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------DATASUL - OBRIGAÇÕES - OF0770RP - V:0.00.00.000
+FIRMA : Estabelecimento TOTVS - Ñ ALTERAR CONTAS      INSCR. EST. - 255721161           C.N.P.J. - 53113791001790       FOLHA      2
+
+
+
+
+
+
+         SELEÇÃO
+
+                             Período.: 01/05/2011|<    >|     31/05/2011
+
+         PARÂMETROS
+
+                  Estabelecimento: 1
+                    Modo Execução: Por CFOP
+                     TP Relatório: PIS/COFINS Retido
+
+         IMPRESSÃO
+
+                          Destino: Arquivo   -   c:/automacao/relatorios/OF
+                          Usuário: super
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------DATASUL - OBRIGAÇÕES - OF0770RP - V:0.00.00.000
+

@@ -1,0 +1,245 @@
+=====> BD: mgcad Tabela: guia-icms Evento: W
+Field: char-1 Nov: 2112  31110
+Field: cpf-contad Nov: 26879106953
+Field: int-1 Nov: 1816
+Field: nome-contad Nov: DJALMA DOS SANTOS MACHADO
+Field: observacoes Nov: 00000000000000000                 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000                 00000000000000000                 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000                                                                                                                                                                                                                                                                                                                                                                                                                                         00000000000015000                 00000000000010000                                                                                                                                                                                                            00000000000000000                                                                                                                                                                                                                                                                                                                                                                                                                                                                              00000000000000652000000003303431870000000000000000000000000000000000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 0000000482293190800000004735461553000000440442869280000000383072945700000007929252841000000046388913520000000009657020100000000633899511000000000000000000000000051954213700000000000000000000000206426655310000000000000000000000004994526336000000019178815650000000330865501400000009278036907000000003777904170000000233862030000000016076050491000000440442869280000001002517164600000034019115282000000200516581350000001396745714700000010129199044000000049648692720000000001290500000000000120633152                 0000000485744112000000001230069665000000000000000000000000362707143600000000799898149000000003127679510000000068438911600000000058816154000000025100250520000000443507390000000004472080607000000000231234500000000003874480300000000035573009000000000660465630000000046661681700000000088457578000000006515931040000000069513432400000020199168614                                                                                                      00000001126611169                 00000000000000000                 000000028271732860000000000000000000000000000000000000000000000000000000000000000000000000000000000000                                                               00000000021538376000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000478264482000000000281150970000000000000000000000000000000000000000000215383760000000000000000000000000000000000                                                                                                       0000000000000000000000000028143750                                                                     00000000000000000yes                                                                                                        00000000551765527000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           00000000000000000
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 1
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 14
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 1
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 151060012477244
+Field: quantidade Nov: 0
+Field: regiao Nov: 255721161
+Field: tot-ped Nov: 0
+Field: un Nov: 
+Field: vl-aberto Nov: 3203201105
+Field: vl-lucro-br Nov: 1165217,82
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 2
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 14
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 2
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 151060012275536
+Field: quantidade Nov: 0
+Field: regiao Nov: 255721161
+Field: tot-ped Nov: 0
+Field: un Nov: 
+Field: vl-aberto Nov: 3203201105
+Field: vl-lucro-br Nov: 32939,45
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 3
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 14
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 3
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 151060012476272
+Field: quantidade Nov: 0
+Field: regiao Nov: 255721161
+Field: tot-ped Nov: 0
+Field: un Nov: 
+Field: vl-aberto Nov: 3203201105
+Field: vl-lucro-br Nov: 280,3
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 4
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 14
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 4
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 151060012475705
+Field: quantidade Nov: 0
+Field: regiao Nov: 255721161
+Field: tot-ped Nov: 0
+Field: un Nov: 
+Field: vl-aberto Nov: 3203201105
+Field: vl-lucro-br Nov: 213664,51
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 5
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 14
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 5
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 151060012474652
+Field: quantidade Nov: 0
+Field: regiao Nov: 255721161
+Field: tot-ped Nov: 0
+Field: un Nov: 
+Field: vl-aberto Nov: 3203201105
+Field: vl-lucro-br Nov: 44,38
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 6
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 14
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 6
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 151060012474147
+Field: quantidade Nov: 0
+Field: regiao Nov: 255721161
+Field: tot-ped Nov: 0
+Field: un Nov: 
+Field: vl-aberto Nov: 3203201105
+Field: vl-lucro-br Nov: 21965,87
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 7
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 16
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 7
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 151060013307539
+Field: quantidade Nov: 0
+Field: regiao Nov: 255721161
+Field: tot-ped Nov: 0
+Field: un Nov: 
+Field: vl-aberto Nov: 3203201105
+Field: vl-lucro-br Nov: 55,16
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 4526
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 1
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 1449
+Field: int-2 Nov: 10421
+Field: it-codigo Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 20/05/2011
+Field: quantidade Nov: 0
+Field: regiao Nov: 255721161
+Field: tot-ped Nov: 0
+Field: un Nov: 1
+Field: vl-aberto Nov: 3205201105
+Field: vl-lucro-br Nov: 2225966,12
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 752641
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 2
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 3000
+Field: int-2 Nov: 10243
+Field: it-codigo Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 10/05/2015
+Field: quantidade Nov: 0
+Field: regiao Nov: 255721161
+Field: tot-ped Nov: 0
+Field: un Nov: 1
+Field: vl-aberto Nov: 3205201105
+Field: vl-lucro-br Nov: 191755,64
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 7892
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 3
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 1473
+Field: int-2 Nov: 10049
+Field: it-codigo Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 10/05/2011
+Field: quantidade Nov: 0
+Field: regiao Nov: 255721161
+Field: tot-ped Nov: 0
+Field: un Nov: 2
+Field: vl-aberto Nov: 3205201105
+Field: vl-lucro-br Nov: 244804,28
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 255721161
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 5/2011
+Field: quantidade Nov: 0
+Field: regiao Nov: 
+Field: tot-ped Nov: 0
+Field: un Nov: 
+Field: vl-aberto Nov: 6341
+Field: vl-lucro-br Nov: 0
+=====> BD: mgcad Tabela: ped-curva Evento: D
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      guia-icms                               0          2          0
+mgcad      ped-curva                              11          0          1
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                             11          2          1

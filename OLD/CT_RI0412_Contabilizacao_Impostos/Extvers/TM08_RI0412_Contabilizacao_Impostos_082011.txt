@@ -1,0 +1,1517 @@
+MEN702DC                              3.00.00.001    menu_uit                      TODAY  00:00:00
+BTB906ZA                              2.00.00.011    men702dc                      TODAY  00:00:00
+MEN901ZA                              2.00.00.006    men702dc                      TODAY  00:00:00
+UT-TRDFR                              3.00.00.001    men702dc                      TODAY  00:00:00
+RI0412                                2.00.00.013    men702dc                      TODAY  00:00:00
+BROKER                                3.00.00.001    ri0412                        TODAY  00:00:00
+BOFN068                               2.00.00.007    ri0412                        TODAY  00:00:00
+BTBSECURITY                           3.00.00.001    bofn068                       TODAY  00:00:00
+MEN901ZA                              2.00.00.006    btbsecur                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofn068                       TODAY  00:00:00
+UT-XMLPRS                             3.00.00.001    bofn068                       TODAY  00:00:00
+BOFN088                               2.00.00.005    ri0412                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofn088                       TODAY  00:00:00
+BOFN116                               2.00.00.005    ri0412                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofn116                       TODAY  00:00:00
+BTB970AA                              2.00.00.004    ri0412                        TODAY  00:00:00
+BTB432ZG                              2.00.01.008    btb970aa                      TODAY  00:00:00
+UT-VFREG                              3.00.00.001    ri0412                        TODAY  00:00:00
+UT-VFVLD                              3.00.00.001    ri0412                        TODAY  00:00:00
+UT-VFMOD                              2.00.00.003    ri0412                        TODAY  00:00:00
+UT-VFUSR                              3.00.00.001    ri0412                        TODAY  00:00:00
+MEN901ZA                              2.00.00.006    ri0412                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    ri0412                        TODAY  00:00:00
+UT-STYLE                              3.00.00.001    ri0412                        TODAY  00:00:00
+UT-EXTRA                              2.00.00.002    ut-style                      TODAY  00:00:00
+BTB920AA                              2.00.00.012    ri0412                        TODAY  00:00:00
+UT-TRCAMPOS                           2.00.00.009    ri0412                        TODAY  00:00:00
+UT-TRCAMPOS                           2.00.00.009    ri0412                        TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412                        TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412                        TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412                        TODAY  00:00:00
+UT-VLARQ                              3.00.00.001    ri0412                        TODAY  00:00:00
+RI0412RP                              2.00.00.070    ri0412                        TODAY  00:00:00
+CDAPI007A                             2.00.00.086    ri0412rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    cdapi007                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    cdapi007                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412rp                      TODAY  00:00:00
+BTB920AA                              2.00.00.012    ri0412rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412rp                      TODAY  00:00:00
+UT-ACOMP                              2.00.00.003    ri0412rp                      TODAY  00:00:00
+BODI453                               2.00.00.023    ri0412rp                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi453                       TODAY  00:00:00
+BODI453A                              2.00.00.017    ri0412rp                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi453a                      TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+UT-ACOMP                              2.00.00.003    ri0412rp                      TODAY  00:00:00
+UT-ACOMP                              2.00.00.003    ri0412rp                      TODAY  00:00:00
+UT-ACOMP                              2.00.00.003    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TCDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI473                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+TWDI148                               2.00.00.001    ri0412rp                      TODAY  00:00:00
+     PonRI0412RP.809. Fim do bloco do rateio                                                                
+UT-ACOMP                              2.00.00.003    ri0412rp                      TODAY  00:00:00
+TWDI458                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+     PonInicio Procedure execute - TODAY - 00:00:00                                                    
+     PonIntegracao EMS 5.0 -> yes - TODAY - 00:00:00                                                   
+     PonApos tratamento conexao bancos - TODAY - 00:00:00                                              
+     PonInicio bloco principal - TODAY - 00:00:00                                                      
+     PonLote -> 10/RI018111/1                                                                               
+TCAD095                               2.00.00.001    cdapi007                      TODAY  00:00:00
+TWAD095                               2.00.00.001    cdapi007                      TODAY  00:00:00
+     PonInicio processamento itens do lote  - TODAY - 00:00:00                                         
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+TCAD169                               2.00.00.005    cdapi007                      TODAY  00:00:00
+TWAD169                               2.00.00.002    cdapi007                      TODAY  00:00:00
+     PonFinal processamento itens do lote  - TODAY - 00:00:00                                          
+     PonAntes Atualizacao - TODAY - 00:00:00                                                           
+     PonSera feita a integracao com EMS 5.0 - TODAY - 00:00:00                                         
+fnc_mga_docto_pend_integr                 prgfin/fgl/fgl720za.py    1.00.01.117    TODAY  00:00:00
+fnc_funcoes_padrao_glob                   prgint/utb/utb925za.py    1.00.00.000    TODAY  00:00:00
+SPP_TRAT_CASAS_DEC                        no
+CDAPI543                              2.00.00.001    fgl720za                      TODAY  00:00:00
+CDAPI547                              2.00.00.011    fgl720za                      TODAY  00:00:00
+CDAPI548                              2.00.00.003    fgl720za                      TODAY  00:00:00
+
+ => INFORMAÇÃO tt-doc-pendente (REFERÊNCIA)
+    ======================================= 
+
+Empresa  Referência  Data Movto  Lancto Padrão  Data Cotação  Valor Movimento  Gera Estorno  Data Estorno  Histórico  Data Início Per  Data Fim Per  Série Início  Sério Fim  Situação  Estab 
+-------- ----------- ----------- -------------- ------------- ---------------- ------------- ------------- ---------- ---------------- ------------- ------------- ---------- --------- ------ 
+10        RI018111    31/08/2011       0                                     0  Não                           0        TODAY       TODAY             0             0 01        1    
+
+ => INFORMAÇÃO tt-lin-doc-pend (ITENS)
+    =================================== 
+
+Empresa  Referência  Sequência  Conta EMS  Sub-Conta EMS  Conta MG  Sub-Conta MG  Reduzida  Trans EMS  Trans MG  Histórico  Valor           Conta Contra Partida EMS  Sub-Conta Contra Partida EMS  Conta Contra Partida MG  Sub-Conta Contra Partida MG  Reduzida Par  Valor FASB      Data Cotação  Valor CMI       Valor Presente  Controle       Conta Contábil               Contra Partida        Estab   Unid Negoc  Unid Negoc Par
+-------- ----------- ---------- ---------- -------------- --------- ------------- --------- ---------- --------- ---------- --------------- ------------------------- ----------------------------- ------------------------ ---------------------------- ------------- --------------- ------------- --------------- --------------- --------- --------------------------- -------------------------- -------- ----------- --------------
+10       RI018111         1     21105040   01070201       00000000  00000              0     1         DB          0                   118                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI018111         2     21105040   01070201       00000000  00000              0     1         DB          0                    62                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI018111         3     21105040   01070201       00000000  00000              0     1         DB          0                    62                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI018111         4     31111111                  00000000  00000              0     2         DB          0                   118                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI018111         5     31111111                  00000000  00000              0     2         DB          0                   118                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI018111         6     31111111                  00000000  00000              0     1         DB          0                   118                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI018111         7     31111111                  00000000  00000              0     2         DB          0                    62                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI018111         8     31111111                  00000000  00000              0     2         DB          0                    62                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI018111         9     31111111                  00000000  00000              0     1         DB          0                    62                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI018111        10     31111111                  00000000  00000              0     2         DB          0                    62                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI018111        11     31111111                  00000000  00000              0     2         DB          0                    62                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+10       RI018111        12     31111111                  00000000  00000              0     1         DB          0                    62                                                          00000000                 00000                            0                   0,000                         0,000               0                                                                  1                       
+
+CDAPI543                              2.00.00.001    fgl720za                      TODAY  00:00:00
+api_lote_ctbl_recebto_1                   prgfin/fgl/fgl900zl.py    1.00.00.082    TODAY  00:00:00
+api_lote_ctbl_recebto_2                   prgfin/fgl/fgl900zo.py    1.00.00.018    TODAY  00:00:00
+fnc_funcoes_padrao                        prgint/utb/utb922za.py    1.00.00.005    TODAY  00:00:00
+SPP_TRAT_CASAS_DEC                        no
+SPP_LOCALIZ_CHILE                         no
+SPP_CONG_CENAR_CTBL                       no
+SPP_VERIF_SEQ_MAX                         no
+
+ => INFORMAÇÃO tt_integr_lote_ctbl_1 (LOTE)
+    ======================================= 
+
+Módulo Lote        Descrição                                Empresa Data Lote   Lista   OnLine    RecId 
+------ ----------- ---------------------------------------- ------- ---------- -------- ------ ------------
+RIP              1 RI018111 1                               10      TODAY Não      Não     116992
+
+ => INFORMAÇÃO tt_integr_lancto_ctbl_1 (LANÇAMENTO) 
+    ================================================ 
+
+Cenário  Lancto Conver Lancto Apurac  Rateio  RecId Lote Num Lancto   Lista  Data Lancto RecId Lancto 
+-------- ------------- ------------- -------- ---------- ---------- -------- ----------- ------------ 
+         Não           Não                     116992             1 Não      31/08/2011   127232
+
+ => INFORMAÇÃO tt_integr_item_lancto_ctbl_1 (ITEM) 
+    ================================================ 
+
+RecId Lancto Seq Lancto Natureza Plano Contas     Conta Contábil    Plano CCusto Estab Unid Negoc Histórico Especie Data Docto Ind. Econômico Data Lancto      Qtde           Valor       Contra Partida   Lista   CCusto         Projeto          RecId Item 
+------------ ---------- -------- ------------ --------------------- ------------ ----- ---------- --------- ------- ---------- -------------- ----------- ------------- ----------------- -------------- -------- ---------- --------------------- -----------
+ 127232          1      DB       Alfa         211050400000507       Alfa         1     BAS                                     REAL           31/08/2011           0,00           117,83     0           Não      01070201000                      131328  
+ 127232          2      DB       Alfa         211050400000521       Alfa         1     BAS                                     REAL           31/08/2011           0,00            62,09     0           Não      01070201000                      131329  
+ 127232          3      DB       Alfa         211050400000522       Alfa         1     BAS                                     REAL           31/08/2011           0,00            62,09     0           Não      01070201000                      131330  
+ 127232          4      CR       Alfa         311111111111001                    1     BAS                                     REAL           31/08/2011           0,00           117,83     0           Não                                       131331  
+ 127232          5      CR       Alfa         311111111111002                    1     BAS                                     REAL           31/08/2011           0,00           117,83     0           Não                                       131332  
+ 127232          6      DB       Alfa         311111111111002                    1     BAS                                     REAL           31/08/2011           0,00           117,83     0           Não                                       131333  
+ 127232          7      CR       Alfa         311111111111012                    1     BAS                                     REAL           31/08/2011           0,00            62,09     0           Não                                       131334  
+ 127232          8      CR       Alfa         311111111111013                    1     BAS                                     REAL           31/08/2011           0,00            62,09     0           Não                                       131335  
+ 127232          9      DB       Alfa         311111111111013                    1     BAS                                     REAL           31/08/2011           0,00            62,09     0           Não                                       131336  
+ 127232         10      CR       Alfa         311111111111023                    1     BAS                                     REAL           31/08/2011           0,00            62,09     0           Não                                       131337  
+ 127232         11      CR       Alfa         311111111111024                    1     BAS                                     REAL           31/08/2011           0,00            62,09     0           Não                                       131338  
+ 127232         12      DB       Alfa         311111111111024                    1     BAS                                     REAL           31/08/2011           0,00            62,09     0           Não                                       131339  
+
+ => INFORMAÇÃO tt_integr_aprop_lancto_ctbl_1 (APROPRIAÇÃO) 
+    ====================================================== 
+
+Final. Econômica Unid Negoc Plano CCusto      Qtde           Valor      NumId Aprop  RecId Item  Data Cotação      Valor Cotação      Lista    Orig Valor  CCusto         RecId Aprop 
+---------------- ---------- ------------ ------------- ---------------- ------------ ----------- ------------- ------------------- ----------- ---------- ----------- -----------------------
+Corrente         BAS        Alfa                  0,00           117,83 000000000     131328     31/08/2011           1,0000000000 Não         Automático 01070201000  133376
+dolar                                             0,00            73,94 000000000     131328     31/08/2011           1,5936333000 Não         Calculado               133378
+IFRS I           BAS        Alfa                  0,00             0,00 000000000     131328     31/08/2011           0,0000000000 Não         Informado  01070201000  133377
+IFRS II                                           0,00        14.257,43 000000000     131328     31/08/2011           0,0082644628 Não         Calculado               133379
+Corrente         BAS        Alfa                  0,00            62,09 000000000     131329     31/08/2011           1,0000000000 Não         Automático 01070201000  133380
+dolar                                             0,00            38,96 000000000     131329     31/08/2011           1,5936333000 Não         Calculado               133382
+IFRS I           BAS        Alfa                  0,00             0,00 000000000     131329     31/08/2011           0,0000000000 Não         Informado  01070201000  133381
+IFRS II                                           0,00         7.512,89 000000000     131329     31/08/2011           0,0082644628 Não         Calculado               133383
+Corrente         BAS        Alfa                  0,00            62,09 000000000     131330     31/08/2011           1,0000000000 Não         Automático 01070201000  133384
+dolar                                             0,00            38,96 000000000     131330     31/08/2011           1,5936333000 Não         Calculado               133386
+IFRS I           BAS        Alfa                  0,00             0,00 000000000     131330     31/08/2011           0,0000000000 Não         Informado  01070201000  133385
+IFRS II                                           0,00         7.512,89 000000000     131330     31/08/2011           0,0082644628 Não         Calculado               133387
+Corrente         BAS                              0,00           117,83 000000000     131331     31/08/2011           1,0000000000 Não         Automático              133388
+dolar                                             0,00            73,94 000000000     131331     31/08/2011           1,5936333000 Não         Calculado               133390
+IFRS I           BAS                              0,00             0,00 000000000     131331     31/08/2011           0,0000000000 Não         Informado               133389
+IFRS II                                           0,00        14.257,43 000000000     131331     31/08/2011           0,0082644628 Não         Calculado               133391
+Corrente         BAS                              0,00           117,83 000000000     131332     31/08/2011           1,0000000000 Não         Automático              133392
+dolar                                             0,00            73,94 000000000     131332     31/08/2011           1,5936333000 Não         Calculado               133394
+IFRS I           BAS                              0,00             0,00 000000000     131332     31/08/2011           0,0000000000 Não         Informado               133393
+IFRS II                                           0,00        14.257,43 000000000     131332     31/08/2011           0,0082644628 Não         Calculado               133395
+Corrente         BAS                              0,00           117,83 000000000     131333     31/08/2011           1,0000000000 Não         Automático              133396
+dolar                                             0,00            73,94 000000000     131333     31/08/2011           1,5936333000 Não         Calculado               133398
+IFRS I           BAS                              0,00             0,00 000000000     131333     31/08/2011           0,0000000000 Não         Informado               133397
+IFRS II                                           0,00        14.257,43 000000000     131333     31/08/2011           0,0082644628 Não         Calculado               133399
+Corrente         BAS                              0,00            62,09 000000000     131334     31/08/2011           1,0000000000 Não         Automático              133400
+dolar                                             0,00            38,96 000000000     131334     31/08/2011           1,5936333000 Não         Calculado               133402
+IFRS I           BAS                              0,00             0,00 000000000     131334     31/08/2011           0,0000000000 Não         Informado               133401
+IFRS II                                           0,00         7.512,89 000000000     131334     31/08/2011           0,0082644628 Não         Calculado               133403
+Corrente         BAS                              0,00            62,09 000000000     131335     31/08/2011           1,0000000000 Não         Automático              133404
+dolar                                             0,00            38,96 000000000     131335     31/08/2011           1,5936333000 Não         Calculado               133406
+IFRS I           BAS                              0,00             0,00 000000000     131335     31/08/2011           0,0000000000 Não         Informado               133405
+IFRS II                                           0,00         7.512,89 000000000     131335     31/08/2011           0,0082644628 Não         Calculado               133407
+Corrente         BAS                              0,00            62,09 000000000     131336     31/08/2011           1,0000000000 Não         Automático              133408
+dolar                                             0,00            38,96 000000000     131336     31/08/2011           1,5936333000 Não         Calculado               133410
+IFRS I           BAS                              0,00             0,00 000000000     131336     31/08/2011           0,0000000000 Não         Informado               133409
+IFRS II                                           0,00         7.512,89 000000000     131336     31/08/2011           0,0082644628 Não         Calculado               133411
+Corrente         BAS                              0,00            62,09 000000000     131337     31/08/2011           1,0000000000 Não         Automático              133412
+dolar                                             0,00            38,96 000000000     131337     31/08/2011           1,5936333000 Não         Calculado               133414
+IFRS I           BAS                              0,00             0,00 000000000     131337     31/08/2011           0,0000000000 Não         Informado               133413
+IFRS II                                           0,00         7.512,89 000000000     131337     31/08/2011           0,0082644628 Não         Calculado               133415
+Corrente         BAS                              0,00            62,09 000000000     131338     31/08/2011           1,0000000000 Não         Automático              133416
+dolar                                             0,00            38,96 000000000     131338     31/08/2011           1,5936333000 Não         Calculado               133418
+IFRS I           BAS                              0,00             0,00 000000000     131338     31/08/2011           0,0000000000 Não         Informado               133417
+IFRS II                                           0,00         7.512,89 000000000     131338     31/08/2011           0,0082644628 Não         Calculado               133419
+Corrente         BAS                              0,00            62,09 000000000     131339     31/08/2011           1,0000000000 Não         Automático              133420
+dolar                                             0,00            38,96 000000000     131339     31/08/2011           1,5936333000 Não         Calculado               133422
+IFRS I           BAS                              0,00             0,00 000000000     131339     31/08/2011           0,0000000000 Não         Informado               133421
+IFRS II                                           0,00         7.512,89 000000000     131339     31/08/2011           0,0082644628 Não         Calculado               133423
+
+fnc_consiste_cenar_ctbl                   prgfin/fgl/fgl721za.py    1.00.00.008    TODAY  00:00:00
+SPP_CONG_CENAR_CTBL                       no
+api_item_lancto_ctbl_recebto_1            prgfin/fgl/fgl900zn.py    1.00.00.023    TODAY  00:00:00
+SPP_LOCALIZ_CHILE                         no
+api_aprop_lancto_ctbl_recebto_1           prgfin/fgl/fgl900zm.py    1.00.00.010    TODAY  00:00:00
+api_aprop_lancto_ctbl_recebto_1           prgfin/fgl/fgl900zm.py    1.00.00.010    TODAY  00:00:00
+api_aprop_lancto_ctbl_recebto_1           prgfin/fgl/fgl900zm.py    1.00.00.010    TODAY  00:00:00
+api_aprop_lancto_ctbl_recebto_1           prgfin/fgl/fgl900zm.py    1.00.00.010    TODAY  00:00:00
+api_aprop_lancto_ctbl_recebto_1           prgfin/fgl/fgl900zm.py    1.00.00.010    TODAY  00:00:00
+api_aprop_lancto_ctbl_recebto_1           prgfin/fgl/fgl900zm.py    1.00.00.010    TODAY  00:00:00
+api_aprop_lancto_ctbl_recebto_1           prgfin/fgl/fgl900zm.py    1.00.00.010    TODAY  00:00:00
+api_aprop_lancto_ctbl_recebto_1           prgfin/fgl/fgl900zm.py    1.00.00.010    TODAY  00:00:00
+api_aprop_lancto_ctbl_recebto_1           prgfin/fgl/fgl900zm.py    1.00.00.010    TODAY  00:00:00
+api_aprop_lancto_ctbl_recebto_1           prgfin/fgl/fgl900zm.py    1.00.00.010    TODAY  00:00:00
+api_aprop_lancto_ctbl_recebto_1           prgfin/fgl/fgl900zm.py    1.00.00.010    TODAY  00:00:00
+api_aprop_lancto_ctbl_recebto_1           prgfin/fgl/fgl900zm.py    1.00.00.010    TODAY  00:00:00
+create/lote_ctbl                          tgfin/tcp/tcfin162.p      1.00.00.002    TODAY  00:00:00
+create/item_lancto_ctbl                   tgfin/tcp/tcfin160.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+create/item_lancto_ctbl                   tgfin/tcp/tcfin160.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+create/item_lancto_ctbl                   tgfin/tcp/tcfin160.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+create/item_lancto_ctbl                   tgfin/tcp/tcfin160.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+create/item_lancto_ctbl                   tgfin/tcp/tcfin160.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+create/item_lancto_ctbl                   tgfin/tcp/tcfin160.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+create/item_lancto_ctbl                   tgfin/tcp/tcfin160.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+create/item_lancto_ctbl                   tgfin/tcp/tcfin160.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+create/item_lancto_ctbl                   tgfin/tcp/tcfin160.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+create/item_lancto_ctbl                   tgfin/tcp/tcfin160.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+create/item_lancto_ctbl                   tgfin/tcp/tcfin160.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+create/item_lancto_ctbl                   tgfin/tcp/tcfin160.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+create/aprop_lancto_ctbl                  tgfin/tcp/tcfin337.p      1.00.00.002    TODAY  00:00:00
+write/aprop_lancto_ctbl                   tgfin/twp/twfin337.p      1.00.00.003    TODAY  00:00:00
+Write/tot_lancto_ctbl                     tgfin/twp/twfin516.p      1.00.00.001    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+Write/lancto_ctbl                         tgfin/twp/twfin161.p      1.00.00.002    TODAY  00:00:00
+fnc_lancto_ctbl_contabilizar              prgfin/fgl/fgl902za.py    1.00.03.101    TODAY  00:00:00
+SPP_CONG_CENAR_CTBL                       no
+SPP_NAO_ELIMIN_INTERCOMP                  no
+fnc_consiste_cenar_ctbl                   prgfin/fgl/fgl721za.py    1.00.00.008    TODAY  00:00:00
+SPP_CONG_CENAR_CTBL                       no
+Write/tab_livre_emsfin                    tgfin/twp/twfin862.p      1.00.00.001    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+api_atualiza_sdo_ctbl                     prgfin/fgl/fgl902zb.py    1.00.00.027    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/tab_livre_emsfin                    tgfin/twp/twfin862.p      1.00.00.001    TODAY  00:00:00
+Write/tab_livre_emsfin                    tgfin/twp/twfin862.p      1.00.00.001    TODAY  00:00:00
+api_atualiza_sdo_ctbl                     prgfin/fgl/fgl902zb.py    1.00.00.027    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/tab_livre_emsfin                    tgfin/twp/twfin862.p      1.00.00.001    TODAY  00:00:00
+Write/tab_livre_emsfin                    tgfin/twp/twfin862.p      1.00.00.001    TODAY  00:00:00
+api_atualiza_sdo_ctbl                     prgfin/fgl/fgl902zb.py    1.00.00.027    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/tab_livre_emsfin                    tgfin/twp/twfin862.p      1.00.00.001    TODAY  00:00:00
+Write/tab_livre_emsfin                    tgfin/twp/twfin862.p      1.00.00.001    TODAY  00:00:00
+Write/tab_livre_emsfin                    tgfin/twp/twfin862.p      1.00.00.001    TODAY  00:00:00
+api_atualiza_sdo_ctbl                     prgfin/fgl/fgl902zb.py    1.00.00.027    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/sdo_ctbl                            tgfin/twp/twfin029.p      5.05.00.001    TODAY  00:00:00
+Write/lancto_ctbl                         tgfin/twp/twfin161.p      1.00.00.002    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+write/item_lancto_ctbl                    tgfin/twp/twfin160.p      1.00.02.019    TODAY  00:00:00
+fnc_sdo_ctbl_valida                       prgfin/fgl/fgl500za.py    5.04.00.011    TODAY  00:00:00
+fnc_funcoes_padrao                        prgint/utb/utb922za.py    1.00.00.005    TODAY  00:00:00
+SPP_BLOQUEIO_FGL                          yes
+api_lote_ctbl_gera_relat_1                prgfin/fgl/fgl900zg.py    1.00.00.053    TODAY  00:00:00
+SPP_FIN_MSG_FGL_XML                       no
+Write/lote_ctbl                           tgfin/twp/twfin162.p      1.00.00.004    TODAY  00:00:00
+CDAPI547                              2.00.00.011    fgl720za                      TODAY  00:00:00
+     PonIntegracao com o EMS 5.0 realizada - TODAY - 00:00:00                                          
+     PonFinal bloco principal - TODAY - 00:00:00                                                       
+     PonRetornando da cdapi007a.p - TODAY - 00:00:00                                                   
+TWDI458                               2.00.00.000    ri0412rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0412rp                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    ri0412                        TODAY  00:00:00

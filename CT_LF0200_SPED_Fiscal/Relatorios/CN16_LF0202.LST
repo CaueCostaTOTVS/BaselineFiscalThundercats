@@ -1,0 +1,129 @@
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+Documentos Fiscais
+
+
+
+
+Dados de Inventário atualizados com sucesso para Estabelecimento: 1     - Motivo: Final do Período            - Período: 31/12/2013.
+
+Dados de Inventário atualizados com sucesso para Estabelecimento: 10000 - Motivo: Final do Período            - Período: 31/12/2013.
+
+Dados de Inventário atualizados com sucesso para Estabelecimento: 10002 - Motivo: Final do Período            - Período: 31/12/2013.
+
+Dados de Inventário atualizados com sucesso para Estabelecimento: 10027 - Motivo: Final do Período            - Período: 31/12/2013.
+
+Dados de Inventário atualizados com sucesso para Estabelecimento: 5     - Motivo: Final do Período            - Período: 31/12/2013.
+
+Dados de Inventário atualizados com sucesso para Estabelecimento: 777   - Motivo: Final do Período            - Período: 31/12/2013.
+
+Dados de Inventário atualizados com sucesso para Estabelecimento: mbs   - Motivo: Final do Período            - Período: 31/12/2013.
+
+Dados de Inventário atualizados com sucesso para Estabelecimento: MGD   - Motivo: Final do Período            - Período: 31/12/2013.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    2
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+            Seleção
+
+            Estabelecimento:   1            |< >|  ZZZZZ
+                       Data:   01/12/2013   |< >|  31/12/2013
+
+
+            Parâmetros
+
+                                            Entrada:  Sim
+                                              Saída:  Sim
+                                            Serviço:  Sim
+                    Atualiza Documento Já Integrado:  Sim
+                   Extrair Documentos de Exportação:  Não
+                     Atualiza Dados CIAP no Período:  Não
+            Primeira Entrega Bloco G do Sped Fiscal:  Não
+                    Extrair Automaticamente Bloco P:  Não
+           Considerar no Valor da Mercadoria (C170):  Não
+                        Notas Fiscais de Exportação:
+
+
+            Destino:  Arquivo          -   c:/automacao/relatorios/CN16_LF0202.lst
+            Usuário:  super
+
+
+            Inventário
+
+            Motivo                            Dt Fechamento  Preço Base ICMS  %Margem  Estab x Item
+            --------------------------------  -------------  ---------------  -------  ------------
+            Final do Período...........: Sim  31/12/2013                               Selecionados
+            Mudança Forma Tributação...: Não
+            Solicitação Baixa Cadastral: Não
+            Alteração Regime Pagamento.: Não
+            Solicitação da Fiscalização: Não
+
+            Período para Média das Entradas
+
+            Data Transação Inicial:
+              Data Transação Final:
+
+            Inventário em Processo
+
+            Considera Produtos em Fabricação: Não
+
+            Arquivos de Acompanhamento
+
+            Itens Selecionados Inventário: c:\tmp\inv_estab_item.txt
+                Documentos Média Entradas:
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:0.00.00.000
+

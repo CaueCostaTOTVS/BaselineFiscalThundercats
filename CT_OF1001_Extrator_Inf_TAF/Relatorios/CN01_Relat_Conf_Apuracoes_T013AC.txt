@@ -1,0 +1,5 @@
+Estabelecimento	Série	Número do Documento	Participante	Documento de Importação	Número do Doc. de Importação	Número do Ato Concessório Drawback	Valor PIS Imp. Pago	Valor COFINS Imp. Pago
+1	UN	0160810	14	0	180854 DI		0.00	0.00
+1	UN	0150811	14	0	180853 DI		0.00	0.00
+1	UN	0150815	14	0	180853 DI		0.00	0.00
+1	UN	0160815	1	0	180854 DI		0.00	0.00

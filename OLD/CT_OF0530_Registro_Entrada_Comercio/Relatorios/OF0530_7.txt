@@ -1,0 +1,1202 @@
+              R E G I S T R O  DE  E N T R A D A S                       *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                         * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                          * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90              * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:         2        MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011      *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                *------- V A L O R E S  F I S C A I S -------*
+DATA DE      SERIE          DATA DO   CODIGO   UF     VALOR          CODIFICACAO              BASE CALCULO  IMPOSTO
+ENTRADA  ESP SUB-     NUMERO   DOCUMENTO EMITENTE ORIG   CONTABIL     CONTABIL  FISCAL
+ICMS COD OU VLR DA    ALIQ   CREDITADO  OBSERVACOES
+             SERIE                                                                   ST  (a)   OPERAC.
+
+
+02/07/11 NFE un   0002071 02/07/11         1 SP     210000,00               2.101   1    200000,00 12,00    24000,00
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112500100000001
+03/07/11 NFD 5    0075229 03/07/11     18179 SP       2260,50               2.201   1      2130,12 18,00      383,42
+CONSTRUILMA MATL CONSTR LTDA - EPP                                               ST        2854,37            130,38
+10.340.623/0001-67
+                                                        112510100000101
+03/07/11 NFE 5    0075572 03/07/11     77222 SP         15,57               1.124   1        15,57 18,00        2,80
+TAGPLAST FERRAM. INJECAO LTDA. - ME     
+10.311.551/0001-20
+                                                        112500100000001
+05/07/11 NFE 1    0010121 05/07/11  90000032 PR      13400,00                .      2     13400,00              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+05/07/11 NFE un 011070501 05/07/11  90000032 PR      33916,67                .      2     33916,67              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+06/07/11 NFE 1    0000001 06/07/11  90000033 MT      36000,00               2.101   2     36000,00              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+06/07/11 NFE un   0001234 06/07/11         1 SP        100,00               1.101   1       100,00 18,00       18,00
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+06/07/11 NFE un   0005678 06/07/11         1 SP       1250,00               1.101   1      1250,00 18,00      225,00
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+06/07/11 NFE un   0008910 06/07/11         1 SP        389,00               1.101   1       389,00 18,00       70,02
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+07/07/11 NFE 1    0000001 07/07/11  90000032 PR      36000,00               2.101   2     36000,00              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+07/07/11 NFE 1    0000002 07/07/11  90000033 MT      12000,00               2.101   2     12000,00              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+07/07/11 NFE 1    0000003 07/07/11  90000033 MT      36000,00               2.101   2     36000,00              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+07/07/11 NFE UN   0070711 07/07/11     12704 SC        100,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   5,00          
+              R E G I S T R O  DE  E N T R A D A S                       *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                         * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                          * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90              * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:         2        MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011      *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                *------- V A L O R E S  F I S C A I S -------*
+DATA DE      SERIE          DATA DO   CODIGO   UF     VALOR          CODIFICACAO              BASE CALCULO  IMPOSTO
+ENTRADA  ESP SUB-     NUMERO   DOCUMENTO EMITENTE ORIG   CONTABIL     CONTABIL  FISCAL
+ICMS COD OU VLR DA    ALIQ   CREDITADO  OBSERVACOES
+             SERIE                                                                   ST  (a)   OPERAC.
+
+
+                                                        211050400000537
+07/07/11 NFE un   0707112 07/07/11         1 SP        331,00               1.101   1       331,00 18,00       59,58
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+07/07/11 NFE un   0707113 07/07/11         1 SP        100,00               1.101   1       100,00 18,00       18,00
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+08/07/11 NFE      0001415 08/07/11     70275 SP      50000,00               1.551   3     50000,00              0,00
+LUNA FERRO E ACO LTDA.                  
+58.436.254/0001-37
+                                                        112110500000105
+08/07/11 NFE 1    0807111 08/07/11  90000033 PR        670,00                .      2       670,00              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+81.991.334/8929-80
+                                                        112510100000101
+08/07/11 NFE gra  0005633 08/07/11  90000032 PR       3350,00               2.949   3      3350,00              0,00  Mercadoria fo
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL                                                                             rnecida por CO
+80.684.051/5365-40                                                                                                   OPERATIVA AMIG
+                                                        112510100000101                                              OS DO CAMPO CO
+08/07/11 NFE un   0000145 08/07/11     74004 SP       6000,00               2.101   1      6000,00 12,00      720,00
+CIA. ULTRAGAZ S/A.                      
+61.602.199/0257-00
+                                                        112110700000107
+08/07/11 NFE un   0001024 08/07/11      9179 RJ        100,00               2.101   2       100,00              0,00
+CONSTRUMARQUES JAU MATS CONSTR LTDA     
+33.040.122/0001-60
+                                                        112510100000101
+08/07/11 NFE UN   0001256 08/07/11  90000037 sc      50000,00               1.551   3     50000,00              0,00
+filial 12704                            
+63.040.289/0001-92
+                                                        112110500000105
+08/07/11 NFE un   0005007 08/07/11     74004 SP       6000,00               2.101   1      6000,00 12,00      720,00
+CIA. ULTRAGAZ S/A.                      
+61.602.199/0257-00
+                                                        513000300000003
+08/07/11 NFE un   0807111 08/07/11         1 SP        444,00               1.101   1       111,00 18,00       19,98
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.                                                    433,00 18,00       77,94
+52.045.697/0001-10
+                                                        112510100000101
+08/07/11 NFE un   0807112 08/07/11         1 SP        448,00               1.101   1       448,00 18,00       80,64
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+10/07/11 NFE 1    0008722 10/07/11  90000032 PR       6700,00                .      2      6700,00              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+11/07/11 NFE 1    0000004 11/07/11  90000033 MT       4320,00               2.101   2      4320,00              0,00
+              R E G I S T R O  DE  E N T R A D A S                       *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                         * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                          * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90              * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:         3        MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011      *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                *------- V A L O R E S  F I S C A I S -------*
+DATA DE      SERIE          DATA DO   CODIGO   UF     VALOR          CODIFICACAO              BASE CALCULO  IMPOSTO
+ENTRADA  ESP SUB-     NUMERO   DOCUMENTO EMITENTE ORIG   CONTABIL     CONTABIL  FISCAL
+ICMS COD OU VLR DA    ALIQ   CREDITADO  OBSERVACOES
+             SERIE                                                                   ST  (a)   OPERAC.
+
+
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+11/07/11 NFE 1    0000015 11/07/11  90000033 MT      26665,94               2.101   2     26665,94              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+11/07/11 NFE 1    1107001 11/07/11  90000032 PR      33500,00                .      2     33500,00              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+11/07/11 NFE 5    0001107 11/07/11     70613 SP       2000,00               2.101   1      2000,00 12,00      240,00
+PALACIO DAS TINTAS DE MARILIA LTDA.     
+56.784.812/0001-20
+                                                        112510100000101
+11/07/11 NFE 5    0002422 11/07/11  90000032 PR       1340,00                .      2      1340,00              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+11/07/11 NFE un   0026321 11/07/11         1 SP          1,00               1.101   1         1,00 18,00        0,18
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+11/07/11 NFE un   0026322 11/07/11         1 SP          1,00               1.101   1         1,00 18,00        0,18
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+11/07/11 NFE un   0026323 11/07/11         1 SP          1,00               1.101   1         1,00 18,00        0,18
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+11/07/11 NFE un   0026324 11/07/11         1 SP          1,00               1.101   1         1,00 18,00        0,18
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+11/07/11 NFE un   0110711 11/07/11         1 SP        355,00               1.101   1       355,00 18,00       63,90
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+11/07/11 NFE un   0110712 11/07/11         1 SP          1,00               1.101   1         1,00 18,00        0,18
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+11/07/11 NFE un   0110713 11/07/11         1 SP        223,00               1.101   1         1,00 18,00        0,18
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.                                                    222,00 18,00       39,96
+52.045.697/0001-10
+                                                        112510100000101
+12/07/11 NFE 1    0000008 12/07/11  90000033 MT      11680,00               2.101   2     11680,00              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101              R E G I S T R O  DE  E N T R A D A S                       *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                         * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                          * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90              * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:         4        MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011      *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                *------- V A L O R E S  F I S C A I S -------*
+DATA DE      SERIE          DATA DO   CODIGO   UF     VALOR          CODIFICACAO              BASE CALCULO  IMPOSTO
+ENTRADA  ESP SUB-     NUMERO   DOCUMENTO EMITENTE ORIG   CONTABIL     CONTABIL  FISCAL
+ICMS COD OU VLR DA    ALIQ   CREDITADO  OBSERVACOES
+             SERIE                                                                   ST  (a)   OPERAC.
+
+
+12/07/11 NFE 1  011071204 12/07/11  90000032 PR       1271,88                .      2      1271,88              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+12/07/11 NFE 5  011071201 12/07/11  90000032 PR       3777,50               2.101   2      3777,50              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+12/07/11 NFE 5  011071202 12/07/11  90000032 PR       3936,84               2.101   2      3936,84              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+12/07/11 NFE gra  0006711 12/07/11  90000032 PR      20100,00               2.101   2     20100,00              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+12/07/11 NFE un   0036333 12/07/11         1 SP          1,00               1.101   1         1,00 18,00        0,18
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+12/07/11 NFE un   0120711 12/07/11         1 SP        644,00               1.101   1       211,00 18,00       37,98
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.                                                    433,00 18,00       77,94
+52.045.697/0001-10
+                                                        112510100000101
+12/07/11 NFE un   0120711 12/07/11     12704 SC         24,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   1,20          
+                                                        211050400000538
+12/07/11 NFE un   0121212 12/07/11         1 SP        500,00               1.101   1       500,00 18,00       90,00
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+12/07/11 NFE un 011071203 12/07/11  90000032 PR      33916,67                .      2     33916,67              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+13/07/11 NFE UN   0033262 13/07/11         1 SP          1,00               1.101   1         1,00 18,00        0,18
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+13/07/11 NFE un   0033621 13/07/11         1 SP          1,00               1.101   1         1,00 18,00        0,18
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+13/07/11 NFE un   0110711 13/07/11     12704 SC          3,00               1.902   1        60,00 17,00       10,20  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000537                                              70711 Série: U
+13/07/11 NFE un   0120711 13/07/11     12704 SC          1,50               1.902   1        30,00 17,00        5,10  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+              R E G I S T R O  DE  E N T R A D A S                       *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                         * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                          * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90              * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:         4        MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011      *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                *------- V A L O R E S  F I S C A I S -------*
+DATA DE      SERIE          DATA DO   CODIGO   UF     VALOR          CODIFICACAO              BASE CALCULO  IMPOSTO
+ENTRADA  ESP SUB-     NUMERO   DOCUMENTO EMITENTE ORIG   CONTABIL     CONTABIL  FISCAL
+ICMS COD OU VLR DA    ALIQ   CREDITADO  OBSERVACOES
+             SERIE                                                                   ST  (a)   OPERAC.
+
+
+                                                        211050400000537                                              70711 Série: U
+13/07/11 NFE un   0130710 13/07/11     40001 SP        200,00               1.101   1       200,00 18,00       36,00  material escr
+CARREFOUR COM IND S/A                                                                                                itório/reposiç
+45.543.915/0036-01                                                                                                   ão estoque    
+                                                        113015800000158
+13/07/11 NFE un   0130711 13/07/11     40001 SP         36,75               1.101   1        36,75 18,00        6,62
+CARREFOUR COM IND S/A                   
+45.543.915/0036-01
+                                                        113015800000158
+14/07/11 NFE 1    0140701 14/07/11  90000033 MT      30000,00                .      2     30000,00              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+14/07/11 NFE 1    0140702 14/07/11  90000033 MT      15000,00                .      2     15000,00              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+14/07/11 NFE 1    0140703 14/07/11  90000033 MT      22500,00                .      2     22500,00              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+14/07/11 NFE 1    0140704 14/07/11  90000032 PR      30000,00                .      2     30000,00              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+14/07/11 NFE 1    0140705 14/07/11  90000032 PR      37500,00                .      2     37500,00              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+14/07/11 NFE 1    0140706 14/07/11  90000032 PR      15000,00                .      2     15000,00              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+14/07/11 NFE un   0014000 14/07/11         1 SP     150000,00               2.551   3    150000,00              0,00
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112112000000120
+14/07/11 NFE un 011071401 14/07/11  90000032 PR       1187,08                .      2      1187,08              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+14/07/11 NFE un 011071402 14/07/11  90000032 PR       1187,08                .      2      1187,08              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+14/07/11 NFE un 011071403 14/07/11  90000032 PR       1061,93                .      2      1061,93              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+15/07/11 NFE 5    0000023 15/07/11  90000033 MT        486,67               2.101   2       486,67              0,00
+              R E G I S T R O  DE  E N T R A D A S                       *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                         * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                          * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90              * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:         5        MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011      *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                *------- V A L O R E S  F I S C A I S -------*
+DATA DE      SERIE          DATA DO   CODIGO   UF     VALOR          CODIFICACAO              BASE CALCULO  IMPOSTO
+ENTRADA  ESP SUB-     NUMERO   DOCUMENTO EMITENTE ORIG   CONTABIL     CONTABIL  FISCAL
+ICMS COD OU VLR DA    ALIQ   CREDITADO  OBSERVACOES
+             SERIE                                                                   ST  (a)   OPERAC.
+
+
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+17/07/11 NFE un   0018001 17/07/11         1 SP     100000,00               2.551   3    100000,00              0,00
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112211400000114
+17/07/11 NFE un   0170711 17/07/11     12704 SC        500,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI:2
+60.403.110/0002-07                                                                                                   5,00          
+                                                        413050100000502
+18/07/11 NFE 1    0001111 18/07/11     12704 SC        100,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   5,00          
+                                                        413050100000503
+18/07/11 NFE 1    0001112 18/07/11     12704 SC          5,00               1.101   1       100,00 17,00       17,00  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000601                                              01111 Série: 1
+18/07/11 NFE 1    0001260 18/07/11     12704 SC        348,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI:1
+60.403.110/0002-07                                                                                                   7,40          
+                                                        211050400000537
+18/07/11 NFE 1    0001261 18/07/11     12704 SC          5,10               1.902   1       102,00 17,00        0,00  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000537                                              01260 Série: 1
+18/07/11 NFE 1    0001262 18/07/11     12704 SC          1,20               1.902   1        24,00 17,00        4,08  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000537                                              01260 Série: 1
+18/07/11 NFE 1    0001434 18/07/11     12704 SC         75,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   3,75          
+                                                        413050100000503
+18/07/11 NFE 1    0001435 18/07/11     12704 SC        125,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   6,25          
+                                                        413050100000502
+18/07/11 NFE 1    0180701 18/07/11  90000033 MT      21666,67                .      2     21666,67              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+18/07/11 NFE 1    0180702 18/07/11  90000033 MT      17333,33                .      2     17333,33              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+18/07/11 NFE un   0001707 18/07/11         1 SP        525,00               1.101   1       525,00 18,00       94,50
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112500100000001              R E G I S T R O  DE  E N T R A D A S                       *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                         * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                          * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90              * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:         6        MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011      *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                *------- V A L O R E S  F I S C A I S -------*
+DATA DE      SERIE          DATA DO   CODIGO   UF     VALOR          CODIFICACAO              BASE CALCULO  IMPOSTO
+ENTRADA  ESP SUB-     NUMERO   DOCUMENTO EMITENTE ORIG   CONTABIL     CONTABIL  FISCAL
+ICMS COD OU VLR DA    ALIQ   CREDITADO  OBSERVACOES
+             SERIE                                                                   ST  (a)   OPERAC.
+
+
+18/07/11 NFE un   0180711 18/07/11     12704 SC        515,00               1.101   1       300,00 17,00       51,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                             3         0,00              0,00 amento - IPI:2
+60.403.110/0002-07                                                                                                   5,00 Nota Fisc
+                                                        211050400000538                                              al de Simples 
+19/07/11 NFE 1    0190701 19/07/11  90000033 MT      25999,99                .      2     25999,99              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+19/07/11 NFE 1    1907001 19/07/11  90000032 PR        670,00                .      2       670,00              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+19/07/11 NFE un   0190711 19/07/11     12704 SC        200,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   5,00          
+                                                        211050400000537
+20/07/11 NFE 1    0001436 20/07/11     12704 SC          3,75               1.101   1        75,00 17,00       12,75  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000601                                              01434 Série: 1
+20/07/11 NFE 1    0001437 20/07/11     12704 SC          6,25               1.902   1       125,00 17,00       21,25  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000601                                              01435 Série: 1
+20/07/11 NFD gra  0006511 20/07/11  90000032 PR         22,30               2.202   2        22,30              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+20/07/11 NFE un   0190711 20/07/11     12704 SC         10,00               1.101   1       200,00 17,00       34,00  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 01
+                                                        112500100000001                                              80711 Série: u
+20/07/11 NFE un   0200711 20/07/11     12704 SC         52,30               1.101   1        46,00 17,00        7,82  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                             3         0,00              0,00 amento - IPI: 
+60.403.110/0002-07                                                                                                   2,50 Nota Fisc
+                                                        211050400000537                                              al de Simples 
+20/07/11 NFE un   2200711 20/07/11     12704 SC        100,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   5,00          
+                                                        211050400000537
+21/07/11 NFE 1    0001438 21/07/11     12704 SC         70,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   3,50          
+                                                        413050100000503
+21/07/11 NFE 1    0001439 21/07/11     12704 SC        154,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   7,70          
+                                                        413050100000502
+21/07/11 NFE 1    0001441 21/07/11     12704 SC        198,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   9,90          
+              R E G I S T R O  DE  E N T R A D A S                       *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                         * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                          * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90              * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:         6        MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011      *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                *------- V A L O R E S  F I S C A I S -------*
+DATA DE      SERIE          DATA DO   CODIGO   UF     VALOR          CODIFICACAO              BASE CALCULO  IMPOSTO
+ENTRADA  ESP SUB-     NUMERO   DOCUMENTO EMITENTE ORIG   CONTABIL     CONTABIL  FISCAL
+ICMS COD OU VLR DA    ALIQ   CREDITADO  OBSERVACOES
+             SERIE                                                                   ST  (a)   OPERAC.
+
+
+                                                        413050100000503
+21/07/11 NFE 1    0001442 21/07/11     12704 SC         90,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   4,50          
+                                                        413050100000502
+21/07/11 NFE 1    0210701 21/07/11  90000033 MT      17333,33                .      2     17333,33              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+22/07/11 NFE 1    0001440 22/07/11     12704 SC          3,50               1.101   1        70,00 17,00       11,90  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000601                                              01438 Série: 1
+22/07/11 NFE 1    0001443 22/07/11     12704 SC          4,50               1.902   1        90,00 17,00       15,30  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000601                                              01442 Série: 1
+22/07/11 NFE un   0020001 22/07/11         1 SP       1000,00               2.551   3      1000,00              0,00
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112211400000114
+22/07/11 NFE un   0022000 22/07/11         1 SP       1000,00               2.551   3      1000,00              0,00
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112211400000114
+22/07/11 NFE un   0022002 22/07/11         1 SP       1000,00               2.551   3      1000,00              0,00
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112211400000114
+22/07/11 NFE un   0022003 22/07/11         1 SP       1000,00               2.551   3      1000,00              0,00
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112211400000114
+22/07/11 NFE un   0022004 22/07/11         1 SP       1500,00               2.551   3      1500,00              0,00
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112211400000114
+22/07/11 NFE un   0022005 22/07/11         1 SP       1000,00               2.551   3      1000,00              0,00
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112211400000114
+22/07/11 NFE un   0210711 22/07/11     12704 SC        100,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   5,00          
+                                                        211050400000537
+25/07/11 NFE 1    0001268 25/07/11     12704 SC        402,50               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI:2
+60.403.110/0002-07                                                                                                   0,13          
+                                                        211050400000538
+25/07/11 NFE 1    0001422 25/07/11     12704 SC       1000,00               1.101   3         0,00              0,00  Simples Fatur
+              R E G I S T R O  DE  E N T R A D A S                       *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                         * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                          * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90              * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:         7        MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011      *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                *------- V A L O R E S  F I S C A I S -------*
+DATA DE      SERIE          DATA DO   CODIGO   UF     VALOR          CODIFICACAO              BASE CALCULO  IMPOSTO
+ENTRADA  ESP SUB-     NUMERO   DOCUMENTO EMITENTE ORIG   CONTABIL     CONTABIL  FISCAL
+ICMS COD OU VLR DA    ALIQ   CREDITADO  OBSERVACOES
+             SERIE                                                                   ST  (a)   OPERAC.
+
+
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI:5
+60.403.110/0002-07                                                                                                   0,00          
+                                                        413050100000503
+25/07/11 NFE 1    0001424 25/07/11     12704 SC       1000,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI:5
+60.403.110/0002-07                                                                                                   0,00          
+                                                        413050100000502
+25/07/11 NFE un   0000250 25/07/11         1 SP          3,00               1.101   1         3,00 18,00        0,54
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+25/07/11 NFE un   0001261 25/07/11     12704 SC         11,10               1.902   1       222,00 17,00       37,74  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000537                                              01260 Série: 1
+25/07/11 NFE un   0240711 25/07/11     12704 SC        100,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   5,00          
+                                                        211050400000537
+25/07/11 NFE un   0250711 25/07/11     12704 SC        100,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   5,00          
+                                                        211050400000537
+25/07/11 NFE un   0250711 25/07/11     12704 SC          5,00               1.902   1       100,00 17,00       17,00  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 02
+                                                        211050400000537                                              50711 Série: u
+26/07/11 NFE 1    0001270 26/07/11     12704 SC        390,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI:1
+60.403.110/0002-07                                                                                                   9,50          
+                                                        211050400000537
+26/07/11 NFE 1    0001271 26/07/11     12704 SC          1,95               1.902   1        39,00 17,00        6,63  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000537                                              01270 Série: 1
+26/07/11 NFE 1    0001275 26/07/11     12704 SC        285,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI:1
+60.403.110/0002-07                                                                                                   4,25          
+                                                        211050400000538
+26/07/11 NFE 1    0001276 26/07/11     12704 SC         14,25               1.101   1       285,00 17,00       48,45  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000601                                              01275 Série: 1
+26/07/11 NFE 1    0001423 26/07/11     12704 SC         50,00               1.101   1      1000,00 17,00      170,00  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000601                                              01422 Série: 1
+26/07/11 NFE 1    0001425 26/07/11     12704 SC         50,00               1.902   1      1000,00 17,00      170,00  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000601              R E G I S T R O  DE  E N T R A D A S                       *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                         * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                          * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90              * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:         8        MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011      *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                *------- V A L O R E S  F I S C A I S -------*
+DATA DE      SERIE          DATA DO   CODIGO   UF     VALOR          CODIFICACAO              BASE CALCULO  IMPOSTO
+ENTRADA  ESP SUB-     NUMERO   DOCUMENTO EMITENTE ORIG   CONTABIL     CONTABIL  FISCAL
+ICMS COD OU VLR DA    ALIQ   CREDITADO  OBSERVACOES
+             SERIE                                                                   ST  (a)   OPERAC.
+
+
+                                                                                                                     01424 Série: 1
+26/07/11 NFE 1    0260701 26/07/11  90000033 MT      16666,67                .      2     16666,67              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+26/07/11 NFE un   0026071 26/07/11         1 SP        112,00               1.101   1       112,00 18,00       20,16
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+26/07/11 NFE un   0026072 26/07/11         1 SP         13,00               1.101   1        13,00 18,00        2,34
+SASAZAKI INDÚSTRIA E COMÉRCIO LTDA AÇÃO.
+52.045.697/0001-10
+                                                        112510100000101
+26/07/11 NFE un   0230711 26/07/11     12704 SC         10,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   0,50          
+                                                        211050400000537
+26/07/11 NFE un   0230711 26/07/11     12704 SC          0,25               1.902   1         5,00 17,00        0,85  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 02
+                                                        211050400000537                                              30711 Série: u
+26/07/11 NFE un   0240711 26/07/11     12704 SC          0,25               1.902   1         5,00 17,00        0,85  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 02
+                                                        211050400000537                                              30711 Série: u
+26/07/11 NFE un   0250711 26/07/11     12704 SC          8,40               1.101   1         8,40 17,00        1,43
+NICOM COMERC MATS PARA CONSTRUCOES LTDA 
+60.403.110/0002-07
+                                                        112500100000001
+26/07/11 NFE un   0250711 26/07/11     12704 SC        200,00               1.902   3       200,00              0,00
+NICOM COMERC MATS PARA CONSTRUCOES LTDA 
+60.403.110/0002-07
+                                                        112500100000001
+26/07/11 NFE un   0260711 26/07/11     12704 SC        100,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   5,00          
+                                                        211050400000537
+26/07/11 NFE un   0270711 26/07/11     12704 SC        100,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   5,00          
+                                                        211050400000537
+27/07/11 NFE 1    0001269 27/07/11     12704 SC        117,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   5,85          
+                                                        211050400000538
+27/07/11 NFE 1    0001277 27/07/11     12704 SC        348,60               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI:1
+60.403.110/0002-07                                                                                                   7,43          
+                                                        211050400000538
+27/07/11 NFE 1    0001279 27/07/11     12704 SC        240,00               1.101   3         0,00              0,00  Simples Fatur
+              R E G I S T R O  DE  E N T R A D A S                       *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                         * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                          * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90              * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:         9        MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011      *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                *------- V A L O R E S  F I S C A I S -------*
+DATA DE      SERIE          DATA DO   CODIGO   UF     VALOR          CODIFICACAO              BASE CALCULO  IMPOSTO
+ENTRADA  ESP SUB-     NUMERO   DOCUMENTO EMITENTE ORIG   CONTABIL     CONTABIL  FISCAL
+ICMS COD OU VLR DA    ALIQ   CREDITADO  OBSERVACOES
+             SERIE                                                                   ST  (a)   OPERAC.
+
+
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI:1
+60.403.110/0002-07                                                                                                   2,00          
+                                                        211050400000538
+27/07/11 NFE 1    0001281 27/07/11     12704 SC         12,00               1.101   1       240,00 17,00       40,80  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000601                                              01279 Série: 1
+27/07/11 NFE 1    0001282 27/07/11     12704 SC        175,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   8,75          
+                                                        413050100000502
+27/07/11 NFE 1    0001283 27/07/11     12704 SC        202,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI:1
+60.403.110/0002-07                                                                                                   0,10          
+                                                        413050100000502
+27/07/11 NFE 1    0001284 27/07/11     12704 SC        366,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI:1
+60.403.110/0002-07                                                                                                   8,30          
+                                                        413050100000502
+27/07/11 NFE 1    0001426 27/07/11     12704 SC       2500,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   125,00        
+                                                        413050100000503
+27/07/11 NFE 1    0001428 27/07/11     12704 SC       3000,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   150,00        
+                                                        413050100000502
+27/07/11 NFE 1    0270202 27/07/11  90000033 MT       1431,66                .      2      1431,66              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+27/07/11 NFE 1    0270701 27/07/11  90000033 MT       4401,67                .      2      4401,67              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+27/07/11 NFE 1    0270703 27/07/11  90000033 MT       8666,60                .      2      8666,60              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+27/07/11 NFE 1    2707001 27/07/11  90000032 PR        670,00                .      2       670,00              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+27/07/11 NFE 1    2707002 27/07/11  90000032 PR        335,00                .      2       335,00              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+27/07/11 NFE 1    2707003 27/07/11  90000032 PR        603,00                .      2       603,00              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101              R E G I S T R O  DE  E N T R A D A S                       *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                         * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                          * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90              * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:        10        MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011      *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                *------- V A L O R E S  F I S C A I S -------*
+DATA DE      SERIE          DATA DO   CODIGO   UF     VALOR          CODIFICACAO              BASE CALCULO  IMPOSTO
+ENTRADA  ESP SUB-     NUMERO   DOCUMENTO EMITENTE ORIG   CONTABIL     CONTABIL  FISCAL
+ICMS COD OU VLR DA    ALIQ   CREDITADO  OBSERVACOES
+             SERIE                                                                   ST  (a)   OPERAC.
+
+
+27/07/11 NFE un   0010811 27/07/11     12704 SC        100,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   5,00          
+                                                        413050100000502
+27/07/11 NFE un   0270711 27/07/11     12704 SC        100,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   5,00          
+                                                        211050400000538
+27/07/11 NFE un   0310711 27/07/11     12704 SC        100,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   5,00          
+                                                        413050100000502
+28/07/11 NFE 1    0001285 28/07/11     12704 SC        165,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   4,50          
+                                                        413050100000502
+28/07/11 NFE 1    0001287 28/07/11     12704 SC        250,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI:1
+60.403.110/0002-07                                                                                                   2,50          
+                                                        413050100000502
+28/07/11 NFE 1    0001288 28/07/11     12704 SC        165,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   8,25          
+                                                        413050100000502
+28/07/11 NFE 1    0001427 28/07/11     12704 SC        125,00               1.101   1      2500,00 17,00      425,00  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000601                                              01426 Série: 1
+28/07/11 NFE 1    0001429 28/07/11     12704 SC         45,00               1.902   1       900,00 17,00      153,00  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000601                                              01428 Série: 1
+28/07/11 NFE 1    0001430 28/07/11     12704 SC        100,00               1.101   1      2000,00 17,00      340,00  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000601                                              01426 Série: 1
+28/07/11 NFE 1    0001431 28/07/11     12704 SC         37,50               1.902   1       750,00 17,00      127,50  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        211050400000601                                              01428 Série: 1
+28/07/11 NFE 1    0280704 28/07/11  90000033 MT      13333,33                .      2     13333,33              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+28/07/11 NFE 1    0280705 28/07/11  90000033 MT      20000,00                .      2     20000,00              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+28/07/11 NFE 1    0280706 28/07/11  90000033 MT      10000,00                .      2     10000,00              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+              R E G I S T R O  DE  E N T R A D A S                       *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                         * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                          * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90              * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:        10        MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011      *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                *------- V A L O R E S  F I S C A I S -------*
+DATA DE      SERIE          DATA DO   CODIGO   UF     VALOR          CODIFICACAO              BASE CALCULO  IMPOSTO
+ENTRADA  ESP SUB-     NUMERO   DOCUMENTO EMITENTE ORIG   CONTABIL     CONTABIL  FISCAL
+ICMS COD OU VLR DA    ALIQ   CREDITADO  OBSERVACOES
+             SERIE                                                                   ST  (a)   OPERAC.
+
+
+                                                        112510100000101
+28/07/11 NFE 1    2807001 28/07/11  90000032 PR        670,00                .      2       670,00              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+28/07/11 NFE 123345678901 28/07/11     12704 SC        105,00               1.101   1       105,00 17,00       17,85
+NICOM COMERC MATS PARA CONSTRUCOES LTDA 
+60.403.110/0002-07
+                                                        112500100000001
+28/07/11 NFE un   0280711 28/07/11     12704 SC        500,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                       0,00              0,00 amento - IPI:1
+60.403.110/0002-07                                                                                                   2,50 Simples F
+                                                        413050100000503                                              aturamento - I
+28/07/11 NFE un   0280711 28/07/11     12704 SC          7,50               1.902   1       150,00 17,00       25,50  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 02
+                                                        211050400000537                                              80711 Série: u
+29/07/11 NFE      0076667 29/07/11     12704 SC          0,00               1.101   1       500,00 17,00       85,00  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 00
+                                                        112501000000010                                              76666 Série: u
+29/07/11 NFE 1    0001291 29/07/11     12704 SC         23,10               1.101   1        23,10 17,00        3,93
+NICOM COMERC MATS PARA CONSTRUCOES LTDA 
+60.403.110/0002-07
+                                                        112500100000001
+29/07/11 NFE 1    0001292 29/07/11     12704 SC         65,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   3,25          
+                                                        413050100000502
+29/07/11 NFE 1    0001293 29/07/11     12704 SC         47,25               1.101   1        45,00 17,00        7,65
+NICOM COMERC MATS PARA CONSTRUCOES LTDA 
+60.403.110/0002-07
+                                                        112500100000001
+29/07/11 NFE 1    0001294 29/07/11     12704 SC         75,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   3,75          
+                                                        413050100000502
+29/07/11 NFE 1    0290701 29/07/11  90000033 MT      22008,33                .      2     22008,33              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+29/07/11 NFE 1    0290702 29/07/11  90000033 MT      17606,67                .      2     17606,67              0,00
+GOLDENGRAINS COMÉRCIO AGRÍCOLA LTDA.    
+43.957.904/0316-97
+                                                        112510100000101
+29/07/11 NFE 1    2907001 29/07/11  90000032 PR         16,75                .      2        16,75              0,00
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+29/07/11 NFE 1    2907002 29/07/11  90000032 PR         16,75                .      2        16,75              0,00
+              R E G I S T R O  DE  E N T R A D A S                       *------------ (a) - CODIGOS DE VALORES FISCAIS -----------*
+                                                                         * 1 - OPERACOES COM CREDITO DO IMPOSTO                    *
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                          * 2 - OPER. SEM CRED. DO IMPOSTO - ISENTAS OU NAO TRIBUT. *
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90              * 3 - OPERACOES SEM CREDITO DO IMPOSTO - OUTRAS           *
+FOLHA:        11        MES OU PERIODO/ANO: 01/07/2011 A 31/07/2011      *---------------------------------------------------------*
+
+         *----- DOCUMENTOS FISCAIS ----*                                *------- V A L O R E S  F I S C A I S -------*
+DATA DE      SERIE          DATA DO   CODIGO   UF     VALOR          CODIFICACAO              BASE CALCULO  IMPOSTO
+ENTRADA  ESP SUB-     NUMERO   DOCUMENTO EMITENTE ORIG   CONTABIL     CONTABIL  FISCAL
+ICMS COD OU VLR DA    ALIQ   CREDITADO  OBSERVACOES
+             SERIE                                                                   ST  (a)   OPERAC.
+
+
+COOPERATIVA AMIGOS DO CAMPO COM. AGRÍCOL
+80.684.051/5365-40
+                                                        112510100000101
+29/07/11 NFE un   0001292 29/07/11     12704 SC         23,10               1.101   1        22,00 17,00        3,74
+NICOM COMERC MATS PARA CONSTRUCOES LTDA 
+60.403.110/0002-07
+                                                        112500100000001
+29/07/11 NFE un   0290711 29/07/11     12704 SC        250,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI:1
+60.403.110/0002-07                                                                                                   2,50          
+                                                        413050100000502
+29/07/11 NFE UN   0290711 29/07/11     12704 SC         12,50               1.902   1       250,00 17,00       42,50  Nota Fiscal d
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              e Simples Fatu
+60.403.110/0002-07                                                                                                   ramento nr: 02
+                                                        211050400000601                                              90711 Série: u
+30/07/11 NFE un   0300711 30/07/11     12704 SC        257,50               1.101   1       150,00 17,00       25,50  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                             3         0,00              0,00 amento - IPI: 
+60.403.110/0002-07                                                                            0,00              0,00 5,00 Simples F
+                                                        413050100000503                                              aturamento - I
+31/07/11 NFE UN   0310711 31/07/11     12704 SC        100,00               1.101   3         0,00              0,00  Simples Fatur
+NICOM COMERC MATS PARA CONSTRUCOES LTDA                                                                              amento - IPI: 
+60.403.110/0002-07                                                                                                   5,00          
+                                                        413050100000503
+                                                                                                                                   
+SUBTOTAL DE 01/07/2011 A 31/07/2011                                                 1    233448,94          29048,26
+                                                                                    2    668670,31              0,00
+                                                                                    3    360050,00              0,00
+                                                                                 ST        2854,37            130,38
+                                                                                                                                   
+SUBTOTAL DE 01/07/2011 A 31/07/2011                                                 1    233448,94          29048,26
+                                                                                    2    668670,31              0,00
+                                                                                    3    360050,00              0,00
+                                                                                 ST        2854,37            130,38
+                                                                                                                                   
+TOTAL GERAL DE 01/07/2011 A 31/07/2011                                              1    233448,94          29048,26
+                                                                                    2    668670,31              0,00
+                                                                                    3    360050,00              0,00
+                                                                                 ST        2854,37            130,38
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+              R E G I S T R O  DE  E N T R A D A S
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90
+FOLHA:        12                   PERIODO: 01/07/2011 A 31/07/2011
+------------------------------------------------------------------------------------------------------------------------------------
+                                   RESUMO DE OPERACOES E PRESTACOES POR CODIGO FISCAL (CFOP) -  01/07/2011 A 31/07/2011
+------------------------------------------------------------------------------------------------------------------------------------
+
+CFOP    NATUREZA                           VALOR CONTABIL   COD(a)        BASE CALCULO  ALIQ.    IMPOSTO CREDIT
+
+ .000                                                                                                                              
+                                                                                                                                   
+  .       COMPRA DE INSUMOS                     477581,06        1                0,00  0,00               0,00
+                                                                 2           477581,06                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+       S U B T            .000  -               477581,06        1                0,00                     0,00
+                                                                 2           477581,06                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+1.000  Entradas e/ou Aquisicoes de Servicos do Estado                                                                              
+                                                                                                                                   
+ 1.101    COMPRA DE INSUMOS                      15290,10        1                0,00  0,00               0,00
+                                                                 2                0,00                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+ 1.101    COMPRA DE INSUMOS                        555,15        1             7669,50 17,00            1303,82
+                                                                 2                0,00                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+ 1.101    COMPRA DE INSUMOS                       5681,75        1             5781,75 18,00            1040,72
+                                                                 2                0,00                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+ 1.124    INDUST. EFEF.  OUTRA EMPRESA              15,57        1               15,57 18,00               2,80
+                                                                 2                0,00                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+ 1.551    COMPRA PARA ATIVO IMOBILIZADO         100000,00        1                0,00  0,00               0,00
+                                                                 2                0,00                     0,00
+                                                                 3           100000,00                     0,00
+                                                                                                                                   
+ 1.902    RETORNO DE MERC. INDUST.                 200,00        1                0,00  0,00               0,00
+                                                                 2                0,00                     0,00
+                                                                 3              200,00                     0,00
+                                                                                                                                   
+ 1.902    RETORNO DE MERC. INDUST.                 192,60        1             3852,00 17,00             637,50
+                                                                 2                0,00                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+       S U B T           1.000  -               121935,17        1            17318,82                  2984,84
+                                                                 2                0,00                     0,00
+                                                                 3           100200,00                     0,00
+                                                                                                                                   
+2.000  Entradas e/ou Aquisicoes de Servicos de Outros Estados                                                                      
+                                                                                                                                   
+ 2.101    COMPRA DE INSUMOS                     191066,95        1                0,00  0,00               0,00
+                                                                 2           191066,95                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+ 2.101    COMPRA DE INSUMOS                     224000,00        1           214000,00 12,00           25680,00
+                                                                 2                0,00                     0,00
+                                                                 3                0,00                     0,00
+              R E G I S T R O  DE  E N T R A D A S
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90
+FOLHA:        13                   PERIODO: 01/07/2011 A 31/07/2011
+------------------------------------------------------------------------------------------------------------------------------------
+                                   RESUMO DE OPERACOES E PRESTACOES POR CODIGO FISCAL (CFOP) -  01/07/2011 A 31/07/2011
+------------------------------------------------------------------------------------------------------------------------------------
+
+CFOP    NATUREZA                           VALOR CONTABIL   COD(a)        BASE CALCULO  ALIQ.    IMPOSTO CREDIT
+
+ 2.201    DEVOLUCAO DE PRODUTOS                   2260,50        1             2130,12 18,00             383,42
+                                                                 2                0,00                     0,00
+                                                                 3                0,00                     0,00
+                                                            ST                 2854,37                   130,38
+                                                                                                                                   
+ 2.202    DEVOLUCAO                                 22,30        1                0,00  0,00               0,00
+                                                                 2               22,30                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+ 2.551    OPERAÇÕES COM BENS DE ATIVO           156500,00        1                0,00  0,00               0,00
+                                                                 2                0,00                     0,00
+                                                                 3           156500,00                     0,00
+                                                                                                                                   
+ 2.551    OPERAÇÕES COM BENS DE ATIVO           100000,00        1                0,00 17,00               0,00
+                                                                 2                0,00                     0,00
+                                                                 3           100000,00                     0,00
+                                                                                                                                   
+ 2.949    OUTRAS ENTRADAS                         3350,00        1                0,00  0,00               0,00
+                                                                 2                0,00                     0,00
+                                                                 3             3350,00                     0,00
+                                                                                                                                   
+       S U B T           2.000  -               677199,75        1           216130,12                 26063,42
+                                                                 2           191089,25                     0,00
+                                                                 3           259850,00                     0,00
+                                                            ST                 2854,37                   130,38
+                                                                                                                                   
+       T O T A L  G E R A L                    1276715,98        1           233448,94                 29048,26
+                                                                 2           668670,31                     0,00
+                                                                 3           360050,00                     0,00
+                                                            ST                 2854,37                   130,38
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+              R E G I S T R O  DE  E N T R A D A S
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90
+FOLHA:        14                   PERIODO: 01/07/2011 A 31/07/2011
+------------------------------------------------------------------------------------------------------------------------------------
+                                   RESUMO DE OPERACOES E PRESTACOES POR CODIGO FISCAL (CFOP) -  MENSAL
+------------------------------------------------------------------------------------------------------------------------------------
+
+CFOP    NATUREZA                           VALOR CONTABIL   COD(a)        BASE CALCULO  ALIQ.    IMPOSTO CREDIT
+
+ .000                                                                                                                              
+                                                                                                                                   
+  .       COMPRA DE INSUMOS                     477581,06        1                0,00  0,00               0,00
+                                                                 2           477581,06                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+       S U B T            .000  -               477581,06        1                0,00                     0,00
+                                                                 2           477581,06                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+1.000  Entradas e/ou Aquisicoes de Servicos do Estado                                                                              
+                                                                                                                                   
+ 1.101    COMPRA DE INSUMOS                      15290,10        1                0,00  0,00               0,00
+                                                                 2                0,00                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+ 1.101    COMPRA DE INSUMOS                        555,15        1             7669,50 17,00            1303,82
+                                                                 2                0,00                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+ 1.101    COMPRA DE INSUMOS                       5681,75        1             5781,75 18,00            1040,72
+                                                                 2                0,00                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+ 1.124    INDUST. EFEF.  OUTRA EMPRESA              15,57        1               15,57 18,00               2,80
+                                                                 2                0,00                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+ 1.551    COMPRA PARA ATIVO IMOBILIZADO         100000,00        1                0,00  0,00               0,00
+                                                                 2                0,00                     0,00
+                                                                 3           100000,00                     0,00
+                                                                                                                                   
+ 1.902    RETORNO DE MERC. INDUST.                 200,00        1                0,00  0,00               0,00
+                                                                 2                0,00                     0,00
+                                                                 3              200,00                     0,00
+                                                                                                                                   
+ 1.902    RETORNO DE MERC. INDUST.                 192,60        1             3852,00 17,00             637,50
+                                                                 2                0,00                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+       S U B T           1.000  -               121935,17        1            17318,82                  2984,84
+                                                                 2                0,00                     0,00
+                                                                 3           100200,00                     0,00
+                                                                                                                                   
+2.000  Entradas e/ou Aquisicoes de Servicos de Outros Estados                                                                      
+                                                                                                                                   
+ 2.101    COMPRA DE INSUMOS                     191066,95        1                0,00  0,00               0,00
+                                                                 2           191066,95                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+ 2.101    COMPRA DE INSUMOS                     224000,00        1           214000,00 12,00           25680,00
+                                                                 2                0,00                     0,00
+                                                                 3                0,00                     0,00
+              R E G I S T R O  DE  E N T R A D A S
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90
+FOLHA:        15                   PERIODO: 01/07/2011 A 31/07/2011
+------------------------------------------------------------------------------------------------------------------------------------
+                                   RESUMO DE OPERACOES E PRESTACOES POR CODIGO FISCAL (CFOP) -  MENSAL
+------------------------------------------------------------------------------------------------------------------------------------
+
+CFOP    NATUREZA                           VALOR CONTABIL   COD(a)        BASE CALCULO  ALIQ.    IMPOSTO CREDIT
+
+ 2.201    DEVOLUCAO DE PRODUTOS                   2260,50        1             2130,12 18,00             383,42
+                                                                 2                0,00                     0,00
+                                                                 3                0,00                     0,00
+                                                            ST                 2854,37                   130,38
+                                                                                                                                   
+ 2.202    DEVOLUCAO                                 22,30        1                0,00  0,00               0,00
+                                                                 2               22,30                     0,00
+                                                                 3                0,00                     0,00
+                                                                                                                                   
+ 2.551    OPERAÇÕES COM BENS DE ATIVO           156500,00        1                0,00  0,00               0,00
+                                                                 2                0,00                     0,00
+                                                                 3           156500,00                     0,00
+                                                                                                                                   
+ 2.551    OPERAÇÕES COM BENS DE ATIVO           100000,00        1                0,00 17,00               0,00
+                                                                 2                0,00                     0,00
+                                                                 3           100000,00                     0,00
+                                                                                                                                   
+ 2.949    OUTRAS ENTRADAS                         3350,00        1                0,00  0,00               0,00
+                                                                 2                0,00                     0,00
+                                                                 3             3350,00                     0,00
+                                                                                                                                   
+       S U B T           2.000  -               677199,75        1           216130,12                 26063,42
+                                                                 2           191089,25                     0,00
+                                                                 3           259850,00                     0,00
+                                                            ST                 2854,37                   130,38
+                                                                                                                                   
+       T O T A L  G E R A L                    1276715,98        1           233448,94                 29048,26
+                                                                 2           668670,31                     0,00
+                                                                 3           360050,00                     0,00
+                                                            ST                 2854,37                   130,38
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+              R E G I S T R O  DE  E N T R A D A S
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS
+INSCR. EST.: 255721161             CNPJ: 53.113.791/0017-90
+FOLHA:        16                   PERIODO: 01/07/2011 A 31/07/2011
+------------------------------------------------------------------------------------------------------------------------------------
+                                         DEMONSTRATIVO DE ICMS POR ESTADO DE ORIGEM
+------------------------------------------------------------------------------------------------------------------------------------
+
+ESTADO                                     VALOR CONTABIL       ICMS       BASE CALCULO            VALOR IMPOSTO              OUTRAS
+ORIGEM                                                          ST
+
+MT   MATO GROSSO                                391100,86                         0,00                                         0,00
+                                                                                                                                   
+PR   PARANA                                     280819,45                         0,00                                      3350,00
+                                                                                                                                   
+RJ   RIO DE JANEIRO                                100,00                         0,00                                         0,00
+                                                                                                                                   
+SC   SANTA CATARINA                              66237,85                     11521,50                                     50200,00
+                                                                                                                                   
+SP   São Paulo                                  538457,82                    221927,44                                    306500,00
+                                                                ST             2854,37                   130,38
+                                                                                                                                   
+       T O T A L  G E R A L                    1276715,98                    233448,94                                    360050,00
+                                                                ST             2854,37                   130,38
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+

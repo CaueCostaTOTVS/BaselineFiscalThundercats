@@ -1,0 +1,12 @@
+     Cenario : TM06_RI0412_Contabilizacao_Impostos_062009
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabelec."
+EXECUTE,"Informar o valor '1' no Campo ."
+EXECUTE,"Informar o valor '06/2009' no Campo Período."
+EXECUTE,"Informar o valor '1' no Radio Set ."
+EXECUTE,"Informar o valor 'yes' na Opção Gera Movimentos."
+EXECUTE,"Informar o valor 'yes' na Opção Integração com Contabilidade."

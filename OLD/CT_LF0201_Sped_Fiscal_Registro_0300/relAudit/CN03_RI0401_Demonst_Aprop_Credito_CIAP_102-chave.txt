@@ -1,0 +1,71 @@
+=====> BD: mgcad Tabela: ri-contr-livros Evento: D Chave: 1|31/03/11|1|
+=====> BD: mgcad Tabela: ri-contr-livros Evento: D Chave: 1|30/04/11|1|
+=====> BD: mgcad Tabela: ri-contr-livros Evento: D Chave: 1|31/05/11|1|
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: D Chave: 1|2011|1|1|
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: D Chave: 1|2011|2|1|
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: D Chave: 1|2011|3|1|
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: D Chave: 1|2011|4|1|
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: D Chave: 1|2011|5|1|
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2011|1|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2011
+Field: mes Nov: 1
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 29,17
+Field: val-tot-imposto-a-aprop Nov: 1400
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 174,16
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2011|1|
+Field: id-ult-bem Ant: 0 Nov: 5
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/01/11|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 3
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/01/2011
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      ri-contr-livros                         1          0          3
+mgmov      ri-fatur-mes                            0          1          0
+mgmov      ri-fatur-mes-grupo-impto                1          0          5
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              2          1          8

@@ -1,0 +1,6 @@
+     Cenario : CN07_Baixa_de_Bens_Perdas_Total
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

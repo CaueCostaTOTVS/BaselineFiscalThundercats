@@ -1,0 +1,6 @@
+     Cenario : CN02_LF0201_SPED_Fiscal_Bloco_G
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

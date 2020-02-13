@@ -1,0 +1,15 @@
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: int-1 Nov: 604
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: int-1 Nov: 605
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: int-1 Nov: 606
+=====> BD: mgcad Tabela: ri-param Evento: W
+Field: int-1 Nov: 606
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      ri-bem                                  0          3          0
+mgcad      ri-param                                0          1          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0          4          0

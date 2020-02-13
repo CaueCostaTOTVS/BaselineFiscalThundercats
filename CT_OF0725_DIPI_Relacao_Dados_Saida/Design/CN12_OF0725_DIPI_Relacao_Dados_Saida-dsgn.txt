@@ -1,0 +1,6 @@
+     Cenario : CN12_OF0725_DIPI_Relacao_Dados_Saida
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

@@ -1,0 +1,16 @@
+     Cenario : CN01_OF0301_Inclusao
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '10001' no Campo Estabelecimento."
+EXECUTE,"Informar o valor '19' no Campo Termo Abertura Saída."
+EXECUTE,"Informar o valor '20' no Campo Termo Encerramento Saída."
+EXECUTE,"Informar o valor '1.000' no Campo Página Livro Entrada."
+EXECUTE,"Informar o valor '150' no Campo Página  Apuração ICMS."
+EXECUTE,"Informar o valor '1.000' no Campo Página Livro Saída."
+EXECUTE,"Informar o valor '150' no Campo Página  Apuração IPI."
+EXECUTE,"Informar o valor '' no Campo Numero LRE."
+EXECUTE,"Informar o valor 'DJALMA DOS SANTOS MACHADO' no Campo Nome."
+EXECUTE,"Informar o valor 'AV EDMUNDO DOUBRAWA' no Campo Logradouro."

@@ -1,0 +1,3 @@
+Estabelecimento	ID Veículo	Placa Veículo	UF Placa	Município	Descrição Veículo	Chassi Veículo
+1	RDS8945	RDS8945	SC	29005	EM BRANCO	EM BRANCO
+1	MEX7458	MEX7458	SP	29005	EM BRANCO	EM BRANCO

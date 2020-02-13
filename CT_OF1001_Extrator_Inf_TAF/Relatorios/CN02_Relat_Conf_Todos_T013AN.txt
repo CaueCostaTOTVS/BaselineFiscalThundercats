@@ -1,0 +1,4 @@
+Estabelecimento	Número do Documento	Série	Participante	Data	Modelo	Classe de Consumo	Tipo Ligação	Grupo Tensão	Valor Terceiros	Consumo	Valor Serviços	Valor Fornecido/Consumido
+1	3032014	5	13	8/3/2011	06	01	3	04	320.00	0	500.00	2500.00
+1	4032014	5	13	8/3/2011	28	04	1	13	8000.00	0	400.00	600.00
+1	5032014	5	13	8/3/2011	06	08	3	13	100.00	0	300.00	600.00

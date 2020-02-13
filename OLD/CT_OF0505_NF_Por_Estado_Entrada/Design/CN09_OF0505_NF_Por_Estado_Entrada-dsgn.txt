@@ -1,0 +1,13 @@
+     Cenario : CN09_OF0505_NF_Por_Estado_Entrada
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabel."
+EXECUTE,"Informar o valor '' no Campo Pais."
+EXECUTE,"Informar o valor 'ZZZZZZZZZZZZZZZZZZZZ' no Campo ."
+EXECUTE,"Informar o valor 'RJ' no Campo UF."
+EXECUTE,"Informar o valor '01/05/2011' no Campo Período."
+EXECUTE,"Informar o valor '30/08/2011' no Campo ."
+EXECUTE,"Informar o valor 'c:/automacao/relatorios/OF0505_NF_Por_Estado_Entrada_09.lst' no Editor ."

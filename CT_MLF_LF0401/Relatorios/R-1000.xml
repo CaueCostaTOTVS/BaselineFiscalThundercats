@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Reinf xmlns="http://www.reinf.esocial.gov.br/schemas/evtInfoContribuinte/v1_03_00">
+  <evtInfoContri id="ID1531137910000002019060510065200000">
+    <ideEvento>
+      <tpAmb>2</tpAmb>
+      <procEmi>1</procEmi>
+      <verProc>12.1.25</verProc>
+    </ideEvento>
+    <ideContri>
+      <tpInsc>1</tpInsc>
+      <nrInsc>53113791</nrInsc>
+    </ideContri>
+    <infoContri>
+      <inclusao>
+        <idePeriodo>
+          <iniValid>2014-01</iniValid>
+        </idePeriodo>
+        <infoCadastro>
+          <classTrib>99</classTrib>
+          <indEscrituracao>0</indEscrituracao>
+          <indDesoneracao>1</indDesoneracao>
+          <indAcordoIsenMulta>0</indAcordoIsenMulta>
+          <indSitPJ>0</indSitPJ>
+          <contato>
+            <nmCtt>contabilista new</nmCtt>
+            <cpfCtt>79195806920</cpfCtt>
+            <foneFixo>4721210000</foneFixo>
+            <foneCel>4721210000</foneCel>
+            <email>contador2@totvs.com.br</email>
+          </contato>
+        </infoCadastro>
+      </inclusao>
+    </infoContri>
+  </evtInfoContri>
+</Reinf>

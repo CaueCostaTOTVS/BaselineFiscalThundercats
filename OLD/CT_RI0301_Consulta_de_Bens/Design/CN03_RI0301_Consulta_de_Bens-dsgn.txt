@@ -1,0 +1,10 @@
+     Cenario : CN03_RI0301_Consulta_de_Bens
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Seqüência:."
+EXECUTE,"Informar o valor '1' no Campo ."
+EXECUTE,"Informar o valor '' no Campo Estabelecimento:."
+EXECUTE,"Informar o valor 'ZZZZZZZZZZZZ' no Campo ."

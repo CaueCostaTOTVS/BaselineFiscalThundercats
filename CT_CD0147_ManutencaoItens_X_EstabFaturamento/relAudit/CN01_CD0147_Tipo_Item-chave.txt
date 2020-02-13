@@ -1,0 +1,12 @@
+=====> BD: mgcad Tabela: item-uni-estab Evento: W Chave: 40T|1|
+Field: char-1 Ant: 2                                                                                                                        01 Nov: 2                                                                                                                        01b
+=====> BD: mgcad Tabela: item-uni-estab Evento: W Chave: 40T|1|
+Field: char-1 Ant: 2                                                                                                                        01b Nov: 2                                                                                                                        011
+=====> BD: mgcad Tabela: item-uni-estab Evento: W Chave: 40T|1|
+Field: char-1 Ant: 2                                                                                                                        011 Nov: 2                                                                                                                        018
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      item-uni-estab                          0          3          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0          3          0

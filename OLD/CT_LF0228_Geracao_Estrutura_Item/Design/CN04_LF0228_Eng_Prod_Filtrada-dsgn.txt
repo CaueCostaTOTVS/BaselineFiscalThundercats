@@ -1,0 +1,9 @@
+     Cenario : CN04_LF0228_Eng_Prod_Filtrada
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabelecimento."
+EXECUTE,"Informar o valor '01/09/2011' no Campo Período."
+EXECUTE,"Informar o valor 'pai-benefic' no Campo Item."

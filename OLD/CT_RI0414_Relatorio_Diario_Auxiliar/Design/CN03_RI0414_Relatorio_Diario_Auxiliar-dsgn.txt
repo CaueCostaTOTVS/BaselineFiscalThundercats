@@ -1,0 +1,18 @@
+     Cenario : CN03_RI0414_Relatorio_Diario_Auxiliar
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '10000' no Campo Estab."
+EXECUTE,"Informar o valor '10000' no Campo ."
+EXECUTE,"Informar o valor '01/03/2014' no Campo Dt Emissão."
+EXECUTE,"Informar o valor '31/03/2014' no Campo ."
+EXECUTE,"Informar o valor '' no Campo Conta Contábil."
+EXECUTE,"Informar o valor 'ZZZZZZZZZZZZZZZZZZZZ' no Campo ."
+EXECUTE,"Informar o valor '' no Campo Centro Custo."
+EXECUTE,"Informar o valor 'ZZZZZZZZZZZZZZZZZZZZ' no Campo ."
+EXECUTE,"Informar o valor '1' no Campo Termo Abertura."
+EXECUTE,"Informar o valor '2' no Campo Termo Encerramento."
+EXECUTE,"Informar o valor '3' no Campo Prox Pagina."
+EXECUTE,"Informar o valor 'c://automacao/relatorios/ri0414_032014.lst' no Editor ."

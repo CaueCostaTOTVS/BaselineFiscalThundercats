@@ -1,0 +1,11 @@
+Estabelecimento	Processo	Origem Processo	Identificação Vara	Tipo Processo	Autoria da Ação	UF da Vara	Código IBGE Município	Início Validade Processual	Fim Validade Processual	Descrição
+1	36	9								RES. PROCESSOAS JUDICIAIS OU FISCAIS
+1	14503	0								INFORMACAO ADICIONAL
+1	1	1								AJUSTE DA APURACAO
+1	14	0								INFORMACOES ADIC.
+1	4789	1								INF. ADICIONAIS
+1	10	0								ICMS ST
+1	1	2								PROCESSO
+1	125	9								PROCESSO 125
+1	10	1								RECOLHIMENTO NORMAL
+1	5	0								RESUMO

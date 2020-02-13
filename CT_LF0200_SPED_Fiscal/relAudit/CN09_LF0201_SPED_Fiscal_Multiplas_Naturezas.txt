@@ -1,0 +1,13 @@
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: c:/Automacao/Relatorios
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: 1
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: 01/10/2011
+Field: cod-conteudo[2] Nov: 31/10/2011
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      clf-param-histor                        0          3          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0          3          0

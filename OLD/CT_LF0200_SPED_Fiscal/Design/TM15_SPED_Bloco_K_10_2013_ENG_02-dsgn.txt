@@ -1,0 +1,16 @@
+     Cenario : TM15_SPED_Bloco_K_10_2013_ENG_02
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '2' no Campo Valor para 3 casas decimais (Bloco K) : 0,000X."
+EXECUTE,"Informar o valor '1' no Campo Estabelecimento."
+EXECUTE,"Informar o valor '01/10/2013' no Campo Período."
+EXECUTE,"Informar o valor '01/10/2013' no Campo ."
+EXECUTE,"Informar o valor '1' no Campo Estabelecimento:."
+EXECUTE,"Informar o valor '0 - Remessa do arquivo original' no Combo Box Finalidade do Arquivo:."
+EXECUTE,"Informar o valor '010' no Campo Versão do Arquivo (Ex: 0 ou 000):."
+EXECUTE,"Informar o valor '31/12/2012' no Campo Dt Inventário Fim Período (Bloco H):."
+EXECUTE,"Informar o valor 'Sim (CFOPs: 1933/2933/5933/6933)' no Combo Box Considera CFOPs Serviço:."
+EXECUTE,"Informar o valor 'Não' no Combo Box Gera Reg C113 NF-e Emissão Própria:."

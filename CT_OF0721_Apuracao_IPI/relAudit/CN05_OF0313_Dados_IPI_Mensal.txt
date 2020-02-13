@@ -1,0 +1,216 @@
+=====> BD: mgmov Tabela: apur-imposto Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-estabel Nov: 1
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dt-apur-fim Nov: 31/05/2011
+Field: dt-apur-ini Nov: 01/05/2011
+Field: dt-entrega ?
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: loc-entrega Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: observacao Nov: 
+Field: tp-imposto Nov: 2
+=====> BD: mgmov Tabela: apur-imposto Evento: D
+=====> BD: mgmov Tabela: dwf-apurac-impto-ajust Evento: C
+Field: cod-ajust Nov: 001
+Field: cod-ajust-uf Nov: 
+Field: cod-estab Nov: 1
+Field: cod-impto Nov: IPI
+Field: cod-lancto Nov: 004
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-uf Nov: 
+Field: dat-apurac-final-impto Nov: 31/05/2011
+Field: dat-apurac-inicial-impto Nov: 01/05/2011
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dsl-ajust-apurac Nov: notas fiscais
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 9
+Field: num-livre-2 Nov: 0
+Field: num-seq-ajust Nov: 10
+Field: val-ajust-apurac Nov: 156338
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: dwf-apurac-impto-ajust Evento: C
+Field: cod-ajust Nov: 103
+Field: cod-ajust-uf Nov: 
+Field: cod-estab Nov: 1
+Field: cod-impto Nov: IPI
+Field: cod-lancto Nov: 011
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-uf Nov: 
+Field: dat-apurac-final-impto Nov: 31/05/2011
+Field: dat-apurac-inicial-impto Nov: 01/05/2011
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dsl-ajust-apurac Nov: ressarcimento
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 9
+Field: num-livre-2 Nov: 0
+Field: num-seq-ajust Nov: 30
+Field: val-ajust-apurac Nov: 146054,75
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: dwf-apurac-impto-ajust Evento: C
+Field: cod-ajust Nov: 199
+Field: cod-ajust-uf Nov: 
+Field: cod-estab Nov: 1
+Field: cod-impto Nov: IPI
+Field: cod-lancto Nov: 012
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-uf Nov: 
+Field: dat-apurac-final-impto Nov: 31/05/2011
+Field: dat-apurac-inicial-impto Nov: 01/05/2011
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dsl-ajust-apurac Nov: notas fiscais
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 9
+Field: num-livre-2 Nov: 0
+Field: num-seq-ajust Nov: 40
+Field: val-ajust-apurac Nov: 114604,02
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: dwf-apurac-impto-ajust Evento: C
+Field: cod-ajust Nov: 
+Field: cod-ajust-uf Nov: 
+Field: cod-estab Nov: 1
+Field: cod-impto Nov: IPI
+Field: cod-lancto Nov: 007
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-uf Nov: 
+Field: dat-apurac-final-impto Nov: 31/05/2011
+Field: dat-apurac-inicial-impto Nov: 01/05/2011
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dsl-ajust-apurac Nov: saldo credor
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 9
+Field: num-livre-2 Nov: 0
+Field: num-seq-ajust Nov: 20
+Field: val-ajust-apurac Nov: 146054,75
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgmov Tabela: dwf-apurac-impto-ajust Evento: D
+=====> BD: mgmov Tabela: dwf-apurac-impto-ajust Evento: D
+=====> BD: mgmov Tabela: dwf-apurac-impto-recolh Evento: D
+=====> BD: mgmov Tabela: imp-valor Evento: C
+Field: char-1 Nov: 103
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-ajust-uf Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-lanc Nov: 11
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: descricao Nov: ressarcimento
+Field: dt-apur-fim Nov: 31/05/2011
+Field: dt-apur-ini Nov: 01/05/2011
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nr-sequencia Nov: 30
+Field: tp-imposto Nov: 2
+Field: vl-lancamento Nov: 146054,75
+=====> BD: mgmov Tabela: imp-valor Evento: C
+Field: char-1 Nov: 199
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-ajust-uf Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-lanc Nov: 12
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: descricao Nov: notas fiscais
+Field: dt-apur-fim Nov: 31/05/2011
+Field: dt-apur-ini Nov: 01/05/2011
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nr-sequencia Nov: 40
+Field: tp-imposto Nov: 2
+Field: vl-lancamento Nov: 114604,02
+=====> BD: mgmov Tabela: imp-valor Evento: C
+Field: char-1 Nov: 001
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-ajust-uf Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-lanc Nov: 4
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: descricao Nov: notas fiscais
+Field: dt-apur-fim Nov: 31/05/2011
+Field: dt-apur-ini Nov: 01/05/2011
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nr-sequencia Nov: 10
+Field: tp-imposto Nov: 2
+Field: vl-lancamento Nov: 156338
+=====> BD: mgmov Tabela: imp-valor Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: cod-ajust-uf Nov: 
+Field: cod-estabel Nov: 1
+Field: cod-lanc Nov: 7
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: descricao Nov: saldo credor
+Field: dt-apur-fim Nov: 31/05/2011
+Field: dt-apur-ini Nov: 01/05/2011
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nr-sequencia Nov: 20
+Field: tp-imposto Nov: 2
+Field: vl-lancamento Nov: 146054,75
+=====> BD: mgmov Tabela: imp-valor Evento: D
+=====> BD: mgmov Tabela: imp-valor Evento: D
+=====> BD: mgmov Tabela: imposto-guia Evento: D
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgmov      apur-imposto                            1          0          1
+mgmov      dwf-apurac-impto-ajust                  4          0          2
+mgmov      dwf-apurac-impto-recolh                 0          0          1
+mgmov      imp-valor                               4          0          2
+mgmov      imposto-guia                            0          0          1
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              9          0          7

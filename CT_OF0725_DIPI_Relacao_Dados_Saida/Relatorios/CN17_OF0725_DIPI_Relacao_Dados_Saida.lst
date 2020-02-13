@@ -1,0 +1,129 @@
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        DIPI-Dados das Saidas de 01/07/2011 a 31/07/2011                       Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+ FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS             INS. ESTADUAL: 255721161              CNPJ    : 53113791001790
+
+ Class. Fiscal EX Cod. Produto     Descricao                                      Valor     %         Vl. Acumulado     %
+ ------------- -- ---------------- ------------------------------  -------------------- ------ -------------------- ------
+ 3403.19.00       .danfe-tributado .DANFE-TRIBUTADO.DANFE-TRIBUTA      6.313.713.133,85  48,65     6.313.713.133,85  48,65
+ 7308.30.00       .danfe-isento    .DANF-e-.DANF-e-.DANF-e-.DANF-      2.565.656.863,43  19,77     8.879.369.997,28  68,42
+ 7308.30.00       .danfe-reduzido  .DANF-e-.DANF-e-.DANF-e-.DANF-      1.734.729.326,12  13,37    10.614.099.323,40  81,79
+ 7308.30.00       .danfe           .DANF-e-.DANF-e-.DANF-e-.DANF-      1.304.537.163,11  10,05    11.918.636.486,51  91,84
+ 3403.19.00       .danfe-tamanhoCP .DANFE-OUTROS/.DANFE-OUTROS/.D        802.224.021,53   6,18    12.720.860.508,04  98,03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0725RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        DIPI-Dados das Saidas de 01/07/2011 a 31/07/2011                       Página:    2
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+                        Seleção
+
+                    Estabelecimento: 1
+                            Período: 01/07/2011  |<         >| 31/07/2011
+
+
+
+                        Parâmetros
+
+           Perc Máximo do Relatório: 99,00
+        Natureza do Estabelecimento: Industrial
+Considera Nat Oper com Cod Vinc IPI: Sim
+              Apropriar Valores por: Valor Contábil
+              Sumarizar Valores por: Produto e Classificação Fiscal
+
+---------------------- CFOP's Excluidas -----------------
+
+
+
+
+                        Impressão
+
+                            Destino: Impressora
+                            Arquivo: C:/automacao/relatorios
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0725RP - V:0.00.00.000
+

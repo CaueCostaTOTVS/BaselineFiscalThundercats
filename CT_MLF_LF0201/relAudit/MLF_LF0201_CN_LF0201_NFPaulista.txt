@@ -1,0 +1,36 @@
+=====> BD: mgcad Tabela: clf-param-histor Evento: C
+Field: cdn-layout Nov: 9
+Field: cod-conteudo[1] Nov: 1 - Considerar CFOPïs Servi‡o
+Field: cod-conteudo[2] Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: dat-exec Nov: 12/02/2020
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: idi-tip-param Nov: 1
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-seq-param Nov: 50
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: c:/automacao/relatorios
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: d04
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: 01/05/2011
+Field: cod-conteudo[2] Nov: 31/05/2011
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: 0001402
+Field: cod-conteudo[2] Nov: 0001402
+=====> BD: mgcad Tabela: clf-param-histor Evento: W
+Field: cod-conteudo[1] Nov: 515223
+Field: cod-conteudo[2] Nov: 515223
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      clf-param-histor                        1          5          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              1          5          0

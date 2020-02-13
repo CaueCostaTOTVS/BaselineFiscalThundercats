@@ -1,0 +1,65 @@
+------------------------------------------------------------------------------------------------------------------------------------
+TOTVS S.A.                                       EFD Contribuições - Relatório Auxiliar                                 Página:    1
+-------------------------------------------------------------------------------------------------------------- 21/11/2019 - 20:08:30
+
+
+PARÂMETROS
+
+
+                          Seleção
+
+            Data Docto Inicial: 01/08/2011
+              Data Docto Final: 31/08/2011
+
+                          Parâmetro
+
+                       Empresa: 10
+                 Tipo Operação: Ambos (Mercadoria e Serviço)
+                Tipo Documento: Ambos (Entrada e Saída)
+                 Classificação: Por CFOP
+ Docto Exportação pela Data de: Emissão
+                Tipo Relatório: Arquivo Planilha
+
+                          Impressão
+
+                       Destino: Arquivo - c:/automacao/relatorios/CN_LF0216_Ambos_Ambos_Cfop_Emis.lst
+
+
+
+Relatório de Conferência Gerado
+--------------------------------------------------------------------------------------------------------------
+c:/automacao/relatorios\LF0216-Relat-EFD-Contrib-20191121200811.xlsx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------DATASUL - MLF - LF0216RP - V:2.00.00.038
+

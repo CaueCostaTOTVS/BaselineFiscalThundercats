@@ -1,0 +1,193 @@
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS  INSCR. EST.: 255721161               CNPJ   : 53113791001790      Folha:          1
+PERIODO: 01/05/2011 A 31/05/2011  APURACAO DE ICMS POR GRUPO DE CFOP E CLASSIFICACAO FISCAL
+
+                                        VLR CONTABIL    BASE ICMS      I C M S      BASE ST     VALOR ST  ISENTA/N.TRIB       OUTRAS
+
+
+GRUPO 10  -  Entrada                      1146508,35   1080538,60    192139,81         0,00         0,00      18899,00       1910,00
+
+GRUPO 20  -  Entrada Inter                1454716,61   1436481,61    172377,76         0,00         0,00          0,00          0,00
+
+GRUPO 30  -  Entrada Import                  3100,00      3000,00       540,00         0,00         0,00          0,00          0,00
+
+GRUPO 40  -  Saída                         714250,73    673451,37    121221,21    863041,70     39509,66       1000,00          0,00
+
+GRUPO 50  -  Saída 2                       893118,21    844476,35    152005,69   1114708,80     48641,86          0,00          0,00
+
+GRUPO 60  -  Saída Inter                   543862,06    534608,50     51432,32         0,00         0,00          0,00        125,00
+
+GRUPO 70  -  Saída Inter 2                 613644,55    539899,37     61162,65    769060,14     73717,09          0,00          0,00
+
+GRUPO 80  -  Saída Export                    5200,00         0,00         0,00         0,00         0,00       5100,00          0,00
+
+TOTAL GERAL                               5374400,51   5112455,80    750879,44   2746810,64    161868,61      24999,00       2035,00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF/0715 - V:G.00.002
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS  INSCR. EST.: 255721161               CNPJ   : 53113791001790      Folha:          2
+PERIODO: 01/05/2011 A 31/05/2011  APURACAO DE ICMS POR GRUPO DE CFOP E CLASSIFICACAO FISCAL
+
+
+
+
+                   SELECAO
+
+                       Estabelecimento: 1
+
+                   c-lbl-liter-digitacao
+                   ---------------------
+                   DIGITAÇÃO
+
+                        Grupo: 10
+
+                         CFOP: 1101
+
+
+                        Grupo: 20
+
+                         CFOP: 2101
+
+
+                        Grupo: 30
+
+                         CFOP: 3101
+
+
+                        Grupo: 40
+
+                         CFOP: 5101
+
+
+                        Grupo: 50
+
+                         CFOP: 5401
+
+
+                        Grupo: 60
+
+                         CFOP: 6101
+
+
+                        Grupo: 70
+
+                         CFOP: 6401
+
+
+                        Grupo: 80
+
+                         CFOP: 7101
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF/0715 - V:G.00.002
+FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS  INSCR. EST.: 255721161               CNPJ   : 53113791001790      Folha:          3
+PERIODO: 01/05/2011 A 31/05/2011  APURACAO DE ICMS POR GRUPO DE CFOP E CLASSIFICACAO FISCAL
+
+                   PARAMETROS
+
+                                  Período: 01/05/2011  |<  >|  31/05/2011
+                           Tipo Relatório: Resumido
+Considerar Documentos Fiscais de Serviço?: Sim
+
+                   IMPRESSAO
+
+                                  Destino:    Arquivo          -   c:/automacao/relatorios/OF0715_02.LST
+                                  Usuário:    super
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF/0715 - V:G.00.002
+

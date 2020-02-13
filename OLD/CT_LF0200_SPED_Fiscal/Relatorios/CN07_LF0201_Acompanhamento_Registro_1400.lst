@@ -1,0 +1,65 @@
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        Relatório de Geração de Arquivos                                       Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+  Layout Desc Param                     Nome Campo                     Conteudo Inicial               Conteudo Final
+-------- ------------------------------ ------------------------------ ------------------------------ ------------------------------
+     126 Estabelecimento                codEstabel                     10000
+     126 Finalidade do Arquivo          FinArquivo                     0 - Remessa do arquivo origina
+     126 Versão do Arquivo (Ex: 0 ou 00 versaoArquivo                  009
+     126 Dt Fechamento Inventário (Reg  dtFechInvent
+     126 Considera CFOPs Serviço        consideraCFOPServ              Sim (CFOPs: 1933/2933/5933/693
+     126 Gera Reg C113 NF-e Emissão Pró geraC113NFePropria             Sim
+     126 Data Docto                     dtDocto                        01/08/2011                     31/08/2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Duração)  Arquivos Gerados
+----------------------------------------------------------------------------------------------------
+(00:00:00) c:\automacao\relatorios\SPEDFiscalVersao00910000TODAY1824.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------DATASUL -  - LF0201RP - V:0.00.00.000
+

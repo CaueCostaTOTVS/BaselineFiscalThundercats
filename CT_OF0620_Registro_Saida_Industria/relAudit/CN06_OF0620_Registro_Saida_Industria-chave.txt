@@ -1,0 +1,23 @@
+=====> BD: mgcad Tabela: contr-livros Evento: D Chave: 1|31/07/11|2|
+=====> BD: mgcad Tabela: contr-livros Evento: C Chave: 1|31/07/11|2|
+Field: cod-estabel Nov: 1
+Field: livro Nov: 2
+Field: nr-ult-pag Nov: 15
+Field: dt-ult-emi Nov: 31/07/2011
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      contr-livros                            1          0          1
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              1          0          1

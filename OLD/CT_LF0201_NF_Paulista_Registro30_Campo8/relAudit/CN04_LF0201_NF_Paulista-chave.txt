@@ -1,0 +1,48 @@
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 9|1|10000|01/09/09|
+Field: cod-conteudo[1] Ant: c:\temp\NFPAULISTA Nov: c:/automacao/relatorios
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 9|1|10|TODAY|
+Field: cod-conteudo[1] Ant: 1 Nov: d04
+Field: dat-exec Ant: 01/02/2010 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 9|2|10|TODAY|
+Field: cod-conteudo[1] Ant: 29/01/2010 Nov: 01/05/2011
+Field: cod-conteudo[2] Ant: 29/01/2010 Nov: 31/05/2011
+Field: dat-exec Ant: 01/02/2010 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 9|1|20|TODAY|
+Field: dat-exec Ant: 01/02/2010 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 9|2|20|TODAY|
+Field: dat-exec Ant: 01/02/2010 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 9|1|30|TODAY|
+Field: dat-exec Ant: 01/02/2010 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 9|2|30|TODAY|
+Field: cod-conteudo[1] Ant:  Nov: 0001402
+Field: cod-conteudo[2] Ant: 9999999999999999999999 Nov: 0001402
+Field: dat-exec Ant: 01/02/2010 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 9|1|40|TODAY|
+Field: dat-exec Ant: 01/02/2010 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 9|2|40|TODAY|
+Field: cod-conteudo[1] Ant: 511 Nov: 515223
+Field: cod-conteudo[2] Ant: zzzzzzzzzzzzzzzzzzzzzzz Nov: 515223
+Field: dat-exec Ant: 01/02/2010 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 9|1|50|TODAY|
+Field: cdn-layout Nov: 9
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 50
+Field: cod-conteudo[1] Nov: 1 - Considerar CFOPïs Servi‡o (593 ou 693)
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      clf-param-histor                        1          9          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              1          9          0

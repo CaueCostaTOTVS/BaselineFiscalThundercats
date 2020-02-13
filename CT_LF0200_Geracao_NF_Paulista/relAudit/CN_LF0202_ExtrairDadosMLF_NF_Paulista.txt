@@ -1,0 +1,144 @@
+=====> BD: mgmov Tabela: dwf-cf-resum-diario-cancel Evento: C
+Field: cod-docto-cancdo Nov: 9032014
+Field: cod-docto-final Nov: 9032014
+Field: cod-docto-inicial Nov: 9032014
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-docto Nov: 02
+Field: cod-serie Nov: 5
+Field: cod-subser-docto-fisc Nov: 
+Field: dat-emis-docto Nov: 20/08/2011
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-docto-cancdo Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgmov Tabela: dwf-cf-resum-diario-cancel Evento: D
+=====> BD: mgmov Tabela: dwf-cf-resum-diario-cancel Evento: W
+Field: val-docto-cancdo Nov: 1200
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: C
+Field: cod-docto Nov: 0071101
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-natur-operac Nov: 610110
+Field: cod-serie Nov: 5
+Field: cod-uf-dest Nov: SP
+Field: cod-uf-remet Nov: SC
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-fundo-uf-dest Nov: 12,4
+Field: val-icms-uf-dest Nov: 200
+Field: val-icms-uf-remet Nov: 350
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: C
+Field: cod-docto Nov: 0071104
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-natur-operac Nov: 611sc
+Field: cod-serie Nov: 5
+Field: cod-uf-dest Nov: SP
+Field: cod-uf-remet Nov: SC
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-fundo-uf-dest Nov: 83,07
+Field: val-icms-uf-dest Nov: 84,12
+Field: val-icms-uf-remet Nov: 126,19
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: C
+Field: cod-docto Nov: 0071105
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-natur-operac Nov: 611sc
+Field: cod-serie Nov: 5
+Field: cod-uf-dest Nov: SP
+Field: cod-uf-remet Nov: SC
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-fundo-uf-dest Nov: 14,95
+Field: val-icms-uf-dest Nov: 15,14
+Field: val-icms-uf-remet Nov: 22,71
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: D
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: D
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: D
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgmov      dwf-cf-resum-diario-cancel              1          1          1
+mgmov      dwf-docto-compl                         3          0          3
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              4          1          4

@@ -1,0 +1,11 @@
+     Cenario : CN02_RI0413_Documentos_Fiscais
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabel."
+EXECUTE,"Informar o valor '1' no Campo ."
+EXECUTE,"Informar o valor '05/2011' no Campo Período."
+EXECUTE,"Informar o valor '07/2011' no Campo ."
+EXECUTE,"Informar o valor 'C:/automacao/relatorios/CN02_RI0413.LST' no Editor ."

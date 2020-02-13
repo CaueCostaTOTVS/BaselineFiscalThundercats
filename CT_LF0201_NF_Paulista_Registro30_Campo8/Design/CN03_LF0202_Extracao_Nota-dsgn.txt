@@ -1,0 +1,6 @@
+     Cenario : CN03_LF0202_Extracao_Nota
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

@@ -1,0 +1,7 @@
+Estabelecimento	Período	Estado	Valor Saldo Credor Anterior	Valor Devolução ST	Valor Ressarcimento ST	Valor Outros Créditos	Valor Ajuste Crédito	Valor Retenção ST	Valor Outros Débitos	Valor Ajuste Débito	Valor Saldo Devedor	Valor Deduções	Valor ICMS Recolher ST	Valor Saldo Credor Transportar	Valor Débito Especial
+1	Aug-11	CE	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+1	Aug-11	MG	0.00	0.00	0.00	0.00	0.00	70.00	0.00	0.00	70.00	0.00	70.00	0.00	0.00
+1	Aug-11	MS	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+1	Aug-11	MT	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+1	Aug-11	SC	0.00	0.00	0.00	1100.00	0.00	0.00	200.00	0.00	0.00	50.00	0.00	900.00	10.00
+1	Aug-11	SP	0.00	0.00	0.00	1290.11	0.00	2324.77	0.00	0.00	1034.66	0.00	1034.66	0.00	0.00

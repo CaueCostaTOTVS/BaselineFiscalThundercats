@@ -1,0 +1,513 @@
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        LAYOUTS DOS ARQUIVOS                                                   Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+                   A - LAYOUT DO ARQUIVO DE DADOS MESTRE DE MERCADORIA (SAIDAS)
+
+--------------------------------------------------------------------------------
+I  SEQ  * DESCRICAO DO CAMPO            * INI * FIM * TAMANHO * TIPO           I
+--------------------------------------------------------------------------------
+I       I                               I     I     I         I                I
+I   01  I Indicador do Movimento        I   1 I   1 I    1    I caracter       I
+I   02  I Tipo de Documento             I   2 I   4 I    3    I numerico       I
+I   03  I Serie e Subserie do Documento I   5 I   9 I    5    I caracter       I
+I   04  I Numero do Documento           I  10 I  21 I   12    I caracter       I
+I   05  I Data da emissao do Documento  I  22 I  29 I    8    I numerico       I
+I   06  I Categoria PJ/PF Relacionada   I  30 I  31 I    2    I caracter       I
+I   07  I CNPJ/CPF/Codigo Destinatario  I  32 I  45 I   14    I caracter       I
+I   08  I Indicador de Continuacao do   I  46 I  46 I    1    I caracter       I
+I       I Documento                     I     I     I         I                I
+I   09  I Modelo Documento              I  47 I  49 I    3    I caracter       I
+I   10  I Data da Saida                 I  50 I  57 I    8    I numerico       I
+I   11  I Valor Total dos Produtos      I  58 I  74 I   17    I numerico       I
+I   12  I Valor Total da Nota Fiscal    I  75 I  91 I   17    I numerico       I
+I   13  I Valor do Desconto             I  92 I 108 I   17    I numerico       I
+I   14  I Numero da Nota Fiscal de      I 109 I 120 I   12    I caracter       I
+I       I Referencia                    I     I     I         I                I
+I   15  I Serie e Subserie da Nota Fis- I 121 I 125 I    5    I caracter       I
+I       I cal de Referencia             I     I     I         I                I
+I   16  I Valor Base Reducao IPI        I 126 I 142 I   17    I numerico       I
+I   17  I Valor Total IPI               I 143 I 159 I   17    I numerico       I
+I   18  I Inscricao Estadual do Substi- I 160 I 173 I   14    I caracter       I
+I       I tuto Tributario               I     I     I         I                I
+I   19  I Observacao IPI                I 174 I 218 I   45    I caracter       I
+I   20  I Indicador Contribuinte Final  I 219 I 219 I    1    I caracter       I
+I   21  I Indicador de Situacao de Can- I 220 I 220 I    1    I caracter       I
+I       I celamento do Documento        I     I     I         I                I
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0739B68 - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        LAYOUTS DOS ARQUIVOS                                                   Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+         B - LAYOUT DO ARQUIVO DE DADOS DOS ITENS DE MERCADORIA (SAIDAS)
+
+--------------------------------------------------------------------------------
+I  SEQ  * DESCRICAO DO CAMPO            * INI * FIM * TAMANHO * TIPO           I
+--------------------------------------------------------------------------------
+I       I                               I     I     I         I                I
+I   01  I Indicador do Movimento        I   1 I   1 I    1    I caracter       I
+I   02  I Tipo de Documento             I   2 I   4 I    3    I numerico       I
+I   03  I Serie e Subserie do Documento I   5 I   9 I    5    I caracter       I
+I   04  I Numero do Documento           I  10 I  21 I   12    I caracter       I
+I   05  I Data da emissao do Documento  I  22 I  29 I    8    I numerico       I
+I   06  I Categoria PJ/PF Relacionada   I  30 I  31 I    2    I caracter       I
+I   07  I CNPJ/CPF/Codigo Destinatario  I  32 I  45 I   14    I caracter       I
+I   08  I Numero do Item                I  46 I  50 I    5    I caracter       I
+I   09  I Codigo do Produto             I  51 I  70 I   20    I caracter       I
+I   10  I Unidade Padrao de Venda       I  71 I  73 I    3    I numerico       I
+I   11  I Descricao Complementar do     I  74 I 118 I   45    I caracter       I
+I       I Produto                       I     I     I         I                I
+I   12  I Centro de Custo/Almoxarifado  I 119 I 146 I   28    I caracter       I
+I   13  I Codigo Fiscal Operacao - CFOP I 147 I 149 I    3    I caracter       I
+I   14  I Natureza da Operacao ou CodigoI 150 I 152 I    3    I caracter       I
+I       I Complementar                  I     I     I         I                I
+I   15  I Classif. Fiscal do Produto    I 153 I 162 I   10    I caracter       I
+I   16  I Unidade de Medida             I 163 I 165 I    3    I numerico       I
+I   17  I Quantidade do Produto         I 166 I 182 I   17    I numerico       I
+I   18  I Peso Liquido                  I 183 I 197 I   15    I numerico       I
+I   19  I Valor Preco Unitario          I 198 I 214 I   17    I numerico       I
+I   20  I Valor Preco Total Item        I 215 I 231 I   17    I numerico       I
+I   21  I Valor do Desconto             I 232 I 248 I   17    I numerico       I
+I   22  I Numero do Romaneio Referencia I 249 I 260 I   12    I caracter       I
+I   23  I Data do Romaneio              I 261 I 268 I    8    I numerico       I
+I   24  I Valor Despesas de Frete       I 269 I 285 I   17    I numerico       I
+I   25  I Valor Despesas de Seguro      I 286 I 302 I   17    I numerico       I
+I   26  I Valor Outras Despesas         I 303 I 319 I   17    I numerico       I
+I   27  I Situacao Tributaria Federal   I 320 I 320 I    1    I caracter       I
+I   28  I Indicador Tributacao IPI      I 321 I 321 I    1    I caracter       I
+I   29  I Aliquota do IPI               I 322 I 328 I    7    I numerico       I
+I   30  I Valor Base IPI                I 329 I 345 I   17    I numerico       I
+I   31  I Valor do IPI                  I 346 I 362 I   17    I numerico       I
+I   32  I Situacao Tributaria Estadual  I 363 I 363 I    1    I caracter       I
+I   33  I Situacao Tributaria Estadual  I 364 I 364 I    1    I caracter       I
+I   34  I Indicador Tributacao ICMS     I 365 I 365 I    1    I caracter       I
+I   35  I Aliquota do ICMS              I 366 I 372 I    7    I numerico       I
+I   36  I Valor Base ICMS               I 373 I 389 I   17    I numerico       I
+I   37  I Valor do ICMS                 I 390 I 406 I   17    I numerico       I
+I   38  I Valor Base Substituicao ICMS  I 407 I 423 I   17    I numerico       I
+I   39  I Valor do ICMS por SubstituicaoI 424 I 440 I   17    I numerico       I
+I       I Tributaria                    I     I     I         I                I
+I   40  I Valor da Reducao da Base ICMS I 441 I 457 I   17    I numerico       I
+I   41  I Aliquota ICMS - Diferenca     I 458 I 464 I    7    I numerico       I
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0739B68 - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        LAYOUTS DOS ARQUIVOS                                                   Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+         C - LAYOUT DO ARQUIVO DE DADOS MESTRE DE SERVICO (SAIDAS)
+
+--------------------------------------------------------------------------------
+I  SEQ  * DESCRICAO DO CAMPO            * INI * FIM * TAMANHO * TIPO           I
+--------------------------------------------------------------------------------
+I       I                               I     I     I         I                I
+I   01  I Indicador do Movimento        I   1 I   1 I    1    I caracter       I
+I   02  I Tipo de Documento             I   2 I   4 I    3    I numerico       I
+I   03  I Serie e Subserie do Documento I   5 I   9 I    5    I caracter       I
+I   04  I Numero do Documento           I  10 I  21 I   12    I caracter       I
+I   05  I Data da emissao do Documento  I  22 I  29 I    8    I numerico       I
+I   06  I Categoria PJ/PF Relacionada   I  30 I  31 I    2    I caracter       I
+I   07  I CNPJ/CPF/Codigo Destinatario  I  32 I  45 I   14    I caracter       I
+I   08  I Indicador de Continuacao do   I  46 I  46 I    1    I caracter       I
+I       I Documento                     I     I     I         I                I
+I   09  I Modelo Documento              I  47 I  49 I    3    I caracter       I
+I   10  I Valor Total do Servico        I  50 I  66 I   17    I numerico       I
+I   11  I Valor do Desconto             I  67 I  83 I   17    I numerico       I
+I   12  I Aliquota do IRRF              I  84 I  90 I    7    I numerico       I
+I   13  I Valor Base IRRF               I  91 I 107 I   17    I numerico       I
+I   14  I Valor do IRRF                 I 108 I 124 I   17    I numerico       I
+I   15  I Indicador de Situacao de Can- I 125 I 125 I    1    I caracter       I
+I       I celamento do Documento        I     I     I         I                I
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0739B68 - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        LAYOUTS DOS ARQUIVOS                                                   Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+                   D - LAYOUT DO ARQUIVO DE DADOS DOS ITENS DE SERVICO (SAIDAS)
+
+--------------------------------------------------------------------------------
+I  SEQ  * DESCRICAO DO CAMPO            * INI * FIM * TAMANHO * TIPO           I
+--------------------------------------------------------------------------------
+I       I                               I     I     I         I                I
+I   01  I Indicador do Movimento        I   1 I   1 I    1    I caracter       I
+I   02  I Tipo de Documento             I   2 I   4 I    3    I numerico       I
+I   03  I Serie e Subserie do Documento I   5 I   9 I    5    I caracter       I
+I   04  I Numero do Documento           I  10 I  21 I   12    I caracter       I
+I   05  I Data da emissao do Documento  I  22 I  29 I    8    I numerico       I
+I   06  I Categoria PJ/PF Relacionada   I  30 I  31 I    2    I caracter       I
+I   07  I CNPJ/CPF/Codigo Destinatario  I  32 I  45 I   14    I caracter       I
+I   08  I Codigo do Servico             I  46 I  65 I   20    I caracter       I
+I   09  I Descricao Complementar do     I  66 I 110 I   45    I caracter       I
+I       I Servico                       I     I     I         I                I
+I   10  I Valor do Servico              I 111 I 127 I   17    I numerico       I
+I   11  I Valor do Desconto             I 128 I 144 I   17    I numerico       I
+I   12  I Aliquota do ISS / ICMS        I 145 I 151 I    7    I numerico       I
+I   13  I Valor Base ISS / ICMS         I 152 I 168 I   17    I numerico       I
+I   14  I Valor do ISS / ICMS           I 169 I 185 I   17    I numerico       I
+I   15  I Numero do Contrato de Servico I 186 I 199 I   14    I caracter       I
+I   16  I Valor Total do Documento      I 200 I 216 I   17    I numerico       I
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0739B68 - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        LAYOUTS DOS ARQUIVOS                                                   Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+         E - LAYOUT DO ARQUIVO DE DADOS MESTRE DE MERCADORIA (ENTRADAS)
+
+--------------------------------------------------------------------------------
+I  SEQ  * DESCRICAO DO CAMPO            * INI * FIM * TAMANHO * TIPO           I
+--------------------------------------------------------------------------------
+I       I                               I     I     I         I                I
+I   01  I Indicador do Movimento        I   1 I   1 I    1    I caracter       I
+I   02  I Tipo de Documento             I   2 I   4 I    3    I numerico       I
+I   03  I Serie e Subserie do Documento I   5 I   9 I    5    I caracter       I
+I   04  I Numero do Documento           I  10 I  21 I   12    I caracter       I
+I   05  I Data da emissao do Documento  I  22 I  29 I    8    I numerico       I
+I   06  I Categoria PJ/PF Relacionada   I  30 I  31 I    2    I caracter       I
+I   07  I CNPJ/CPF/Codigo Emitente      I  32 I  45 I   14    I caracter       I
+I   08  I Indicador de Continuacao do   I  46 I  46 I    1    I caracter       I
+I       I Documento                     I     I     I         I                I
+I   09  I Modelo Documento              I  47 I  49 I    3    I caracter       I
+I   10  I Data da Entrada               I  50 I  57 I    8    I numerico       I
+I   11  I Valor Total dos Produtos      I  58 I  74 I   17    I numerico       I
+I   12  I Valor Total da Nota Fiscal    I  75 I  91 I   17    I numerico       I
+I   13  I Valor do Desconto             I  92 I 108 I   17    I numerico       I
+I   14  I Numero da Nota Fiscal de      I 109 I 120 I   12    I caracter       I
+I       I Referencia                    I     I     I         I                I
+I   15  I Serie e Subserie da Nota Fis- I 121 I 125 I    5    I caracter       I
+I       I cal de Referencia             I     I     I         I                I
+I   16  I Numero da Declaracao de Impor-I 126 I 137 I   12    I caracter       I
+I       I tacao de Referencia           I     I     I         I                I
+I   17  I Valor Base Reducao IPI        I 138 I 154 I   17    I numerico       I
+I   18  I Valor Total IPI               I 155 I 171 I   17    I numerico       I
+I   19  I Inscricao Estadual do Substi- I 172 I 185 I   14    I caracter       I
+I       I tuto Tributario               I     I     I         I                I
+I   20  I Observacao IPI                I 186 I 230 I   45    I caracter       I
+I   21  I Indicador Contribuinte Final  I 231 I 231 I    1    I caracter       I
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0739B68 - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        LAYOUTS DOS ARQUIVOS                                                   Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+         F - LAYOUT DO ARQUIVO DE DADOS DOS ITENS DE MERCADORIA (ENTRADAS)
+
+--------------------------------------------------------------------------------
+I  SEQ  * DESCRICAO DO CAMPO            * INI * FIM * TAMANHO * TIPO           I
+--------------------------------------------------------------------------------
+I       I                               I     I     I         I                I
+I   01  I Indicador do Movimento        I   1 I   1 I    1    I caracter       I
+I   02  I Tipo de Documento             I   2 I   4 I    3    I numerico       I
+I   03  I Serie e Subserie do Documento I   5 I   9 I    5    I caracter       I
+I   04  I Numero do Documento           I  10 I  21 I   12    I caracter       I
+I   05  I Data da emissao do Documento  I  22 I  29 I    8    I numerico       I
+I   06  I Categoria PJ/PF Relacionada   I  30 I  31 I    2    I caracter       I
+I   07  I CNPJ/CPF/Codigo Emitente      I  32 I  45 I   14    I caracter       I
+I   08  I Numero do Item                I  46 I  50 I    5    I caracter       I
+I   09  I Codigo do Produto             I  51 I  70 I   20    I caracter       I
+I   10  I Unidade Padrao de Venda       I  71 I  73 I    3    I numerico       I
+I   11  I Descricao Complementar do     I  74 I 118 I   45    I caracter       I
+I       I Produto                       I     I     I         I                I
+I   12  I Centro de Custo/Almoxarifado  I 119 I 146 I   28    I caracter       I
+I   13  I Codigo Fiscal Operacao - CFOP I 147 I 149 I    3    I caracter       I
+I   14  I Classif. Fiscal do Produto    I 150 I 159 I   10    I caracter       I
+I   15  I Natureza da Operacao ou CodigoI 160 I 162 I    3    I caracter       I
+I       I Complementar                  I     I     I         I                I
+I   16  I Unidade de Medida             I 163 I 165 I    3    I numerico       I
+I   17  I Quantidade do Produto         I 166 I 182 I   17    I numerico       I
+I   18  I Peso Liquido                  I 183 I 197 I   15    I numerico       I
+I   19  I Valor Preco Unitario          I 198 I 214 I   17    I numerico       I
+I   20  I Valor Preco Total Item        I 215 I 231 I   17    I numerico       I
+I   21  I Valor do Desconto             I 232 I 248 I   17    I numerico       I
+I   22  I Numero do Romaneio Referencia I 249 I 260 I   12    I caracter       I
+I   23  I Data do Romaneio              I 261 I 268 I    8    I numerico       I
+I   24  I Valor Despesas de Frete       I 269 I 285 I   17    I numerico       I
+I   25  I Valor Despesas de Seguro      I 286 I 302 I   17    I numerico       I
+I   26  I Valor Outras Despesas         I 303 I 319 I   17    I numerico       I
+I   27  I Situacao Tributaria Federal   I 320 I 320 I    1    I caracter       I
+I   28  I Indicador Tributacao IPI      I 321 I 321 I    1    I caracter       I
+I   29  I Aliquota do IPI               I 322 I 328 I    7    I numerico       I
+I   30  I Valor Base IPI                I 329 I 345 I   17    I numerico       I
+I   31  I Valor do IPI                  I 346 I 362 I   17    I numerico       I
+I   32  I Situacao Tributaria Estadual  I 363 I 363 I    1    I caracter       I
+I   33  I Situacao Tributaria Estadual  I 364 I 364 I    1    I caracter       I
+I   34  I Indicador Tributacao ICMS     I 365 I 365 I    1    I caracter       I
+I   35  I Aliquota do ICMS              I 366 I 372 I    7    I numerico       I
+I   36  I Valor Base ICMS               I 373 I 389 I   17    I numerico       I
+I   37  I Valor do ICMS                 I 390 I 406 I   17    I numerico       I
+I   38  I Valor Base Substituicao ICMS  I 407 I 423 I   17    I numerico       I
+I   39  I Valor do ICMS por SubstituicaoI 424 I 440 I   17    I numerico       I
+I       I Tributaria                    I     I     I         I                I
+I   40  I Valor da Reducao da Base ICMS I 441 I 457 I   17    I numerico       I
+I   41  I Aliquota ICMS - Diferenca     I 458 I 464 I    7    I numerico       I
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0739B68 - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        LAYOUTS DOS ARQUIVOS                                                   Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+G - LAYOUT ARQUIVO DE DADOS DE TRANSPORTE (COMPLEMENTO MESTRE DA NOTA SAIDA)
+
+--------------------------------------------------------------------------------
+I  SEQ  * DESCRICAO DO CAMPO            * INI * FIM * TAMANHO * TIPO           I
+--------------------------------------------------------------------------------
+I       I                               I     I     I         I                I
+I   01  I Indicador do Movimento        I   1 I   1 I    1    I caracter       I
+I   02  I Tipo de Documento             I   2 I   4 I    3    I numerico       I
+I   03  I Serie e Subserie do Documento I   5 I   9 I    5    I caracter       I
+I   04  I Numero do Documento           I  10 I  21 I   12    I caracter       I
+I   05  I Data da emissao do Documento  I  22 I  29 I    8    I numerico       I
+I   06  I Categoria PJ/PF Relacionada   I  30 I  31 I    2    I caracter       I
+I   07  I CNPJ/CPF/Codigo Destinatario  I  32 I  45 I   14    I caracter       I
+I   08  I Via de Transporte             I  46 I  48 I    3    I caracter       I
+I   09  I CNPJ/CPF do Transportador ou  I  49 I  62 I   14    I caracter       I
+I       I Codigo                        I     I     I         I                I
+I   10  I Quantidade de Volumes         I  63 I  79 I   17    I numerico       I
+I   11  I Especie de Volumes            I  80 I  82 I    3    I caracter       I
+I   12  I Peso Bruto                    I  83 I  97 I   15    I numerico       I
+I   13  I Peso Liquido                  I  98 I 112 I   15    I numerico       I
+I   14  I Modalidade de Frete           I 113 I 115 I    3    I caracter       I
+I   15  I Valor Despesas de Fretes      I 116 I 132 I   17    I numerico       I
+I   16  I Valor Despesas de Seguros     I 133 I 149 I   17    I numerico       I
+I   17  I Identificacao do Veiculo      I 150 I 166 I   17    I numerico       I
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0739B68 - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        LAYOUTS DOS ARQUIVOS                                                   Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+                             H - LAYOUT DO ARQUIVO DE CODIGOS
+
+--------------------------------------------------------------------------------
+I  SEQ  * DESCRICAO DO CAMPO            * INI * FIM * TAMANHO * TIPO           I
+--------------------------------------------------------------------------------
+I       I                               I     I     I         I                I
+I   01  I Data da Atualizacao           I   1 I   8 I    8    I numerico       I
+I   02  I Numero da Tabela de Codigo    I   9 I  11 I    3    I numerico       I
+I   03  I Codigo Utilizado              I  12 I  39 I   28    I caracter       I
+I   04  I Descricao do Codigo Utilizado I  40 I  84 I   45    I caracter       I
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0739B68 - V:0.00.00.000
+

@@ -1,0 +1,6 @@
+     Cenario : CN02_OF0721_Apuracao_IPI_Normal_Emissao
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

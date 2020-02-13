@@ -1,0 +1,278 @@
+TWFI159                               2.00.00.003    MLF\LF02                      12/02/20  11:23:04
+TWFI159                               2.00.00.003    MLF\LF02                      12/02/20  11:23:04
+TWFI159                               2.00.00.003    MLF\LF02                      12/02/20  11:23:04
+TWFI159                               2.00.00.003    MLF\LF02                      12/02/20  11:23:04
+TWFI159                               2.00.00.003    MLF\LF02                      12/02/20  11:23:04
+TWFI159                               2.00.00.003    MLF\LF02                      12/02/20  11:23:04
+LF0201RP                              2.00.00.081    CN_LF020                      12/02/20  11:23:04
+UT-TRFRRP                             2.00.00.008    lf0201rp                      12/02/20  11:23:04
+BTB901ZO                              2.00.00.005    ut-trfrr                      12/02/20  11:23:05
+UT-VALIDA-FACELIFT                    3.00.00.001    btb901zo                      12/02/20  11:23:05
+UT-ENCODE                             2.00.00.009    ut-liter                      12/02/20  11:23:05
+UT-TRFRRP                             2.00.00.008    lf0201rp                      12/02/20  11:23:05
+UT-TRFRRP                             2.00.00.008    lf0201rp                      12/02/20  11:23:05
+UT-TRFRRP                             2.00.00.008    lf0201rp                      12/02/20  11:23:05
+UT-TRFRRP                             2.00.00.008    lf0201rp                      12/02/20  11:23:05
+BTB920AA                              2.00.00.012    lf0201rp                      12/02/20  11:23:05
+CD9970                                2.00.00.005    lf0201rp                      12/02/20  11:23:05
+UT-ACOMP                              2.00.00.003    lf0201rp                      12/02/20  11:23:05
+BOFI999                               2.00.03.097    lf0201rp                      12/02/20  11:23:06
+UT-TRFRRP                             2.00.00.008    bofi999                       12/02/20  11:23:06
+CDCFGFISCAL                           2.00.00.004    bofi999                       12/02/20  11:23:06
+CDCFGFISCAL-1                         2.00.00.005    cdcfgfis                      12/02/20  11:23:06
+CDCFGFISCAL-2                         2.00.00.004    cdcfgfis                      12/02/20  11:23:06
+CDCFGFISCAL-3                         2.00.00.004    cdcfgfis                      12/02/20  11:23:06
+CDCFGFISCAL-4                         2.00.00.004    cdcfgfis                      12/02/20  11:23:06
+CDCFGFISCAL-5                         2.00.00.004    cdcfgfis                      12/02/20  11:23:06
+UT-ACOMP                              2.00.00.003    bofi999                       12/02/20  11:23:06
+CDAPI020B                             2.00.00.037    bofi999                       12/02/20  11:23:06
+OFAPI014                              2.00.00.000    bofi999                       12/02/20  11:23:07
+BOFI999A                              2.00.02.086    bofi999                       12/02/20  11:23:09
+CDCFGFISCAL                           2.00.00.004    bofi999a                      12/02/20  11:23:09
+CDCFGFISCAL-1                         2.00.00.005    cdcfgfis                      12/02/20  11:23:09
+CDCFGFISCAL-2                         2.00.00.004    cdcfgfis                      12/02/20  11:23:09
+CDCFGFISCAL-3                         2.00.00.004    cdcfgfis                      12/02/20  11:23:09
+CDCFGFISCAL-4                         2.00.00.004    cdcfgfis                      12/02/20  11:23:09
+CDCFGFISCAL-5                         2.00.00.004    cdcfgfis                      12/02/20  11:23:09
+BOFI999B                              2.00.00.004    bofi999                       12/02/20  11:23:09
+UT-TRFRRP                             2.00.00.008    bofi999b                      12/02/20  11:23:09
+UT-TRFRRP                             2.00.00.008    bofi999b                      12/02/20  11:23:09
+     PonBOFI999 - REGISTROS SELECIONADOS                                                                    
+     PonBOFI999 - R0000 - Abertura Arq Digital Identifica‡Æo Entidade                                       
+     PonBOFI999 - R0001 - Abertura Do Bloco 0                                                               
+     PonBOFI999 - R0005 - Dados Complementares Da Entidade                                                  
+     PonBOFI999 - R0015 - Dados Do Contribuinte Substituto                                                  
+     PonBOFI999 - R0100 - Dados Do Contabilista                                                             
+     PonBOFI999 - R0150 - Tabela De Cadastro Do Participante                                                
+     PonBOFI999 - R0175 - Altera‡Æo Tabela De Cadastro De Participante                                      
+     PonBOFI999 - R0190 - Identifica‡Æo Das Unidades De Medida                                              
+     PonBOFI999 - R0200 - Tabela Identific Item (Produto E Servi‡os)                                        
+     PonBOFI999 - R0205 - Altera‡Æo Do Item                                                                 
+     PonBOFI999 - R0206 - C¢digo De Produto Tab Anp (Combust¡veis)                                          
+     PonBOFI999 - R0210 - Consumo Espec¡fico Padronizado                                                    
+     PonBOFI999 - R0220 - Fatores De ConversÆo De Unidades                                                  
+     PonBOFI999 - R0300 - Cadastro de Bens ou Componentes do Ativo Imobilizado                              
+     PonBOFI999 - R0305 - Informa‡Æo Sobre a Utiliza‡Æo do Bem                                              
+     PonBOFI999 - R0400 - Tabela De Natureza Da Opera‡Æo/Presta‡Æo                                          
+     PonBOFI999 - R0450 - Tabela Informa‡Æo Complementar Docto Fiscal                                       
+     PonBOFI999 - R0460 - Tabela De Observa‡äes Do Lan‡amento Fiscal                                        
+     PonBOFI999 - R0500 - Plano de Contas Cont beis                                                         
+     PonBOFI999 - R0600 - Centro de Custos                                                                  
+     PonBOFI999 - R0990 - Encerramento Do Bloco 0                                                           
+     PonBOFI999 - RB001 - Abertura Do Bloco B                                                               
+     PonBOFI999 - RB020 - Nota Fiscal Modelo (01),(03),(3B),(04),(08),(                                     
+     PonBOFI999 - RB025 - Detalhamento por Combina‡Æo de Al¡quota e Item                                    
+     PonBOFI999 - RB030 - Nota Fiscal de Servi‡o Simplificada (3A),(                                        
+     PonBOFI999 - RB035 - Detalhamento por Combina‡Æo de Al¡quota e Item                                    
+     PonBOFI999 - RB350 - Servi‡os Prestados por Institui‡äes Financeiras                                   
+     PonBOFI999 - RB420 - Tot Val Serv Prest por Combina‡Æo de Al¡q e Item, Lista de Serv da LC 116/2003    
+     PonBOFI999 - RB440 - Totaliza‡Æo dos Valores Retidos                                                   
+     PonBOFI999 - RB460 - Dedu‡äes do ISS                                                                   
+     PonBOFI999 - RB470 - Apura‡Æo do ISS                                                                   
+     PonBOFI999 - RB500 - Apura‡Æo do ISS Sociedade Uniprofissional                                         
+     PonBOFI999 - RB510 - Uniprofissional - Empregados e S¢cios                                             
+     PonBOFI999 - RB990 - Encerramento bloco B                                                              
+     PonBOFI999 - RC001 - Abertura Do Bloco 0                                                               
+     PonBOFI999 - RC100 - Registro :NF(01),Avulsa(1B),Produtor(04),Nfe(55),NFCe(65                          
+     PonBOFI999 - RC101 - Op Interestad Dest a Consumid NÆo Contrib                                         
+     PonBOFI999 - RC105 - Opera‡äes com ICMS ST - UF Diversa do Destin                                      
+     PonBOFI999 - RC110 - Inf Complementar NF (C¢digo 01 1b, 04 E 55)                                       
+     PonBOFI999 - RC111 - Processo Referenciado                                                             
+     PonBOFI999 - RC112 - Documento De Arrecada‡Æo Referenciado                                             
+     PonBOFI999 - RC113 - Documento Fiscal Referenciado                                                     
+     PonBOFI999 - RC114 - Cupom Fiscal Referenciado                                                         
+     PonBOFI999 - RC115 - Local Da Coleta E Entrega (C¢d 01, 1b E 04)                                       
+     PonBOFI999 - RC116 - Cupom Fiscal Eletr“nico Referenciado                                              
+     PonBOFI999 - RC120 - Opera‡äes De Importa‡Æo (C¢digo 01,55)                                            
+     PonBOFI999 - RC130 - Issqn, Irrf E Previdˆncia Social                                                  
+     PonBOFI999 - RC140 - Fatura (C¢digo 01)                                                                
+     PonBOFI999 - RC141 - Vencimento Da Fatura (C¢digo 01)                                                  
+     PonBOFI999 - RC160 - Volumes Transp (C¢d 01 E 04) - Exceto Combust                                     
+     PonBOFI999 - RC165 - Opera‡äes Com Combust¡veis (C¢digo 01)                                            
+     PonBOFI999 - RC170 - Itens Do Documento (C¢digo 01, 1b, 04 E 55)                                       
+     PonBOFI999 - RC171 - Armazenamento De Combustiveis (C¢digo 01, 55)                                     
+     PonBOFI999 - RC172 - Opera‡äes Com Issqn (C¢digo 01)                                                   
+     PonBOFI999 - RC173 - Opera‡äes Com Medicamentos (C¢digo 01 E 55)                                       
+     PonBOFI999 - RC174 - Opera‡äes Com Armas De Fogo (C¢digo 01)                                           
+     PonBOFI999 - RC175 - Opera‡äes Com Ve¡culos Novos (C¢digo 01 E 55)                                     
+     PonBOFI999 - RC176 - Ressarc ICMS Opera‡äes Com ST (C¢digo 01, 55)                                     
+     PonBOFI999 - RC177 - Complemento de item - Outras informa‡äes                                          
+     PonBOFI999 - RC178 - Ipi Por Unidade Ou Quantidade De Produto                                          
+     PonBOFI999 - RC179 - Informa‡äes Complementares St (C¢digo 01)                                         
+     PonBOFI999 - RC190 - Reg Anal¡t Docto (C¢digo 01, 1b, 04, 55 e 65)                                     
+     PonBOFI999 - RC191 - Inform. Fundo Combate … Pobreza (C¢digo 55)                                       
+     PonBOFI999 - RC195 - Obs Do Lancto Fiscal (C¢digo 01, 1b, 04 E 55)                                     
+     PonBOFI999 - RC197 - Outras Obriga‡äes Trib, Ajustes e Inf Valores                                     
+     PonBOFI999 - RC300 - Resumo Di rio Das NF De Venda A Consumidor                                        
+     PonBOFI999 - RC310 - Documentos Cancelados De NF Consumidor                                            
+     PonBOFI999 - RC320 - Registro Anal¡tico Do Resumo Di rio NF Cons                                       
+     PonBOFI999 - RC321 - Itens Do Resumo Di rio Dos Doctos (C¢digo 02)                                     
+     PonBOFI999 - RC350 - Nota Fiscal De Venda A Consumidor (C¢digo 02)                                     
+     PonBOFI999 - RC370 - Itens Do Documento (C¢digo 02)                                                    
+     PonBOFI999 - RC390 - Registro Anal¡tico Das Notas Fiscais De Venda                                     
+     PonBOFI999 - RC400 - Registro  - Equipamento Ecf (C¢digo 02, 2d, 60)                                   
+     PonBOFI999 - RC405 - Registro  - Redu‡Æo Z (C¢digo 02, 2d e 60)                                        
+     PonBOFI999 - RC410 - Pis E Cofins Totalizados No Dia (Cod 02 E 2d)                                     
+     PonBOFI999 - RC420 - Reg Tot Parciais Redu‡Æo Z (Cod 02, 2d e 60)                                      
+     PonBOFI999 - RC425 - Resumo Itens Do Movto Di rio (C¢digo 02 E 2d)                                     
+     PonBOFI999 - RC460 - Docto Fiscal Emitido Por Ecf (02, 2d e 60)                                        
+     PonBOFI999 - RC465 - Compl Cupom Fiscal Elet. emitido por EFC (60)                                     
+     PonBOFI999 - RC470 - Itens Docto Fisc Emit Por Ecf (Cod 02 E 2d)                                       
+     PonBOFI999 - RC490 - Reg Anal¡tico Do Movto Di rio (02, 2d e 60)                                       
+     PonBOFI999 - RC495 - Res Mensal It Do Ecf Por Estab (Cod 02 E 2d)                                      
+     PonBOFI999 - RC500 - Registro  Energ El‚tr (06), G s (28), µgua Canaliz (29), NF3e (66)                
+     PonBOFI999 - RC510 - Registro  Itens Energ El‚tr(06), G s(28), µgua Canal(29), NF3e (66)               
+     PonBOFI999 - RC590 - Registro  Reg Analitico Energia(06), G s(28), µgua (29), NF3e (66)                
+     PonBOFI999 - RC600 - Consolida‡Æo Di ria (06), (29) e (28)                                             
+     PonBOFI999 - RC601 - Documentos Cancelados                                                             
+     PonBOFI999 - RC610 - Itens Do Documento Consolidado                                                    
+     PonBOFI999 - RC690 - Registro Anal¡tico Dos Documentos                                                 
+     PonBOFI999 - RC700 - Consolid dos Doc NF/Cta Energ El‚tr (Cod 06)                                      
+     PonBOFI999 - RC790 - Registro Anal¡tico Documentos (C¢digo 06, 28)                                     
+     PonBOFI999 - RC791 - Registro de Informa‡äes de ST por UF (Cod 06)                                     
+     PonBOFI999 - RC800 - Cupom Fiscal Eletr“nico - SAT(C¢digo 59)                                          
+     PonBOFI999 - RC850 - Registro Anal¡tico do CF-e-SAT(C¢digo 59)                                         
+     PonBOFI999 - RC860 - Identifica‡Æo do Equipamento SAT CF-e                                             
+     PonBOFI999 - RC890 - Resumo Di rio CF-e-SAT(C¢d 59) p/ Eq SAT-CF-e                                     
+     PonBOFI999 - RC990 - Encerramento Do Bloco C                                                           
+     PonBOFI999 - RD001 - Abertura Do Bloco D                                                               
+     PonBOFI999 - RD100 - Reg : NF (07,08,8B,09,10,11,26,27,57 e 67) NÆo Cancenlada                         
+     PonBOFI999 - RD101 - Op Interestad Dest a Consumid NÆo Contrib                                         
+     PonBOFI999 - RD110 - Itens Docto - NF Servi‡os Transp (Cod 07)                                         
+     PonBOFI999 - RD120 - Complemento NF Servi‡os Transp (Cod 07)                                           
+     PonBOFI999 - RD130 - Comp Conh Rodovi rio Cargas (Cod 08, 8b)                                          
+     PonBOFI999 - RD140 - Comp Conh Aquavi rio De Cargas (Cod 09)                                           
+     PonBOFI999 - RD150 - Comp Conh A‚reo (Cod 10)                                                          
+     PonBOFI999 - RD160 - Carga Transp (07, 08, 8b, 09, 10, 11, 26 E 27                                     
+     PonBOFI999 - RD161 - Local Coleta Entrega (08,8b,09,10,11,26 e 27)                                     
+     PonBOFI999 - RD162 - Identifica‡Æo Dos Documentos Fiscais (C¢digos                                     
+     PonBOFI999 - RD170 - Comp Conh Multimodal De Cargas (Cod 26)                                           
+     PonBOFI999 - RD180 - Modais (C¢digo 26)                                                                
+     PonBOFI999 - RD190 - Anal¡tico Docto (07,08,8b,09,10,11,26,27,57 e 67                                  
+     PonBOFI999 - RD195 - Obs Fiscal (07,08,8B,09,10,11,26,27,57 e 67)                                      
+     PonBOFI999 - RD197 - Outras Obriga‡äes Trib, Ajustes e Inf Valores                                     
+     PonBOFI999 - RD300 - Reg Anal¡tico (13, 14, 15 e 16)                                                   
+     PonBOFI999 - RD301 - Doctos Cancelados (13, 14, 15 e 16)                                               
+     PonBOFI999 - RD310 - Complemento Dos Bilhetes (13, 14, 15 E 16)                                        
+     PonBOFI999 - RD350 - Registro  Equipamento Ecf (2e, 13, 14, 15 E 16)                                   
+     PonBOFI999 - RD355 - Registro  Redu‡Æo Z (C¢digos 2e, 13, 14, 15 E 16)                                 
+     PonBOFI999 - RD360 - Pis E Cofins Tot Dia (2e, 13, 14, 15 E 16)                                        
+     PonBOFI999 - RD365 - Reg Tot Parciais Redu‡Æo Z (2e,13,14,15 e16)                                      
+     PonBOFI999 - RD370 - Compl Docto Inf (13, 14, 15 E 16 E 2e)                                            
+     PonBOFI999 - RD390 - Reg Anal¡tico Movto Di rio (13,14,15,16 e 2e)                                     
+     PonBOFI999 - RD400 - Resumo De Movimento Di rio (C¢digo 18)                                            
+     PonBOFI999 - RD410 - Documentos Informados (13, 14, 15 E 16)                                           
+     PonBOFI999 - RD411 - Doctos Cancelados (13,14,15 e 16)                                                 
+     PonBOFI999 - RD420 - Compl Docto Inf (13, 14, 15 E 16)                                                 
+     PonBOFI999 - RD500 - NF Servi‡o Comunica‡Æo/Telecom (21,22)                                            
+     PonBOFI999 - RD510 - Itens NF Servi‡o Comun/Telecom (21,22)                                            
+     PonBOFI999 - RD530 - Terminal Faturado                                                                 
+     PonBOFI999 - RD590 - Registro Anal¡tico Do Documento (21 E 22)                                         
+     PonBOFI999 - RD600 - Consolida‡Æo Presta‡Æo Servi‡os (21 e 22)                                         
+     PonBOFI999 - RD610 - Itens Do Docto Consolidado (C¢digo 21 E 22)                                       
+     PonBOFI999 - RD690 - Registro Anal¡tico Dos Documentos (21 E 22)                                       
+     PonBOFI999 - RD695 - Consolid Presta‡Æo Servi‡os (21 e 22) - 2                                         
+     PonBOFI999 - RD696 - Registro Anal¡tico Doctos (21 E 22)                                               
+     PonBOFI999 - RD697 - Reg De Inf De ST Por Uf (Cod 21 E 22)                                             
+     PonBOFI999 - RD990 - Encerramento Do Bloco D                                                           
+     PonBOFI999 - RE001 - Abertura Do Bloco E                                                               
+     PonBOFI999 - RE100 - Per¡odo Da Apura‡Æo Do ICMS                                                       
+     PonBOFI999 - RE110 - Apura‡Æo Do ICMS Opera‡äes Pr¢prias                                               
+     PonBOFI999 - RE111 - Ajuste/Benef¡cio/Incentivo Apura‡Æo ICMS                                          
+     PonBOFI999 - RE112 - Inf Adic Ajustes Da Apura‡Æo Do ICMS                                              
+     PonBOFI999 - RE113 - Inf Adic Ajustes Apura‡Æo ICMS Doctos                                             
+     PonBOFI999 - RE115 - Inf Adic Apura‡Æo Vlrs Declarat¢rios                                              
+     PonBOFI999 - RE116 - Obrig ICMS RECOLHIDO/A RECOLHER Oper Pr¢pria                                      
+     PonBOFI999 - RE200 - Per¡odo Da Apura‡Æo Do ICMS - ST                                                  
+     PonBOFI999 - RE210 - Apura‡Æo Do ICMS Substitui‡Æo Tribut ria                                          
+     PonBOFI999 - RE220 - Ajuste/Benef¡cio/Incentivo Apura‡Æo ICMS ST                                       
+     PonBOFI999 - RE230 - Inf Adic Dos Ajustes Apura‡Æo ICMS ST                                             
+     PonBOFI999 - RE240 - Inf Adic Dos Ajustes Apura‡Æo ICMS ST Doctos                                      
+     PonBOFI999 - RE250 - Obrig ICMS RECOLHIDO/A RECOLHER Subt Tribut                                       
+     PonBOFI999 - RE300 - PERÖOD APUR DO ICMS DIF DE ALIQ UF DEST/ORIG                                      
+     PonBOFI999 - RE310 - Apura‡Æo Do ICMS Dif Aliq - UF Orig/Dest                                          
+     PonBOFI999 - RE311 - Ajuste/Benef¡cio/Incentivo Apur ICMS Dif Aliq                                     
+     PonBOFI999 - RE312 - Inf Adic Dos Ajustes Apur ICMS Dif Aliq                                           
+     PonBOFI999 - RE313 - Inf Adic Dos Ajustes Apur ICMS Dif Aliq Docto                                     
+     PonBOFI999 - RE316 - Obrig ICMS RECOLHIDO/A RECOLHER Aliq Dif                                          
+     PonBOFI999 - RE500 - Per¡odo De Apura‡Æo Do Ipi                                                        
+     PonBOFI999 - RE510 - Consolida‡Æo Dos Valores Do Ipi                                                   
+     PonBOFI999 - RE520 - Apura‡Æo Do Ipi                                                                   
+     PonBOFI999 - RE530 - Ajustes Da Apura‡Æo Do IPI                                                        
+     PonBOFI999 - RE531 - Identifica‡Æo dos Documentos Fiscais do IPI (01 e 55)                             
+     PonBOFI999 - RE990 - Encerramento Do Bloco E                                                           
+     PonBOFI999 - RG001 - Abertura do Bloco G                                                               
+     PonBOFI999 - RG110 - Ativo Permanente - CIAP                                                           
+     PonBOFI999 - RG125 - Movimenta‡Æo de Bem ou Componente do Ativo Imobilizado                            
+     PonBOFI999 - RG126 - Outros Cr‚ditos CIAP                                                              
+     PonBOFI999 - RG130 - Identifica‡Æo do Documento Fiscal                                                 
+     PonBOFI999 - RG140 - Identifica‡Æo Do Item Do Documento Fiscal                                         
+     PonBOFI999 - RG990 - Encerramento do Bloco G                                                           
+     PonBOFI999 - RH001 - Abertura Do Bloco H                                                               
+     PonBOFI999 - RH005 - Totais Do Inventário Motivo = 1                                                   
+     PonBOFI999 - RH010 - Inventário Motivo                                                                 
+     PonBOFI999 - RH020 - Informação complementar do Inventário                                             
+     PonBOFI999 - RH990 - Encerramento Do Bloco H                                                           
+     PonBOFI999 - RK001 - Abertura do Bloco K                                                               
+     PonBOFI999 - RK100 - Per¡odo de Apura‡Æo do ICMS/IPI                                                   
+     PonBOFI999 - RK200 - Estoque Escriturado                                                               
+     PonBOFI999 - RK210 - Desmontagem de Mercadorias: Item Origem                                           
+     PonBOFI999 - RK215 - Registro K235: Desmontagem de Mercadorias: Item Destino                           
+     PonBOFI999 - RK220 - Outras Mov. Internas entre Mercadorias                                            
+     PonBOFI999 - RK230 - Itens Produzidos                                                                  
+     PonBOFI999 - RK235 - Insumos Consumidos                                                                
+     PonBOFI999 - RK250 - Industr. Efetuada por Terc: Itens Produzidos                                      
+     PonBOFI999 - RK255 - Industr. Efetuada em Terc: Insumos Consumidos                                     
+     PonBOFI999 - RK260 - Reprocessamento/Reparo de Produto/Insumo                                          
+     PonBOFI999 - RK265 - Reprocessamento/Reparo - Mercadorias Consumid                                     
+     PonBOFI999 - RK270 - Corre‡Æo de apontamentos Registros Bloco K                                        
+     PonBOFI999 - RK275 - Corre‡Æo de Apontamento e Retorno de Insumos                                      
+     PonBOFI999 - RK280 - Corre‡Æo de Apontamento Saldo                                                     
+     PonBOFI999 - RK290 - Produ‡Æo Conjunta - Ordem de Produ‡Æo                                             
+     PonBOFI999 - RK300 - Produ‡Æo Conjunta - Industrializa‡Æo Efetuada por Terceiros                       
+     PonBOFI999 - RK291 - Produ‡Æo Conjunta - Itens Produzidos                                              
+     PonBOFI999 - RK301 - Produ‡Æo Conjunta - Industrializa‡Æo Efetuada por Terceiros - Itens Produzidos    
+     PonBOFI999 - RK292 - Produ‡Æo Conjunta - Insumos Consumidos                                            
+     PonBOFI999 - RK302 - Produ‡Æo Conjunta - Industrializa‡Æo Efetuada por Terceiros - Insumos Consumidos  
+     PonBOFI999 - RK990 - Encerramento do Bloco K                                                           
+     PonBOFI999 - R1001 - Abertura Do Bloco 1                                                               
+     PonBOFI999 - R1010 - Obrigatoriedade de Registros do Bloco 1                                           
+     PonBOFI999 - R1100 - Registro De Informa‡äes Sobre Exporta‡Æo Indireta                                 
+     PonBOFI999 - R1105 - Documentos Fiscais De Exporta‡Æo                                                  
+     PonBOFI999 - R1110 - Opera‡äes de Export Indir - Mercad de Terc                                        
+     PonBOFI999 - R1200 - Controle De Cr‚ditos Fiscais - ICMS                                               
+     PonBOFI999 - R1210 - Utiliza‡Æo De Cr‚ditos Fiscais ICMS                                               
+     PonBOFI999 - R1300 - Movimenta‡Æo De Combust¡veis                                                      
+     PonBOFI999 - R1310 - Movimenta‡Æo Di ria De Combust¡veis Por Tanqu                                     
+     PonBOFI999 - R1320 - Concilia‡Æo De Estoques                                                           
+     PonBOFI999 - R1350 - Bombas                                                                            
+     PonBOFI999 - R1360 - Lacres Das Bombas                                                                 
+     PonBOFI999 - R1370 - Bicos Da Bomba                                                                    
+     PonBOFI999 - R1390 - Controle de Produ‡Æo de Usina                                                     
+     PonBOFI999 - R1391 - Produ‡Æo Di ria da Usina                                                          
+     PonBOFI999 - R1400 - Informa‡Æo Sobre Valores Agregados                                                
+     PonBOFI999 - R1500 - NF/Conta Energia El‚trica (06 e 28) Interesta                                     
+     PonBOFI999 - R1510 - Itens Docto NF/Conta Energia El‚trica (06)                                        
+     PonBOFI999 - R1600 - Total Opera‡äes Com CartÆo De Cr‚dito/D‚bito                                      
+     PonBOFI999 - R1700 - Documentos Fiscais Utilizados                                                     
+     PonBOFI999 - R1710 - Documentos Fiscais Cancelados/Inutilizados                                        
+     PonBOFI999 - R1800 - Demonst de Cr‚dit ICMS Sobre Transporte A‚reo                                     
+     PonBOFI999 - R1900 - Indicador De Sub-Apura‡Æo Do Icms                                                 
+     PonBOFI999 - R1910 - Per¡odo Da Sub-Apura‡Æo Do ICMS                                                   
+     PonBOFI999 - R1920 - Sub-Apura‡Æo Do ICMS                                                              
+     PonBOFI999 - R1921 - Ajuste/benef¡cio/incentivo sub-apura‡Æo ICMS                                      
+     PonBOFI999 - R1922 - Inf Adic Ajustes Sub-Apurac ICMS                                                  
+     PonBOFI999 - R1923 - Inf Adic Ajustes Sub-Apurac ICMS Docto                                            
+     PonBOFI999 - R1925 - Inf Adic Sub-Apurac ICMS Valores Declar                                           
+     PonBOFI999 - R1926 - Obrig ICMS a Recolh - Op Ref Sub-Apurac ICMS                                      
+     PonBOFI999 - R1960 - GIAF 1 - Industria                                                                
+     PonBOFI999 - R1970 - GIAF 1 - Importacao Entrada                                                       
+     PonBOFI999 - R1975 - GIAF 1 - Importacao Saida                                                         
+     PonBOFI999 - R1980 - GIAF 1 - Distribuicao                                                             
+     PonBOFI999 - R1990 - Encerramento Do Bloco 1                                                           
+     PonBOFI999 - R9001 - Abertura Do Bloco 9                                                               
+     PonBOFI999 - R9900 - Registros Do Arquivo                                                              
+     PonBOFI999 - R9990 - Encerramento Do Bloco 9                                                           
+     PonBOFI999 - R9999 - Encerramento Do Arquivo Digital                                                   
+CDAPI704                              2.00.00.013    bofi999a                      12/02/20  11:23:15
+CDAPI704                              2.00.00.013    bofi999a                      12/02/20  11:23:15

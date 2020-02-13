@@ -1,0 +1,129 @@
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        DIPI-Dados das Entradas de 01/07/2011 a 31/07/2011                     Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+ FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS             INS. ESTADUAL: 255721161              CNPJ    : 53113791001790
+
+ Class. Fiscal EX Cod. Produto     Descricao                                      Valor     %         Vl. Acumulado     %
+ ------------- -- ---------------- ------------------------------  -------------------- ------ -------------------- ------
+ 3403.19.00       SOJA             SOJA EM GRÃOS A GRANEL - ORIGI            232.041,50  31,65           232.041,50  31,65
+ 7308.90.90       af               DESLIZANTE SUP ROD POLIETILENO            210.000,00  28,64           442.041,50  60,29
+ 3403.19.00       TRIGO            TRIGO A GRANEL - ORIGINAÇÃO DE            196.448,25  26,79           638.489,75  87,08
+ 3403.19.00       MILHO            MILHO EM GRÃOS A GRANEL - ORIG             72.541,31   9,89           711.031,06  96,98
+ 0000.00.00       40d              ITEM ATIVO IMOBILIZADO D¿BITO              12.000,00   1,64           723.031,06  98,62
+ 7308.30.00       13c              ITEM CONTROLE CONSIGNADO                    1.000,00   0,14           724.031,06  98,75
+ 7308.30.00       13t              ITEM CONTROLE TOTAL                         1.000,00   0,14           725.031,06  98,89
+ 7308.30.00       ka01l            Karine ka01l LOTE                             948,62   0,13           725.979,68  99,02
+ 7308.30.00       ka01s            Karine ka01s SERIAL                           769,00   0,10           726.748,68  99,12
+ 7308.90.90       aaa              teste                                         561,75   0,08           727.310,43  99,20
+ 7308.30.00       ka02r            Karine ka02r Referência                       556,00   0,08           727.866,43  99,28
+ 7308.30.00       ka04s            Karine ka04s Serial                           500,00   0,07           728.366,43  99,34
+ 7308.30.00       ka04l            Karine ka04l LOTE                             424,58   0,06           728.791,01  99,40
+ 7308.30.00       21.21.102-8      JVBSG-100X150X12-6 APDPRA/VLS                 417,92   0,06           729.208,93  99,46
+ 7308.30.00       22.11.202-3      JCBSSGEI100X150X12 APDPRA VLS                 413,80   0,06           729.622,73  99,51
+ 7308.30.00       22.11.102-7      JCBSSSG-100X150X12 APDPRA/VLS                 336,61   0,05           729.959,34  99,56
+ 7308.30.00       ka02l            Karine ka02l LOTE                             333,00   0,05           730.292,34  99,61
+ 7308.30.00       ka03r            Karine ka03r Referência                       301,60   0,04           730.593,94  99,65
+ 7308.30.00       ka03s            Karine ka03s Serial                           301,60   0,04           730.895,54  99,69
+ 7308.30.00       66.31.175-9      PAVBE-217X87X6,5-1 APACZA                     275,87   0,04           731.171,41  99,73
+ 7308.30.00       ka02s            Karine ka02s Serial                           251,00   0,03           731.422,41  99,76
+ 7308.30.00       62.51.310-1      JVBGE-100X120X12-6 APACZA                     242,93   0,03           731.665,34  99,79
+ 7308.30.00       62.51.301-2      JVBSG-100X150X12-6 APACZA                     240,88   0,03           731.906,22  99,83
+ 7308.30.00       ka01r            Karine ka01r Referência                       212,00   0,03           732.118,22  99,86
+ 7308.30.00       63.41.311-9      JCBBDGE-100X150X08 APACZA                     207,93   0,03           732.326,15  99,88
+ 7308.90.90       .compras         .Compras - Projeto 87                         206,85   0,03           732.533,00  99,91
+ 7308.30.00       ka03l            Karine ka03l LOTE                             201,60   0,03           732.734,60  99,94
+ 0000.00.00                        Material D.Direto - TRIBUTADO                 200,00   0,03           732.934,60  99,97
+ 7308.30.00       64.13.204-0      JMGE -060X080X08-1 APACZA                     124,56   0,02           733.059,16  99,98
+ 7308.30.00       ka04r            Karine ka04r Referência                       114,00   0,02           733.173,16 100,00
+ 7308.30.00       al1122s          AL SERIAL 1122                                  7,00   0,00           733.180,16 100,00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0724RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        DIPI-Dados das Entradas de 01/07/2011 a 31/07/2011                     Página:    2
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+                        Seleção
+
+                    Estabelecimento: 1
+                            Período: 01/07/2011  |<         >| 31/07/2011
+
+
+
+                        Parâmetros
+
+           Perc Máximo do Relatório: 100,00
+        Natureza do Estabelecimento: Industrial
+Considera Nat Oper com Cod Vinc IPI: Sim
+              Apropriar Valores por: Valor Contábil
+              Sumarizar Valores por: Produto e Classificação Fiscal
+
+---------------------- CFOP's Excluidas -----------------
+
+
+
+
+                        Impressão
+
+                            Destino: Impressora
+                            Arquivo: C:/automacao/relatorios
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0724RP - V:0.00.00.000
+

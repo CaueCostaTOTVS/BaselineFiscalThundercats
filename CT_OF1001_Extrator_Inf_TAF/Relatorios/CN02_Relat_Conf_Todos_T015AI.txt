@@ -1,0 +1,2 @@
+Estabelecimento	Número do Documento	Série	Participante	Nat. Operação	Data Documento	Item	Seq. Item	UF Mun. Origem	Município Origem	UF Mun. Destino	Município Destino	ID Veículo
+1	1032014	5	18	51107	8/20/2011	.COMPRASDD	10	SC	09102	SC	09102	

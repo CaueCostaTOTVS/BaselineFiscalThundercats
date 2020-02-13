@@ -1,0 +1,93 @@
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 100
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 10
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 1
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 10
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 10
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 2
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 1
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 3
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 10
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 5
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 20
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 30
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 4
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 10
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 15
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 9
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 13
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 3
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 5
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 2
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 2
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 10
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 6
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 2
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W
+Field: dat-livre-1 Nov: TODAY
+Field: val-livre-2 Nov: 2
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgmov      it-doc-fisc                             0         31          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0         31          0

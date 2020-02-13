@@ -1,0 +1,6 @@
+     Cenario : MLF_LF0301_CN_LF0301_ImportaLayoutNFPaulista
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

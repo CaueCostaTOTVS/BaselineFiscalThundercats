@@ -1,0 +1,11 @@
+     Cenario : CN02_OF0618_Notas_Fisc_Cancel_Mes_UF_SP
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor 'SP' no Campo Estado."
+EXECUTE,"Informar o valor 'SP' no Campo ."
+EXECUTE,"Informar o valor '' no Campo País."
+EXECUTE,"Informar o valor 'zzzzzzzzzz' no Campo ."
+EXECUTE,"Informar o valor '01/05/2011' no Campo Período."

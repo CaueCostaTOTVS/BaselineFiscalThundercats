@@ -1,0 +1,6 @@
+     Cenario : CN03_OF0305_Doc_Entrada_Importacao
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

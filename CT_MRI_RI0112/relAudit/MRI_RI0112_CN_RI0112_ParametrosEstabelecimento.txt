@@ -1,0 +1,21 @@
+=====> BD: mgcad Tabela: funcao Evento: C
+Field: ativo Nov: no
+Field: cd-funcao Nov: 
+Field: char-1 Nov: EMS, MFT, MRE, MOF
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: descricao Nov: 
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      funcao                                  1          0          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              1          0          0

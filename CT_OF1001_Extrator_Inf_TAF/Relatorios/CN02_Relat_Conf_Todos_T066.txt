@@ -1,0 +1,2 @@
+Estabelecimento	Tipo de Documento	Número da Declaração	Data da Declaração	Nat. Exportação	Registro Exportação	Data Reg. Exportação	Conhecimento Embarque	Data Conhec. Embarque	Data Averbação	Tipo Conhecto	Pais SISCOMEX
+1	0	212664	8/5/2011	1	11520	8/1/2011	1155	8/20/2016	8/12/2011	01	105

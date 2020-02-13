@@ -1,0 +1,2 @@
+Estabelecimento	Série	Número do Documento	Participante	Código ECF/SAT-CF	Modelo Documento	Número Documento	Data Documento	Chave de Acesso
+1	1	0001400	12704	59	59	0001452	9/1/2011	55555555555555555555555555555555555555555555555555

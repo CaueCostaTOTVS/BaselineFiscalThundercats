@@ -1,0 +1,6 @@
+Unidade de Medida	Descrição	Código Unid Med ECF
+CT	CENTO	
+KG	KILOGRAMA	
+M	METRO	
+PC	PECA	
+UN	UNIDADE	

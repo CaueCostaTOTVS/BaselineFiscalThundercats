@@ -1,0 +1,515 @@
+                                            REGISTRO DE APURACAO DO ICMS/IPI - ENTRADAS
+
+ESTABEL.: Estabelecimento TOTVS - Ñ ALTERAR CONT INSCR. EST. - 255721161                C.N.P.J. - 53113791001790      FOLHA      1
+
+PERIODO - 01/05 A 31/08/2011                       APURACAO   DE   ICMS/IPI   NAS   ENTRADAS
+
+CODIGO                     VALOR                  BASE DE      IMPOSTO      ISENTAS/NAO                         BASE           ICMS
+FISCAL                     CONTABIL               CALCULO      CREDITADO     TRIBUTADAS         OUTRAS          SUBST          SUBST
+210201                    123004,74 ICMS             0,00           0,00      123004,74           0,00           0,00           0,00
+GRS-Compra - ImpNota - FE           IPI              0,00           0,00      123004,74           0,00
+
+210202                   1377809,37 ICMS             0,00           0,00     1377809,37           0,00           0,00           0,00
+GRS-Compra - NãoImpNota - FE        IPI              0,00           0,00     1377809,37           0,00
+
+210204                     27124,05 ICMS             0,00           0,00       27124,05           0,00           0,00           0,00
+GRS-Compl Preço Compra-NãoNota-FE   IPI              0,00           0,00       27124,05           0,00
+
+210206                     11413,26 ICMS             0,00           0,00       11413,26           0,00           0,00           0,00
+GRS-Compl Qtd Compra-NãoImpNota-FE  IPI              0,00           0,00       11413,26           0,00
+
+ .    TOTAL              1539351,42 ICMS             0,00           0,00     1539351,42           0,00           0,00           0,00
+Não possui CFOP                     IPI              0,00           0,00     1539351,42           0,00
+
+ .000     TOTAL          1539351,42 ICMS             0,00           0,00     1539351,42           0,00           0,00           0,00
+                                    IPI              0,00           0,00     1539351,42           0,00
+
+1101                         367,50 ICMS             0,00           0,00           0,00         350,00           0,00           0,00
+Compra materia prima                IPI            350,00          17,50           0,00           0,00
+
+1101a                        560,00 ICMS             0,00           0,00           0,00         560,00           0,00           0,00
+Compra materia prima                IPI              0,00           0,00           0,00         560,00
+
+11111                    5042966,99 ICMS       5041298,05      607329,29           0,00           0,00           0,00           0,00
+COMPRA DE INSUMOS                   IPI           2541,00         127,05           0,00     5038723,80
+
+1112                     1106847,64 ICMS       1061704,39      191101,86           0,00           0,00           0,00           0,00
+COMPRA DE INSUMOS                   IPI         694923,99       45143,25           0,00      366780,40
+
+1113                       19224,21 ICMS         19224,21        1104,25           0,00           0,00           0,00           0,00
+COMPRA DE INSUMOS                   IPI              0,00           0,00       19224,21           0,00
+
+1115                       18899,00 ICMS             0,00           0,00       18899,00           0,00           0,00           0,00
+COMPRA DE INSUMOS                   IPI              0,00           0,00       18899,00           0,00
+
+111a                      101018,45 ICMS        101018,45       17173,14           0,00           0,00           0,00           0,00
+Compra materia prima                IPI              0,00           0,00           0,00      101018,45
+
+111agr                        52,50 ICMS            52,50           8,93           0,00           0,00           0,00           0,00
+Material Agregado                   IPI             50,00           2,50           0,00           0,00
+
+111eff                    140522,84 ICMS             0,00           0,00           0,00           0,00           0,00           0,00
+Entrega Futura - Fatura             IPI              0,00           0,00           0,00           0,00
+
+111faf                     33649,20 ICMS           110,00          18,70           0,00           0,00           0,00           0,00
+Faturamento Antecipado - Fatura     IPI            130,00           1,00           0,00           0,00
+
+111far                       911,83 ICMS         21036,60        3576,22           0,00           0,00           0,00           0,00
+Faturamento Antecipado - Remessa    IPI          18256,60         912,83           0,00        2780,00
+
+11effr                         0,00 ICMS             0,00           0,00           0,00           0,00           0,00           0,00
+Entrega Futura - Fatura (Escr.Rem)  IPI              0,00           0,00           0,00           0,00
+
+11fafr                         0,00 ICMS             0,00           0,00           0,00           0,00           0,00           0,00
+-----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0502RP - V:0.00.00.000
+                                            REGISTRO DE APURACAO DO ICMS/IPI - ENTRADAS
+
+ESTABEL.: Estabelecimento TOTVS - Ñ ALTERAR CONT INSCR. EST. - 255721161                C.N.P.J. - 53113791001790      FOLHA      2
+
+PERIODO - 01/05 A 31/08/2011                       APURACAO   DE   ICMS/IPI   NAS   ENTRADAS
+
+CODIGO                     VALOR                  BASE DE      IMPOSTO      ISENTAS/NAO                         BASE           ICMS
+FISCAL                     CONTABIL               CALCULO      CREDITADO     TRIBUTADAS         OUTRAS          SUBST          SUBST
+Faturam Antecipado-Fatura (Esc.Rem) IPI              0,00           0,00           0,00           0,00
+
+199999                       105,00 ICMS           100,00          17,00           0,00           0,00           0,00           0,00
+Remessa em Consignação              IPI            100,00           5,00           0,00           0,00
+
+1.101 TOTAL              6465125,16 ICMS       6244544,20      820329,39       18899,00         910,00           0,00           0,00
+COMPRA DE INSUMOS                   IPI         716351,59       46209,13       38123,21     5509862,65
+
+11314                       3125,00 ICMS             0,00           0,00           0,00        3125,00           0,00           0,00
+INDUSTR.EFET. P/TERCEIROS           IPI              0,00           0,00           0,00        3125,00
+
+19401                        262,57 ICMS           262,57          44,79           0,00           0,00           0,00           0,00
+Retorno de Beneficiamento           IPI              0,00           0,00           0,00         262,57
+
+19402                        500,00 ICMS           500,00          85,00           0,00           0,00           0,00           0,00
+Ret. de Benef. - Material Agregado  IPI              0,00           0,00           0,00         500,00
+
+1.124 TOTAL                 3887,57 ICMS           762,57         129,79           0,00        3125,00           0,00           0,00
+INDUST. EFEF.  OUTRA EMPRESA        IPI              0,00           0,00           0,00        3887,57
+
+1322                         160,00 ICMS           160,00          28,80           0,00           0,00           0,00           0,00
+DEVOLUCAO                           IPI            160,00           0,00           0,00           0,00
+
+1.202 TOTAL                  160,00 ICMS           160,00          28,80           0,00           0,00           0,00           0,00
+DEVOLUCAO DE MERCADORIAS            IPI            160,00           0,00           0,00           0,00
+
+1352                         300,00 ICMS           300,00          17,00           0,00           0,00           0,00           0,00
+Transporte                          IPI            300,00           0,00           0,00           0,00
+
+1621os                       171,78 ICMS             0,00           0,00           0,00         171,78           0,00           0,00
+FRETE ATIVO                         IPI              0,00           0,00         171,78           0,00
+
+16230                       2467,76 ICMS          2467,76         296,11           0,00           0,00           0,00           0,00
+FRETE DE INSUMOS                    IPI              0,00           0,00        2467,76           0,00
+
+16231                       2204,54 ICMS          2204,54         264,54           0,00           0,00           0,00           0,00
+AQUIS. SERV. DE TRANSPORTE          IPI              0,00           0,00        2204,54           0,00
+
+16235                       7930,00 ICMS             0,00           0,00           0,00        7930,00           0,00           0,00
+AQUIS. SERV. DE TRANSPORTE          IPI              0,00           0,00        7930,00           0,00
+
+1626                        1050,00 ICMS             0,00           0,00        1050,00           0,00           0,00           0,00
+FRETE DE INSUMOS                    IPI              0,00           0,00        1050,00           0,00
+
+162950                       391,00 ICMS             0,00           0,00           0,00         391,00           0,00           0,00
+FRETE DESPESA                       IPI              0,00           0,00         391,00           0,00
+
+162953                      4705,56 ICMS             0,00           0,00           0,00        4705,56           0,00           0,00
+FRETE ATIVO                         IPI              0,00           0,00        4705,56           0,00
+
+1.352 TOTAL                19220,64 ICMS          4972,30         577,65        1050,00       13198,34           0,00           0,00
+AQUISICAO  SERV. TRANSP.            IPI            300,00           0,00       18920,64           0,00
+
+1114                         609,00 ICMS           609,00         109,62           0,00           0,00           0,00           0,00
+COMPRA DE INSUMOS                   IPI              0,00           0,00           0,00         609,00
+
+-----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0502RP - V:0.00.00.000
+                                            REGISTRO DE APURACAO DO ICMS/IPI - ENTRADAS
+
+ESTABEL.: Estabelecimento TOTVS - Ñ ALTERAR CONT INSCR. EST. - 255721161                C.N.P.J. - 53113791001790      FOLHA      3
+
+PERIODO - 01/05 A 31/08/2011                       APURACAO   DE   ICMS/IPI   NAS   ENTRADAS
+
+CODIGO                     VALOR                  BASE DE      IMPOSTO      ISENTAS/NAO                         BASE           ICMS
+FISCAL                     CONTABIL               CALCULO      CREDITADO     TRIBUTADAS         OUTRAS          SUBST          SUBST
+1.401 TOTAL                  609,00 ICMS           609,00         109,62           0,00           0,00           0,00           0,00
+COMPRA DE INSUMOS                   IPI              0,00           0,00           0,00         609,00
+
+1932os                      6663,60 ICMS             0,00           0,00           0,00        6663,60           0,00           0,00
+COMPRA P/ATIVO IMOBILIZADO          IPI              0,00           0,00        6663,60           0,00
+
+1.406 TOTAL                 6663,60 ICMS             0,00           0,00           0,00        6663,60           0,00           0,00
+COMPRA P/ ATIVO - ST                IPI              0,00           0,00        6663,60           0,00
+
+19713                       6559,72 ICMS             0,00           0,00           0,00        6559,72           0,00           0,00
+COMPRA MAT DE CONSUMO               IPI              0,00           0,00        6559,72           0,00
+
+1.407 TOTAL                 6559,72 ICMS             0,00           0,00           0,00        6559,72           0,00           0,00
+COMPRA MAT/ USO OU CONSUMO - ST     IPI              0,00           0,00        6559,72           0,00
+
+131ste                      1805,84 ICMS          1701,70         306,31           0,00           0,00        2280,28         104,14
+DEVOL. DE PROD DO ESTABEL-ST        IPI              0,00           0,00           0,00        1701,70
+
+1.410 TOTAL                 1805,84 ICMS          1701,70         306,31           0,00           0,00        2280,28         104,14
+DEVOLUÇÃO DE PRODUTOS               IPI              0,00           0,00           0,00        1701,70
+
+111MRI                         2,10 ICMS             0,00           0,00           0,00           2,00           0,00           0,00
+COMPRA DE ATIVO IMOBILIZADO _ MRI   IPI              0,00           0,00           0,00           2,00
+
+1551R1                       140,00 ICMS             0,00           0,00           0,00         140,00           0,00           0,00
+Compra Ativo 01                     IPI            140,00           0,00           0,00           0,00
+
+1911os                      3197,88 ICMS             0,00           0,00           0,00        3045,60           0,00           0,00
+COMPRA P/ATIVO IMOBILIZADO          IPI              0,00           0,00           0,00        3045,60
+
+1914OS                      5440,00 ICMS             0,00           0,00           0,00        5440,00           0,00           0,00
+COMPRA P/ATIVO IMOBILIZADO          IPI              0,00           0,00        5440,00           0,00
+
+1918os                       404,23 ICMS           404,23          72,76           0,00           0,00           0,00           0,00
+COMPRA P/ATIVO IMOBILIZADO          IPI              0,00           0,00           0,00         351,50
+
+191A1                     100000,00 ICMS             0,00           0,00           0,00      100000,00           0,00           0,00
+COMPRA P/ATIVO IMOBILIZADO          IPI              0,00           0,00      100000,00           0,00
+
+1929os                       473,00 ICMS             0,00           0,00         473,00           0,00           0,00           0,00
+COMPRA P/ATIVO IMOBILIZADO          IPI              0,00           0,00         473,00           0,00
+
+193os                      16467,85 ICMS             0,00           0,00           0,00       15622,19           0,00           0,00
+COMPRA P/ATIVO IMOBILIZADO          IPI              0,00           0,00           0,00       15622,19
+
+1.551 TOTAL               126125,06 ICMS           404,23          72,76         473,00      124249,79           0,00           0,00
+COMPRA PARA ATIVO IMOBILIZADO       IPI            140,00           0,00      105913,00       19021,29
+
+1032                         275,00 ICMS           275,00          33,00           0,00           0,00           0,00           0,00
+COMPRAS DE INSUMOS                  IPI              0,00           0,00         275,00           0,00
+
+1971                        3780,50 ICMS             0,00           0,00           0,00        3503,89           0,00           0,00
+COMPRA MAT DE CONSUMO               IPI              0,00           0,00           0,00        3503,89
+
+19710                      11845,28 ICMS             0,00           0,00           0,00       11845,28           0,00           0,00
+-----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0502RP - V:0.00.00.000
+                                            REGISTRO DE APURACAO DO ICMS/IPI - ENTRADAS
+
+ESTABEL.: Estabelecimento TOTVS - Ñ ALTERAR CONT INSCR. EST. - 255721161                C.N.P.J. - 53113791001790      FOLHA      4
+
+PERIODO - 01/05 A 31/08/2011                       APURACAO   DE   ICMS/IPI   NAS   ENTRADAS
+
+CODIGO                     VALOR                  BASE DE      IMPOSTO      ISENTAS/NAO                         BASE           ICMS
+FISCAL                     CONTABIL               CALCULO      CREDITADO     TRIBUTADAS         OUTRAS          SUBST          SUBST
+COMPRA MAT DE CONSUMO               IPI              0,00           0,00       11845,28           0,00
+
+19712                       8727,70 ICMS             0,00           0,00        8727,70           0,00           0,00           0,00
+COMPRA MAT DE CONSUMO               IPI              0,00           0,00        8727,70           0,00
+
+19730                        350,85 ICMS             0,00           0,00           0,00         350,85           0,00           0,00
+COMPRA MAT DE CONSUMO               IPI              0,00           0,00         350,85           0,00
+
+1.556 TOTAL                24979,33 ICMS           275,00          33,00        8727,70       15700,02           0,00           0,00
+COMPRA MAT/ USO OU CONSUMO          IPI              0,00           0,00       21198,83        3503,89
+
+165421                      5546,00 ICMS          3697,52         665,55        1848,48           0,00           0,00           0,00
+COMPRA DE COMBUSTIVEL - MP          IPI              0,00           0,00        5546,00           0,00
+
+1.651 TOTAL                 5546,00 ICMS          3697,52         665,55        1848,48           0,00           0,00           0,00
+COMPRA DE COMBUSTIVEL               IPI              0,00           0,00        5546,00           0,00
+
+165122                      2210,90 ICMS          1491,30         178,95           0,00         719,60           0,00           0,00
+COMPRA OLEO DIESEL-ABASTECIMENTO    IPI              0,00           0,00        2210,90           0,00
+
+16553                       1151,74 ICMS             0,00           0,00           0,00        1151,74           0,00           0,00
+COMPRA DE COMB. OU LUBR. - DESPESAS IPI              0,00           0,00        1151,74           0,00
+
+1.653 TOTAL                 3362,64 ICMS          1491,30         178,95           0,00        1871,34           0,00           0,00
+COMPRA DE COMBUSTIVEL               IPI              0,00           0,00        3362,64           0,00
+
+111efr                      6092,31 ICMS        121807,34       20689,91           0,00           0,00           0,00           0,00
+Entrega Futura - Remessa            IPI         121896,12        6094,81           0,00           0,00
+
+19421                       1717,68 ICMS             0,00           0,00           0,00        1717,68           0,00           0,00
+RET / BENEF INDUST                  IPI              0,00           0,00           0,00        1717,68
+
+199ret                       262,50 ICMS           250,00          42,50           0,00           0,00           0,00           0,00
+Retorno Beneficiamento              IPI            250,00          12,50           0,00           0,00
+
+1.902 TOTAL                 8072,49 ICMS        122057,34       20732,41           0,00        1717,68           0,00           0,00
+RETORNO DE MERC. INDUST.            IPI         122146,12        6107,31           0,00        1717,68
+
+199110                        38,49 ICMS             0,00           0,00           0,00          38,49           0,00           0,00
+BONIFICACAO, DOACAO OU BRINDE       IPI              0,00           0,00           0,00          38,49
+
+199161                      5900,00 ICMS             0,00           0,00        5900,00           0,00           0,00           0,00
+COMPRA PARA BRINDE                  IPI              0,00           0,00        5900,00           0,00
+
+1.910 TOTAL                 5938,49 ICMS             0,00           0,00        5900,00          38,49           0,00           0,00
+ENTRADA DE BONIFICACAO              IPI              0,00           0,00        5900,00          38,49
+
+199982                     13000,00 ICMS             0,00           0,00       13000,00           0,00           0,00           0,00
+RETORNO DE CONSERTO                 IPI              0,00           0,00       13000,00           0,00
+
+1.916 TOTAL                13000,00 ICMS             0,00           0,00       13000,00           0,00           0,00           0,00
+RETORNO DE CONSERTO                 IPI              0,00           0,00       13000,00           0,00
+
+199941                     40079,00 ICMS             0,00           0,00       40079,00           0,00           0,00           0,00
+ENTRADA DE EMBALAGENS               IPI              0,00           0,00       40079,00           0,00
+
+-----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0502RP - V:0.00.00.000
+                                            REGISTRO DE APURACAO DO ICMS/IPI - ENTRADAS
+
+ESTABEL.: Estabelecimento TOTVS - Ñ ALTERAR CONT INSCR. EST. - 255721161                C.N.P.J. - 53113791001790      FOLHA      5
+
+PERIODO - 01/05 A 31/08/2011                       APURACAO   DE   ICMS/IPI   NAS   ENTRADAS
+
+CODIGO                     VALOR                  BASE DE      IMPOSTO      ISENTAS/NAO                         BASE           ICMS
+FISCAL                     CONTABIL               CALCULO      CREDITADO     TRIBUTADAS         OUTRAS          SUBST          SUBST
+1.920 TOTAL                40079,00 ICMS             0,00           0,00       40079,00           0,00           0,00           0,00
+ENTRADAS DE EMBALAGENS              IPI              0,00           0,00       40079,00           0,00
+
+1802                        1144,00 ICMS             0,00           0,00        1144,00           0,00           0,00           0,00
+SERVICO TRIB PELO ISS               IPI              0,00           0,00        1144,00           0,00
+
+1933                        1000,00 ICMS             0,00           0,00           0,00        1000,00           0,00           0,00
+Serviço Entrada                     IPI              0,00           0,00           0,00           0,00
+
+1.933 TOTAL                 2144,00 ICMS             0,00           0,00        1144,00        1000,00           0,00           0,00
+AQUISIÇÃO SERV. TRIB. ISS           IPI              0,00           0,00        1144,00           0,00
+
+1991                       22796,28 ICMS             0,00           0,00       22796,28           0,00           0,00           0,00
+OUTRAS ENTRADAS                     IPI              0,00           0,00       22796,28           0,00
+
+19932                         25,00 ICMS             0,00           0,00           0,00          25,00           0,00           0,00
+Retorno de Beneficiamento           IPI              0,00           0,00           0,00          25,00
+
+19933                         50,00 ICMS             0,00           0,00           0,00          50,00           0,00           0,00
+Remessa de Beneficiamento           IPI              0,00           0,00           0,00          50,00
+
+199991                     10000,00 ICMS             0,00           0,00       10000,00           0,00           0,00           0,00
+RETORNO EMPRESTIMO                  IPI              0,00           0,00       10000,00           0,00
+
+1.949 TOTAL                32871,28 ICMS             0,00           0,00       32796,28          75,00           0,00           0,00
+OUTRAS ENTRADAS                     IPI              0,00           0,00       32796,28          75,00
+
+1.000     TOTAL          6766149,82 ICMS       6380675,16      843164,23      123917,46      175108,98        2280,28         104,14
+                                    IPI         839097,71       52316,44      299206,92     5540417,27
+
+2112                     2096716,61 ICMS       2048481,61      245817,76           0,00           0,00           0,00           0,00
+COMPRA DE INSUMOS                   IPI         955632,46       48235,00           0,00     1092849,15
+
+2113                        2000,00 ICMS          2000,00         240,00           0,00           0,00           0,00           0,00
+COMPRA DE INSUMOS                   IPI              0,00           0,00        2000,00           0,00
+
+211BRM                     75000,00 ICMS             0,00           0,00           0,00       75000,00           0,00           0,00
+Beneficiamento - REMESSA            IPI              0,00           0,00           0,00       75000,00
+
+250102                    170966,95 ICMS             0,00           0,00      170966,95           0,00           0,00           0,00
+GRS-Compra - NãoImpNota - FE - Exp  IPI              0,00           0,00      170966,95           0,00
+
+290502                     20100,00 ICMS             0,00           0,00       20100,00           0,00           0,00           0,00
+GRS-Rec Armazenag - NãoImpNota - FE IPI              0,00           0,00       20100,00           0,00
+
+2.101 TOTAL              2364783,56 ICMS       2050481,61      246057,76      191066,95       75000,00           0,00           0,00
+COMPRA DE INSUMOS                   IPI         955632,46       48235,00      193066,95     1167849,15
+
+2121                         120,00 ICMS           120,00          14,40           0,00           0,00           0,00           0,00
+COMPRA P/COMERCIALIZACAO            IPI              0,00           0,00           0,00         120,00
+
+2.102 TOTAL                  120,00 ICMS           120,00          14,40           0,00           0,00           0,00           0,00
+COMPRA PARA COMERCIALIZACAO         IPI              0,00           0,00           0,00         120,00
+
+2311                       18160,50 ICMS          2130,12         383,42       15900,00           0,00        2854,37         130,38
+-----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0502RP - V:0.00.00.000
+                                            REGISTRO DE APURACAO DO ICMS/IPI - ENTRADAS
+
+ESTABEL.: Estabelecimento TOTVS - Ñ ALTERAR CONT INSCR. EST. - 255721161                C.N.P.J. - 53113791001790      FOLHA      6
+
+PERIODO - 01/05 A 31/08/2011                       APURACAO   DE   ICMS/IPI   NAS   ENTRADAS
+
+CODIGO                     VALOR                  BASE DE      IMPOSTO      ISENTAS/NAO                         BASE           ICMS
+FISCAL                     CONTABIL               CALCULO      CREDITADO     TRIBUTADAS         OUTRAS          SUBST          SUBST
+DEVOLUCAO DE PRODUTOS               IPI              0,00           0,00       15900,00        2130,12
+
+2.201 TOTAL                18160,50 ICMS          2130,12         383,42       15900,00           0,00        2854,37         130,38
+DEVOLUCAO DE PRODUTOS               IPI              0,00           0,00       15900,00        2130,12
+
+220202                      4020,00 ICMS             0,00           0,00        4020,00           0,00           0,00           0,00
+GRS-Dev Venda Merc Terc-NãoNota-FE  IPI              0,00           0,00        4020,00           0,00
+
+2322                         610,99 ICMS             0,00           0,00         610,99           0,00           0,00           0,00
+DEVOLUCAO                           IPI              0,00           0,00         610,99           0,00
+
+2.202 TOTAL                 4630,99 ICMS             0,00           0,00        4630,99           0,00           0,00           0,00
+DEVOLUCAO                           IPI              0,00           0,00        4630,99           0,00
+
+29713                         28,99 ICMS             0,00           0,00           0,00          28,99           0,00           0,00
+COMPRA MAT DE CONSUMO               IPI              0,00           0,00          28,99           0,00
+
+29715                         43,34 ICMS             0,00           0,00           0,00          43,34           0,00           0,00
+COMPRA MAT DE CONSUMO               IPI              0,00           0,00          43,34           0,00
+
+2.407 TOTAL                   72,33 ICMS             0,00           0,00           0,00          72,33           0,00           0,00
+COMPRA MAT/ USO OU CONSUMO - ST     IPI              0,00           0,00          72,33           0,00
+
+211mri                    274700,00 ICMS             0,00           0,00           0,00      274700,00           0,00           0,00
+COMPRA DE ATIVO IMOBILIZADO _ MRI   IPI              0,00           0,00           0,00      274700,00
+
+2.551 TOTAL               274700,00 ICMS             0,00           0,00           0,00      274700,00           0,00           0,00
+OPERAÇÕES COM BENS DE ATIVO         IPI              0,00           0,00           0,00      274700,00
+
+2971                        1500,00 ICMS             0,00           0,00           0,00        1500,00           0,00           0,00
+COMPRA MAT DE CONSUMO               IPI              0,00           0,00           0,00        1500,00
+
+29710                       1424,00 ICMS             0,00           0,00           0,00        1424,00           0,00           0,00
+COMPRA MAT DE CONSUMO               IPI              0,00           0,00        1424,00           0,00
+
+29714                        153,56 ICMS             0,00           0,00           0,00         153,56           0,00           0,00
+COMPRA MAT DE CONSUMO               IPI              0,00           0,00         153,56           0,00
+
+2.556 TOTAL                 3077,56 ICMS             0,00           0,00           0,00        3077,56           0,00           0,00
+COMPRA MAT/ USO OU CONSUMO          IPI              0,00           0,00        1577,56        1500,00
+
+265122                      2393,22 ICMS          2293,22         275,19           0,00         100,00           0,00           0,00
+COMPRA OLEO DIESEL-ABASTECIMENTO    IPI              0,00           0,00        2393,22           0,00
+
+26553                        908,18 ICMS             0,00           0,00           0,00         908,18           0,00           0,00
+COMPRA DE COMB. OU LUBR. - DESPESAS IPI              0,00           0,00         908,18           0,00
+
+2.653 TOTAL                 3301,40 ICMS          2293,22         275,19           0,00        1008,18           0,00           0,00
+COMPRA DE COMBUSTIVEL               IPI              0,00           0,00        3301,40           0,00
+
+299111                         2,39 ICMS             0,00           0,00           0,00           2,08           0,00           0,00
+AMOSTRA GRATIS                      IPI              0,00           0,00           0,00           2,08
+
+2.911 TOTAL                    2,39 ICMS             0,00           0,00           0,00           2,08           0,00           0,00
+AMOSTRA GRATIS                      IPI              0,00           0,00           0,00           2,08
+-----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0502RP - V:0.00.00.000
+                                            REGISTRO DE APURACAO DO ICMS/IPI - ENTRADAS
+
+ESTABEL.: Estabelecimento TOTVS - Ñ ALTERAR CONT INSCR. EST. - 255721161                C.N.P.J. - 53113791001790      FOLHA      7
+
+PERIODO - 01/05 A 31/08/2011                       APURACAO   DE   ICMS/IPI   NAS   ENTRADAS
+
+CODIGO                     VALOR                  BASE DE      IMPOSTO      ISENTAS/NAO                         BASE           ICMS
+FISCAL                     CONTABIL               CALCULO      CREDITADO     TRIBUTADAS         OUTRAS          SUBST          SUBST
+
+299941                      2940,00 ICMS             0,00           0,00        2940,00           0,00           0,00           0,00
+ENTRADA DE EMBALAGENS               IPI              0,00           0,00        2940,00           0,00
+
+2.920 TOTAL                 2940,00 ICMS             0,00           0,00        2940,00           0,00           0,00           0,00
+ENTRADA DE EMBALAGENS               IPI              0,00           0,00        2940,00           0,00
+
+2933                        1000,00 ICMS             0,00           0,00           0,00        1000,00           0,00           0,00
+Serviço Entrada                     IPI              0,00           0,00           0,00           0,00
+
+2.933 TOTAL                 1000,00 ICMS             0,00           0,00           0,00        1000,00           0,00           0,00
+AQUISICAO SERV. TRIB. ISS           IPI              0,00           0,00           0,00           0,00
+
+299924                      3350,00 ICMS             0,00           0,00           0,00        3350,00           0,00           0,00
+RETORNO BENEFICIAMENTO              IPI              0,00           0,00           0,00        3350,00
+
+2.949 TOTAL                 3350,00 ICMS             0,00           0,00           0,00        3350,00           0,00           0,00
+OUTRAS ENTRADAS                     IPI              0,00           0,00           0,00        3350,00
+
+2.000     TOTAL          2676138,73 ICMS       2055024,95      246730,77      214537,94      358210,15        2854,37         130,38
+                                    IPI         955632,46       48235,00      221489,23     1449651,35
+
+3111                        1079,20 ICMS           884,59         150,38           0,00           0,00           0,00           0,00
+COMPRA DE INSUMO - IMPORTADO        IPI            884,59          44,23           0,00           0,00
+
+3111-r                        33,06 ICMS             0,00           0,00           0,00          33,06           0,00           0,00
+NF complementar - Nat Rateio IM0101 IPI              0,00           0,00           0,00          33,06
+
+311a                        3100,00 ICMS          3000,00         540,00           0,00           0,00           0,00           0,00
+COMPRA DE INSUMO - IMPORTADO        IPI           1000,00         100,00        1000,00        1000,00
+
+3.101 TOTAL                 4212,26 ICMS          3884,59         690,38           0,00          33,06           0,00           0,00
+COMPRA DE INSUMOS                   IPI           1884,59         144,23        1000,00        1033,06
+
+3911                         195,00 ICMS             0,00           0,00           0,00         195,00           0,00           0,00
+COMPRA P/ ATIVO FIXO                IPI              0,00           0,00           0,00         195,00
+
+3911OS                       220,00 ICMS             0,00           0,00           0,00         220,00           0,00           0,00
+COMPRA  ATIVO IMOBILIZADO           IPI              0,00           0,00           0,00         220,00
+
+3.551 TOTAL                  415,00 ICMS             0,00           0,00           0,00         415,00           0,00           0,00
+Compra ativo                        IPI              0,00           0,00           0,00         415,00
+
+3.000     TOTAL             4627,26 ICMS          3884,59         690,38           0,00         448,06           0,00           0,00
+                                    IPI           1884,59         144,23        1000,00        1448,06
+
+SUBTOT 01/05 A          10986267,23 ICMS       8439584,70     1090585,38     1877806,82      533767,19        5134,65         234,52
+       31/08                        IPI        1796614,76      100695,67     2061047,57     6991516,68
+
+
+TOTAL GERAL             10986267,23 ICMS       8439584,70     1090585,38     1877806,82      533767,19        5134,65         234,52
+                                    IPI        1796614,76      100695,67     2061047,57     6991516,68
+
+
+
+-----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0502RP - V:0.00.00.000
+                                            REGISTRO DE APURACAO DO ICMS/IPI - ENTRADAS
+
+ESTABEL.: Estabelecimento TOTVS - Ñ ALTERAR CONT INSCR. EST. - 255721161                C.N.P.J. - 53113791001790      FOLHA      8
+
+------------------------------------------------------------------------------------------------------------------------------------
+                                           RESUMO POR ALIQUOTA DE ICMS - ENTRADAS            PERIODO  DE: 01/05/2011 ATE: 31/08/2011
+------------------------------------------------------------------------------------------------------------------------------------
+
+     ESTABELECIMENTO     ALIQUOTA              BASE CALCULO             VALOR DO ICMS
+
+
+           1               1,86                       69,30                      1,29
+           1               2,33                    2.390,80                     55,70
+           1               2,84                    7.959,04                    226,04
+           1               3,38                    5.223,50                    176,54
+           1              12,00                7.059.333,43                847.119,95
+           1              17,00                  257.242,98                 43.679,98
+           1              18,00                1.107.365,65                199.325,88
+
+SUB-TOTAL DO ESTABELECIMENTO  1                8.439.584,70              1.090.585,38
+
+           1               6,00                      525,00                     31,50 COMPLEMENTO DE ICMS DA NOTA 0000563  SERIE 1
+           1               6,00                       28,99                      1,74 COMPLEMENTO DE ICMS DA NOTA 0006851  SERIE 1
+           1               6,00                      899,00                     53,94 COMPLEMENTO DE ICMS DA NOTA 0423232  SERIE 1
+           1              11,00                       43,34                      4,77 COMPLEMENTO DE ICMS DA NOTA 0000303  SERIE
+           1              11,83                      150,00                     17,75 COMPLEMENTO DE ICMS DA NOTA 0000230  SERIE
+           1              11,83                        3,56                      0,42 COMPLEMENTO DE ICMS DA NOTA 0003305  SERIE 2
+
+SUB-TOTAL DO ESTABELECIMENTO  1                    1.649,89                    110,12 COMPLEMENTO DE ICMS
+
+    TOTAL DO ESTABELECIMENTO  1                8.437.934,81              1.090.475,26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0502RP - V:0.00.00.000
+

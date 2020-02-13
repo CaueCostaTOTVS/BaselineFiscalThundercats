@@ -1,0 +1,6 @@
+     Cenario : CN04_OF0770_Demonst_PIS_COFINS_Natur_Retido
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

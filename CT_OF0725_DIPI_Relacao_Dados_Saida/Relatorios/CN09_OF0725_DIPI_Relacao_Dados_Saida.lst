@@ -1,0 +1,129 @@
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        DIPI-Dados das Saidas de 01/07/2011 a 31/07/2011                       Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+ FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS             INS. ESTADUAL: 255721161              CNPJ    : 53113791001790
+
+ Class. Fiscal EX Cod. Produto     Descricao                                      Valor     %         Vl. Acumulado     %
+ ------------- -- ---------------- ------------------------------  -------------------- ------ -------------------- ------
+ 3403.19.00       .danfe-tributado .DANFE-TRIBUTADO.DANFE-TRIBUTA      6.313.713.133,85  48,65     6.313.713.133,85  48,65
+ 7308.30.00       .danfe-isento    .DANF-e-.DANF-e-.DANF-e-.DANF-      2.565.656.863,43  19,77     8.879.369.997,28  68,42
+ 7308.30.00       .danfe-reduzido  .DANF-e-.DANF-e-.DANF-e-.DANF-      1.734.729.326,12  13,37    10.614.099.323,40  81,79
+ 7308.30.00       .danfe           .DANF-e-.DANF-e-.DANF-e-.DANF-      1.304.537.163,11  10,05    11.918.636.486,51  91,84
+ 3403.19.00       .danfe-tamanhoCP .DANFE-OUTROS/.DANFE-OUTROS/.D        802.224.021,53   6,18    12.720.860.508,04  98,03
+ 3403.19.00       .danfee          .DANFEEEEEEEEEEEEEEEEEEEEEEEEE        255.558.315,30   1,97    12.976.418.823,34 100,00
+ 7308.30.00       13T              ITEM CONTROLE TOTAL                       394.958,40   0,00    12.976.813.781,74 100,00
+ 7308.30.00       13c              ITEM CONTROLE CONSIGNADO                   54.673,03   0,00    12.976.868.454,77 100,00
+ 3403.19.00       TRIGO            TRIGO A GRANEL - ORIGINAÇÃO DE             30.000,00   0,00    12.976.898.454,77 100,00
+ 0000.00.00       13d              ITEM D¿BITO DIRETO                         22.694,70   0,00    12.976.921.149,47 100,00
+ 3403.19.00       SOJA             SOJA EM GRÃOS A GRANEL - ORIGI             15.392,30   0,00    12.976.936.541,77 100,00
+ 1108.12.00       13c              ITEM CONTROLE CONSIGNADO                    8.648,16   0,00    12.976.945.189,93 100,00
+ 7308.30.00       13F              ITEM CONTROLE TOTAL                         6.602,86   0,00    12.976.951.792,79 100,00
+ 7308.30.00       p2               ITEM COMPOSTO - PAI N?O BAIXA               6.472,00   0,00    12.976.958.264,79 100,00
+ 7308.30.00       P3               ITEM COMPOSTO - PAI E FILHOS B              3.924,00   0,00    12.976.962.188,79 100,00
+ 7308.30.00       P1               ITEM COMPOSTO - PAI BAIXA ESTO              3.852,00   0,00    12.976.966.040,79 100,00
+ 7308.90.90       aaa              teste                                       2.277,24   0,00    12.976.968.318,03 100,00
+ 7308.30.00       21.21.413-2      JVBGQ-120X200X12-6 APDPRA VLS               1.000,00   0,00    12.976.969.318,03 100,00
+ 7308.30.00       02.25.030-6      QFXLV-032X170X08-1 APDBRO                     900,00   0,00    12.976.970.218,03 100,00
+ 1108.12.00       13ff             ITEM CONTROLE FÍSICO                          734,39   0,00    12.976.970.952,42 100,00
+ 0000.00.00                        Material D.Direto - TRIBUTADO                 725,13   0,00    12.976.971.677,55 100,00
+ 7308.30.00       13TL             ITEM CONTROLE TOTAL - LOTE                    636,00   0,00    12.976.972.313,55 100,00
+ 7308.30.00       REF              ITEM CONTROLE POR REFERÊNCIA                  612,00   0,00    12.976.972.925,55 100,00
+ 7308.30.00       13FF             ITEM CONTROLE FÍSICO                          274,63   0,00    12.976.973.200,18 100,00
+ 3403.19.00       milho            MILHO EM GRÃOS A GRANEL - ORIG                200,06   0,00    12.976.973.400,24 100,00
+ 7308.90.90       .compras         .Compras - Projeto 87                           4,20   0,00    12.976.973.404,44 100,00
+ 7308.90.90       .comprasdd       .Compras Débito Direto - Proje                  4,20   0,00    12.976.973.408,64 100,00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0725RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        DIPI-Dados das Saidas de 01/07/2011 a 31/07/2011                       Página:    2
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+                        Seleção
+
+                    Estabelecimento: 1
+                            Período: 01/07/2011  |<         >| 31/07/2011
+
+
+
+                        Parâmetros
+
+           Perc Máximo do Relatório: 100,00
+        Natureza do Estabelecimento: Industrial
+Considera Nat Oper com Cod Vinc IPI: Sim
+              Apropriar Valores por: Valor Contábil
+              Sumarizar Valores por: Produto e Classificação Fiscal
+
+---------------------- CFOP's Excluidas -----------------
+
+
+
+
+                        Impressão
+
+                            Destino: Impressora
+                            Arquivo: C:/automacao/relatorios
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0725RP - V:0.00.00.000
+

@@ -1,0 +1,6 @@
+     Cenario : CN01_OF0502_Apur_ICMS_IPI_Entrada_Todos
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

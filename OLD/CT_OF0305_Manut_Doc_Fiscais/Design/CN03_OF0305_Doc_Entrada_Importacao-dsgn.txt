@@ -1,0 +1,20 @@
+     Cenario : CN03_OF0305_Doc_Entrada_Importacao
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '0010720115' no Campo Documento Fiscal."
+EXECUTE,"Informar o valor '1' no Campo Série."
+EXECUTE,"Informar o valor '311a' no Campo Natureza Operação."
+EXECUTE,"Informar o valor '1' no Campo Estabelecimento."
+EXECUTE,"Informar o valor '987456325632' no Campo Declaração Importação."
+EXECUTE,"Informar o valor '40t' no Campo Item."
+EXECUTE,"Informar o valor '0,00' no Campo Alíquota ISS."
+EXECUTE,"Informar o valor '7308.30.00' no Campo Classificação Fiscal."
+EXECUTE,"Informar o valor '0,00' no Campo Alíquota IPI."
+EXECUTE,"Informar o valor '1,0000' no Campo Quantidade."
+EXECUTE,"Informar o valor '999,00' no Campo Vl Mercadoria Original."
+EXECUTE,"Informar o valor '1,00' no Campo Vl Desconto."
+EXECUTE,"Informar o valor '998,00' no Campo Vl Mercadoria Líquido."
+EXECUTE,"Informar o valor '0,00' no Campo Valor Despesas Item."

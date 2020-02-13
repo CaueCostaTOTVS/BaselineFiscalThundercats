@@ -1,0 +1,6 @@
+     Cenario : CN07_OF0736_Nova_Gia_SP
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

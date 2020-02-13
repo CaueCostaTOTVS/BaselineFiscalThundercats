@@ -1,0 +1,131 @@
+010120001032  COMPRAS DE INSUMOS                           
+010120001101  Compra materia prima                         
+010120001101A Compra materia prima                         
+010120001112  COMPRA DE INSUMOS                            
+010120001113  COMPRA DE INSUMOS                            
+010120001114  COMPRA DE INSUMOS                            
+010120001115  COMPRA DE INSUMOS                            
+01012000111A1 Compra materia prima - NFe                   
+01012000111EFFEntrega Futura - Fatura                      
+01012000111FAFFaturamento Antecipado - Fatura              
+0101200011314 INDUSTR.EFET. P/TERCEIROS                    
+01012000131STEDEVOL. DE PROD DO ESTABEL-ST                 
+010120001322  DEVOLUCAO                                    
+010120001551R1Compra Ativo 01                              
+010120001621OSFRETE ATIVO                                  
+0101200016230 FRETE DE INSUMOS                             
+0101200016231 AQUIS. SERV. DE TRANSPORTE                   
+0101200016235 AQUIS. SERV. DE TRANSPORTE                   
+010120001626  FRETE DE INSUMOS                             
+01012000162950FRETE DESPESA                                
+01012000162953FRETE ATIVO                                  
+01012000165122COMPRA OLEO DIESEL-ABASTECIMENTO             
+01012000165421COMPRA DE COMBUSTIVEL - MP                   
+0101200016553 COMPRA DE COMB. OU LUBR. - DESPESAS          
+010120001802  SERVICO TRIB PELO ISS                        
+010120001911OSCOMPRA P/ATIVO IMOBILIZADO                   
+010120001914OSCOMPRA P/ATIVO IMOBILIZADO                   
+010120001918OSCOMPRA P/ATIVO IMOBILIZADO                   
+010120001929OSCOMPRA P/ATIVO IMOBILIZADO                   
+010120001932OSCOMPRA P/ATIVO IMOBILIZADO                   
+010120001933  Serviço Entrada                              
+01012000193OS COMPRA P/ATIVO IMOBILIZADO                   
+0101200019421 RET / BENEF INDUST                           
+010120001971  COMPRA MAT DE CONSUMO                        
+0101200019710 COMPRA MAT DE CONSUMO                        
+0101200019712 COMPRA MAT DE CONSUMO                        
+0101200019713 COMPRA MAT DE CONSUMO                        
+0101200019730 COMPRA MAT DE CONSUMO                        
+010120001991  OUTRAS ENTRADAS                              
+01012000199110BONIFICACAO, DOACAO OU BRINDE                
+01012000199161COMPRA PARA BRINDE                           
+01012000199941ENTRADA DE EMBALAGENS                        
+01012000199982RETORNO DE CONSERTO                          
+01012000199991RETORNO EMPRESTIMO                           
+010120002112  COMPRA DE INSUMOS                            
+010120002121  COMPRA P/COMERCIALIZACAO                     
+01012000265122COMPRA OLEO DIESEL-ABASTECIMENTO             
+0101200026553 COMPRA DE COMB. OU LUBR. - DESPESAS          
+010120002903  Serviço Entrada                              
+010120002933  Serviço Entrada                              
+010120002955  Serviço Entrada                              
+010120002971  COMPRA MAT DE CONSUMO                        
+0101200029710 COMPRA MAT DE CONSUMO                        
+0101200029713 COMPRA MAT DE CONSUMO                        
+0101200029714 COMPRA MAT DE CONSUMO                        
+0101200029715 COMPRA MAT DE CONSUMO                        
+01012000299111AMOSTRA GRATIS                               
+01012000299941ENTRADA DE EMBALAGENS                        
+01012000311A  COMPRA DE INSUMO - IMPORTADO                 
+010120003911  COMPRA P/ ATIVO FIXO                         
+010120003911OSCOMPRA  ATIVO IMOBILIZADO                    
+0101200051111 VENDA DE PRODUTOS                            
+01012000511118VENDA DE PRODUTOS                            
+010120005111STVENDA DE PRODUTOS-ST                         
+010120005118STVENDA DE PRODUTOS-ST                         
+01012000511A1 VENDA DE PRODUTOS                            
+01012000511SERSERVIÇO                                      
+0101200051212 VENDA DE MERCADORIAS                         
+010120005123  VENDA DE SUCATAS                             
+010120005124  VENDA DE MATERIA PRIMA                       
+010120005311  DEVOL MATERIA PRIMA                          
+010120005911  VENDA ATIVO IMOBILIZADO                      
+010120005912  VENDA ATIVO IMOBILIZADO                      
+0101200059122 VENDA ATIVO IMOBILIZADO 2                    
+010120005931  REMESSA INDUSTRIALIZACAO                     
+010120005933  Serviços                                     
+010120005949  Serviços 5.949                               
+01012000595401DEVOLUCAO ATIVO                              
+01012000599113REM PECAS PROD ASSIS TECNICA                 
+0101200059916 BRINDE                                       
+01012000599901COMODATO                                     
+01012000599915REMESSA CONSERTO                             
+01012000599972RETORNO DE EMBALAGEM                         
+01012000599ST BONIFICACAO DE PRODUTOS                      
+01012000611-13VENDA DE PRODUTOS Favor nao alterar          
+01012000611-IEVENDA DE PRODUTOS Favor nao alterar          
+010120006111  VENDA DE PRODUTOS                            
+0101200061118 VENDA DE PRODUTOS                            
+010120006112  VENDA DE PRODUTOS                            
+0101200061120 VENDA DE PRODUTOS-ST                         
+01012000611208VENDA DE PRODUTOS-ST                         
+0101200061128 VENDA DE PRODUTOS                            
+010120006116  VENDA                                        
+010120006118MGVENDA DE PRODUTOS-ST                         
+010120006118RJVENDA DE PRODUTOS-ST                         
+010120006118RSVENDA DE PRODUTOS-ST                         
+01012000611A  VENDA - ICMS Diferido                        
+01012000611FA Faturamento Antecipado                       
+01012000611MG VENDA DE PRODUTOS-ST                         
+01012000611OUTVENDA - ICMS OUTROS                          
+01012000611RB VENDA - Redução Base Calc ICMS               
+01012000611RJ VENDA DE PRODUTOS-ST                         
+01012000611RS VENDA DE PRODUTOS-ST                         
+01012000611SC VENDA DE PRODUTOS-ST                         
+01012000611SE1SERVIÇO Sem Reter ISS na Fonte               
+01012000611SERSERVIÇO                                      
+01012000611SS serviço                                      
+01012000611ST VENDA - ICMS ST                              
+01012000611ZFMVENDA DE PRODUTOS / Z F M                    
+010120006123  VENDA DE MERCADORIAS                         
+010120006126  VENDA MAT. PRIMA                             
+010120006181  VENDA DE PRODUTOS                            
+0101200061818 VENDA DE PRODUTOS                            
+01012000686131VENDA DE PRODUTOS  EXPORTACAO                
+010120006912  VENDA DE ATIVO IMOBILIZADO                   
+010120006933  Serviços                                     
+010120006949  Serviços 6.949                               
+0101200069910 BONIFICACAO DE PRODUTOS                      
+0101200069911 BONIFICACAO DE PRODUTOS                      
+01012000699117MATERIAL UTILIZADO NA ASSIST TECN            
+01012000699131DOACAO DE EXPOSITOR                          
+01012000699132DOACAO DE EXPOSITOR                          
+01012000699171REMESSA MATL PROPAGANDA PUBLICIDADE          
+01012000699901COMODATO                                     
+01012000699925REMESSA CONSERTO                             
+01012000699943RETORNO DE EMBALAGEM                         
+01012000699MS BONIFICACAO DE PRODUTOS                      
+01012000699MT BONIFICACAO DE PRODUTOS                      
+010120006SERC Serviço                                      
+010120007111  VENDAS EXTERIOR                              
+01012000711A  VENDA - EXPORTAÇÃO                           

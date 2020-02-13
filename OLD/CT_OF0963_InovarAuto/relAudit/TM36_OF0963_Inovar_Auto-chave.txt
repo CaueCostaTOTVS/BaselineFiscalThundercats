@@ -1,0 +1,398 @@
+=====> BD: mgcad Tabela: param-of Evento: W Chave: 1|
+Field: cod-livre-2 Ant: 11 51 11111        S                                             0 Nov: 10 51 11111        S                                             0
+=====> BD: mgcad Tabela: dic-dados-idx-virt Evento: D Chave: 7|1|1    |000001|
+=====> BD: mgcad Tabela: dic-dados-virt Evento: D Chave: 7|2|1    |000001|
+=====> BD: mgcad Tabela: dic-dados-virt Evento: D Chave: 7|3|1    |000001|
+=====> BD: mgcad Tabela: dic-dados-idx-virt Evento: D Chave: 7|1|1    |000002|
+=====> BD: mgcad Tabela: dic-dados-virt Evento: D Chave: 7|2|1    |000002|
+=====> BD: mgcad Tabela: dic-dados-virt Evento: D Chave: 7|3|1    |000002|
+=====> BD: mgcad Tabela: dic-dados-idx-virt Evento: D Chave: 7|1|1    |000003|
+=====> BD: mgcad Tabela: dic-dados-virt Evento: D Chave: 7|2|1    |000003|
+=====> BD: mgcad Tabela: dic-dados-virt Evento: D Chave: 7|3|1    |000003|
+=====> BD: mgcad Tabela: dic-dados-idx-virt Evento: D Chave: 7|1|1    |000004|
+=====> BD: mgcad Tabela: dic-dados-virt Evento: D Chave: 7|2|1    |000004|
+=====> BD: mgcad Tabela: dic-dados-virt Evento: D Chave: 7|3|1    |000004|
+=====> BD: mgcad Tabela: dic-dados-virt Evento: C Chave: 7|2|1    |000001|
+Field: cdn-tabela Nov: 7
+Field: cdn-campo Nov: 2
+Field: cod-ident-reg Nov: 1    |000001
+Field: cod-campo-tip-carac Nov: 1
+Field: cdn-campo-tip-int Nov: 0
+Field: cdd-campo-tip-dec Nov: 0
+Field: log-campo-tip-logic Nov: no
+Field: dat-campo-tip-dat ?
+Field: cdn-reg-campo-text Nov: 0
+Field: dat-ult-atualiz ?
+Field: hra-ult-atualiz Nov: <hora>
+Field: cod-usuar-ult-atualiz Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dic-dados-virt Evento: C Chave: 7|3|1    |000001|
+Field: cdn-tabela Nov: 7
+Field: cdn-campo Nov: 3
+Field: cod-ident-reg Nov: 1    |000001
+Field: cod-campo-tip-carac Nov: 
+Field: cdn-campo-tip-int Nov: 1
+Field: cdd-campo-tip-dec Nov: 0
+Field: log-campo-tip-logic Nov: no
+Field: dat-campo-tip-dat ?
+Field: cdn-reg-campo-text Nov: 0
+Field: dat-ult-atualiz ?
+Field: hra-ult-atualiz Nov: <hora>
+Field: cod-usuar-ult-atualiz Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dic-dados-idx-virt Evento: C Chave: 7|1|1    |000001|
+Field: cdn-tabela Nov: 7
+Field: cdn-idx Nov: 1
+Field: cod-val-campos-idx Nov: 1    |000001
+Field: cod-ident-reg Nov: 1    |000001
+Field: dat-ult-atualiz ?
+Field: hra-ult-atualiz Nov: <hora>
+Field: cod-usuar-ult-atualiz Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dic-dados-virt Evento: C Chave: 7|2|1    |000002|
+Field: cdn-tabela Nov: 7
+Field: cdn-campo Nov: 2
+Field: cod-ident-reg Nov: 1    |000002
+Field: cod-campo-tip-carac Nov: 1
+Field: cdn-campo-tip-int Nov: 0
+Field: cdd-campo-tip-dec Nov: 0
+Field: log-campo-tip-logic Nov: no
+Field: dat-campo-tip-dat ?
+Field: cdn-reg-campo-text Nov: 0
+Field: dat-ult-atualiz ?
+Field: hra-ult-atualiz Nov: <hora>
+Field: cod-usuar-ult-atualiz Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dic-dados-virt Evento: C Chave: 7|3|1    |000002|
+Field: cdn-tabela Nov: 7
+Field: cdn-campo Nov: 3
+Field: cod-ident-reg Nov: 1    |000002
+Field: cod-campo-tip-carac Nov: 
+Field: cdn-campo-tip-int Nov: 2
+Field: cdd-campo-tip-dec Nov: 0
+Field: log-campo-tip-logic Nov: no
+Field: dat-campo-tip-dat ?
+Field: cdn-reg-campo-text Nov: 0
+Field: dat-ult-atualiz ?
+Field: hra-ult-atualiz Nov: <hora>
+Field: cod-usuar-ult-atualiz Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dic-dados-idx-virt Evento: C Chave: 7|1|1    |000002|
+Field: cdn-tabela Nov: 7
+Field: cdn-idx Nov: 1
+Field: cod-val-campos-idx Nov: 1    |000002
+Field: cod-ident-reg Nov: 1    |000002
+Field: dat-ult-atualiz ?
+Field: hra-ult-atualiz Nov: <hora>
+Field: cod-usuar-ult-atualiz Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dic-dados-virt Evento: C Chave: 7|2|1    |000003|
+Field: cdn-tabela Nov: 7
+Field: cdn-campo Nov: 2
+Field: cod-ident-reg Nov: 1    |000003
+Field: cod-campo-tip-carac Nov: 1
+Field: cdn-campo-tip-int Nov: 0
+Field: cdd-campo-tip-dec Nov: 0
+Field: log-campo-tip-logic Nov: no
+Field: dat-campo-tip-dat ?
+Field: cdn-reg-campo-text Nov: 0
+Field: dat-ult-atualiz ?
+Field: hra-ult-atualiz Nov: <hora>
+Field: cod-usuar-ult-atualiz Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dic-dados-virt Evento: C Chave: 7|3|1    |000003|
+Field: cdn-tabela Nov: 7
+Field: cdn-campo Nov: 3
+Field: cod-ident-reg Nov: 1    |000003
+Field: cod-campo-tip-carac Nov: 
+Field: cdn-campo-tip-int Nov: 3
+Field: cdd-campo-tip-dec Nov: 0
+Field: log-campo-tip-logic Nov: no
+Field: dat-campo-tip-dat ?
+Field: cdn-reg-campo-text Nov: 0
+Field: dat-ult-atualiz ?
+Field: hra-ult-atualiz Nov: <hora>
+Field: cod-usuar-ult-atualiz Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dic-dados-idx-virt Evento: C Chave: 7|1|1    |000003|
+Field: cdn-tabela Nov: 7
+Field: cdn-idx Nov: 1
+Field: cod-val-campos-idx Nov: 1    |000003
+Field: cod-ident-reg Nov: 1    |000003
+Field: dat-ult-atualiz ?
+Field: hra-ult-atualiz Nov: <hora>
+Field: cod-usuar-ult-atualiz Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dic-dados-virt Evento: C Chave: 7|2|1    |000004|
+Field: cdn-tabela Nov: 7
+Field: cdn-campo Nov: 2
+Field: cod-ident-reg Nov: 1    |000004
+Field: cod-campo-tip-carac Nov: 1
+Field: cdn-campo-tip-int Nov: 0
+Field: cdd-campo-tip-dec Nov: 0
+Field: log-campo-tip-logic Nov: no
+Field: dat-campo-tip-dat ?
+Field: cdn-reg-campo-text Nov: 0
+Field: dat-ult-atualiz ?
+Field: hra-ult-atualiz Nov: <hora>
+Field: cod-usuar-ult-atualiz Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dic-dados-virt Evento: C Chave: 7|3|1    |000004|
+Field: cdn-tabela Nov: 7
+Field: cdn-campo Nov: 3
+Field: cod-ident-reg Nov: 1    |000004
+Field: cod-campo-tip-carac Nov: 
+Field: cdn-campo-tip-int Nov: 4
+Field: cdd-campo-tip-dec Nov: 0
+Field: log-campo-tip-logic Nov: no
+Field: dat-campo-tip-dat ?
+Field: cdn-reg-campo-text Nov: 0
+Field: dat-ult-atualiz ?
+Field: hra-ult-atualiz Nov: <hora>
+Field: cod-usuar-ult-atualiz Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dic-dados-idx-virt Evento: C Chave: 7|1|1    |000004|
+Field: cdn-tabela Nov: 7
+Field: cdn-idx Nov: 1
+Field: cod-val-campos-idx Nov: 1    |000004
+Field: cod-ident-reg Nov: 1    |000004
+Field: dat-ult-atualiz ?
+Field: hra-ult-atualiz Nov: <hora>
+Field: cod-usuar-ult-atualiz Nov: 
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      dic-dados-idx-virt                      4          0          4
+mgcad      dic-dados-virt                          8          0          8
+mgcad      param-of                                0          1          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                             12          1         12

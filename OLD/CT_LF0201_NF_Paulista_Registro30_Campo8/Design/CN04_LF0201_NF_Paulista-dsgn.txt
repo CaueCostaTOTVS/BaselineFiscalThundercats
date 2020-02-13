@@ -1,0 +1,13 @@
+     Cenario : CN04_LF0201_NF_Paulista
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '01/05/2011' no Campo ."
+EXECUTE,"Informar o valor '31/05/2011' no Campo ."
+EXECUTE,"Informar o valor '1' no Campo ."
+EXECUTE,"Informar o valor '1' no Campo ."
+EXECUTE,"Informar o valor '0001402' no Campo ."
+EXECUTE,"Informar o valor '0001402' no Campo ."
+EXECUTE,"Informar o valor '515223' no Campo ."

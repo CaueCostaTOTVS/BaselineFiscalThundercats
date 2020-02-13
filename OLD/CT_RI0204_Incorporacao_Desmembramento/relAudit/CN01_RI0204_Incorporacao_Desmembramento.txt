@@ -1,0 +1,81 @@
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: id-ficha-bem Nov: 17
+=====> BD: mgmov Tabela: ri-movto-bem Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: cod-ccusto-movto Nov: 
+Field: cod-estabel Nov: 10000
+Field: cod-unid-negoc Nov: 
+Field: conta-movto Nov: 
+Field: dat-movto Nov: TODAY
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: id-bem Nov: 15
+Field: id-bem-dest Nov: 17
+Field: idi-origem-movto Nov: 1
+Field: idi-tipo-movto Nov: 2
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: log-contab Nov: no
+Field: log-estorno Nov: no
+Field: log-tipo-movto Nov: yes
+Field: log-trib Nov: no
+Field: nr-sequencia-movto Nov: 11
+Field: nr-sequencia-relac Nov: 11
+Field: observacao Nov: 
+Field: quantidade Nov: 1
+Field: referencia Nov: 
+Field: val-movto Nov: 100000
+=====> BD: mgmov Tabela: ri-saldo-bem Evento: C
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: dat-movto Nov: TODAY
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: hora-incorp Nov: <hora>
+Field: id-bem Nov: 15
+Field: id-bem-aloc Nov: 17
+Field: id-bem-pai Nov: 17
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: log-ativo Nov: yes
+Field: nr-sequencia Nov: 11
+Field: quantidade Nov: 1
+=====> BD: mgmov Tabela: ri-saldo-bem Evento: W
+Field: log-ativo Nov: no
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      ri-bem                                  0          1          0
+mgmov      ri-movto-bem                            1          0          0
+mgmov      ri-saldo-bem                            1          1          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              2          2          0

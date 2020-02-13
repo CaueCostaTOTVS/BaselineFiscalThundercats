@@ -1,0 +1,7 @@
+     Cenario : CN16_LF0202_Extrator_Inv_Fecha_12_2013
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '01/12/2013' no Campo Data."

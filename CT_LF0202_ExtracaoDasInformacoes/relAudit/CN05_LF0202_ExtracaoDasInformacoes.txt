@@ -1,0 +1,7 @@
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: D
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgmov      dwf-docto-compl                         0          0          1
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0          0          1

@@ -1,0 +1,6 @@
+     Cenario : CN10_OF0321_Dime_Encerramento_Ativ
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

@@ -1,0 +1,65 @@
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        Altera Codigos e Unidades dos Itens                                    Página:    1
+-------------------------------------------------------------------------------------------------------------- 21/11/2019 - 17:48:38
+
+Item             Descrição                            Novo Código      UO GE UD GE  Fator
+---------------- ------------------------------------ ---------------- -- -- -- -- -----------
+40T              ITEM CONTROLE TOTAL                  TQQCGQ           KG 62 KG 62     1,00000
+
+Item             Tabela                    Registros Tempo Inicial Tempo Final
+---------------- ----------------------- ----------  ----------    ----------
+TQQCGQ           rateio-it-duplic                 8  17:48:08      17:48:09
+TQQCGQ           sit-tribut-relacto               2  17:48:09      17:48:09
+TQQCGQ           consumo-estab                    4  17:48:10      17:48:11
+TQQCGQ           devol-forn                       2  17:48:11      17:48:11
+TQQCGQ           estat-estab                      1  17:48:11      17:48:11
+TQQCGQ           item-doc-est                    15  17:48:15      17:48:16
+TQQCGQ           rat-lote                        15  17:48:16      17:48:16
+TQQCGQ           item-estab                       1  17:48:16      17:48:17
+TQQCGQ           item-mat                         1  17:48:17      17:48:17
+TQQCGQ           item-entr-st                     1  17:48:17      17:48:17
+TQQCGQ           item-nfs-st                      2  17:48:17      17:48:18
+TQQCGQ           movto-estoq                     77  17:48:18      17:48:21
+TQQCGQ           rat-componente                  10  17:48:21      17:48:23
+TQQCGQ           rat-saldo-terc                   5  17:48:23      17:48:24
+TQQCGQ           saldo-estoq                      2  17:48:24      17:48:24
+TQQCGQ           saldo-terc                       6  17:48:24      17:48:25
+TQQCGQ           wm-item                          1  17:48:26      17:48:26
+TQQCGQ           componente                      18  17:48:26      17:48:27
+TQQCGQ           narrativa                        1  17:48:27      17:48:27
+TQQCGQ           pend-item                       11  17:48:27      17:48:27
+TQQCGQ           pr-it-per                        3  17:48:27      17:48:27
+TQQCGQ           item-man                         1  17:48:27      17:48:27
+TQQCGQ           item-uni-estab                   2  17:48:27      17:48:28
+TQQCGQ           sl-it-per                        6  17:48:28      17:48:28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------DATASUL - ENGENHARIA - CD0205RP - V:2.00.01.023
+

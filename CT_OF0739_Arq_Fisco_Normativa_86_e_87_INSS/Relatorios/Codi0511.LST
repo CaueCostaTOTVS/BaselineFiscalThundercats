@@ -1,0 +1,129 @@
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Dump 30 primeiros reg. Codigos                                        Página:     1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+SEQUENCIA POS. ++++.++++1++++.++++2++++.++++3++++.++++4++++.++++5++++.++++6++++.++++7++++.++++8++++.++++9++++.+++10
+
+ 0000001    1  31052011006001                         NF Mercadoria                                                
+ 0000002    1  31052011006002                         NF Servico                                                   
+ 0000003    1  31052011006003                         Conhecimento de Frete                                        
+ 0000004    1  31052011006004                         NF Mercadoria/Servico                                        
+ 0000005    1  31052011006005                         Duplicata                                                    
+ 0000006    1  31052011006006                         Fatura                                                       
+ 0000007    1  31052011006007                         NF Fatura                                                    
+ 0000008    1  31052011007C                           Cliente                                                      
+ 0000009    1  31052011007F                           Fornecedor                                                   
+ 0000010    1  31052011007A                           Ambos (Cliente/Fornecedor)                                   
+ 0000011    1  3105201100824                          Autorizacao de Carregamento e Transporte                     
+ 0000012    1  3105201100814                          Bilhete de Passagem Aquaviario                               
+ 0000013    1  3105201100815                          Bilhete de Passagem e Nota de Bagagem                        
+ 0000014    1  3105201100816                          Bilhete de Passagem Ferroviario                              
+ 0000015    1  3105201100813                          Bilhete de Passagem Rodoviario                               
+ 0000016    1  3105201100810                          Conhecimento Aereo                                           
+ 0000017    1  3105201100811                          Conhecimento Transporte Ferroviario Carga                    
+ 0000018    1  3105201100809                          Conhecimento Transporte Aquaviario Cargas                    
+ 0000019    1  3105201100808                          Conhecimento Transporte Rodoviario Cargas                    
+ 0000020    1  3105201100817                          Despacho de Transporte                                       
+ 0000021    1  3105201100825                          Manifesto de Carga                                           
+ 0000022    1  3105201100801                          Nota Fiscal                                                  
+ 0000023    1  3105201100806                          Nota Fiscal/Conta de Energia Eletrica                        
+ 0000024    1  3105201100803                          Nota Fiscal de Entrada                                       
+ 0000025    1  3105201100821                          Nota Fiscal de Servico de Comunicacao                        
+ 0000026    1  3105201100804                          Nota Fiscal de Produtor                                      
+ 0000027    1  3105201100822                          Nota Fiscal de Servico de Telecomunicacoe                    
+ 0000028    1  3105201100807                          Nota Fiscal de Servico de Transporte                         
+ 0000029    1  3105201100820                          Ordem de Coleta de Carga                                     
+ 0000030    1  3105201100818                          Resumo movimento Diario                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------DATASUL - OBRIGAÇÕES FISCAIS - OF0739A - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Dump 30 ultimos reg. Codigos                                          Página:     1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+SEQUENCIA POS. ++++.++++1++++.++++2++++.++++3++++.++++4++++.++++5++++.++++6++++.++++7++++.++++8++++.++++9++++.+++10
+
+ 0002662    1  3105201101894038002                    EXPOSITOR                                                    
+ 0002663    1  3105201101894039000                    FECHAMENTOS EM FIBRA DE VIDRO TR/FR                          
+ 0002664    1  3105201101894039090                    FECHAMENTOS EM FIBRA DE VIDRO TR/FR                          
+ 0002665    1  3105201101894051006                    LUMINARIA 1031 10W                                           
+ 0002666    1  3105201101894051093                    LUMINARIA                                                    
+ 0002667    1  3105201101894051099                    luminaria cris metal 78cmx110w                               
+ 0002668    1  3105201101894242000                    PISTOLA P/PINTURA JGA-503-FX                                 
+ 0002669    1  3105201101894932004                    SUPORTES                                                     
+ 0002670    1  3105201101896031000                    RODA DE FELTRO                                               
+ 0002671    1  3105201101896032900                    ESPANADOR P/MESA 28,7X4,0CM                                  
+ 0002672    1  3105201101896034002                    PINCEL P/PINTURA 1.1/2"                                      
+ 0002673    1  3105201101896034010                    ROLO                                                         
+ 0002674    1  3105201101896034090                    PINCEL P/PINTURA 1.1/2"                                      
+ 0002675    1  3105201101896034099                    ESCOVA DE ACO MAN.C/CABO 1777 C-4                            
+ 0002676    1  3105201101896039000                    VASSOURAS, ESCOVAS, RODOS E OUTROS                           
+ 0002677    1  3105201101896039005                    ESPANADOR P/MESA 28,7X4,0CM                                  
+ 0002678    1  3105201101896040000                    PENEIRA                                                      
+ 0002679    1  3105201101896081000                    CANETA                                                       
+ 0002680    1  3105201101896082000                    CANETAS E MARCADORES                                         
+ 0002681    1  3105201101896084000                    LAPISEIRAS                                                   
+ 0002682    1  3105201101896092000                    GRAFITE                                                      
+ 0002683    1  3105201101896121012                    FITAS                                                        
+ 0002684    1  3105201101896121019                    FITAS IMPRESSORAS                                            
+ 0002685    1  3105201101896121090                    FITA IMPRESSORA ELEBRA S/TRAVA                               
+ 0002686    1  3105201101896121099                    FITA IMPRESSORA ELEBRA S/TRAVA                               
+ 0002687    1  3105201101896170010                    GARRAFA TÉRMICA                                              
+ 0002688    1  3105201101899999900                    OUTROS                                                       
+ 0002689    1  3105201101899999999                    OUTROS                                                       
+ 0002690    1  310520110210                           ALUGUEL                                                      
+ 0002691    1  31052011021103                         103 serviço                                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------DATASUL - OBRIGAÇÕES FISCAIS - OF0739A - V:0.00.00.000
+

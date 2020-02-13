@@ -1,0 +1,3 @@
+Estabelecimento	UN Padrão	UN Conversão	Fator Conversão
+1	KG	UN	1.00
+1	PC	CT	100.00

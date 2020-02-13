@@ -1,0 +1,93 @@
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0201701|1|2staou|20|
+Field: val-livre-2 Ant: 0 Nov: 2
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0201701|1|2staou|10|
+Field: val-livre-2 Ant: 0 Nov: 2
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0201704|13|21stou|10|
+Field: val-livre-2 Ant: 0 Nov: 2
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0201704|13|21stou|20|
+Field: val-livre-2 Ant: 0 Nov: 2
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0201701|13|2staou|30|
+Field: val-livre-2 Ant: 0 Nov: 5
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0201701|13|2staou|20|
+Field: val-livre-2 Ant: 2 Nov: 3
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0201701|13|2staou|10|
+Field: val-livre-2 Ant: 0 Nov: 13
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0201703|13|2staou|20|
+Field: val-livre-2 Ant: 2 Nov: 6
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0201703|13|2staou|10|
+Field: val-livre-2 Ant: 0 Nov: 10
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0000896|13|211STO|10|
+Field: val-livre-2 Ant: 59 Nov: 100
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0004589|13|211sto|10|
+Field: val-livre-2 Ant: 0 Nov: 4
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0004589|13|211sto|20|
+Field: val-livre-2 Ant: 0 Nov: 10
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0004590|1|211sto|10|
+Field: val-livre-2 Ant: 3 Nov: 15
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0004590|1|211sto|20|
+Field: val-livre-2 Ant: 0 Nov: 9
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0003001|4|211st|10|
+Field: val-livre-2 Ant: 0 Nov: 10
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0003001|4|211st|20|
+Field: val-livre-2 Ant: 0 Nov: 5
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0003001|4|211st|30|
+Field: val-livre-2 Ant: 12 Nov: 20
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0004001|13|211st|10|
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0004001|13|211st|20|
+Field: val-livre-2 Ant: 0 Nov: 30
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0000200|13|211sto|10|
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0000200|13|211sto|20|
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0001003|1|211sto|10|
+Field: val-livre-2 Ant: 0 Nov: 1
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0001003|1|211sto|20|
+Field: val-livre-2 Ant: 0 Nov: 3
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0001003|1|211sto|30|
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0001001|13|211sto|10|
+Field: val-livre-2 Ant: 0 Nov: 10
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0001001|13|211sto|30|
+Field: val-livre-2 Ant: 0 Nov: 1
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0001001|13|211sto|20|
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0001002|13|211sto|30|
+Field: val-livre-2 Ant: 0 Nov: 10
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0001002|13|211sto|40|
+Field: val-livre-2 Ant: 0 Nov: 2
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0001002|13|211sto|20|
+Field: val-livre-2 Ant: 0 Nov: 10
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+=====> BD: mgmov Tabela: it-doc-fisc Evento: W Chave: 1|1|0001002|13|211sto|10|
+Field: dat-livre-1 Ant: 31/08/2011 Nov: TODAY
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgmov      it-doc-fisc                             0         31          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0         31          0

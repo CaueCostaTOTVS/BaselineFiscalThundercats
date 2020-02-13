@@ -1,0 +1,2 @@
+Estabelecimento	Período	Indicador Tipo de Apuração	Valor Total Débitos	Valor Ajuste Débitos	Valor Total Ajuste Débitos	Valor Estorno de créditos	Valor Total Crédito	Valor Ajuste Crédito	Valor Total Ajuste Crédito	Valor Estorno Débitos	Valor Saldo Credor Anterior	Valor Saldo Apurado	Valor Total Deduções	Valor Recolher	Valor Saldo Credor Transportar	Valor Débito Especial
+1	Aug-11	0	34676125.50	2811.72	1000.00	100.20	646787.83	3034.51	900.00	200.00	1300.00	34027815.08	30.69	34027784.39	0.00	50.00

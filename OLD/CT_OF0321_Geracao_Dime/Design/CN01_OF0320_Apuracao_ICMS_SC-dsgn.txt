@@ -1,0 +1,6 @@
+     Cenario : CN01_OF0320_Apuracao_ICMS_SC
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

@@ -1,0 +1,7 @@
+Estabelecimento	Período	Estado	CFOP	Base de cálculo	Imposto Tributado	Isento/Não Tributado	Outros
+1	Aug-11	MG	6101	1000.00	70.00	0.00	0.00
+1	Aug-11	SP	2101	7047.17	1290.11	0.00	0.00
+1	Aug-11	SP	6101	14937.48	1676.45	0.00	0.00
+1	Aug-11	SP	6102	566.38	112.02	0.00	0.00
+1	Aug-11	SP	6401	3990.66	309.46	0.00	0.00
+1	Aug-11	SP	6403	963.03	226.84	0.00	0.00

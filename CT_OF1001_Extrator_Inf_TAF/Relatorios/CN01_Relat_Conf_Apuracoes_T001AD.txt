@@ -1,0 +1,2 @@
+Estabelecimento	Identificação ECF/SAT-CF	Modelo ECF/SAT-CF	Série de Fabricação ECF/SAT-CF	Número do Caixa ECF/SAT-CF	Descrição ECF/SAT-CF
+1	59	59	59	0	IDENTIFICACAO DO EQUIPAMENTO ECF/SAT-CF

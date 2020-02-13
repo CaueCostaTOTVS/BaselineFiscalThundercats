@@ -1,0 +1,6 @@
+     Cenario : CN09_OF0505_NF_Por_Estado_Entrada
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

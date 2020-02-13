@@ -1,0 +1,14 @@
+     Cenario : CN09_Baixa_de_Bens_Devolucao_Parcial
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '9' no Campo Cod Identificador Bem."
+EXECUTE,"Informar o valor '1' no Campo Série."
+EXECUTE,"Informar o valor '1531' no Campo Nro Docto."
+EXECUTE,"Informar o valor '5111' no Campo Nat Oper."
+EXECUTE,"Informar o valor '13' no Campo Emitente."
+EXECUTE,"Informar o valor '10' no Campo Sequencia."
+EXECUTE,"Informar o valor '31/01/2013' no Campo Data Saída."
+EXECUTE,"Informar o valor '3' no Radio Set ."

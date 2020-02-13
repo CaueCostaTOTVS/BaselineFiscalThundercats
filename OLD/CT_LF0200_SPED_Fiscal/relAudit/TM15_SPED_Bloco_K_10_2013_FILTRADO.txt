@@ -1,0 +1,5023 @@
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-CONF-F-01
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-CONF-01_#F000001
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-CONF-F-02
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-CONF-01_#F000001
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-CONF-F-03
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-CONF-01_#F000001
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-CONF-F-01
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-CONF-01_#F000002
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-CONF-F-02
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-CONF-01_#F000002
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-CONF-F-05
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-CONF-01_#F000002
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-CONF-F-01
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-CONF-01
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-CONF-F-02
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-CONF-01
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-CONF-F-04
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-CONF-01
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-DT-VAL-F-01
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000001
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-DT-VAL-F-02
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000001
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 12
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-DT-VAL-F-03
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000001
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 12
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-DT-VAL-F-01
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000002
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-DT-VAL-F-02
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000002
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 12
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-DT-VAL-F-01
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000003
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-DT-VAL-F-02
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000003
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 12
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-DT-VAL-F-04
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000003
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 20
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-DT-VAL-F-01
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-DT-VAL-01
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-DT-VAL-F-02
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-DT-VAL-01
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 12
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-DT-VAL-F-04
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-DT-VAL-01
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 20
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-DT-VAL-F-05
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-DT-VAL-01
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 6
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-DT-VAL-01
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-DT-VAL-02_#F000001
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-DT-VAL-F-05
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-DT-VAL-02_#F000001
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 5
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-DT-VAL-F-03
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-DT-VAL-02
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 12
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-DT-VAL-F-04
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-DT-VAL-02
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 20
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-DT-VAL-F-05
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-DT-VAL-02
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 6
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-INT-EXT-01_#E000001
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-INT-EXT-01_#F000002
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: ,08
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-INT-EXT-F-01
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-INT-EXT-01_#F000002
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-INT-EXT-F-03
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-INT-EXT-01_#F000002
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-LIST-F-01
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-LIST-01_#F000001
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 15
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-LIST-F-02
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-LIST-01_#F000001
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 13
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-LIST-F-04
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-LIST-01_#F000001
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 13
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-LIST-F-01
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-LIST-01_#F000002
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 12
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-LIST-F-02
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-LIST-01_#F000002
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 20
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-LIST-F-05
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-LIST-01_#F000002
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 8
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-LIST-F-01
+Field: fator-perda Nov: ,0667
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-LIST-01
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-LIST-F-02
+Field: fator-perda Nov: ,0633
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-LIST-01
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-LIST-F-03
+Field: fator-perda Nov: ,04
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-LIST-01
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 20
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-REFER-F-01
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-REFER-01_#F000001
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 25
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-REFER-F-02
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-REFER-01_#F000001
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 3
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-REFER-F-04
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-REFER-01_#F000001
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 2
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-REFER-F-01
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-REFER-01_#F000002
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 25
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-REFER-F-02
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-REFER-01_#F000002
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 3
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-REFER-F-05
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-REFER-01_#F000002
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 2
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-REFER-F-01
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-REFER-01
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 25
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-REFER-F-02
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-REFER-01
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 3
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: C
+Field: cod-estab Nov: 1
+Field: cod-filtro Nov: MBK-MBKZZZ | 00000000-99999999 | 0-99 | -ZZZZZZZZ | -ZZZ
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-REFER-F-03
+Field: fator-perda Nov: 0
+Field: ind-orig-estrut Nov: OPF
+Field: it-codigo Nov: MBK-REFER-01
+Field: log-filtro Nov: yes
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 5
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-cons-espec-padr Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-CONF-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 48
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-CONF-F-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 20
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-CONF-F-02
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 20
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-CONF-F-03
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 50
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-CONF-F-05
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 70
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-DT-VAL-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 3
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-DT-VAL-02
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 51,5
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-DT-VAL-F-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 160
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-DT-VAL-F-02
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 152
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-DT-VAL-F-03
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 187,5
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-DT-VAL-F-04
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 760
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-DT-VAL-F-05
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 489
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-INT-EXT-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 25
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-INT-EXT-F-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 475
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-INT-EXT-F-02
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 450
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 3
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 1
+Field: it-codigo Nov: MBK-INT-EXT-F-02
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 30
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-INT-EXT-F-03
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 475
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-LIST-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 3
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-LIST-F-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 463
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-LIST-F-02
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 457
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-LIST-F-03
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 480
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-LIST-F-04
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 487
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-LIST-F-05
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 492
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-REFER-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 20
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-REFER-F-02
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 440
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-REFER-F-03
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 495
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-REFER-F-04
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 486
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: C
+Field: cod-emitente Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-estoq-final Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: ind-tip-estoq Nov: 0
+Field: it-codigo Nov: MBK-REFER-F-05
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-estoque Nov: 476
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-estoq-escrit Evento: D
+=====> BD: mgcad Tabela: dwf-ind-terc-insumo Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-consum Nov: 25/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: es-codigo Nov: MBK-INT-EXT-F-02
+Field: it-codigo Nov: MBK-INT-EXT-01_#E000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 25
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-ind-terc-insumo Evento: D
+=====> BD: mgcad Tabela: dwf-ind-terc-itens Evento: W
+Field: qtd-produz Nov: 50
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10794
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-LIST-F-01
+Field: it-codigo Nov: MBK-LIST-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10794
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-LIST-F-02
+Field: it-codigo Nov: MBK-LIST-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10794
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-LIST-F-03
+Field: it-codigo Nov: MBK-LIST-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 20
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10795
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-LIST-F-01
+Field: it-codigo Nov: MBK-LIST-01_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 15
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10795
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-LIST-F-02
+Field: it-codigo Nov: MBK-LIST-01_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 13
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10795
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-LIST-F-04
+Field: it-codigo Nov: MBK-LIST-01_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 13
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10796
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-LIST-F-01
+Field: it-codigo Nov: MBK-LIST-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 12
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10796
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-LIST-F-02
+Field: it-codigo Nov: MBK-LIST-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 20
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10796
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-LIST-F-05
+Field: it-codigo Nov: MBK-LIST-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 8
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10797
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-F-01
+Field: it-codigo Nov: MBK-DT-VAL-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10797
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-F-02
+Field: it-codigo Nov: MBK-DT-VAL-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 12
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10797
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-F-04
+Field: it-codigo Nov: MBK-DT-VAL-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 20
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10797
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-F-05
+Field: it-codigo Nov: MBK-DT-VAL-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 6
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10798
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-F-01
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10798
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-F-02
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 12
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10798
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-F-03
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 12
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10799
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-F-01
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10799
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-F-02
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 12
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10800
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 21/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-F-01
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000003
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10800
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 21/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-F-02
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000003
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 12
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10800
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 21/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-F-04
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000003
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 20
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10801
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-REFER-F-01
+Field: it-codigo Nov: MBK-REFER-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 25
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10801
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-REFER-F-02
+Field: it-codigo Nov: MBK-REFER-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 3
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10801
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-REFER-F-03
+Field: it-codigo Nov: MBK-REFER-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 5
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10802
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-REFER-F-01
+Field: it-codigo Nov: MBK-REFER-01_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 175
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10802
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-REFER-F-02
+Field: it-codigo Nov: MBK-REFER-01_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 21
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10802
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-REFER-F-04
+Field: it-codigo Nov: MBK-REFER-01_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 14
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10803
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-REFER-F-01
+Field: it-codigo Nov: MBK-REFER-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 300
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10803
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-REFER-F-02
+Field: it-codigo Nov: MBK-REFER-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 36
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10803
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-REFER-F-05
+Field: it-codigo Nov: MBK-REFER-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 24
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10804
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-F-03
+Field: it-codigo Nov: MBK-DT-VAL-02
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 600
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10804
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-F-04
+Field: it-codigo Nov: MBK-DT-VAL-02
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 1000
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10804
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-F-05
+Field: it-codigo Nov: MBK-DT-VAL-02
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 300
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10805
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 05/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-01
+Field: it-codigo Nov: MBK-DT-VAL-02_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10805
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 05/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-F-05
+Field: it-codigo Nov: MBK-DT-VAL-02_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 5
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10813
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 25/10/2013
+Field: es-codigo Nov: MBK-INT-EXT-01_#E000001
+Field: it-codigo Nov: MBK-INT-EXT-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10813
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 25/10/2013
+Field: es-codigo Nov: MBK-INT-EXT-F-01
+Field: it-codigo Nov: MBK-INT-EXT-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10813
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 25/10/2013
+Field: es-codigo Nov: MBK-INT-EXT-F-02
+Field: it-codigo Nov: MBK-INT-EXT-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10813
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 25/10/2013
+Field: es-codigo Nov: MBK-INT-EXT-F-03
+Field: it-codigo Nov: MBK-INT-EXT-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10814
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 25/10/2013
+Field: es-codigo Nov: MBK-INT-EXT-01_#E000001
+Field: it-codigo Nov: MBK-INT-EXT-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 15
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10814
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 25/10/2013
+Field: es-codigo Nov: MBK-INT-EXT-F-01
+Field: it-codigo Nov: MBK-INT-EXT-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 15
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10814
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 25/10/2013
+Field: es-codigo Nov: MBK-INT-EXT-F-02
+Field: it-codigo Nov: MBK-INT-EXT-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 15
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10814
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 25/10/2013
+Field: es-codigo Nov: MBK-INT-EXT-F-03
+Field: it-codigo Nov: MBK-INT-EXT-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 15
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 619529
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-CONF-F-01
+Field: it-codigo Nov: MBK-CONF-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 200
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 619529
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-CONF-F-02
+Field: it-codigo Nov: MBK-CONF-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 200
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 619529
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-CONF-F-04
+Field: it-codigo Nov: MBK-CONF-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 200
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 619530
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-CONF-F-01
+Field: it-codigo Nov: MBK-CONF-01_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 150
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 619530
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-CONF-F-02
+Field: it-codigo Nov: MBK-CONF-01_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 150
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 619530
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-CONF-F-03
+Field: it-codigo Nov: MBK-CONF-01_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 150
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 619531
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-CONF-F-01
+Field: it-codigo Nov: MBK-CONF-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 130
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 619531
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-CONF-F-02
+Field: it-codigo Nov: MBK-CONF-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 130
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: C
+Field: al-codigo Nov: 
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 619531
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 01/10/2013
+Field: es-codigo Nov: MBK-CONF-F-05
+Field: it-codigo Nov: MBK-CONF-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-compon Nov: 130
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-insumo-consum Evento: D
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10794
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 01/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 01/10/2013
+Field: it-codigo Nov: MBK-LIST-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-produz Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10795
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 01/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 01/10/2013
+Field: it-codigo Nov: MBK-LIST-01_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-produz Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10796
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 01/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 01/10/2013
+Field: it-codigo Nov: MBK-LIST-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-produz Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10797
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 01/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 01/10/2013
+Field: it-codigo Nov: MBK-DT-VAL-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-produz Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10798
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 01/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 01/10/2013
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-produz Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10799
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 01/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 01/10/2013
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-produz Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10800
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 21/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 21/10/2013
+Field: it-codigo Nov: MBK-DT-VAL-01_#F000003
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-produz Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10801
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 01/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 01/10/2013
+Field: it-codigo Nov: MBK-REFER-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-produz Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10802
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 01/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 01/10/2013
+Field: it-codigo Nov: MBK-REFER-01_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-produz Nov: 7
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10803
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 01/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 01/10/2013
+Field: it-codigo Nov: MBK-REFER-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-produz Nov: 12
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10804
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 01/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 01/10/2013
+Field: it-codigo Nov: MBK-DT-VAL-02
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-produz Nov: 50
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10805
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 05/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 05/10/2013
+Field: it-codigo Nov: MBK-DT-VAL-02_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-produz Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10813
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 25/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 25/10/2013
+Field: it-codigo Nov: MBK-INT-EXT-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-produz Nov: 10
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10814
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 25/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 25/10/2013
+Field: it-codigo Nov: MBK-INT-EXT-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-produz Nov: 15
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 619529
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 01/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 01/10/2013
+Field: it-codigo Nov: MBK-CONF-01
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-produz Nov: 20
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 619530
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 01/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 01/10/2013
+Field: it-codigo Nov: MBK-CONF-01_#F000001
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-produz Nov: 15
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 619531
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 01/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 01/10/2013
+Field: it-codigo Nov: MBK-CONF-01_#F000002
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-produz Nov: 13
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: D
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: D
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: D
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: D
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: D
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: D
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: D
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: D
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: D
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: D
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: D
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: D
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: D
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: D
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: D
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: D
+=====> BD: mgcad Tabela: dwf-itens-produz Evento: D
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: C
+Field: cod-estab Nov: 1
+Field: cod-item-dest Nov: MBK-CONF-01
+Field: cod-item-orig Nov: MBK-CONF-01_#F000001
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-mov Nov: 01/10/2013
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-movto Nov: 15
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: C
+Field: cod-estab Nov: 1
+Field: cod-item-dest Nov: MBK-CONF-01
+Field: cod-item-orig Nov: MBK-CONF-01_#F000002
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-mov Nov: 01/10/2013
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-movto Nov: 13
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: C
+Field: cod-estab Nov: 1
+Field: cod-item-dest Nov: MBK-DT-VAL-01
+Field: cod-item-orig Nov: MBK-DT-VAL-01_#F000001
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-mov Nov: 01/10/2013
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-movto Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: C
+Field: cod-estab Nov: 1
+Field: cod-item-dest Nov: MBK-DT-VAL-01
+Field: cod-item-orig Nov: MBK-DT-VAL-01_#F000002
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-mov Nov: 01/10/2013
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-movto Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: C
+Field: cod-estab Nov: 1
+Field: cod-item-dest Nov: MBK-LIST-01
+Field: cod-item-orig Nov: MBK-LIST-01_#F000001
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-mov Nov: 01/10/2013
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-movto Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: C
+Field: cod-estab Nov: 1
+Field: cod-item-dest Nov: MBK-LIST-01
+Field: cod-item-orig Nov: MBK-LIST-01_#F000002
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-mov Nov: 01/10/2013
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-movto Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: C
+Field: cod-estab Nov: 1
+Field: cod-item-dest Nov: MBK-REFER-01
+Field: cod-item-orig Nov: MBK-REFER-01_#F000001
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-mov Nov: 01/10/2013
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-movto Nov: 7
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: C
+Field: cod-estab Nov: 1
+Field: cod-item-dest Nov: MBK-REFER-01
+Field: cod-item-orig Nov: MBK-REFER-01_#F000002
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-mov Nov: 01/10/2013
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-movto Nov: 12
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: C
+Field: cod-estab Nov: 1
+Field: cod-item-dest Nov: MBK-DT-VAL-02
+Field: cod-item-orig Nov: MBK-DT-VAL-02_#F000001
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-mov Nov: 05/10/2013
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-movto Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: C
+Field: cod-estab Nov: 1
+Field: cod-item-dest Nov: MBK-DT-VAL-01
+Field: cod-item-orig Nov: MBK-DT-VAL-01_#F000003
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-mov Nov: 21/10/2013
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-movto Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: C
+Field: cod-estab Nov: 1
+Field: cod-item-dest Nov: MBK-INT-EXT-01
+Field: cod-item-orig Nov: MBK-INT-EXT-01_#F000002
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-mov Nov: 25/10/2013
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-movto Nov: 25
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: D
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: D
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: D
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: D
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: D
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: D
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: D
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: D
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: D
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: D
+=====> BD: mgcad Tabela: dwf-outr-mov-inter Evento: D
+=====> BD: mgcad Tabela: dwf-reproces Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10806
+Field: dat-fim-gerac Nov: 31/10/2013
+Field: dat-fim-valid ?
+Field: dat-inic-gerac Nov: 01/10/2013
+Field: dat-inic-valid Nov: TODAY
+Field: dat-inicio Nov: 10/10/2013
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-termino Nov: 01/10/2013
+Field: it-codigo Nov: MBK-DT-VAL-02
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-ret Nov: 1
+Field: qtd-saida Nov: 1
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-reproces Evento: D
+=====> BD: mgcad Tabela: dwf-reproces-consum Evento: C
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-ord-produt Nov: 10806
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: TODAY
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-trans Nov: 05/10/2013
+Field: es-codigo Nov: MBK-DT-VAL-F-03
+Field: it-codigo Nov: MBK-DT-VAL-02
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: qtd-consum Nov: ,5
+Field: qtd-ret Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgcad Tabela: dwf-reproces-consum Evento: D
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      dwf-cons-espec-padr                    47          0         47
+mgcad      dwf-estoq-escrit                       28          0         28
+mgcad      dwf-ind-terc-insumo                     1          0          1
+mgcad      dwf-ind-terc-itens                      0          1          0
+mgcad      dwf-insumo-consum                      52          0         52
+mgcad      dwf-itens-produz                       17          0         17
+mgcad      dwf-outr-mov-inter                     11          0         11
+mgcad      dwf-reproces                            1          0          1
+mgcad      dwf-reproces-consum                     1          0          1
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                            158          1        158

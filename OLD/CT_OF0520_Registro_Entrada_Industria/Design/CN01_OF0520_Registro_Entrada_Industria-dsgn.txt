@@ -1,0 +1,8 @@
+     Cenario : CN01_OF0520_Registro_Entrada_Industria
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabel."
+EXECUTE,"Informar o valor '01/07/2011' no Campo Data Documento."

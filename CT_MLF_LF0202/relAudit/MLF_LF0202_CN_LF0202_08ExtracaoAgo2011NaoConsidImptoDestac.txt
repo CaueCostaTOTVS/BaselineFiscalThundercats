@@ -1,0 +1,1132 @@
+=====> BD: mgmov Tabela: DWF-APURAC-DISTRIB Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 01
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-CR-PRES-ENTR Nov: 120,12
+Field: VAL-CR-PRES-SAIDA Nov: 100,15
+Field: VAL-ENTR-PI Nov: 1215,36
+Field: VAL-INCENT-DISTRIB Nov: 220,27
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-PERCENT-ENTR Nov: 10
+Field: VAL-PERCENT-SAIDA Nov: 1257,1
+Field: VAL-PI-NAO-INCENT-ENTR Nov: 12456,36
+Field: VAL-PI-NAO-INCENT-SAIDA Nov: 7895,36
+Field: VAL-RECOLH-DISTRIB Nov: 1236,27
+Field: VAL-SAIDA-PI Nov: 147,12
+Field: VAL-SDO-ICMS-FINAL Nov: 758,18
+Field: VAL-SDO-ICMS-INICIAL Nov: 978,45
+=====> BD: mgmov Tabela: DWF-APURAC-DISTRIB Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 02
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-CR-PRES-ENTR Nov: 2000
+Field: VAL-CR-PRES-SAIDA Nov: 139
+Field: VAL-ENTR-PI Nov: 780
+Field: VAL-INCENT-DISTRIB Nov: 2139
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-PERCENT-ENTR Nov: 3500
+Field: VAL-PERCENT-SAIDA Nov: 641
+Field: VAL-PI-NAO-INCENT-ENTR Nov: 1260
+Field: VAL-PI-NAO-INCENT-SAIDA Nov: 263
+Field: VAL-RECOLH-DISTRIB Nov: 2400
+Field: VAL-SAIDA-PI Nov: 1149
+Field: VAL-SDO-ICMS-FINAL Nov: 0
+Field: VAL-SDO-ICMS-INICIAL Nov: 1397
+=====> BD: mgmov Tabela: DWF-APURAC-DISTRIB Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 03
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-CR-PRES-ENTR Nov: 500
+Field: VAL-CR-PRES-SAIDA Nov: 2300
+Field: VAL-ENTR-PI Nov: 3154
+Field: VAL-INCENT-DISTRIB Nov: 2800
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-PERCENT-ENTR Nov: 12588
+Field: VAL-PERCENT-SAIDA Nov: 335
+Field: VAL-PI-NAO-INCENT-ENTR Nov: 9785
+Field: VAL-PI-NAO-INCENT-SAIDA Nov: 457
+Field: VAL-RECOLH-DISTRIB Nov: 1587
+Field: VAL-SAIDA-PI Nov: 336
+Field: VAL-SDO-ICMS-FINAL Nov: 1700
+Field: VAL-SDO-ICMS-INICIAL Nov: 4500
+=====> BD: mgmov Tabela: DWF-APURAC-DISTRIB Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 09
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-CR-PRES-ENTR Nov: 121
+Field: VAL-CR-PRES-SAIDA Nov: 24
+Field: VAL-ENTR-PI Nov: 42121
+Field: VAL-INCENT-DISTRIB Nov: 145
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-PERCENT-ENTR Nov: 478
+Field: VAL-PERCENT-SAIDA Nov: 213278
+Field: VAL-PI-NAO-INCENT-ENTR Nov: 6545
+Field: VAL-PI-NAO-INCENT-SAIDA Nov: 33
+Field: VAL-RECOLH-DISTRIB Nov: 100
+Field: VAL-SAIDA-PI Nov: 2112
+Field: VAL-SDO-ICMS-FINAL Nov: 8645
+Field: VAL-SDO-ICMS-INICIAL Nov: 8790
+=====> BD: mgmov Tabela: DWF-APURAC-DISTRIB Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-DISTRIB Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-DISTRIB Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-DISTRIB Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-ENTR Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 01
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-CR-PRES-FORA Nov: 12
+Field: VAL-ICMS-DIF Nov: 100
+Field: VAL-ICMS-PI-FORA Nov: 303
+Field: VAL-IMP-ICMS Nov: 1223
+Field: VAL-INCENT-IMP Nov: 4018
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-PI-FORA Nov: 478
+Field: VAL-PI-FORA-PERCENT Nov: 336
+Field: VAL-PI-NAO-INCENT Nov: 364
+Field: VAL-SDO-ICMS-FINAL Nov: 4006
+Field: VAL-SDO-ICMS-INICIAL Nov: 136
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-ENTR Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 02
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-CR-PRES-FORA Nov: 456,21
+Field: VAL-ICMS-DIF Nov: 6359,48
+Field: VAL-ICMS-PI-FORA Nov: 1253,94
+Field: VAL-IMP-ICMS Nov: 1100,39
+Field: VAL-INCENT-IMP Nov: 1976,57
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-PI-FORA Nov: 57,89
+Field: VAL-PI-FORA-PERCENT Nov: 600,99
+Field: VAL-PI-NAO-INCENT Nov: 122,47
+Field: VAL-SDO-ICMS-FINAL Nov: 1520,36
+Field: VAL-SDO-ICMS-INICIAL Nov: 1478,1
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-ENTR Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 03
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-CR-PRES-FORA Nov: 363
+Field: VAL-ICMS-DIF Nov: 364
+Field: VAL-ICMS-PI-FORA Nov: 4578
+Field: VAL-IMP-ICMS Nov: 2500
+Field: VAL-INCENT-IMP Nov: 2730
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-PI-FORA Nov: 133
+Field: VAL-PI-FORA-PERCENT Nov: 2248
+Field: VAL-PI-NAO-INCENT Nov: 1199
+Field: VAL-SDO-ICMS-FINAL Nov: 2367
+Field: VAL-SDO-ICMS-INICIAL Nov: 100
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-ENTR Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 09
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-CR-PRES-FORA Nov: 0
+Field: VAL-ICMS-DIF Nov: 610
+Field: VAL-ICMS-PI-FORA Nov: 42
+Field: VAL-IMP-ICMS Nov: 781
+Field: VAL-INCENT-IMP Nov: 6478
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-PI-FORA Nov: 125
+Field: VAL-PI-FORA-PERCENT Nov: 1236
+Field: VAL-PI-NAO-INCENT Nov: 0
+Field: VAL-SDO-ICMS-FINAL Nov: 6478
+Field: VAL-SDO-ICMS-INICIAL Nov: 1446
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-ENTR Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-ENTR Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-ENTR Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-ENTR Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-SAIDA Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 01
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-ALIQ-IMP Nov: 10
+Field: VAL-BASE-CR-PRES Nov: 15000,42
+Field: VAL-CR-PRES-SAIDA Nov: 2487,96
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-SAIDA-PI Nov: 15600,36
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-SAIDA Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 01
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-ALIQ-IMP Nov: 23
+Field: VAL-BASE-CR-PRES Nov: 15000
+Field: VAL-CR-PRES-SAIDA Nov: 3600
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-SAIDA-PI Nov: 13697
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-SAIDA Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 01
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-ALIQ-IMP Nov: 6
+Field: VAL-BASE-CR-PRES Nov: 1300
+Field: VAL-CR-PRES-SAIDA Nov: 524,78
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-SAIDA-PI Nov: 1560
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-SAIDA Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 02
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-ALIQ-IMP Nov: 12
+Field: VAL-BASE-CR-PRES Nov: 12000
+Field: VAL-CR-PRES-SAIDA Nov: 3478,65
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-SAIDA-PI Nov: 10000
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-SAIDA Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 03
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-ALIQ-IMP Nov: 12
+Field: VAL-BASE-CR-PRES Nov: 212
+Field: VAL-CR-PRES-SAIDA Nov: 671
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-SAIDA-PI Nov: 23
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-SAIDA Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 09
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-ALIQ-IMP Nov: 4
+Field: VAL-BASE-CR-PRES Nov: 4256
+Field: VAL-CR-PRES-SAIDA Nov: 412
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-SAIDA-PI Nov: 1243
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-SAIDA Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 09
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-ALIQ-IMP Nov: 8
+Field: VAL-BASE-CR-PRES Nov: 4796
+Field: VAL-CR-PRES-SAIDA Nov: 254
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-SAIDA-PI Nov: 1361
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-SAIDA Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-SAIDA Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-SAIDA Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-SAIDA Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-SAIDA Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-SAIDA Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-IMPORT-SAIDA Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-IND Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 01
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-CR-PRES Nov: 125
+Field: VAL-CR-PRES-FORA Nov: 140
+Field: VAL-CR-PRESMDO Nov: 10
+Field: VAL-INCENT-IND Nov: 265
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-PI-FORA Nov: 1000
+Field: VAL-PI-NAO-INCENT Nov: 5000
+Field: VAL-SAIDA-PI Nov: 1520
+Field: VAL-SALDO Nov: 700
+Field: VAL-SDO-ICMS-FINAL Nov: 95
+Field: VAL-SDO-ICMS-INICIAL Nov: 360
+Field: VAL-SDO-PI-FORA Nov: 560
+=====> BD: mgmov Tabela: DWF-APURAC-IND Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 02
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-CR-PRES Nov: 10,11
+Field: VAL-CR-PRES-FORA Nov: 200,4
+Field: VAL-CR-PRESMDO Nov: 16,36
+Field: VAL-INCENT-IND Nov: 210,51
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-PI-FORA Nov: 1000,96
+Field: VAL-PI-NAO-INCENT Nov: 1000,39
+Field: VAL-SAIDA-PI Nov: 987,45
+Field: VAL-SALDO Nov: 100,36
+Field: VAL-SDO-ICMS-FINAL Nov: 26,48
+Field: VAL-SDO-ICMS-INICIAL Nov: 236,99
+Field: VAL-SDO-PI-FORA Nov: 0
+=====> BD: mgmov Tabela: DWF-APURAC-IND Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 03
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-CR-PRES Nov: 36
+Field: VAL-CR-PRES-FORA Nov: 30
+Field: VAL-CR-PRESMDO Nov: 1255
+Field: VAL-INCENT-IND Nov: 66
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-PI-FORA Nov: 1033
+Field: VAL-PI-NAO-INCENT Nov: 0
+Field: VAL-SAIDA-PI Nov: 600
+Field: VAL-SALDO Nov: 566
+Field: VAL-SDO-ICMS-FINAL Nov: 37
+Field: VAL-SDO-ICMS-INICIAL Nov: 103
+Field: VAL-SDO-PI-FORA Nov: 536
+=====> BD: mgmov Tabela: DWF-APURAC-IND Evento: C
+Field: COD-ESTAB Nov: 1
+Field: COD-LIVRE-1 Nov: 
+Field: COD-LIVRE-2 Nov: 
+Field: COD-LIVRE-3 Nov: 
+Field: COD-LIVRE-4 Nov: 
+Field: COD-LIVRE-5 Nov: 
+Field: COD-LIVRE-6 Nov: 
+Field: DAT-FIM-VALID ?
+Field: DAT-FINAL Nov: 31/05/2011
+Field: DAT-INIC-VALID Nov: 01/01/0001
+Field: DAT-INICIO Nov: 01/05/2014
+Field: DAT-LIVRE-1 ?
+Field: DAT-LIVRE-2 ?
+Field: DAT-LIVRE-3 ?
+Field: DAT-LIVRE-4 ?
+Field: DAT-LIVRE-5 ?
+Field: DAT-LIVRE-6 ?
+Field: IND-APURAC Nov: 09
+Field: LOG-LIVRE-1 Nov: no
+Field: LOG-LIVRE-2 Nov: no
+Field: LOG-LIVRE-3 Nov: no
+Field: LOG-LIVRE-4 Nov: no
+Field: LOG-LIVRE-5 Nov: no
+Field: LOG-LIVRE-6 Nov: no
+Field: NUM-LIVRE-1 Nov: 0
+Field: NUM-LIVRE-2 Nov: 0
+Field: NUM-LIVRE-3 Nov: 0
+Field: NUM-LIVRE-4 Nov: 0
+Field: NUM-LIVRE-5 Nov: 0
+Field: NUM-LIVRE-6 Nov: 0
+Field: VAL-CR-PRES Nov: 2500
+Field: VAL-CR-PRES-FORA Nov: 1934
+Field: VAL-CR-PRESMDO Nov: 1002
+Field: VAL-INCENT-IND Nov: 4434
+Field: VAL-LIVRE-1 Nov: 0
+Field: VAL-LIVRE-2 Nov: 0
+Field: VAL-LIVRE-3 Nov: 0
+Field: VAL-LIVRE-4 Nov: 0
+Field: VAL-LIVRE-5 Nov: 0
+Field: VAL-LIVRE-6 Nov: 0
+Field: VAL-PI-FORA Nov: 4690
+Field: VAL-PI-NAO-INCENT Nov: 1263
+Field: VAL-SAIDA-PI Nov: 3000
+Field: VAL-SALDO Nov: 3601
+Field: VAL-SDO-ICMS-FINAL Nov: 586
+Field: VAL-SDO-ICMS-INICIAL Nov: 5020
+Field: VAL-SDO-PI-FORA Nov: 1667
+=====> BD: mgmov Tabela: DWF-APURAC-IND Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-IND Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-IND Evento: D
+=====> BD: mgmov Tabela: DWF-APURAC-IND Evento: D
+=====> BD: mgmov Tabela: dwf-cf-resum-diario-cancel Evento: C
+Field: cod-docto-cancdo Nov: 9032014
+Field: cod-docto-final Nov: 9032014
+Field: cod-docto-inicial Nov: 9032014
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-model-docto Nov: 02
+Field: cod-serie Nov: 5
+Field: cod-subser-docto-fisc Nov: 
+Field: dat-emis-docto Nov: 20/08/2011
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 12/02/2020
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-docto-cancdo Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgmov Tabela: dwf-cf-resum-diario-cancel Evento: D
+=====> BD: mgmov Tabela: dwf-cf-resum-diario-cancel Evento: W
+Field: val-docto-cancdo Nov: 1200
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: C
+Field: cod-docto Nov: 0071101
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-natur-operac Nov: 610110
+Field: cod-serie Nov: 5
+Field: cod-uf-dest Nov: SP
+Field: cod-uf-remet Nov: SC
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 12/02/2020
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-fundo-uf-dest Nov: 12,4
+Field: val-icms-uf-dest Nov: 200
+Field: val-icms-uf-remet Nov: 350
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: C
+Field: cod-docto Nov: 0071104
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-natur-operac Nov: 611sc
+Field: cod-serie Nov: 5
+Field: cod-uf-dest Nov: SP
+Field: cod-uf-remet Nov: SC
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 12/02/2020
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-fundo-uf-dest Nov: 83,07
+Field: val-icms-uf-dest Nov: 84,12
+Field: val-icms-uf-remet Nov: 126,19
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: C
+Field: cod-docto Nov: 0071105
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-natur-operac Nov: 611sc
+Field: cod-serie Nov: 5
+Field: cod-uf-dest Nov: SP
+Field: cod-uf-remet Nov: SC
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 12/02/2020
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-fundo-uf-dest Nov: 14,95
+Field: val-icms-uf-dest Nov: 15,14
+Field: val-icms-uf-remet Nov: 22,71
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: C
+Field: cod-docto Nov: 3032014
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 1
+Field: cod-livre-3 Nov: 1
+Field: cod-livre-4 Nov: 
+Field: cod-natur-operac Nov: 625101
+Field: cod-serie Nov: 5
+Field: cod-uf-dest Nov: 
+Field: cod-uf-remet Nov: 
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 12/02/2020
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-fundo-uf-dest Nov: 0
+Field: val-icms-uf-dest Nov: 0
+Field: val-icms-uf-remet Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: C
+Field: cod-docto Nov: 4032014
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 1
+Field: cod-livre-3 Nov: 1
+Field: cod-livre-4 Nov: 
+Field: cod-natur-operac Nov: 6128
+Field: cod-serie Nov: 5
+Field: cod-uf-dest Nov: 
+Field: cod-uf-remet Nov: 
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 12/02/2020
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-fundo-uf-dest Nov: 0
+Field: val-icms-uf-dest Nov: 0
+Field: val-icms-uf-remet Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: C
+Field: cod-docto Nov: 5032014
+Field: cod-emitente Nov: 13
+Field: cod-estab Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 1
+Field: cod-livre-3 Nov: 1
+Field: cod-livre-4 Nov: 
+Field: cod-natur-operac Nov: 625101
+Field: cod-serie Nov: 5
+Field: cod-uf-dest Nov: 
+Field: cod-uf-remet Nov: 
+Field: dat-fim-valid ?
+Field: dat-inic-valid Nov: 12/02/2020
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-fundo-uf-dest Nov: 0
+Field: val-icms-uf-dest Nov: 0
+Field: val-icms-uf-remet Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: D
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: D
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: D
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: D
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: D
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: D
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgmov      DWF-APURAC-DISTRIB                      4          0          4
+mgmov      DWF-APURAC-IMPORT-ENTR                  4          0          4
+mgmov      DWF-APURAC-IMPORT-SAIDA                 7          0          7
+mgmov      DWF-APURAC-IND                          4          0          4
+mgmov      dwf-cf-resum-diario-cancel              1          1          1
+mgmov      dwf-docto-compl                         6          0          6
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                             26          1         26

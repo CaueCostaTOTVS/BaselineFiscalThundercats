@@ -1,0 +1,528 @@
+MEN702DC                              3.00.00.001    menu_uit                      TODAY  00:00:00
+BTB906ZA                              2.00.00.010    men702dc                      TODAY  00:00:00
+MEN901ZA                              2.00.00.006    men702dc                      TODAY  00:00:00
+UT-TRDFR                              3.00.00.001    men702dc                      TODAY  00:00:00
+RI0105                                2.00.00.010    men702dc                      TODAY  00:00:00
+MEN901ZA                              2.00.00.006    ri0105                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    ri0105                        TODAY  00:00:00
+BTB970AA                              2.00.00.004    ri0105                        TODAY  00:00:00
+BTB432ZG                              2.00.01.008    btb970aa                      TODAY  00:00:00
+THINFOLDER                            2.00.00.002    ri0105                        TODAY  00:00:00
+WINDOWSTYLES                          3.00.00.001    ri0105                        TODAY  00:00:00
+BTAPI008                              2.00.00.002    ri0105                        TODAY  00:00:00
+BODI459                               2.00.00.008    ri0105                        TODAY  00:00:00
+BTBSECURITY                           3.00.00.001    bodi459                       TODAY  00:00:00
+MEN901ZA                              2.00.00.006    btbsecur                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi459                       TODAY  00:00:00
+BODI464                               2.00.00.000    ri0105                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi464                       TODAY  00:00:00
+BODI464                               2.00.00.000    ri0105                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi464                       TODAY  00:00:00
+BOIN682                               2.00.00.016    ri0105                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin682                       TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+api_controle_ccusto                       prgint/utb/utb742za.py    1.00.00.005    TODAY  00:00:00
+BODI458                               2.00.00.006    ri0105                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi458                       TODAY  00:00:00
+BODI467                               2.00.00.005    ri0105                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi467                       TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+UT-TRCAMPOS                           2.00.00.009    ri0105                        TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+CD9970                                2.00.00.005    ri0105                        TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+api_controle_ccusto                       prgint/utb/utb742za.py    1.00.00.005    TODAY  00:00:00
+api_validacoes_contabeis_ems2_ems5        prgfin/fgl/fgl731za.py    1.00.00.021    TODAY  00:00:00
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                                           Alfa             211050400000507      Alfa          010702010000201                           TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Unidade de negócio não informada.
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=211050400000507 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=211050400000507 cod_estab=1
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=211050400000507 p_dat_trans=TODAY
+ Retorno da pi_retornar_criter_distrib_ccusto. v_ind_criter_distrib_ccusto=Utiliza Todos
+ Chamada da pi_validar_plano_ccusto. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_dat_trans=TODAY
+ Chamada da pi_validar_ccusto. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_cod_ccusto=010702010000201 p_dat_trans=TODAY
+ Chamada da pi_validar_ccusto_unid_negoc_estab. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_cod_ccusto=010702010000201 p_cod_unid_negoc= v_cod_estab=1
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                                           Alfa             121020400000204                                                              TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Unidade de negócio não informada.
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=121020400000204 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=121020400000204 cod_estab=1
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=121020400000204 p_dat_trans=TODAY
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                                           Alfa             311111111111001                                                              TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Unidade de negócio não informada.
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111001 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=311111111111001 cod_estab=1
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111001 p_dat_trans=TODAY
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                                           Alfa             311111111111002                                                              TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Unidade de negócio não informada.
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111002 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=311111111111002 cod_estab=1
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111002 p_dat_trans=TODAY
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                                           Alfa             311111111111005                                                              TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Unidade de negócio não informada.
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111005 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=311111111111005 cod_estab=1
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111005 p_dat_trans=TODAY
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                                           Alfa             311111111111006                                                              TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Unidade de negócio não informada.
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111006 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=311111111111006 cod_estab=1
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111006 p_dat_trans=TODAY
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                                           Alfa             311111111111007                                                              TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Unidade de negócio não informada.
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111007 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=311111111111007 cod_estab=1
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111007 p_dat_trans=TODAY
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                                           Alfa             311111111111010                                                              TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Unidade de negócio não informada.
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111010 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=311111111111010 cod_estab=1
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111010 p_dat_trans=TODAY
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                                           Alfa             311111111111003                                                              TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Unidade de negócio não informada.
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111003 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=311111111111003 cod_estab=1
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111003 p_dat_trans=TODAY
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                                           Alfa             311111111111008                                                              TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Unidade de negócio não informada.
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111008 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=311111111111008 cod_estab=1
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111008 p_dat_trans=TODAY
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                                           Alfa             311111111111009                                                              TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Unidade de negócio não informada.
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111009 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=311111111111009 cod_estab=1
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111009 p_dat_trans=TODAY
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                                           Alfa             311111111111011                                                              TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Unidade de negócio não informada.
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111011 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=311111111111011 cod_estab=1
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111011 p_dat_trans=TODAY
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                                           Alfa             311111111111004                                                              TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Unidade de negócio não informada.
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111004 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=311111111111004 cod_estab=1
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=311111111111004 p_dat_trans=TODAY
+BTBCUSTOM                             3.00.00.001    bodi459                       TODAY  00:00:00
+TWDI459                               2.00.00.000    bodi459                       TODAY  00:00:00
+CD9150E                               2.00.00.015    menu_uit                      TODAY  00:00:00
+CD9150G                               2.00.00.002    cdp\cd91                      TODAY  00:00:00

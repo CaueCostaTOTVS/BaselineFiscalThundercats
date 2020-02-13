@@ -1,0 +1,11 @@
+     Cenario : CN06_LF0201_SPED_Fiscal_0220
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '01/09/2011' no Campo ."
+EXECUTE,"Informar o valor '1' no Campo Estabelecimento:."
+EXECUTE,"Informar o valor '0 - Remessa do arquivo original' no Combo Box Finalidade do Arquivo:."
+EXECUTE,"Informar o valor '009' no Campo Versão do Arquivo (Ex: 0 ou 000):."
+EXECUTE,"Informar o valor '' no Campo Dt Fechamento Inventário (Reg Bloco H):."

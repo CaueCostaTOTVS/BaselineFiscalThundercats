@@ -1,0 +1,14 @@
+     Cenario : CN07_LF0201_SPED_Fiscal_Registro_1400
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '01/08/2011' no Campo ."
+EXECUTE,"Informar o valor '31/08/2011' no Campo ."
+EXECUTE,"Informar o valor '10000' no Campo Estabelecimento:."
+EXECUTE,"Informar o valor '0 - Remessa do arquivo original' no Combo Box Finalidade do Arquivo:."
+EXECUTE,"Informar o valor '009' no Campo Versão do Arquivo (Ex: 0 ou 000):."
+EXECUTE,"Informar o valor '' no Campo Dt Fechamento Inventário (Reg Bloco H):."
+EXECUTE,"Informar o valor 'Não' no Combo Box Considera CFOPs Serviço:."
+EXECUTE,"Informar o valor 'c:/automacao/relatorios/CN07_LF0201_Acompanhamento_Registro_1400.lst' no Editor ."

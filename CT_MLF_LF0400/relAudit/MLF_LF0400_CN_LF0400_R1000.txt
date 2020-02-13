@@ -1,0 +1,55 @@
+=====> BD: mgcad Tabela: dwf-reinf-contribt Evento: C
+Field: cdn-acordo-isencao-multa Nov: 0
+Field: cdn-classif-trib Nov: 99
+Field: cdn-cprb Nov: 1
+Field: cdn-ecd Nov: 0
+Field: cod-cnpj-respons Nov: 
+Field: cod-cpf Nov: 79195806920
+Field: cod-email Nov: contador2@totvs.com.br
+Field: cod-estab Nov: 1
+Field: COD-ESTAB-CONTRIB Nov: 1
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-livre-5 Nov: 
+Field: cod-livre-6 Nov: 
+Field: cod-telef-2 Nov: 4721210000
+Field: cod-telefone Nov: 4721210000
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-livre-5 ?
+Field: dat-livre-6 ?
+Field: des-nome Nov: contabilista new
+Field: IDI-LIVRE-REG-ORIG Nov: 1
+Field: ind-feder-respons Nov: 
+Field: ind-situacao Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: log-livre-5 Nov: no
+Field: log-livre-6 Nov: no
+Field: LOG-LIVRE-REG-AUTOM Nov: yes
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-livre-5 Nov: 0
+Field: num-livre-6 Nov: 0
+Field: num-period-fim Nov: 0
+Field: num-period-inicial Nov: 201401
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-livre-5 Nov: 0
+Field: val-livre-6 Nov: 0
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      dwf-reinf-contribt                      1          0          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              1          0          0

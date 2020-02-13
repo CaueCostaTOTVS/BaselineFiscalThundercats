@@ -1,0 +1,6 @@
+     Cenario : MOF_OF0540_CN09_OF0540_Registro_Entradas
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

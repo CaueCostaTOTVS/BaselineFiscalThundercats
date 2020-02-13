@@ -1,0 +1,126 @@
+=====> BD: mgmov Tabela: dwf-apurac-impto Evento: C Chave: 1|01/05/11|31/05/11|ICMSST|SC|TODAY|
+Field: cod-estab Nov: 1
+Field: dat-apurac-inicial-impto Nov: 01/05/2011
+Field: dat-apurac-final-impto Nov: 31/05/2011
+Field: cod-impto Nov: ICMSST
+Field: cod-uf Nov: SC
+Field: dat-entrega Nov: 10/06/2011
+Field: des-local-entreg Nov: JOINVILLE
+Field: dsl-obs Nov: TESTE
+Field: dat-inic-valid Nov: TODAY
+Field: dat-fim-valid ?
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgmov Tabela: dwf-apurac-impto-ajust Evento: C Chave: 1|01/05/11|31/05/11|ICMSST|SC|SP009999||002|1|TODAY|
+Field: cod-estab Nov: 1
+Field: dat-apurac-inicial-impto Nov: 01/05/2011
+Field: dat-apurac-final-impto Nov: 31/05/2011
+Field: cod-impto Nov: ICMSST
+Field: cod-uf Nov: SC
+Field: cod-ajust Nov: SP009999
+Field: cod-ajust-uf Nov: 
+Field: cod-lancto Nov: 002
+Field: num-seq-ajust Nov: 1
+Field: val-ajust-apurac Nov: 100
+Field: dsl-ajust-apurac Nov: TESTE
+Field: dat-inic-valid Nov: TODAY
+Field: dat-fim-valid ?
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: dwf-text-msg-fisc Evento: C Chave: D0000065|TODAY|
+Field: cod-msg Nov: D0000065
+Field: dsl-msg Nov: teste
+Field: dat-inic-valid Nov: TODAY
+Field: dat-fim-valid ?
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgmov Tabela: dwf-apurac-impto-recolh Evento: C Chave: 1|01/05/11|31/05/11|001|SC|TODAY|ICMSST|1|
+Field: cod-estab Nov: 1
+Field: dat-apurac-inicial-impto Nov: 01/05/2011
+Field: dat-apurac-final-impto Nov: 31/05/2011
+Field: cod-ajust Nov: 001
+Field: cod-receita Nov: 001
+Field: cod-docto-arrecadac Nov: 
+Field: cod-uf Nov: SC
+Field: val-ajust-apurac Nov: 2000
+Field: dat-vencto Nov: 10/06/2011
+Field: cod-proces Nov: 123456
+Field: idi-orig-proces Nov: 1
+Field: des-proces Nov: teste
+Field: dsl-ajust-apurac Nov: D0000065
+Field: dat-inic-valid Nov: TODAY
+Field: dat-fim-valid ?
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: cod-impto Nov: ICMSST
+Field: nume-guia Nov: 1
+=====> BD: mgmov Tabela: dwf-apurac-impto-recolh Evento: D Chave: 1|01/05/11|31/05/11|001|SC|TODAY|ICMSST|1|
+=====> BD: mgmov Tabela: dwf-apurac-impto-recolh Evento: C Chave: 1|01/05/11|31/05/11|001|SC|TODAY|ICMSST|1|
+Field: cod-estab Nov: 1
+Field: dat-apurac-inicial-impto Nov: 01/05/2011
+Field: dat-apurac-final-impto Nov: 31/05/2011
+Field: cod-ajust Nov: 001
+Field: cod-receita Nov: 001
+Field: cod-docto-arrecadac Nov: 
+Field: cod-uf Nov: SC
+Field: val-ajust-apurac Nov: 2000
+Field: dat-vencto Nov: 10/06/2011
+Field: cod-proces Nov: 123456
+Field: idi-orig-proces Nov: 1
+Field: des-proces Nov: teste
+Field: dsl-ajust-apurac Nov: D0000065
+Field: dat-inic-valid Nov: TODAY
+Field: dat-fim-valid ?
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 1
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: cod-impto Nov: ICMSST
+Field: nume-guia Nov: 1
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      dwf-text-msg-fisc                       1          0          0
+mgmov      dwf-apurac-impto                        1          0          0
+mgmov      dwf-apurac-impto-ajust                  1          0          0
+mgmov      dwf-apurac-impto-recolh                 2          0          1
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              5          0          1

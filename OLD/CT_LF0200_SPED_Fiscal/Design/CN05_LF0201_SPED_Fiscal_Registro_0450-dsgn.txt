@@ -1,0 +1,6 @@
+     Cenario : CN05_LF0201_SPED_Fiscal_Registro_0450
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

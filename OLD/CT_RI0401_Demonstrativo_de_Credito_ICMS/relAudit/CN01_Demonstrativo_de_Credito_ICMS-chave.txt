@@ -1,0 +1,4640 @@
+=====> BD: mgcad Tabela: ri-contr-livros Evento: D Chave: 1|31/12/09|1|
+=====> BD: mgcad Tabela: ri-contr-livros Evento: D Chave: 1|31/12/10|1|
+=====> BD: mgcad Tabela: ri-contr-livros Evento: D Chave: 1|31/01/11|1|
+=====> BD: mgcad Tabela: ri-contr-livros Evento: D Chave: 1|28/02/11|1|
+=====> BD: mgcad Tabela: ri-contr-livros Evento: D Chave: 1|31/03/11|1|
+=====> BD: mgcad Tabela: ri-contr-livros Evento: D Chave: 1|30/04/11|1|
+=====> BD: mgcad Tabela: ri-contr-livros Evento: D Chave: 1|31/05/11|1|
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: D Chave: 1|2011|1|1|
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: D Chave: 1|2011|2|1|
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: D Chave: 1|2011|3|1|
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: D Chave: 1|2011|4|1|
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: D Chave: 1|2011|5|1|
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2009|1|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2009
+Field: mes Nov: 1
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 10
+Field: val-tot-imposto-a-aprop Nov: 480
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 10
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2009|1|
+Field: id-ult-bem Ant: 16 Nov: 1
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2009|2|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2009
+Field: mes Nov: 2
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 10
+Field: val-tot-imposto-a-aprop Nov: 480
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 10
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2009|2|
+Field: id-ult-bem Ant: 16 Nov: 1
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2009|3|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2009
+Field: mes Nov: 3
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 10
+Field: val-tot-imposto-a-aprop Nov: 480
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 10
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2009|3|
+Field: id-ult-bem Ant: 16 Nov: 1
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2009|4|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2009
+Field: mes Nov: 4
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 10
+Field: val-tot-imposto-a-aprop Nov: 480
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 10
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2009|4|
+Field: id-ult-bem Ant: 16 Nov: 1
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2009|5|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2009
+Field: mes Nov: 5
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 10
+Field: val-tot-imposto-a-aprop Nov: 480
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 10
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2009|5|
+Field: id-ult-bem Ant: 16 Nov: 1
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2009|6|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2009
+Field: mes Nov: 6
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 10
+Field: val-tot-imposto-a-aprop Nov: 480
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 10
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2009|6|
+Field: id-ult-bem Ant: 16 Nov: 1
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2009|7|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2009
+Field: mes Nov: 7
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 20
+Field: val-tot-imposto-a-aprop Nov: 960
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 20
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2009|7|
+Field: id-ult-bem Ant: 16 Nov: 2
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2009|8|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2009
+Field: mes Nov: 8
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 20
+Field: val-tot-imposto-a-aprop Nov: 960
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 20
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2009|8|
+Field: id-ult-bem Ant: 16 Nov: 2
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2009|9|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2009
+Field: mes Nov: 9
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 20
+Field: val-tot-imposto-a-aprop Nov: 960
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 20
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2009|9|
+Field: id-ult-bem Ant: 16 Nov: 2
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2009|10|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2009
+Field: mes Nov: 10
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 20
+Field: val-tot-imposto-a-aprop Nov: 960
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 20
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2009|10|
+Field: id-ult-bem Ant: 16 Nov: 2
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2009|11|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2009
+Field: mes Nov: 11
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 20
+Field: val-tot-imposto-a-aprop Nov: 960
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 20
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2009|11|
+Field: id-ult-bem Ant: 16 Nov: 2
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2009|12|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2009
+Field: mes Nov: 12
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 20
+Field: val-tot-imposto-a-aprop Nov: 960
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 20
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2009|12|
+Field: id-ult-bem Ant: 16 Nov: 2
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/01/09|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 2
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/01/2009
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|28/02/09|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 2
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 28/02/2009
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/03/09|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 2
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/03/2009
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/04/09|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 2
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/04/2009
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/05/09|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 2
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/05/2009
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/06/09|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 2
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/06/2009
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/07/09|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 2
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/07/2009
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/08/09|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 2
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/08/2009
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/09/09|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 2
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/09/2009
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/10/09|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 2
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/10/2009
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/11/09|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 2
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/11/2009
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/12/09|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 2
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/12/2009
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2010|1|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2010
+Field: mes Nov: 1
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 30
+Field: val-tot-imposto-a-aprop Nov: 1440
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 30
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2010|1|
+Field: id-ult-bem Ant: 16 Nov: 1
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2010|2|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2010
+Field: mes Nov: 2
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 30
+Field: val-tot-imposto-a-aprop Nov: 1440
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 30
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2010|2|
+Field: id-ult-bem Ant: 16 Nov: 1
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2010|3|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2010
+Field: mes Nov: 3
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 30
+Field: val-tot-imposto-a-aprop Nov: 1440
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 30
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2010|3|
+Field: id-ult-bem Ant: 16 Nov: 1
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2010|4|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2010
+Field: mes Nov: 4
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 30
+Field: val-tot-imposto-a-aprop Nov: 1440
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 30
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2010|4|
+Field: id-ult-bem Ant: 16 Nov: 1
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2010|5|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2010
+Field: mes Nov: 5
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 30
+Field: val-tot-imposto-a-aprop Nov: 1440
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 30
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2010|5|
+Field: id-ult-bem Ant: 16 Nov: 1
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2010|6|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2010
+Field: mes Nov: 6
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 30
+Field: val-tot-imposto-a-aprop Nov: 1440
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 30
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2010|6|
+Field: id-ult-bem Ant: 16 Nov: 1
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2010|7|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2010
+Field: mes Nov: 7
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 40
+Field: val-tot-imposto-a-aprop Nov: 1920
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 40
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2010|7|
+Field: id-ult-bem Ant: 16 Nov: 2
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2010|8|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2010
+Field: mes Nov: 8
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 40
+Field: val-tot-imposto-a-aprop Nov: 1920
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 40
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2010|8|
+Field: id-ult-bem Ant: 16 Nov: 2
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2010|9|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2010
+Field: mes Nov: 9
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 40
+Field: val-tot-imposto-a-aprop Nov: 1920
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 40
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2010|9|
+Field: id-ult-bem Ant: 16 Nov: 2
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2010|10|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2010
+Field: mes Nov: 10
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 40
+Field: val-tot-imposto-a-aprop Nov: 1920
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 40
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2010|10|
+Field: id-ult-bem Ant: 16 Nov: 2
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2010|11|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2010
+Field: mes Nov: 11
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 40
+Field: val-tot-imposto-a-aprop Nov: 1920
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 40
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2010|11|
+Field: id-ult-bem Ant: 16 Nov: 2
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2010|12|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2010
+Field: mes Nov: 12
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 40
+Field: val-tot-imposto-a-aprop Nov: 1920
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 40
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2010|12|
+Field: id-ult-bem Ant: 16 Nov: 2
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/01/10|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 4
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/01/2010
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|28/02/10|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 4
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 28/02/2010
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/03/10|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 4
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/03/2010
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/04/10|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 4
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/04/2010
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/05/10|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 4
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/05/2010
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/06/10|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 4
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/06/2010
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/07/10|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 4
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/07/2010
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/08/10|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 4
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/08/2010
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/09/10|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 4
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/09/2010
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/10/10|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 4
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/10/2010
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/11/10|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 4
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/11/2010
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/12/10|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 4
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/12/2010
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2011|1|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2011
+Field: mes Nov: 1
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 67,08
+Field: val-tot-imposto-a-aprop Nov: 3220
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 72,08
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2011|1|
+Field: id-ult-bem Ant: 0 Nov: 4
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2011|2|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2011
+Field: mes Nov: 2
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 67,08
+Field: val-tot-imposto-a-aprop Nov: 3220
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 72,08
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2011|2|
+Field: id-ult-bem Ant: 0 Nov: 4
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2011|3|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2011
+Field: mes Nov: 3
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 67,08
+Field: val-tot-imposto-a-aprop Nov: 3220
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 72,08
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2011|3|
+Field: id-ult-bem Ant: 0 Nov: 4
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2011|4|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2011
+Field: mes Nov: 4
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 67,08
+Field: val-tot-imposto-a-aprop Nov: 3220
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 72,08
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2011|4|
+Field: id-ult-bem Ant: 0 Nov: 4
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2011|5|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2011
+Field: mes Nov: 5
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 74,08
+Field: val-tot-imposto-a-aprop Nov: 3556
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 82,08
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2011|5|
+Field: id-ult-bem Ant: 21 Nov: 9
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2011|6|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2011
+Field: mes Nov: 6
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 74,08
+Field: val-tot-imposto-a-aprop Nov: 3556
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 79,08
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2011|6|
+Field: id-ult-bem Ant: 16 Nov: 9
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2011|7|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2011
+Field: mes Nov: 7
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 84,08
+Field: val-tot-imposto-a-aprop Nov: 4036
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 89,08
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2011|7|
+Field: id-ult-bem Ant: 16 Nov: 10
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2011|8|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2011
+Field: mes Nov: 8
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 84,08
+Field: val-tot-imposto-a-aprop Nov: 4036
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 89,08
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2011|8|
+Field: id-ult-bem Ant: 16 Nov: 10
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2011|9|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2011
+Field: mes Nov: 9
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 84,08
+Field: val-tot-imposto-a-aprop Nov: 4036
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 89,08
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2011|9|
+Field: id-ult-bem Ant: 16 Nov: 10
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2011|10|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2011
+Field: mes Nov: 10
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 84,08
+Field: val-tot-imposto-a-aprop Nov: 4036
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 89,08
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2011|10|
+Field: id-ult-bem Ant: 16 Nov: 10
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2011|11|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2011
+Field: mes Nov: 11
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 23012,33
+Field: val-tot-imposto-a-aprop Nov: 1104591,8
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 23017,33
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2011|11|
+Field: id-ult-bem Ant: 16 Nov: 17
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2011|12|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2011
+Field: mes Nov: 12
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 23012,33
+Field: val-tot-imposto-a-aprop Nov: 1104591,8
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 23017,33
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2011|12|
+Field: id-ult-bem Ant: 16 Nov: 17
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/01/11|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 6
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/01/2011
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|28/02/11|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 6
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 28/02/2011
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/03/11|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 6
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/03/2011
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/04/11|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 6
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/04/2011
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/05/11|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 6
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/05/2011
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/06/11|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 6
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/06/2011
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/07/11|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 6
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/07/2011
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/08/11|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 6
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/08/2011
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/09/11|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 6
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/09/2011
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/10/11|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 6
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/10/2011
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/11/11|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 6
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/11/2011
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/12/11|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 6
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/12/2011
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2012|1|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2012
+Field: mes Nov: 1
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 23012,33
+Field: val-tot-imposto-a-aprop Nov: 1104591,8
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 23017,33
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2012|1|
+Field: id-ult-bem Ant: 16 Nov: 0
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2012|2|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2012
+Field: mes Nov: 2
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 23012,33
+Field: val-tot-imposto-a-aprop Nov: 1104591,8
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 23017,33
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2012|2|
+Field: id-ult-bem Ant: 16 Nov: 0
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2012|3|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2012
+Field: mes Nov: 3
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 23012,33
+Field: val-tot-imposto-a-aprop Nov: 1104591,8
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 23017,33
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2012|3|
+Field: id-ult-bem Ant: 16 Nov: 0
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2012|4|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2012
+Field: mes Nov: 4
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 23012,33
+Field: val-tot-imposto-a-aprop Nov: 1104591,8
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 23017,33
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2012|4|
+Field: id-ult-bem Ant: 16 Nov: 0
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2012|5|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2012
+Field: mes Nov: 5
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 23012,33
+Field: val-tot-imposto-a-aprop Nov: 1104591,8
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 23017,33
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2012|5|
+Field: id-ult-bem Ant: 16 Nov: 0
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2012|6|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2012
+Field: mes Nov: 6
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 23012,33
+Field: val-tot-imposto-a-aprop Nov: 1104591,8
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 23017,33
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2012|6|
+Field: id-ult-bem Ant: 16 Nov: 0
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2012|7|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2012
+Field: mes Nov: 7
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 23012,33
+Field: val-tot-imposto-a-aprop Nov: 1104591,8
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 23017,33
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2012|7|
+Field: id-ult-bem Ant: 16 Nov: 0
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2012|8|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2012
+Field: mes Nov: 8
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 23012,33
+Field: val-tot-imposto-a-aprop Nov: 1104591,8
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 23017,33
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2012|8|
+Field: id-ult-bem Ant: 16 Nov: 0
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2012|9|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2012
+Field: mes Nov: 9
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 23012,33
+Field: val-tot-imposto-a-aprop Nov: 1104591,8
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 23017,33
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2012|9|
+Field: id-ult-bem Ant: 16 Nov: 0
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2012|10|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2012
+Field: mes Nov: 10
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 23012,33
+Field: val-tot-imposto-a-aprop Nov: 1104591,8
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 23017,33
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2012|10|
+Field: id-ult-bem Ant: 16 Nov: 0
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2012|11|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2012
+Field: mes Nov: 11
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 23012,33
+Field: val-tot-imposto-a-aprop Nov: 1104591,8
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 23017,33
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2012|11|
+Field: id-ult-bem Ant: 16 Nov: 0
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2012|12|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2012
+Field: mes Nov: 12
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 23012,33
+Field: val-tot-imposto-a-aprop Nov: 1104591,8
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 23017,33
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2012|12|
+Field: id-ult-bem Ant: 16 Nov: 0
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/01/12|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 8
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/01/2012
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|29/02/12|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 8
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 29/02/2012
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/03/12|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 8
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/03/2012
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/04/12|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 8
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/04/2012
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/05/12|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 8
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/05/2012
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/06/12|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 8
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/06/2012
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/07/12|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 8
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/07/2012
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/08/12|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 8
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/08/2012
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/09/12|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 8
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/09/2012
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/10/12|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 8
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/10/2012
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/11/12|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 8
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/11/2012
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/12/12|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 8
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/12/2012
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2013|1|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2013
+Field: mes Nov: 1
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457062,01
+Field: val-tot-imposto-a-aprop Nov: 21938976,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457067,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2013|1|
+Field: id-ult-bem Ant: 16 Nov: 9
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2013|2|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2013
+Field: mes Nov: 2
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457062,01
+Field: val-tot-imposto-a-aprop Nov: 21938976,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457067,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2013|2|
+Field: id-ult-bem Ant: 16 Nov: 9
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2013|3|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2013
+Field: mes Nov: 3
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457062,01
+Field: val-tot-imposto-a-aprop Nov: 21938976,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457067,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2013|3|
+Field: id-ult-bem Ant: 16 Nov: 9
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2013|4|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2013
+Field: mes Nov: 4
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457062,01
+Field: val-tot-imposto-a-aprop Nov: 21938976,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457067,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2013|4|
+Field: id-ult-bem Ant: 16 Nov: 9
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2013|5|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2013
+Field: mes Nov: 5
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457062,01
+Field: val-tot-imposto-a-aprop Nov: 21938976,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457067,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2013|5|
+Field: id-ult-bem Ant: 16 Nov: 9
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2013|6|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2013
+Field: mes Nov: 6
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457062,01
+Field: val-tot-imposto-a-aprop Nov: 21938976,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457067,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2013|6|
+Field: id-ult-bem Ant: 16 Nov: 9
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2013|7|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2013
+Field: mes Nov: 7
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457052,01
+Field: val-tot-imposto-a-aprop Nov: 21938496,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457057,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2013|7|
+Field: id-ult-bem Ant: 16 Nov: 10
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2013|8|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2013
+Field: mes Nov: 8
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457052,01
+Field: val-tot-imposto-a-aprop Nov: 21938496,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457057,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2013|8|
+Field: id-ult-bem Ant: 16 Nov: 10
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2013|9|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2013
+Field: mes Nov: 9
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457052,01
+Field: val-tot-imposto-a-aprop Nov: 21938496,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457057,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2013|9|
+Field: id-ult-bem Ant: 16 Nov: 10
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2013|10|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2013
+Field: mes Nov: 10
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457052,01
+Field: val-tot-imposto-a-aprop Nov: 21938496,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457057,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2013|10|
+Field: id-ult-bem Ant: 16 Nov: 10
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2013|11|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2013
+Field: mes Nov: 11
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457052,01
+Field: val-tot-imposto-a-aprop Nov: 21938496,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457057,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2013|11|
+Field: id-ult-bem Ant: 16 Nov: 10
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2013|12|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2013
+Field: mes Nov: 12
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457052,01
+Field: val-tot-imposto-a-aprop Nov: 21938496,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457057,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2013|12|
+Field: id-ult-bem Ant: 16 Nov: 10
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/01/13|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 10
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/01/2013
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|28/02/13|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 10
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 28/02/2013
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/03/13|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 10
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/03/2013
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/04/13|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 10
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/04/2013
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/05/13|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 10
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/05/2013
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/06/13|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 10
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/06/2013
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/07/13|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 10
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/07/2013
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/08/13|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 10
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/08/2013
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/09/13|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 10
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/09/2013
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/10/13|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 10
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/10/2013
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/11/13|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 10
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/11/2013
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/12/13|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 10
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/12/2013
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2014|1|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2014
+Field: mes Nov: 1
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457027,01
+Field: val-tot-imposto-a-aprop Nov: 21937296,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457027,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2014|1|
+Field: id-ult-bem Ant: 16 Nov: 3
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2014|2|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2014
+Field: mes Nov: 2
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457027,01
+Field: val-tot-imposto-a-aprop Nov: 21937296,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457027,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2014|2|
+Field: id-ult-bem Ant: 16 Nov: 3
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2014|3|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2014
+Field: mes Nov: 3
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457027,01
+Field: val-tot-imposto-a-aprop Nov: 21937296,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457027,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2014|3|
+Field: id-ult-bem Ant: 16 Nov: 3
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2014|4|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2014
+Field: mes Nov: 4
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457027,01
+Field: val-tot-imposto-a-aprop Nov: 21937296,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457027,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2014|4|
+Field: id-ult-bem Ant: 16 Nov: 3
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2014|5|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2014
+Field: mes Nov: 5
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457027,01
+Field: val-tot-imposto-a-aprop Nov: 21937296,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457027,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2014|5|
+Field: id-ult-bem Ant: 16 Nov: 3
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2014|6|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2014
+Field: mes Nov: 6
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457027,01
+Field: val-tot-imposto-a-aprop Nov: 21937296,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457027,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2014|6|
+Field: id-ult-bem Ant: 16 Nov: 3
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2014|7|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2014
+Field: mes Nov: 7
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457017,01
+Field: val-tot-imposto-a-aprop Nov: 21936816,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457017,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2014|7|
+Field: id-ult-bem Ant: 16 Nov: 4
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2014|8|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2014
+Field: mes Nov: 8
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457017,01
+Field: val-tot-imposto-a-aprop Nov: 21936816,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457017,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2014|8|
+Field: id-ult-bem Ant: 16 Nov: 4
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2014|9|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2014
+Field: mes Nov: 9
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457017,01
+Field: val-tot-imposto-a-aprop Nov: 21936816,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457017,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2014|9|
+Field: id-ult-bem Ant: 16 Nov: 4
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2014|10|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2014
+Field: mes Nov: 10
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457017,01
+Field: val-tot-imposto-a-aprop Nov: 21936816,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457017,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2014|10|
+Field: id-ult-bem Ant: 16 Nov: 4
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2014|11|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2014
+Field: mes Nov: 11
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457017,01
+Field: val-tot-imposto-a-aprop Nov: 21936816,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457017,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2014|11|
+Field: id-ult-bem Ant: 16 Nov: 4
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2014|12|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2014
+Field: mes Nov: 12
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457017,01
+Field: val-tot-imposto-a-aprop Nov: 21936816,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457017,02
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2014|12|
+Field: id-ult-bem Ant: 16 Nov: 4
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/01/14|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 12
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/01/2014
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|28/02/14|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 12
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 28/02/2014
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/03/14|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 12
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/03/2014
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/04/14|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 12
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/04/2014
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/05/14|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 12
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/05/2014
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/06/14|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 12
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/06/2014
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/07/14|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 12
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/07/2014
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/08/14|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 12
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/08/2014
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/09/14|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 12
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/09/2014
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/10/14|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 12
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/10/2014
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/11/14|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 12
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/11/2014
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/12/14|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 12
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/12/2014
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2015|1|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2015
+Field: mes Nov: 1
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457004,93
+Field: val-tot-imposto-a-aprop Nov: 21936236,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457004,94
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2015|1|
+Field: id-ult-bem Ant: 16 Nov: 2
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2015|2|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2015
+Field: mes Nov: 2
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457004,93
+Field: val-tot-imposto-a-aprop Nov: 21936236,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457004,94
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2015|2|
+Field: id-ult-bem Ant: 16 Nov: 2
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2015|3|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2015
+Field: mes Nov: 3
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457004,93
+Field: val-tot-imposto-a-aprop Nov: 21936236,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457004,94
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2015|3|
+Field: id-ult-bem Ant: 16 Nov: 2
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2015|4|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2015
+Field: mes Nov: 4
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 457004,93
+Field: val-tot-imposto-a-aprop Nov: 21936236,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 457004,94
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2015|4|
+Field: id-ult-bem Ant: 16 Nov: 2
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2015|5|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2015
+Field: mes Nov: 5
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 456997,93
+Field: val-tot-imposto-a-aprop Nov: 21935900,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 456997,94
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2015|5|
+Field: id-ult-bem Ant: 16 Nov: 3
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2015|6|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2015
+Field: mes Nov: 6
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 456997,93
+Field: val-tot-imposto-a-aprop Nov: 21935900,4
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 456997,94
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2015|6|
+Field: id-ult-bem Ant: 16 Nov: 3
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2015|7|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2015
+Field: mes Nov: 7
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 456987,92
+Field: val-tot-imposto-a-aprop Nov: 21935420,1
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 456987,93
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2015|7|
+Field: id-ult-bem Ant: 16 Nov: 5
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2015|8|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2015
+Field: mes Nov: 8
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 456987,92
+Field: val-tot-imposto-a-aprop Nov: 21935420,1
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 456987,93
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2015|8|
+Field: id-ult-bem Ant: 16 Nov: 5
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2015|9|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2015
+Field: mes Nov: 9
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 456987,92
+Field: val-tot-imposto-a-aprop Nov: 21935420,1
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 456987,93
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2015|9|
+Field: id-ult-bem Ant: 16 Nov: 5
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2015|10|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2015
+Field: mes Nov: 10
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 456987,92
+Field: val-tot-imposto-a-aprop Nov: 21935420,1
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 456987,54
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2015|10|
+Field: id-ult-bem Ant: 16 Nov: 5
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2015|11|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2015
+Field: mes Nov: 11
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 434059,67
+Field: val-tot-imposto-a-aprop Nov: 20834864,3
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 434059,68
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2015|11|
+Field: id-ult-bem Ant: 16 Nov: 12
+=====> BD: mgmov Tabela: ri-fatur-mes-grupo-impto Evento: C Chave: 1|2015|12|1|
+Field: cod-estabel Nov: 1
+Field: ano Nov: 2015
+Field: mes Nov: 12
+Field: cod-grupo Nov: 1
+Field: val-imposto-aprop Nov: 434059,67
+Field: val-tot-imposto-a-aprop Nov: 20834864,3
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 434059,68
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgmov Tabela: ri-fatur-mes Evento: W Chave: 1|2015|12|
+Field: id-ult-bem Ant: 16 Nov: 12
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/01/15|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 14
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/01/2015
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|28/02/15|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 14
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 28/02/2015
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/03/15|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 14
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/03/2015
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/04/15|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 14
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/04/2015
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/05/15|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 14
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/05/2015
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/06/15|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 14
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/06/2015
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/07/15|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 14
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/07/2015
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/08/15|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 14
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/08/2015
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/09/15|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 14
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/09/2015
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/10/15|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 14
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/10/2015
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|30/11/15|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 14
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 30/11/2015
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+=====> BD: mgcad Tabela: ri-contr-livros Evento: C Chave: 1|31/12/15|1|
+Field: cod-estabel Nov: 1
+Field: idi-livro Nov: 1
+Field: nr-ult-pag Nov: 14
+Field: cod-grupo Nov: 1
+Field: dat-ult-emiss Nov: 31/12/2015
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: char-3 Nov: 
+Field: char-4 Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: log-3 Nov: no
+Field: log-4 Nov: no
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: dec-3 Nov: 0
+Field: dec-4 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: int-3 Nov: 0
+Field: int-4 Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: data-3 ?
+Field: data-4 ?
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      ri-contr-livros                        84          0          7
+mgmov      ri-fatur-mes                            0         84          0
+mgmov      ri-fatur-mes-grupo-impto               84          0          5
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                            168         84         12

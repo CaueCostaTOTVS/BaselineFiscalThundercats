@@ -1,0 +1,1106 @@
+MEN702DC                              3.00.00.001    menu_uit                      TODAY  00:00:00
+BTB906ZA                              2.00.00.011    men702dc                      TODAY  00:00:00
+MEN901ZA                              2.00.00.006    men702dc                      TODAY  00:00:00
+UT-TRDFR                              3.00.00.001    men702dc                      TODAY  00:00:00
+RE1001                                2.00.01.042    men702dc                      TODAY  00:00:00
+MEN901ZA                              2.00.00.006    re1001                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    re1001                        TODAY  00:00:00
+BTB970AA                              2.00.00.004    re1001                        TODAY  00:00:00
+BTB432ZG                              2.00.01.008    btb970aa                      TODAY  00:00:00
+THINFOLDER                            2.00.00.002    re1001                        TODAY  00:00:00
+WINDOWSTYLES                          3.00.00.001    re1001                        TODAY  00:00:00
+BTAPI008                              2.00.00.002    re1001                        TODAY  00:00:00
+BOIN090                               2.00.00.051    re1001                        TODAY  00:00:00
+CD9150E                               2.00.00.015    boin090                       TODAY  00:00:00
+CD9150G                               2.00.00.002    cd9150e                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    boin090                       TODAY  00:00:00
+BTBSECURITY                           3.00.00.001    boin090                       TODAY  00:00:00
+MEN901ZA                              2.00.00.006    btbsecur                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin090                       TODAY  00:00:00
+BTBAUTENTIC                           3.00.00.001    boin090                       TODAY  00:00:00
+BOIN176                               2.00.00.069    re1001                        TODAY  00:00:00
+CDAPI995                              2.00.00.004    boin176                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin176                       TODAY  00:00:00
+BOIV029                               2.00.00.024    boin176                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boiv029                       TODAY  00:00:00
+UT-XMLPRS                             3.00.00.001    boiv029                       TODAY  00:00:00
+CD9903                                2.00.00.007    boin176                       TODAY  00:00:00
+CD9902                                2.00.00.006    cd9903                        TODAY  00:00:00
+BOIN092                               2.00.00.056    re1001                        TODAY  00:00:00
+CD8889                                2.00.00.016    boin092                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin092                       TODAY  00:00:00
+BOIN087                               2.00.00.012    re1001                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin087                       TODAY  00:00:00
+BOIN223                               2.00.00.046    re1001                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin223                       TODAY  00:00:00
+BOIN223                               2.00.00.046    re1001                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin223                       TODAY  00:00:00
+BOIN366                               2.00.00.073    re1001                        TODAY  00:00:00
+CDAPI995                              2.00.00.004    boin366                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin366                       TODAY  00:00:00
+BOIN092                               2.00.00.056    re1001                        TODAY  00:00:00
+CD8889                                2.00.00.016    boin092                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin092                       TODAY  00:00:00
+BOAD107                               2.00.00.028    re1001                        TODAY  00:00:00
+BOIN245                               2.00.00.023    re1001                        TODAY  00:00:00
+UT-CRM11                              3.00.00.000    boin245                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin245                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boad0046                      TODAY  00:00:00
+BOAD098                               2.00.00.074    re1001                        TODAY  00:00:00
+BOIN682                               2.00.00.016    boad098                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin682                       TODAY  00:00:00
+BTBERRORS                             3.00.00.001    boin090                       TODAY  00:00:00
+BOIN292                               2.00.00.005    re1001                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin292                       TODAY  00:00:00
+BTB910ZZ                              2.00.00.017    re1001                        TODAY  00:00:00
+UT-TRDFR                              3.00.00.001    btb910zz                      TODAY  00:00:00
+SEAPI004AA                            2.00.00.040    btb910zz                      TODAY  00:00:00
+BOIN292                               2.00.00.005    re1001                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin292                       TODAY  00:00:00
+UT-TRCAMPOS                           2.00.00.009    re1001                        TODAY  00:00:00
+RE1001A                               2.00.00.088    re1001                        TODAY  00:00:00
+MEN901ZA                              2.00.00.006    re1001a                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    re1001a                       TODAY  00:00:00
+BTB970AA                              2.00.00.004    re1001a                       TODAY  00:00:00
+BOIN245                               2.00.00.023    re1001a                       TODAY  00:00:00
+UT-CRM11                              3.00.00.000    boin245                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin245                       TODAY  00:00:00
+BOAD098                               2.00.00.074    re1001a                       TODAY  00:00:00
+BOIN682                               2.00.00.016    boad098                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin682                       TODAY  00:00:00
+BOIN847                               2.00.00.056    re1001a                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin847                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+UT-TRCAMPOS                           2.00.00.009    re1001a                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+BODI317EF                             2.00.01.031    re1001a                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi317e                      TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CDAPI029                              2.00.00.001    boin090                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    cdapi029                      TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+api_controle_ccusto                       prgint/utb/utb742za.py    1.00.00.005    TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+BTBCUSTOM                             3.00.00.001    boin090                       TODAY  00:00:00
+BTB009ZA                              2.00.00.003    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+api_valida_emp_estab                      prgint/utb/utb786za.py    1.00.00.036    TODAY  00:00:00
+api_tit_ap_impostos_calc                  prgfin/apb/apb719za.py    5.01.00.011    TODAY  00:00:00
+SPP_LOCALIZ_SUL_AMERICA                   no
+SPP_LOCALIZ_MEXICO                        no
+BTB009ZA                              2.00.00.003    boin090                       TODAY  00:00:00
+BOIN847                               2.00.00.056    boin090                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin847                       TODAY  00:00:00
+GG-DOCUM-EST-W                        2.00.00.017    twin090                       TODAY  00:00:00
+TCGG075                               2.00.00.001    gg-docum                      TODAY  00:00:00
+TWGG075                               2.00.00.001    gg-docum                      TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+BOIN292                               2.00.00.005    re1001                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin292                       TODAY  00:00:00
+SHOWMESSAGE                           3.00.00.001    re1001a                       TODAY  00:00:00
+MEN901ZA                              2.00.00.006    showmess                      TODAY  00:00:00
+UT-TRCAMPOS                           2.00.00.009    showmess                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    re1001a                       TODAY  00:00:00
+RE1001B                               2.00.01.080    re1001                        TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+api_controle_ccusto                       prgint/utb/utb742za.py    1.00.00.005    TODAY  00:00:00
+UT-LSTIT                              3.00.00.001    re1001b                       TODAY  00:00:00
+UT-LSTIT                              3.00.00.001    re1001b                       TODAY  00:00:00
+UT-LSTIT                              3.00.00.001    re1001b                       TODAY  00:00:00
+BTAPI008                              2.00.00.002    re1001b                       TODAY  00:00:00
+BOIN176                               2.00.00.069    re1001b                       TODAY  00:00:00
+CDAPI995                              2.00.00.004    boin176                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin176                       TODAY  00:00:00
+BOIV029                               2.00.00.024    boin176                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boiv029                       TODAY  00:00:00
+CD9903                                2.00.00.007    boin176                       TODAY  00:00:00
+CD9902                                2.00.00.006    cd9903                        TODAY  00:00:00
+BOIN367                               2.00.00.062    re1001b                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    boin367                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin367                       TODAY  00:00:00
+BOIN368                               2.00.00.027    re1001b                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    boin368                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin368                       TODAY  00:00:00
+BOIN656                               2.00.00.010    re1001b                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin656                       TODAY  00:00:00
+BODI300                               2.00.00.021    re1001b                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi300                       TODAY  00:00:00
+BOIN745                               2.00.00.014    re1001b                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin745                       TODAY  00:00:00
+BOIN245                               2.00.00.023    re1001b                       TODAY  00:00:00
+UT-CRM11                              3.00.00.000    boin245                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin245                       TODAY  00:00:00
+BODI538                               2.00.00.049    re1001b                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi538                       TODAY  00:00:00
+CDAPI995                              2.00.00.004    re1001b                       TODAY  00:00:00
+CDCFGFISCAL                           2.00.00.004    re1001b                       TODAY  00:00:00
+CDCFGFISCAL-1                         2.00.00.005    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-2                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-3                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-4                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-5                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+BOAD107NA                             2.00.00.034    re1001b                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boad107n                      TODAY  00:00:00
+BOIN178                               2.00.01.014    re1001b                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin178                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin176                       TODAY  00:00:00
+MEN901ZA                              2.00.00.006    re1001b                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    re1001b                       TODAY  00:00:00
+BTB970AA                              2.00.00.004    re1001b                       TODAY  00:00:00
+THINFOLDER                            2.00.00.002    re1001b                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+UT-TRCAMPOS                           2.00.00.009    re1001b                       TODAY  00:00:00
+RE1001B1                              2.00.00.058    re1001b                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    re1001b1                      TODAY  00:00:00
+CD9903                                2.00.00.007    re1001b1                      TODAY  00:00:00
+CD9902                                2.00.00.006    cd9903                        TODAY  00:00:00
+MEN901ZA                              2.00.00.006    re1001b1                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    re1001b1                      TODAY  00:00:00
+BTB970AA                              2.00.00.004    re1001b1                      TODAY  00:00:00
+THINFOLDER                            2.00.00.002    re1001b1                      TODAY  00:00:00
+BTAPI008                              2.00.00.002    re1001b1                      TODAY  00:00:00
+BOIN745                               2.00.00.014    re1001b1                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin745                       TODAY  00:00:00
+BOIN178                               2.00.01.014    re1001b1                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin178                       TODAY  00:00:00
+BOIN142                               2.00.00.007    re1001b1                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin142                       TODAY  00:00:00
+BOIN172                               2.00.00.042    re1001b1                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    boin172                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin172                       TODAY  00:00:00
+BOIN280                               2.00.00.010    re1001b1                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin280                       TODAY  00:00:00
+BOIN090                               2.00.00.051    re1001b1                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    boin090                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin090                       TODAY  00:00:00
+BOIN245                               2.00.00.023    re1001b1                      TODAY  00:00:00
+UT-CRM11                              3.00.00.000    boin245                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin245                       TODAY  00:00:00
+BOIN356                               2.00.00.050    re1001b1                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin356                       TODAY  00:00:00
+BOIN356VL                             2.00.01.010    re1001b1                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    boin356v                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin356v                      TODAY  00:00:00
+BOIN840                               2.00.00.003    re1001b1                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin840                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin176                       TODAY  00:00:00
+BOCX332                               2.00.00.037    re1001b1                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bocx332                       TODAY  00:00:00
+AB0804F                               2.00.00.019    re1001b1                      TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+api_controle_ccusto                       prgint/utb/utb742za.py    1.00.00.005    TODAY  00:00:00
+SHOWMESSAGE                           3.00.00.001    ab0804f                       TODAY  00:00:00
+BOFR007                               2.00.00.036    ab0804f                       TODAY  00:00:00
+CD0101I                               2.00.00.001    bofr007                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr007                       TODAY  00:00:00
+BOFR016                               2.00.00.012    ab0804f                       TODAY  00:00:00
+CD0101I                               2.00.00.001    bofr016                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr016                       TODAY  00:00:00
+BOFR021                               2.00.00.004    ab0804f                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr021                       TODAY  00:00:00
+BOFR017                               2.00.00.005    ab0804f                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr017                       TODAY  00:00:00
+BOFR010                               2.00.00.009    ab0804f                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr010                       TODAY  00:00:00
+BOFR003                               2.00.00.002    ab0804f                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr003                       TODAY  00:00:00
+BOFR055                               2.00.00.050    ab0804f                       TODAY  00:00:00
+CD0101I                               2.00.00.001    bofr055                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr055                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+UT-TRCAMPOS                           2.00.00.009    re1001b1                      TODAY  00:00:00
+CD9970                                2.00.00.005    boin176                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin176                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin176                       TODAY  00:00:00
+BODI317IM2BRA                         2.00.00.040    boin176                       TODAY  00:00:00
+CDCFGFISCAL                           2.00.00.004    bodi317i                      TODAY  00:00:00
+CDCFGFISCAL-1                         2.00.00.005    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-2                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-3                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-4                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-5                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi317i                      TODAY  00:00:00
+CD4337                                2.00.00.043    boin176                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    cd4337                        TODAY  00:00:00
+CDAPI1001                             2.00.00.011    boin176                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin176                       TODAY  00:00:00
+CDAPI1001                             2.00.00.011    bodi317i                      TODAY  00:00:00
+CDAPI995                              2.00.00.004    cd4337                        TODAY  00:00:00
+CDAPI995                              2.00.00.004    cd4337                        TODAY  00:00:00
+RE1001R                               2.00.00.008    boin176                       TODAY  00:00:00
+RE1001R                               2.00.00.008    boin176                       TODAY  00:00:00
+CDAPI024                              2.00.00.020    boin176                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin176                       TODAY  00:00:00
+BODI317IM2BRA                         2.00.00.040    boin176                       TODAY  00:00:00
+CDCFGFISCAL                           2.00.00.004    bodi317i                      TODAY  00:00:00
+CDCFGFISCAL-1                         2.00.00.005    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-2                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-3                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-4                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+CDCFGFISCAL-5                         2.00.00.004    cdcfgfis                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi317i                      TODAY  00:00:00
+CD4337                                2.00.00.043    boin176                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    cd4337                        TODAY  00:00:00
+CD4338                                2.00.00.002    boin176                       TODAY  00:00:00
+CDAPI995                              2.00.00.004    cd4337                        TODAY  00:00:00
+CDAPI995                              2.00.00.004    cd4337                        TODAY  00:00:00
+BODI613CALC2                          2.00.00.024    boin176                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi613c                      TODAY  00:00:00
+BODI613CALC2                          2.00.00.024    boin176                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi613c                      TODAY  00:00:00
+CDAPI1001                             2.00.00.011    bodi317i                      TODAY  00:00:00
+BODI613CALC2                          2.00.00.024    boin176                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi613c                      TODAY  00:00:00
+BODI613CALC2                          2.00.00.024    boin176                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi613c                      TODAY  00:00:00
+BCAPI004                              2.00.00.011    boin176                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    bcapi004                      TODAY  00:00:00
+BCAPI011                              2.00.00.021    boin176                       TODAY  00:00:00
+api_controle_ccusto                       prgint/utb/utb742za.py    1.00.00.005    TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+api_validacoes_contabeis_ems2_ems5        prgfin/fgl/fgl731za.py    1.00.00.021    TODAY  00:00:00
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                              01           Alfa             413290100000901      Alfa          010701010000101                           TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Validação da unidade de negócio:01
+ Chamada da pi_validar_unid_negoc_recebto. v_cod_estab=1 p_cod_unid_negoc=01 p_dat_trans=TODAY
+ Retorno da pi_validar_unid_negoc_recebto:
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=413290100000901 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=413290100000901 cod_estab=1
+ Validação restrições conta contábil x unidade de negócio. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=413290100000901 cod_unid_negoc=01
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=413290100000901 p_dat_trans=TODAY
+ Retorno da pi_retornar_criter_distrib_ccusto. v_ind_criter_distrib_ccusto=Utiliza Todos
+ Chamada da pi_validar_plano_ccusto. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_dat_trans=TODAY
+ Chamada da pi_validar_ccusto. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_cod_ccusto=010701010000101 p_dat_trans=TODAY
+ Chamada da pi_validar_ccusto_unid_negoc_estab. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_cod_ccusto=010701010000101 p_cod_unid_negoc=01 v_cod_estab=1
+CDAPI024                              2.00.00.020    boin176                       TODAY  00:00:00
+CN9174                                2.00.00.039    boin176                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    cn9174                        TODAY  00:00:00
+BOIN060                               2.00.00.006    boin176                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin060                       TODAY  00:00:00
+CN9174                                2.00.00.039    boin176                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    cn9174                        TODAY  00:00:00
+GG-ITEM-DOC-EST-W                     2.00.00.017    twin176                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin176                       TODAY  00:00:00
+BOIN367                               2.00.00.062    boin176                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    boin367                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin367                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin367                       TODAY  00:00:00
+CD9760                                2.00.00.023    boin176                       TODAY  00:00:00
+AB0804E                               2.00.00.020    boin176                       TODAY  00:00:00
+BOFR076                               2.00.00.002    ab0804e                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr076                       TODAY  00:00:00
+BOFR055                               2.00.00.050    ab0804e                       TODAY  00:00:00
+CD0101I                               2.00.00.001    bofr055                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr055                       TODAY  00:00:00
+BOFR057                               2.00.00.034    ab0804e                       TODAY  00:00:00
+CD0101I                               2.00.00.001    bofr057                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    bofr057                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr057                       TODAY  00:00:00
+BOFR058                               2.00.00.035    ab0804e                       TODAY  00:00:00
+CD0101I                               2.00.00.001    bofr058                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    bofr058                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr058                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr076                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr055                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr057                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr058                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+api_controle_ccusto                       prgint/utb/utb742za.py    1.00.00.005    TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+api_controle_ccusto                       prgint/utb/utb742za.py    1.00.00.005    TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+AB0804D                               2.00.00.000    ab0804f                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    re1001b1                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin090                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr007                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr016                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr021                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr017                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr010                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr003                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr055                       TODAY  00:00:00
+BOAD098NA                             2.00.00.023    re1001b                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boad098n                      TODAY  00:00:00
+BOUN00384                             2.00.00.001    boad098n                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    hbbo\boP                      TODAY  00:00:00
+CD9970                                2.00.00.005    boin176                       TODAY  00:00:00
+BOFI281                               2.00.00.011    boin176                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofi281                       TODAY  00:00:00
+BODI515                               2.00.00.062    boin176                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi515                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+GG-DOCUM-EST-W                        2.00.00.017    twin090                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    re1001b                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin367                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin368                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin656                       TODAY  00:00:00
+RE1001A1                              2.00.00.040    re1001                        TODAY  00:00:00
+UT-LSTIT                              3.00.00.001    re1001a1                      TODAY  00:00:00
+MEN901ZA                              2.00.00.006    re1001a1                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    re1001a1                      TODAY  00:00:00
+BTB970AA                              2.00.00.004    re1001a1                      TODAY  00:00:00
+UT-LSTIT                              3.00.00.001    re1001a1                      TODAY  00:00:00
+BOUN007                               2.00.00.008    re1001a1                      TODAY  00:00:00
+BODI102                               2.00.00.006    re1001a1                      TODAY  00:00:00
+THINFOLDER                            2.00.00.002    re1001a1                      TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+api_controle_ccusto                       prgint/utb/utb742za.py    1.00.00.005    TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+api_controle_ccusto                       prgint/utb/utb742za.py    1.00.00.005    TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+BOIN176                               2.00.00.069    re1001a1                      TODAY  00:00:00
+CDAPI995                              2.00.00.004    boin176                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin176                       TODAY  00:00:00
+BOIV029                               2.00.00.024    boin176                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boiv029                       TODAY  00:00:00
+CD9903                                2.00.00.007    boin176                       TODAY  00:00:00
+CD9902                                2.00.00.006    cd9903                        TODAY  00:00:00
+BOCX180                               2.00.00.016    re1001a1                      TODAY  00:00:00
+BOIN245                               2.00.00.023    re1001a1                      TODAY  00:00:00
+UT-CRM11                              3.00.00.000    boin245                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin245                       TODAY  00:00:00
+CD9970                                2.00.00.005    re1001a1                      TODAY  00:00:00
+api_controle_ccusto                       prgint/utb/utb742za.py    1.00.00.005    TODAY  00:00:00
+UT-TRCAMPOS                           2.00.00.009    re1001a1                      TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+api_controle_ccusto                       prgint/utb/utb742za.py    1.00.00.005    TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+api_controle_ccusto                       prgint/utb/utb742za.py    1.00.00.005    TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+BODI317EF                             2.00.01.031    re1001a1                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi317e                      TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+api_controle_ccusto                       prgint/utb/utb742za.py    1.00.00.005    TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+BOIN060                               2.00.00.006    boin090                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin060                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin060                       TODAY  00:00:00
+GG-DOCUM-EST-W                        2.00.00.017    twin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+BOIN292                               2.00.00.005    re1001                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin292                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    re1001a1                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin245                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin176                       TODAY  00:00:00
+RE1001                                2.00.01.042    re1001a1                      TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+RE1001C                               2.00.00.018    re1001                        TODAY  00:00:00
+MEN901ZA                              2.00.00.006    re1001c                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    re1001c                       TODAY  00:00:00
+BTB970AA                              2.00.00.004    re1001c                       TODAY  00:00:00
+THINFOLDER                            2.00.00.002    re1001c                       TODAY  00:00:00
+BTAPI008                              2.00.00.002    re1001c                       TODAY  00:00:00
+BOIN090NA                             2.00.00.030    re1001c                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin090n                      TODAY  00:00:00
+BOAD098                               2.00.00.074    re1001c                       TODAY  00:00:00
+BOIN682                               2.00.00.016    boad098                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin682                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin092                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin092                       TODAY  00:00:00
+UT-TRCAMPOS                           2.00.00.009    re1001c                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin092                       TODAY  00:00:00
+BOAD260                               2.00.00.034    boin092                       TODAY  00:00:00
+BOAD170                               2.00.00.003    boin092                       TODAY  00:00:00
+BOIN060                               2.00.00.006    boin092                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin060                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    re1001c                       TODAY  00:00:00
+BOIN245NA                             2.00.00.008    re1001                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin245n                      TODAY  00:00:00
+BOCX312                               2.00.00.050    re1001                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bocx312                       TODAY  00:00:00
+RE1005RP                              2.00.02.072    boin090                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    re1005rp                      TODAY  00:00:00
+CD4337                                2.00.00.043    re1005rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    cd4337                        TODAY  00:00:00
+CDAPI050                              2.00.00.006    re1005rp                      TODAY  00:00:00
+CDAPI029                              2.00.00.001    re1005rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    cdapi029                      TODAY  00:00:00
+UT-ACOMP                              2.00.00.003    re1005rp                      TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+BTB920AA                              2.00.00.012    re1005rp                      TODAY  00:00:00
+BTB009ZA                              2.00.00.003    re1005rp                      TODAY  00:00:00
+CD0101I                               2.00.00.001    re1005rp                      TODAY  00:00:00
+EX3051                                2.00.00.015    re1005rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ex3051                        TODAY  00:00:00
+CEAPI001K                             2.00.00.094    re1005rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ceapi001                      TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+CD0101I                               2.00.00.001    ceapi001                      TODAY  00:00:00
+CEAPI030                              2.00.00.001    ceapi001                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ceapi030                      TODAY  00:00:00
+CD9902                                2.00.00.006    ceapi001                      TODAY  00:00:00
+CDAPI005                              2.00.00.013    ceapi001                      TODAY  00:00:00
+CD7000                                2.00.00.017    ceapi001                      TODAY  00:00:00
+CDAPI186                              2.00.00.012    ceapi001                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    cdapi186                      TODAY  00:00:00
+api_execucao_orcamentaria_2               prgfin/bgc/bgc700zg.py    1.00.00.145    TODAY  00:00:00
+SPP_CONTROLE_TOTAL_BGC                    no
+SPP_INTEGR_CBP_BGC                        no
+SPP_FINALID_CORRENTE_BGC                  no
+api_verifica_log_orcamento                prgfin/bgc/bgc700zc.py    1.00.00.005    TODAY  00:00:00
+
+Achou registro de tradu‡Æo UO.
+
+param_geral_bgc.cod_matriz_trad_org_ext: Ems2    
+
+tipo = 998 - Empresa: 10 
+
+ BF_FIN_EXEC_ORCTARIA ou histor_exec_especial.cod_prog_dtsul = spp_exec_orctaria 
+REAPI331A                             2.00.00.002    re1005rp                      TODAY  00:00:00
+BOIN090                               2.00.00.051    reapi331                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    boin090                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin090                       TODAY  00:00:00
+BOIN090                               2.00.00.051    re1005rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    boin090                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin090                       TODAY  00:00:00
+IM9048                                2.00.00.034    re1005rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    im9048                        TODAY  00:00:00
+CD9970                                2.00.00.005    re1005rp                      TODAY  00:00:00
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                              01           Alfa             413290100000901      Alfa          010701010000101                           TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Validação da unidade de negócio:01
+ Chamada da pi_validar_unid_negoc_recebto. v_cod_estab=1 p_cod_unid_negoc=01 p_dat_trans=TODAY
+ Retorno da pi_validar_unid_negoc_recebto:
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=413290100000901 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=413290100000901 cod_estab=1
+ Validação restrições conta contábil x unidade de negócio. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=413290100000901 cod_unid_negoc=01
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=413290100000901 p_dat_trans=TODAY
+ Retorno da pi_retornar_criter_distrib_ccusto. v_ind_criter_distrib_ccusto=Utiliza Todos
+ Chamada da pi_validar_plano_ccusto. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_dat_trans=TODAY
+ Chamada da pi_validar_ccusto. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_cod_ccusto=010701010000101 p_dat_trans=TODAY
+ Chamada da pi_validar_ccusto_unid_negoc_estab. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_cod_ccusto=010701010000101 p_cod_unid_negoc=01 v_cod_estab=1
+BOIN060                               2.00.00.006    boin090                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin060                       TODAY  00:00:00
+BOIN176                               2.00.00.069    boin090                       TODAY  00:00:00
+CDAPI995                              2.00.00.004    boin176                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin176                       TODAY  00:00:00
+BOIV029                               2.00.00.024    boin176                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boiv029                       TODAY  00:00:00
+CD9903                                2.00.00.007    boin176                       TODAY  00:00:00
+CD9902                                2.00.00.006    cd9903                        TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin060                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin176                       TODAY  00:00:00
+REAPI318                              2.00.00.023    re1005rp                      TODAY  00:00:00
+RE1005A                               2.00.03.064    re1005rp                      TODAY  00:00:00
+BTB920AA                              2.00.00.012    re1005a                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    re1005a                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    re1005a                       TODAY  00:00:00
+RE1005A1                              2.00.00.025    re1005a                       TODAY  00:00:00
+RE1005B                               2.00.03.022    re1005a                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    re1005b                       TODAY  00:00:00
+CD9500                                2.00.00.020    re1005b                       TODAY  00:00:00
+CD9903                                2.00.00.007    re1005b                       TODAY  00:00:00
+CD9902                                2.00.00.006    cd9903                        TODAY  00:00:00
+RE1005B8                              2.00.00.009    re1005b                       TODAY  00:00:00
+BOIV029                               2.00.00.024    re1005b                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boiv029                       TODAY  00:00:00
+RE1005B1                              2.00.00.046    re1005b                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    re1005b1                      TODAY  00:00:00
+RE1005B8                              2.00.00.009    re1005b1                      TODAY  00:00:00
+CDAPI024                              2.00.00.020    re1005b1                      TODAY  00:00:00
+CDAPI024                              2.00.00.020    re1005b8                      TODAY  00:00:00
+CD0813                                2.00.00.004    re1005b1                      TODAY  00:00:00
+CD0813                                2.00.00.004    re1005b1                      TODAY  00:00:00
+CD0813                                2.00.00.004    re1005b1                      TODAY  00:00:00
+CD0813                                2.00.00.004    re1005b1                      TODAY  00:00:00
+CD0813                                2.00.00.004    re1005b1                      TODAY  00:00:00
+CD0813                                2.00.00.004    re1005b1                      TODAY  00:00:00
+CD0813                                2.00.00.004    re1005b1                      TODAY  00:00:00
+CD0813                                2.00.00.004    re1005b1                      TODAY  00:00:00
+RE1005B3                              2.00.00.058    re1005b                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    re1005b3                      TODAY  00:00:00
+CD9500                                2.00.00.020    re1005b3                      TODAY  00:00:00
+RE1005B8                              2.00.00.009    re1005b3                      TODAY  00:00:00
+CDAPI024                              2.00.00.020    re1005b8                      TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+api_controle_cta_ctbl                     prgint/utb/utb743za.py    1.00.00.008    TODAY  00:00:00
+INAPI060                              2.00.00.020    re1005b                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    inapi060                      TODAY  00:00:00
+AB0804E                               2.00.00.020    re1005b                       TODAY  00:00:00
+BOFR076                               2.00.00.002    ab0804e                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr076                       TODAY  00:00:00
+BOFR055                               2.00.00.050    ab0804e                       TODAY  00:00:00
+CD0101I                               2.00.00.001    bofr055                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr055                       TODAY  00:00:00
+BOFR057                               2.00.00.034    ab0804e                       TODAY  00:00:00
+CD0101I                               2.00.00.001    bofr057                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    bofr057                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr057                       TODAY  00:00:00
+BOFR058                               2.00.00.035    ab0804e                       TODAY  00:00:00
+CD0101I                               2.00.00.001    bofr058                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    bofr058                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr058                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr076                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr055                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr057                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bofr058                       TODAY  00:00:00
+TWIN684                               2.00.00.005    re1005b                       TODAY  00:00:00
+EX3051                                2.00.00.015    re1005b                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    ex3051                        TODAY  00:00:00
+CD4395                                2.00.01.020    re1005a                       TODAY  00:00:00
+CDAPI995                              2.00.00.004    cd4395                        TODAY  00:00:00
+TCDI540                               2.00.00.000    cdapi995                      TODAY  00:00:00
+TWDI540                               2.00.00.000    cdapi995                      TODAY  00:00:00
+TCDI540                               2.00.00.000    cdapi995                      TODAY  00:00:00
+TWDI540                               2.00.00.000    cdapi995                      TODAY  00:00:00
+CD4395A                               2.00.01.068    cd4395                        TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    cd4395a                       TODAY  00:00:00
+BOCX220                               2.00.00.042    cd4395a                       TODAY  00:00:00
+CDAPI995                              2.00.00.004    cd4395a                       TODAY  00:00:00
+TCDI084                               2.00.00.001    cd4395a                       TODAY  00:00:00
+TCDI540                               2.00.00.000    cdapi995                      TODAY  00:00:00
+TWDI540                               2.00.00.000    cdapi995                      TODAY  00:00:00
+TCDI540                               2.00.00.000    cdapi995                      TODAY  00:00:00
+TWDI540                               2.00.00.000    cdapi995                      TODAY  00:00:00
+TCDI037                               2.00.00.001    cd4395a                       TODAY  00:00:00
+TWDI037                               2.00.00.001    cd4395a                       TODAY  00:00:00
+GG-DOC-FISCAL-W                       2.00.00.004    twdi037                       TODAY  00:00:00
+TWDI084                               2.00.00.001    cd4395a                       TODAY  00:00:00
+CD4395B                               2.00.00.012    cd4395                        TODAY  00:00:00
+BODI515                               2.00.00.062    cd4395b                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bodi515                       TODAY  00:00:00
+RE9340                                2.00.01.025    re1005a                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    re9340                        TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    re9340                        TODAY  00:00:00
+CD9970                                2.00.00.005    re9340                        TODAY  00:00:00
+fnc_vld_estab_usuar_refer_unic            prgfin/apb/apb739ze.py    1.00.00.008    TODAY  00:00:00
+TCFN117                               2.00.00.002    apb739ze                      TODAY  00:00:00
+TCFN227                               2.00.00.002    twfn117                       TODAY  00:00:00
+TWFN227                               2.00.00.003    twfn117                       TODAY  00:00:00
+TDFN227                               2.00.00.003    twfn117                       TODAY  00:00:00
+BOUN00384                             2.00.00.001    re9340                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    hbbo\boP                      TODAY  00:00:00
+RE9340B                               2.00.00.040    re9340                        TODAY  00:00:00
+CDAPI950                              2.00.00.000    re9340                        TODAY  00:00:00
+CDAPI950A                             2.00.00.017    cdapi950                      TODAY  00:00:00
+     PonIn¡cio execu‡Æo procedure execute: rep/cdapi950a.p                                                  
+     PonIn¡cio valida‡Æo das informa‡äes.                                                                   
+api_busca_matriz_UO_param_integr          prgint/ufn/ufn908za.py    1.00.00.003    TODAY  00:00:00
+     PonTratamento movimentos EMS2                                                                          
+     PonLote -> 10/11EH64899/1                                                                              
+     PonVerificando itens do lote                                                                           
+     PonItem Lote -> 10/11EH64899/10                                                                        
+     PonIn¡cio Integra‡Æo do EMS2 com EMS5. Execu‡Æo API prgfin/apb/apb900zg.py.                            
+api_tit_ap_cria_4                         prgfin/apb/apb900zg.py    1.00.00.156    TODAY  00:00:00
+fnc_funcoes_padrao_glob                   prgint/utb/utb925za.py    1.00.00.000    TODAY  00:00:00
+SPP_TRAT_CASAS_DEC                        no
+SPP_API_EXPORT_PEND_APB-super             no
+SPP_LOCALIZ_SUL_AMERICA                   no
+SPP_LOCALIZ_MEXICO                        no
+SPP_INTEGR_API_TIT_AED_FSW                no
+spp_libera_bf_fin_aprop                   prgint/ufn/ufn807aa.py    1.00.00.000    TODAY  00:00:00
+SPP_INTEGR_UF_PESSOA                      no
+
+                Banco: [1]emsfnd                                                                                              
+          Nome F¡sico: [1]C:\Automacao\DB\emsfnd                                                                              
+Parƒmetros de ConexÆo: [1]-Mm 4096,-bi 8192,-biblocksize 16,-db C:\Automacao\DB\emsfnd,-1                                     
+           Tipo Banco: PROGRESS                                                                                            
+
+                Banco: [2]mgadt                                                                                               
+          Nome F¡sico: [2]C:/Automacao/DB/ems2adt                                                                             
+Parƒmetros de ConexÆo: [2]-db C:/Automacao/DB/ems2adt,-ld mgadt,-1                                                            
+           Tipo Banco: PROGRESS                                                                                            
+
+                Banco: [3]mgcad                                                                                               
+          Nome F¡sico: [3]C:/Automacao/DB/mgcad                                                                               
+Parƒmetros de ConexÆo: [3]-db C:/Automacao/DB/mgcad,-ld mgcad,-1                                                              
+           Tipo Banco: PROGRESS                                                                                            
+
+                Banco: [4]mgmov                                                                                               
+          Nome F¡sico: [4]C:/Automacao/DB/mgmov                                                                               
+Parƒmetros de ConexÆo: [4]-db C:/Automacao/DB/mgmov,-ld mgmov,-1                                                              
+           Tipo Banco: PROGRESS                                                                                            
+
+                Banco: [5]emscad                                                                                              
+          Nome F¡sico: [5]C:/Automacao/DB/emscad                                                                              
+Parƒmetros de ConexÆo: [5]-db C:/Automacao/DB/emscad,-ld emscad,-1                                                            
+           Tipo Banco: PROGRESS                                                                                            
+
+                Banco: [6]emsmov                                                                                              
+          Nome F¡sico: [6]C:/Automacao/DB/emsmov                                                                              
+Parƒmetros de ConexÆo: [6]-db C:/Automacao/DB/emsmov,-ld emsmov,-1                                                            
+           Tipo Banco: PROGRESS                                                                                            
+
+                Banco: [7]DtsAuto                                                                                             
+          Nome F¡sico: [7]C:\Automacao\DB\DtsAuto                                                                             
+Parƒmetros de ConexÆo: [7]-db C:\Automacao\DB\DtsAuto,-ld DtsAuto,-1                                                          
+           Tipo Banco: PROGRESS                                                                                            
+
+spp_libera_bf_fin_aprop                   prgint/ufn/ufn807aa.py    1.00.00.000    TODAY  00:00:00
+SPP_INTEGR_UF_PESSOA                      no
+api_integr_apb_traducao                   prgfin/apb/apb900zb.py    1.00.00.039    TODAY  00:00:00
+fnc_cria_ord_compra_tit_ap                prgfin/apb/apb917za.py    1.00.00.002    TODAY  00:00:00
+Create/emsfin.item_lote_impl_ap           tgfin/tcp/tcfin276.p      1.00.00.000    TODAY  00:00:00
+create/emsfin.aprop_ctbl_pend_ap          tgfin/tcp/tcfin242.p      1.00.00.000    TODAY  00:00:00
+fnc_cta_ctbl_integr                       prgint/utb/utb719za.py    1.00.00.005    TODAY  00:00:00
+fnc_verificar_impto_vincul_refer          prgfin/apb/apb794za.py    1.00.00.011    TODAY  00:00:00
+SPP_LOCALIZ_SUL_AMERICA                   no
+Write/aprop_ctbl_pend_ap                  tgfin/twp/twfin242.p      1.00.00.003    TODAY  00:00:00
+api_imposto_validacao_inss                prgfin/apb/apb924za.py    5.01.00.017    TODAY  00:00:00
+fnc_gerar_impto_api_impl_pagto            prgfin/apb/apb796zc.py    1.00.00.164    TODAY  00:00:00
+fnc_funcoes_padrao                        prgint/utb/utb922za.py    1.00.00.005    TODAY  00:00:00
+SPP_LOCALIZ_SUL_AMERICA                   no
+SPP_LOCALIZ_MEXICO                        no
+SPP_LOCALIZ_EQUADOR                       no
+SPP_PERMITE_DIF_IMPTO_ESTADO              no
+SPP_NO_VALIDA_IMPTO_MAYOR_GASTO_FATUR     no
+fnc_atualiza_acumulados_pessoa            prgfin/apb/apb012za.py    1.00.00.035    TODAY  00:00:00
+api_validar_integracao_cmg                prgfin/cmg/cmg723zb.py    1.00.00.004    TODAY  00:00:00
+api_validar_tip_trans_cx_cmg              prgfin/cmg/cmg723za.py    1.00.00.021    TODAY  00:00:00
+fnc_verificar_impto_vincul_refer          prgfin/apb/apb794za.py    1.00.00.011    TODAY  00:00:00
+SPP_LOCALIZ_SUL_AMERICA                   no
+Write/item_lote_impl_ap                   tgfin/twp/twfin276.p      1.00.00.003    TODAY  00:00:00
+Write/lote_impl_tit_ap                    tgfin/twp/twfin259.p      1.00.00.003    TODAY  00:00:00
+api_controlar_impl_tit_apb                prgfin/apb/apb704zc.py    1.00.00.002    TODAY  00:00:00
+fnc_lote_impl_tit_ap_atualiza             prgfin/apb/apb739za.py    1.00.02.237    TODAY  00:00:00
+SPP_LOCALIZ_MEXICO                        no
+SPP_LOCALIZ_SUL_AMERICA                   no
+SPP_LOCALIZ_EQUADOR                       no
+SPP_BF_FIN_APROP                          yes
+SPP_MELHORIA_NC_ND                        no
+spp_libera_bf_fin_aprop                   prgint/ufn/ufn807aa.py    1.00.00.000    TODAY  00:00:00
+api_validar_integracao_cmg                prgfin/cmg/cmg723zb.py    1.00.00.004    TODAY  00:00:00
+api_validar_tip_trans_cx_cmg              prgfin/cmg/cmg723za.py    1.00.00.021    TODAY  00:00:00
+api_criticar_fluxo_cx                     prgfin/cfl/cfl706za.py    1.00.00.009    TODAY  00:00:00
+fnc_verificar_impto_vincul_refer          prgfin/apb/apb794za.py    1.00.00.011    TODAY  00:00:00
+SPP_LOCALIZ_SUL_AMERICA                   no
+fnc_verificar_impto_vincul_refer          prgfin/apb/apb794za.py    1.00.00.011    TODAY  00:00:00
+SPP_LOCALIZ_SUL_AMERICA                   no
+create/emsfin.tit_ap                      tgfin/tcp/tcfin271.p      1.00.00.000    TODAY  00:00:00
+Write/tab_livre_emsfin                    tgfin/twp/twfin862.p      1.00.00.001    TODAY  00:00:00
+Create/rat_movto_tit_ap                   tgfin/tcp/tcfin135.p      5.06.00.000    TODAY  00:00:00
+Write/rat_movto_tit_ap                    tgfin/twp/twfin135.p      5.06.00.001    TODAY  00:00:00
+fnc_val_tit_ap_cria                       prgfin/apb/apb750za.py    1.00.01.032    TODAY  00:00:00
+SPP_LOCALIZ_SUL_AMERICA                   no
+SPP_LOCALIZ_EQUADOR                       no
+fnc_param_conver_val                      prgfin/apb/apb901zb.py    1.00.00.028    TODAY  00:00:00
+fnc_conver_ie_fe                          prgint/utb/utb904za.py    1.00.00.020    TODAY  00:00:00
+fnc_conver_val_mmoed                      prgint/utb/utb904zf.py    1.00.00.022    TODAY  00:00:00
+fnc_funcoes_padrao                        prgint/utb/utb922za.py    1.00.00.005    TODAY  00:00:00
+SPP_INDIC_ECON_PAGTO                      no
+fnc_conver_val_fasb                       prgint/utb/utb904ze.py    1.00.00.018    TODAY  00:00:00
+create/val_tit_ap                         tgfin/tcp/tcfin273.p      1.00.00.003    TODAY  00:00:00
+Write/val_tit_ap                          tgfin/twp/twfin273.p      1.00.00.016    TODAY  00:00:00
+create/val_tit_ap                         tgfin/tcp/tcfin273.p      1.00.00.003    TODAY  00:00:00
+Write/val_tit_ap                          tgfin/twp/twfin273.p      1.00.00.016    TODAY  00:00:00
+create/val_tit_ap                         tgfin/tcp/tcfin273.p      1.00.00.003    TODAY  00:00:00
+Write/val_tit_ap                          tgfin/twp/twfin273.p      1.00.00.016    TODAY  00:00:00
+fnc_param_conver_val                      prgfin/apb/apb901zb.py    1.00.00.028    TODAY  00:00:00
+fnc_conver_ie_fe                          prgint/utb/utb904za.py    1.00.00.020    TODAY  00:00:00
+fnc_conver_val_mmoed                      prgint/utb/utb904zf.py    1.00.00.022    TODAY  00:00:00
+fnc_funcoes_padrao                        prgint/utb/utb922za.py    1.00.00.005    TODAY  00:00:00
+SPP_INDIC_ECON_PAGTO                      no
+fnc_conver_val_fasb                       prgint/utb/utb904ze.py    1.00.00.018    TODAY  00:00:00
+write/val_movto_ap_correc_val             tgfin/twp/twfin384.p      1.00.00.001    TODAY  00:00:00
+write/val_movto_ap_correc_val             tgfin/twp/twfin384.p      1.00.00.001    TODAY  00:00:00
+write/val_movto_ap_correc_val             tgfin/twp/twfin384.p      1.00.00.001    TODAY  00:00:00
+fnc_gerar_aprop_ctbl_ap                   prgfin/apb/apb704zl.py    1.00.00.158    TODAY  00:00:00
+spp_abat_provis                           no
+SPP_LOCALIZ_SUL_AMERICA                   no
+SPP_LOCALIZ_EQUADOR                       no
+SPP_LOCALIZ_MEXICO                        no
+SPP_LOCALIZ_ARGENTINA                     no
+create/aprop_ctbl_ap                      tgfin/tcp/tcfin241.p      1.00.00.003    TODAY  00:00:00
+Create/val_aprop_ctbl_ap                  tgfin/tcp/tcfin274.p      1.00.00.003    TODAY  00:00:00
+Write/val_aprop_ctbl_ap                   tgfin/twp/twfin274.p      1.00.00.005    TODAY  00:00:00
+Create/val_aprop_ctbl_ap                  tgfin/tcp/tcfin274.p      1.00.00.003    TODAY  00:00:00
+Write/val_aprop_ctbl_ap                   tgfin/twp/twfin274.p      1.00.00.005    TODAY  00:00:00
+Create/val_aprop_ctbl_ap                  tgfin/tcp/tcfin274.p      1.00.00.003    TODAY  00:00:00
+Write/val_aprop_ctbl_ap                   tgfin/twp/twfin274.p      1.00.00.005    TODAY  00:00:00
+Write/aprop_ctbl_ap                       tgfin/twp/twfin241.p      1.00.00.036    TODAY  00:00:00
+create/aprop_ctbl_ap                      tgfin/tcp/tcfin241.p      1.00.00.003    TODAY  00:00:00
+Create/val_aprop_ctbl_ap                  tgfin/tcp/tcfin274.p      1.00.00.003    TODAY  00:00:00
+Write/val_aprop_ctbl_ap                   tgfin/twp/twfin274.p      1.00.00.005    TODAY  00:00:00
+Create/val_aprop_ctbl_ap                  tgfin/tcp/tcfin274.p      1.00.00.003    TODAY  00:00:00
+Write/val_aprop_ctbl_ap                   tgfin/twp/twfin274.p      1.00.00.005    TODAY  00:00:00
+Create/val_aprop_ctbl_ap                  tgfin/tcp/tcfin274.p      1.00.00.003    TODAY  00:00:00
+Write/val_aprop_ctbl_ap                   tgfin/twp/twfin274.p      1.00.00.005    TODAY  00:00:00
+Write/aprop_ctbl_ap                       tgfin/twp/twfin241.p      1.00.00.036    TODAY  00:00:00
+Write/movto_tit_ap                        tgfin/twp/twfin261.p      1.00.00.124    TODAY  00:00:00
+SPP_LOCALIZ_SUL_AMERICA                   no
+api_movto_cta_corren_integracao           prgfin/cmg/cmg702za.py    5.01.00.068    TODAY  00:00:00
+Create/emsfin.histor_tit_movto_ap         tgfin/tcp/tcfin251.p      1.00.00.000    TODAY  00:00:00
+Write/histor_tit_movto_ap                 tgfin/twp/twfin251.p      1.00.00.001    TODAY  00:00:00
+fnc_valida_diferenca_titulo_apb           prgfin/apb/apb923za.py    1.00.00.052    TODAY  00:00:00
+SPP_LOCALIZ_SUL_AMERICA                   no
+SPP_LOCALIZ_MEXICO                        no
+Write/tit_ap                              tgfin/twp/twfin271.p      1.00.00.007    TODAY  00:00:00
+    APPC-WRITE:         prgagro/upg/upg820za.py                           
+Delete/item_lote_impl_ap                  tgfin/tdp/tdfin276.p      1.00.00.005    TODAY  00:00:00
+Delete/aprop_ctbl_pend_ap                 tgfin/tdp/tdfin242.p      1.00.00.002    TODAY  00:00:00
+Delete/lote_impl_tit_ap                   tgfin/tdp/tdfin259.p      1.00.00.002    TODAY  00:00:00
+     PonAp¢s execu‡Æo API prgfin/apb/apb900zg.py.                                                           
+     ***C:\TMP\                                                                                                                                               
+         -> tt-doc-i-ap.txt
+         -> tt-lin-i-ap.txt
+         -> tt-l-ant-ap.txt
+         -> tt-l-pre-ap.txt
+         -> tt-lin-conta-ap.txt
+         -> tt-impto-tit-pend-ap.txt
+         -> tt-retorno-lin-i-ap.txt
+     PonFinal execu‡Æo procedure execute: rep/cdapi950a.p                                                   
+GGAPI106                              2.00.00.011    re9340                        TODAY  00:00:00
+CD9970                                2.00.00.005    re1005a                       TODAY  00:00:00
+RE1005A3                              2.00.00.049    re1005a                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    re1005a3                      TODAY  00:00:00
+RE1005A4                              2.00.00.046    re1005a                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    re1005a4                      TODAY  00:00:00
+CDAPI024                              2.00.00.020    ceapi001                      TODAY  00:00:00
+BOIN00881                             2.00.00.007    ceapi001                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin0088                      TODAY  00:00:00
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                              01           Alfa             413290100000901      Alfa          010701010000101                           TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Validação da unidade de negócio:01
+ Chamada da pi_validar_unid_negoc_recebto. v_cod_estab=1 p_cod_unid_negoc=01 p_dat_trans=TODAY
+ Retorno da pi_validar_unid_negoc_recebto:
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=413290100000901 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=413290100000901 cod_estab=1
+ Validação restrições conta contábil x unidade de negócio. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=413290100000901 cod_unid_negoc=01
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=413290100000901 p_dat_trans=TODAY
+ Retorno da pi_retornar_criter_distrib_ccusto. v_ind_criter_distrib_ccusto=Utiliza Todos
+ Chamada da pi_validar_plano_ccusto. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_dat_trans=TODAY
+ Chamada da pi_validar_ccusto. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_cod_ccusto=010701010000101 p_dat_trans=TODAY
+ Chamada da pi_validar_ccusto_unid_negoc_estab. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_cod_ccusto=010701010000101 p_cod_unid_negoc=01 v_cod_estab=1
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                              01           Alfa             211050400000528      Alfa          010702030000203                           TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Validação da unidade de negócio:01
+ Chamada da pi_validar_unid_negoc_recebto. v_cod_estab=1 p_cod_unid_negoc=01 p_dat_trans=TODAY
+ Retorno da pi_validar_unid_negoc_recebto:
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=211050400000528 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=211050400000528 cod_estab=1
+ Validação restrições conta contábil x unidade de negócio. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=211050400000528 cod_unid_negoc=01
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=211050400000528 p_dat_trans=TODAY
+ Retorno da pi_retornar_criter_distrib_ccusto. v_ind_criter_distrib_ccusto=Utiliza Todos
+ Chamada da pi_validar_plano_ccusto. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_dat_trans=TODAY
+ Chamada da pi_validar_ccusto. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_cod_ccusto=010702030000203 p_dat_trans=TODAY
+ Chamada da pi_validar_ccusto_unid_negoc_estab. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_cod_ccusto=010702030000203 p_cod_unid_negoc=01 v_cod_estab=1
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                              01           Alfa             112510100000101                                                              TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Validação da unidade de negócio:01
+ Chamada da pi_validar_unid_negoc_recebto. v_cod_estab=1 p_cod_unid_negoc=01 p_dat_trans=TODAY
+ Retorno da pi_validar_unid_negoc_recebto:
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=112510100000101 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=112510100000101 cod_estab=1
+ Validação restrições conta contábil x unidade de negócio. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=112510100000101 cod_unid_negoc=01
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=112510100000101 p_dat_trans=TODAY
+ Verificação de integração com EMS2.0
+ Existe integração.
+
+ => VALORES dos parâmetros de Input 
+    ======================================= 
+
+Matriz Trad Org  Empresa Ext   Estab Ext  Conta Ctbl Ext         Sub-Conta Ext    Unid Negoc   Plano Cta Ctbl   Conta Contábil       Plano Ccusto  Ccusto               Proj Financ          Data Trans 
+---------------- ------------- ---------- ---------------------- ---------------- ------------ ---------------- -------------------- ------------- -------------------- -------------------- ----------- 
+Ems2                                                                              01           Alfa             211050400000509      Alfa          010702020000202                           TODAY
+
+
+ Informações já traduzidas para o EMS5.
+ Validação da empresa: 10
+ Encontrou empresa: 10
+ Validação da unidade organizacional: 10
+ Encontrou unidade organizacional: 10
+ Validação da validade da unidade organizacional: 10
+ Validação do estabelecimento:1
+ Encontrou estabelecimento:1
+ Validação da unidade organizacional:1
+ Encontrou unidade organizacional:1
+ Validação da validade da unidade organizacional:1
+ Chamada pi_validar_estab_recebto. v_cod_empresa=10 v_cod_estab=1 p_dat_trans=TODAY
+ Retorno da pi_validar_estab_recebto:
+ Validação da unidade de negócio:01
+ Chamada da pi_validar_unid_negoc_recebto. v_cod_estab=1 p_cod_unid_negoc=01 p_dat_trans=TODAY
+ Retorno da pi_validar_unid_negoc_recebto:
+ Validação do plano de contas:Alfa
+ Encontrou plano de contas:Alfa
+ Chamada da pi_validar_plano_cta_ctbl. p_cod_plano_cta_ctbl=Alfa v_cod_empresa=10 p_dat_trans=TODAY
+ Chamada da pi_valida_cta_ctbl. p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=211050400000509 p_dat_trans=TODAY
+ Validação restrições conta contábil x estabelecimento. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=211050400000509 cod_estab=1
+ Validação restrições conta contábil x unidade de negócio. cod_unid_organ=10 cod_plano_cta_ctbl=Alfa cod_cta_ctbl=211050400000509 cod_unid_negoc=01
+ avail empresa=yes avail estabelecimento=yes avail plano_cta_ctbl=yes avail cta_ctbl=yes
+ Chamada da pi_retornar_criter_distrib_ccusto. v_cod_estab=1 p_cod_plano_cta_ctbl=Alfa p_cod_cta_ctbl=211050400000509 p_dat_trans=TODAY
+ Retorno da pi_retornar_criter_distrib_ccusto. v_ind_criter_distrib_ccusto=Utiliza Todos
+ Chamada da pi_validar_plano_ccusto. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_dat_trans=TODAY
+ Chamada da pi_validar_ccusto. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_cod_ccusto=010702020000202 p_dat_trans=TODAY
+ Chamada da pi_validar_ccusto_unid_negoc_estab. v_cod_empresa=10 p_cod_plano_ccusto=Alfa p_cod_ccusto=010702020000202 p_cod_unid_negoc=01 v_cod_estab=1
+CD9970                                2.00.00.005    ceapi001                      TODAY  00:00:00
+CDAPI196                              2.00.00.001    cdapi186                      TODAY  00:00:00
+TWIN218                               2.00.00.005    ceapi001                      TODAY  00:00:00
+TWIN218                               2.00.00.005    ceapi001                      TODAY  00:00:00
+CD9970                                2.00.00.005    ceapi001                      TODAY  00:00:00
+CDAPI196                              2.00.00.001    cdapi186                      TODAY  00:00:00
+TWIN218                               2.00.00.005    ceapi001                      TODAY  00:00:00
+TWIN218                               2.00.00.005    ceapi001                      TODAY  00:00:00
+CDAPI196                              2.00.00.001    cdapi186                      TODAY  00:00:00
+Delete/emsbas.histor_exec_especial        tgbas/tdp/tdbas254.p      1.00.00.000    TODAY  00:00:00
+Create/emsbas.histor_exec_especial        tgbas/tcp/tcbas254.p      1.00.00.000    TODAY  00:00:00
+Write/emsbas.histor_exec_especial         tgbas/twp/twbas254.p      1.00.00.000    TODAY  00:00:00
+api_conver_bgc_2_5                        prgfin/bgc/bgc900za.py    1.00.00.033    TODAY  00:00:00
+fnc_conecta_bases_externas_emp            prgint/utb/utb720zb.py    1.00.00.019    TODAY  00:00:00
+spp_conexao_pf_banco_ext                  no
+RE1005E1                              2.00.00.006    re1005a                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    re1005e1                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    re1005e1                      TODAY  00:00:00
+CN9172                                2.00.00.022    re1005a                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    cn9172                        TODAY  00:00:00
+BTB009ZA                              2.00.00.003    re1005a                       TODAY  00:00:00
+api_tit_ap_acr_verif_existe               prgint/dcf/dcf900za.py    5.01.01.001    TODAY  00:00:00
+api_tit_acr_ap_verif_exist                prgint/dcf/dcf903za.py    5.01.00.008    TODAY  00:00:00
+BTB009ZA                              2.00.00.003    re1005a                       TODAY  00:00:00
+RE1005G                               2.00.00.033    re1005a                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    re1005g                       TODAY  00:00:00
+BOSC047                               2.00.00.009    re1005g                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bosc047                       TODAY  00:00:00
+BOSC048                               2.00.01.010    re1005g                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bosc048                       TODAY  00:00:00
+BOIN287A                              2.00.00.007    re1005g                       TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    boin287a                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin287a                      TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bosc047                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    bosc048                       TODAY  00:00:00
+BOIN847                               2.00.00.056    re1005a                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin847                       TODAY  00:00:00
+UT-NEOG                               3.00.00.000    re1005rp                      TODAY  00:00:00
+GG-DOCUM-EST-W                        2.00.00.017    twin090                       TODAY  00:00:00
+GG-ITEM-DOC-EST-W                     2.00.00.017    twin176                       TODAY  00:00:00
+BCAPI004                              2.00.00.011    re1005rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    bcapi004                      TODAY  00:00:00
+RE0801                                2.00.00.034    re1005rp                      TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    re0801                        TODAY  00:00:00
+BCAPI004                              2.00.00.011    re0801                        TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    bcapi004                      TODAY  00:00:00
+BCAPI011                              2.00.00.021    re0801                        TODAY  00:00:00
+BCAPI001                              2.00.00.055    re0801                        TODAY  00:00:00
+UT-TRFRRP                             2.00.00.008    bcapi001                      TODAY  00:00:00
+TCCL012                               2.00.00.002    bcapi001                      TODAY  00:00:00
+TWCL012                               2.00.00.002    bcapi001                      TODAY  00:00:00
+BTB009ZA                              2.00.00.003    re1005rp                      TODAY  00:00:00
+CD0742B                               2.00.00.005    re1005rp                      TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+BOAD098                               2.00.00.074    re1001                        TODAY  00:00:00
+BOIN682                               2.00.00.016    boad098                       TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin682                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+CD9970                                2.00.00.005    boin090                       TODAY  00:00:00
+BOIN292                               2.00.00.005    re1001                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin292                       TODAY  00:00:00
+BOIN292                               2.00.00.005    re1001                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin292                       TODAY  00:00:00
+BOIN292                               2.00.00.005    re1001                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin292                       TODAY  00:00:00
+BOIN292                               2.00.00.005    re1001                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin292                       TODAY  00:00:00
+BOIN292                               2.00.00.005    re1001                        TODAY  00:00:00
+BTB918ZB                              2.00.00.002    boin292                       TODAY  00:00:00
+CD9150E                               2.00.00.015    menu_uit                      TODAY  00:00:00
+CD9150G                               2.00.00.002    cdp\cd91                      TODAY  00:00:00

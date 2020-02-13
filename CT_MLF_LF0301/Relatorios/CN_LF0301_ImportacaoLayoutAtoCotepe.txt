@@ -1,0 +1,129 @@
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Importação/Exportação Layout                                           Página:    1
+-------------------------------------------------------------------------------------------------------------- 30/01/2020 - 10:25:08
+
+Arquivos
+    \\caetano\progress_repository\ems2\12.1.28-SNAPSHOT\resources\lfp\fi155.d                           
+    \\caetano\progress_repository\ems2\12.1.28-SNAPSHOT\resources\lfp\fi156.d                           
+    \\caetano\progress_repository\ems2\12.1.28-SNAPSHOT\resources\lfp\fi157.d                           
+    \\caetano\progress_repository\ems2\12.1.28-SNAPSHOT\resources\lfp\fi160.d                           
+    \\caetano\progress_repository\ems2\12.1.28-SNAPSHOT\resources\lfp\fi161.d                           
+    \\caetano\progress_repository\ems2\12.1.28-SNAPSHOT\resources\lfp\fi162.d                           
+    \\caetano\progress_repository\ems2\12.1.28-SNAPSHOT\resources\lfp\fi163.d                           
+    \\caetano\progress_repository\ems2\12.1.28-SNAPSHOT\resources\lfp\fi165.d                           
+    \\caetano\progress_repository\ems2\12.1.28-SNAPSHOT\resources\lfp\fi166.d                           
+    \\caetano\progress_repository\ems2\12.1.28-SNAPSHOT\resources\lfp\fi170.d                           
+    \\caetano\progress_repository\ems2\12.1.28-SNAPSHOT\resources\lfp\fi171.d                           
+    \\caetano\progress_repository\ems2\12.1.28-SNAPSHOT\resources\lfp\fi172.d                           
+    \\caetano\progress_repository\ems2\12.1.28-SNAPSHOT\resources\lfp\fi167.d                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------DATASUL -  - LF0301RP - V:2.00.00.031
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Importação/Exportação Layout                                           Página:    2
+-------------------------------------------------------------------------------------------------------------- 30/01/2020 - 10:25:08
+
+            Seleção
+
+                    Layout:         1
+
+
+            Parâmetros
+
+                    Tipo Geração:   Importação
+                    Diretório:      \\caetano\progress_repository\ems2\12.1.28-SNAPSHOT\resources\lfp
+
+
+            Destino:  Arquivo          -   c:/automacao/relatorios/CN_LF0301_Import
+            Usuário:  SUPER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------DATASUL -  - LF0301RP - V:2.00.00.031
+

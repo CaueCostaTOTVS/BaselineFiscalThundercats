@@ -1,0 +1,10 @@
+     Cenario : CN04_OF0736_Nova_GIA_SP
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estab."
+EXECUTE,"Informar o valor '3' no Radio Set ."
+EXECUTE,"Informar o valor '1.520,63' no Campo Saldo Credor Período Anterior."
+EXECUTE,"Informar o valor '1.698,56' no Campo Saldo Credor Período Anterior - ST."

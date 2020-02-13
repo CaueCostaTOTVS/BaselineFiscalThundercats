@@ -1,0 +1,11 @@
+     Cenario : CN02_OF0736_Nova_GIA_SP
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estab."
+EXECUTE,"Informar o valor '42,75' no Campo Saldo Credor Período Anterior - ST."
+EXECUTE,"Informar o valor '23,01' no Campo ICMS Fixado para o período."
+EXECUTE,"Informar o valor '0210' no Campo Versão do Arquivo."
+EXECUTE,"Informar o valor 'yes' na Opção Considera CFOP's Serviços."

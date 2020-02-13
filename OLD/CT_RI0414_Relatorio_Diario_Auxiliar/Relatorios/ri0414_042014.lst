@@ -1,0 +1,513 @@
+------------------------------------------------------------------------------------------------------------------------------------
+TOTVS S.A.                                       DIÁRIO AUXILIAR                                                       Página:     4
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+Conta             Estab UN  Transação                    Nr. Pat  / Seq. Série Docto     Emitente    Débitos            Créditos
+----------------- ----- --- ---------------------------- ---------/----- ----- --------- ----------- ------------------ ------------------
+------------------------ Movimento do Dia  01/04/2014 ----------------------------------------------------------------------------------
+121020400000204
+                  ICMS Pendente de Ativo Imobilizados
+                  10000     IMPOSTOS PENDENTE                    0/0                                             480,00
+                  Descrição:  Bem 21
+                  10000     INICIO DE CREDITO                    0/0                                                                480,00
+                  Descrição:  Bem 21
+                  Total da Conta:                                                                              480,00             480,00
+
+121020500000205
+                  COFINS Pendente de Ativo Imobilizados
+                  10000     INICIO DE CREDITO                    0/0                                                                480,00
+                  Descrição:  Bem 21
+                  10000     IMPOSTOS PENDENTE                    0/0                                             480,00
+                  Descrição:  Bem 21
+                  Total da Conta:                                                                              480,00             480,00
+
+121020600000206
+                  PIS Pendente de Ativo Imobilizados
+                  10000     INICIO DE CREDITO                    0/0                                                                480,00
+                  Descrição:  Bem 21
+                  10000     IMPOSTOS PENDENTE                    0/0                                             480,00
+                  Descrição:  Bem 21
+                  Total da Conta:                                                                              480,00             480,00
+
+211050400000507
+                  ICMS Ativo a Recuperar                   010702010000201
+                  10000     IMPOSTOS PENDENTE                    0/0                                                                480,00
+                  Descrição:  Bem 21
+                  Total da Conta:                                                                                0,00             480,00
+
+211050400000521
+                  PIS Ativo Recup                          010702010000201
+                  10000     IMPOSTOS PENDENTE                    0/0                                                                480,00
+                  Descrição:  Bem 21
+                  Total da Conta:                                                                                0,00             480,00
+
+211050400000522
+                  COFINS Ativo Recup                       010702010000201
+                  10000     IMPOSTOS PENDENTE                    0/0                                                                480,00
+                  Descrição:  Bem 21
+                  Total da Conta:                                                                                0,00             480,00
+
+311111111111001
+                  ICMS Imp. Rec. Longo Prazo
+                  10000     INICIO DE CREDITO                    0/0                                             360,00
+                  Descrição:  Bem 21
+                  Total da Conta:                                                                              360,00               0,00
+
+311111111111002
+                  ICMS Imp. Rec. Curto Prazo
+                  10000     INICIO DE CREDITO                    0/0                                             120,00
+                  Descrição:  Bem 21
+                  Total da Conta:                                                                              120,00               0,00
+
+311111111111012
+                  PIS Rec. Longo Prazo
+-----------------------------------------------------------------------------------------------DATASUL -  - RI0414RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+TOTVS S.A.                                       DIÁRIO AUXILIAR                                                       Página:    10
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+                  10000     INICIO DE CREDITO                    0/0                                             360,00
+                  Descrição:  Bem 21
+                  Total da Conta:                                                                              360,00               0,00
+
+311111111111013
+                  PIS Rec. Curto Prazo
+                  10000     INICIO DE CREDITO                    0/0                                             120,00
+                  Descrição:  Bem 21
+                  Total da Conta:                                                                              120,00               0,00
+
+311111111111023
+                  COFINS Rec. Longo Prazo
+                  10000     INICIO DE CREDITO                    0/0                                             360,00
+                  Descrição:  Bem 21
+                  Total da Conta:                                                                              360,00               0,00
+
+311111111111024
+                  COFINS Rec. Curto Prazo
+                  10000     INICIO DE CREDITO                    0/0                                             120,00
+                  Descrição:  Bem 21
+                  Total da Conta:                                                                              120,00               0,00
+
+                  Total do Dia:                                                                              2.880,00           2.880,00
+
+Conta             Estab UN  Transação                    Nr. Pat  / Seq. Série Docto     Emitente    Débitos            Créditos
+----------------- ----- --- ---------------------------- ---------/----- ----- --------- ----------- ------------------ ------------------
+------------------------ Movimento do Dia  15/04/2014 ----------------------------------------------------------------------------------
+121020400000204
+                  ICMS Pendente de Ativo Imobilizados
+                  10000     IMPOSTOS PENDENTE                    0/0                                              22,82
+                  Descrição:  Bem 22
+                  10000     INICIO DE CREDITO                    0/0                                                                 22,82
+                  Descrição:  Bem 22
+                  Total da Conta:                                                                               22,82              22,82
+
+121020500000205
+                  COFINS Pendente de Ativo Imobilizados
+                  10000     INICIO DE CREDITO                    0/0                                                                 22,82
+                  Descrição:  Bem 22
+                  10000     IMPOSTOS PENDENTE                    0/0                                              22,82
+                  Descrição:  Bem 22
+                  Total da Conta:                                                                               22,82              22,82
+
+121020600000206
+                  PIS Pendente de Ativo Imobilizados
+                  10000     IMPOSTOS PENDENTE                    0/0                                              22,82
+                  Descrição:  Bem 22
+                  10000     INICIO DE CREDITO                    0/0                                                                 22,82
+                  Descrição:  Bem 22
+                  Total da Conta:                                                                               22,82              22,82
+
+211050400000507
+                  ICMS Ativo a Recuperar                   010702010000201
+                  10000     IMPOSTOS PENDENTE                    0/0                                                                 22,82
+                  Descrição:  Bem 22
+                  Total da Conta:                                                                                0,00              22,82
+
+211050400000521
+                  PIS Ativo Recup                          010702010000201
+-----------------------------------------------------------------------------------------------DATASUL -  - RI0414RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+TOTVS S.A.                                       DIÁRIO AUXILIAR                                                       Página:    16
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+                  10000     IMPOSTOS PENDENTE                    0/0                                                                 22,82
+                  Descrição:  Bem 22
+                  Total da Conta:                                                                                0,00              22,82
+
+211050400000522
+                  COFINS Ativo Recup                       010702010000201
+                  10000     IMPOSTOS PENDENTE                    0/0                                                                 22,82
+                  Descrição:  Bem 22
+                  Total da Conta:                                                                                0,00              22,82
+
+311111111111001
+                  ICMS Imp. Rec. Longo Prazo
+                  10000     INICIO DE CREDITO                    0/0                                              17,06
+                  Descrição:  Bem 22
+                  Total da Conta:                                                                               17,06               0,00
+
+311111111111002
+                  ICMS Imp. Rec. Curto Prazo
+                  10000     INICIO DE CREDITO                    0/0                                               5,76
+                  Descrição:  Bem 22
+                  Total da Conta:                                                                                5,76               0,00
+
+311111111111012
+                  PIS Rec. Longo Prazo
+                  10000     INICIO DE CREDITO                    0/0                                              17,06
+                  Descrição:  Bem 22
+                  Total da Conta:                                                                               17,06               0,00
+
+311111111111013
+                  PIS Rec. Curto Prazo
+                  10000     INICIO DE CREDITO                    0/0                                               5,76
+                  Descrição:  Bem 22
+                  Total da Conta:                                                                                5,76               0,00
+
+311111111111023
+                  COFINS Rec. Longo Prazo
+                  10000     INICIO DE CREDITO                    0/0                                              17,06
+                  Descrição:  Bem 22
+                  Total da Conta:                                                                               17,06               0,00
+
+311111111111024
+                  COFINS Rec. Curto Prazo
+                  10000     INICIO DE CREDITO                    0/0                                               5,76
+                  Descrição:  Bem 22
+                  Total da Conta:                                                                                5,76               0,00
+
+                  Total do Dia:                                                                                136,92             136,92
+
+Conta             Estab UN  Transação                    Nr. Pat  / Seq. Série Docto     Emitente    Débitos            Créditos
+----------------- ----- --- ---------------------------- ---------/----- ----- --------- ----------- ------------------ ------------------
+------------------------ Movimento do Dia  30/04/2014 ----------------------------------------------------------------------------------
+121020400000204
+                  ICMS Pendente de Ativo Imobilizados
+                  10000     IMPOSTOS PENDENTE                    0/0                                               5,04
+                  Descrição:  Bem 23
+                  Total da Conta:                                                                                5,04               0,00
+
+121020500000205
+                  COFINS Pendente de Ativo Imobilizados
+-----------------------------------------------------------------------------------------------DATASUL -  - RI0414RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+TOTVS S.A.                                       DIÁRIO AUXILIAR                                                       Página:    22
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+                  10000     IMPOSTOS PENDENTE                    0/0                                               5,04
+                  Descrição:  Bem 23
+                  Total da Conta:                                                                                5,04               0,00
+
+121020600000206
+                  PIS Pendente de Ativo Imobilizados
+                  10000     IMPOSTOS PENDENTE                    0/0                                               5,04
+                  Descrição:  Bem 23
+                  Total da Conta:                                                                                5,04               0,00
+
+211050400000507
+                  ICMS Ativo a Recuperar                   010702010000201
+                  10000     IMPOSTOS PENDENTE                    0/0                                                                  5,04
+                  Descrição:  Bem 23
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 18
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 17
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 20
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 21
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 19
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 16
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 15
+                  10000     IMPOSTO APROPRIADO                   0/0                                               0,48
+                  Descrição:  Bem 22
+                  Total da Conta:                                                                               70,48               5,04
+
+211050400000521
+                  PIS Ativo Recup                          010702010000201
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 15
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 20
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 21
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 16
+                  10000     IMPOSTO APROPRIADO                   0/0                                               0,48
+                  Descrição:  Bem 22
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 19
+                  10000     IMPOSTOS PENDENTE                    0/0                                                                  5,04
+                  Descrição:  Bem 23
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 18
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 17
+                  Total da Conta:                                                                               70,48               5,04
+
+211050400000522
+                  COFINS Ativo Recup                       010702010000201
+                  10000     IMPOSTO APROPRIADO                   0/0                                               0,48
+                  Descrição:  Bem 22
+
+-----------------------------------------------------------------------------------------------DATASUL -  - RI0414RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+TOTVS S.A.                                       DIÁRIO AUXILIAR                                                       Página:    29
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+                  10000     IMPOSTOS PENDENTE                    0/0                                                                  5,04
+                  Descrição:  Bem 23
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 21
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 15
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 16
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 17
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 18
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 19
+                  10000     IMPOSTO APROPRIADO                   0/0                                              10,00
+                  Descrição:  Bem 20
+                  Total da Conta:                                                                               70,48               5,04
+
+311111111111001
+                  ICMS Imp. Rec. Longo Prazo
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 17
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 21
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 16
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 18
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 15
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 19
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                  0,48
+                  Descrição:  Bem 22
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 20
+                  Total da Conta:                                                                                0,00              70,48
+
+311111111111002
+                  ICMS Imp. Rec. Curto Prazo
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 19
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                  0,48
+                  Descrição:  Bem 22
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                               0,48
+                  Descrição:  Bem 22
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 21
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 17
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 21
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 20
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 20
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 19
+
+-----------------------------------------------------------------------------------------------DATASUL -  - RI0414RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+TOTVS S.A.                                       DIÁRIO AUXILIAR                                                       Página:    36
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 16
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 17
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 18
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 16
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 15
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 18
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 15
+                  Total da Conta:                                                                               70,48              70,48
+
+311111111111012
+                  PIS Rec. Longo Prazo
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 15
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 16
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 18
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 21
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 17
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 19
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                  0,48
+                  Descrição:  Bem 22
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 20
+                  Total da Conta:                                                                                0,00              70,48
+
+311111111111013
+                  PIS Rec. Curto Prazo
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 19
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 16
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 15
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 20
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 21
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 15
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                               0,48
+                  Descrição:  Bem 22
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 16
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 20
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                  0,48
+                  Descrição:  Bem 22
+
+-----------------------------------------------------------------------------------------------DATASUL -  - RI0414RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+TOTVS S.A.                                       DIÁRIO AUXILIAR                                                       Página:    43
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 19
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 18
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 17
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 21
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 18
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 17
+                  Total da Conta:                                                                               70,48              70,48
+
+311111111111023
+                  COFINS Rec. Longo Prazo
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 17
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 21
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 19
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 20
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 15
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 16
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                 10,00
+                  Descrição:  Bem 18
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                                                  0,48
+                  Descrição:  Bem 22
+                  Total da Conta:                                                                                0,00              70,48
+
+311111111111024
+                  COFINS Rec. Curto Prazo
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 19
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 20
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 19
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 18
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 17
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 21
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                               0,48
+                  Descrição:  Bem 22
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 17
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 16
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 18
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 21
+
+-----------------------------------------------------------------------------------------------DATASUL -  - RI0414RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+TOTVS S.A.                                       DIÁRIO AUXILIAR                                                       Página:    50
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 16
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                 10,00
+                  Descrição:  Bem 15
+                  10000     IMPOSTO APROPRIADO                   0/0                                                                  0,48
+                  Descrição:  Bem 22
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 20
+                  10000     TRANSF. DO LONGO PARA CURTO          0/0                                              10,00
+                  Descrição:  Bem 15
+                  Total da Conta:                                                                               70,48              70,48
+
+                  Total do Dia:                                                                                438,00             438,00
+
+                  Total do Período:                                                                          3.454,92           3.454,92
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------DATASUL -  - RI0414RP - V:0.00.00.000
+

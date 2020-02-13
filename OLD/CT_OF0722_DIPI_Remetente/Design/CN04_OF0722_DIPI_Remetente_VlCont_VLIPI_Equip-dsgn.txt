@@ -1,0 +1,9 @@
+     Cenario : CN04_OF0722_DIPI_Remetente_VlCont_VLIPI_Equip
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '01/05/2011' no Campo Dt Documento."
+EXECUTE,"Informar o valor '1' no Campo Estab."
+EXECUTE,"Informar o valor '100,00' no Campo Perc max relatório."

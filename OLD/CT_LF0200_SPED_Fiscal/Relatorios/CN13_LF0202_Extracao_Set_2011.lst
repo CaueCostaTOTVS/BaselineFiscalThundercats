@@ -1,0 +1,193 @@
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+Documentos Fiscais
+
+
+
+Dt Docto   Est   Ser   Doc Fisc         Cliente/Fornec Nome Abreviado Nat Oper UF
+---------- ----- ----- ---------------- -------------- -------------- -------- ----
+01/09/2011 1     5     0023091                       1 SASAZAKI       1111a    SP
+01/09/2011 1     1     0001452                   12704 NICOM COM 1    111eff   SC
+01/09/2011 1     un    0001111                       1 SASAZAKI       111eff   SP
+01/09/2011 1     un    0001091                       1 SASAZAKI       111eff   SP
+01/09/2011 1     1     0001453                   12704 NICOM COM 1    111efr   SC
+01/09/2011 1     1     0001450                   12704 NICOM COM 1    111faf   SC
+01/09/2011 1     un    0001093                       1 SASAZAKI       111faf   SP
+01/09/2011 1     un    0010901                       1 SASAZAKI       111faf   SP
+01/09/2011 1     un    0001094                       1 SASAZAKI       111far   SP
+01/09/2011 1     1     0001451                   12704 NICOM COM 1    111far   SC
+01/09/2011 1     un    0010902                       1 SASAZAKI       111far   SP
+01/09/2011 1     1     0109001                90000032 AMIGOSCAMPO    210202   PR
+01/09/2011 1     5     0076776                90000032 AMIGOSCAMPO    620201   mg
+02/09/2011 1     MAN   0076801                      22 EDI Mercanti   6123     SP
+05/09/2011 1     1     0001453                   12704 NICOM COM 1    111eff   SC
+05/09/2011 1     1     0001458                   12704 NICOM COM 1    111efr   SC
+05/09/2011 1     1     0001454                   12704 NICOM COM 1    111efr   SC
+05/09/2011 1     1     0001455                   12704 NICOM COM 1    111faf   SC
+05/09/2011 1     un    0005091                       1 SASAZAKI       111faf   SP
+05/09/2011 1     1     0001460                   12704 NICOM COM 1    111far   SC
+05/09/2011 1     1     0001456                   12704 NICOM COM 1    111far   SC
+05/09/2011 1     un    0050902                       1 SASAZAKI       111far   SP
+05/09/2011 1     un    0005094                       1 SASAZAKI       111far   SP
+05/09/2011 1     un    0005092                       1 SASAZAKI       111far   SP
+05/09/2011 1     1     0001457                   12704 NICOM COM 1    11effr   SC
+05/09/2011 1     1     0001459                   12704 NICOM COM 1    11fafr   SC
+05/09/2011 1     un    0005093                       1 SASAZAKI       122faf   SP
+05/09/2011 1     un    0050901                       1 SASAZAKI       122faf   SP
+05/09/2011 1     graos 0013177                90000033 GOLDENGRAINS   210202   MT
+05/09/2011 1     graos 0013178                90000033 GOLDENGRAINS   210202   MT
+05/09/2011 1     1     0002355                   78550 TRANSP BENFI   2352     SP
+05/09/2011 1     5     0076851                      13 TREZE          611-IE   SP
+05/09/2011 1     5     0076862                      13 TREZE          611-IE   SP
+05/09/2011 1     5     0076847                      83 A NASCIMENTO   611otf   SP
+05/09/2011 1     5     0076849                      83 A NASCIMENTO   611otf   SP
+05/09/2011 1     5     0076845                      83 A NASCIMENTO   6123     SP
+05/09/2011 1     5     0076846                      83 A NASCIMENTO   6123     SP
+05/09/2011 1     5     0076852                      22 EDI Mercanti   6123     SP
+05/09/2011 1     MAN   0076802                      22 EDI Mercanti   6123     SP
+05/09/2011 1     MAN   0076853                      22 EDI Mercanti   6123     SP
+05/09/2011 1     MAN   0076854                      22 EDI Mercanti   6123     SP
+05/09/2011 1     5     0076848                      70 PINTOR         699OTR   SP
+05/09/2011 1     5     0076850                      70 PINTOR         699OTR   SP
+05/09/2011 1     5     0076861                      14 ESTRANGEIRO    7111     EX
+06/09/2011 1     man   0001465                   12704 NICOM COM 1    11111    SC
+06/09/2011 1     man   0001466                   12704 NICOM COM 1    11111    SC
+06/09/2011 1     1     0001481                   12704 NICOM COM 1    11111    SC
+06/09/2011 1     1     0001485                   12704 NICOM COM 1    11111    SC
+06/09/2011 1     1     0001472                   12704 NICOM COM 1    11111    SC
+06/09/2011 1     1     0001473                   12704 NICOM COM 1    11111    SC
+06/09/2011 1     man   0001471                   12704 NICOM COM 1    11111    SC
+06/09/2011 1     man   0001467                   12704 NICOM COM 1    11111    SC
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    2
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+Dt Docto   Est   Ser   Doc Fisc         Cliente/Fornec Nome Abreviado Nat Oper UF
+---------- ----- ----- ---------------- -------------- -------------- -------- ----
+06/09/2011 1     1     0001464                   12704 NICOM COM 1    111agr   SC
+06/09/2011 1     1     0001473                   12704 NICOM COM 1    111faf   SC
+06/09/2011 1     1     0001480                   12704 NICOM COM 1    111faf   SC
+06/09/2011 1     1     0001478                   12704 NICOM COM 1    111faf   SC
+06/09/2011 1     1     0001476                   12704 NICOM COM 1    111faf   SC
+06/09/2011 1     1     0001481                   12704 NICOM COM 1    111far   SC
+06/09/2011 1     1     0001477                   12704 NICOM COM 1    111far   SC
+06/09/2011 1     1     0001474                   12704 NICOM COM 1    111far   SC
+06/09/2011 1     1     0001463                   12704 NICOM COM 1    199ret   SC
+06/09/2011 1     1     0001470                   12704 NICOM COM 1    199ret   SC
+06/09/2011 1     1     0001466                   12704 NICOM COM 1    199ret   SC
+06/09/2011 1     1     0001024                   73628 DATTI          2112     SP
+06/09/2011 1     1     0001534                   75800 VEDAWAY        2421     SP
+08/09/2011 1     un    9090903                   12704 NICOM COM 1    111a     SC
+08/09/2011 1     1     0001502                   12704 NICOM COM 1    111faf   SC
+08/09/2011 1     1     0001507                   12704 NICOM COM 1    111faf   SC
+08/09/2011 1     un    9090902                   12704 NICOM COM 1    111far   SC
+08/09/2011 1     1     0001508                   12704 NICOM COM 1    111far   SC
+08/09/2011 1     1     0001506                   12704 NICOM COM 1    111far   SC
+08/09/2011 1     1     0080901                90000033 GOLDENGRAINS   210202   MT
+26/09/2011 1     12345 0000005                      13 TREZE          69901    SP
+27/09/2011 1     1     0001601                   12704 NICOM COM 1    111EFR   SP
+27/09/2011 1     1     0001600                   12704 NICOM COM 1    111EFR   SP
+28/09/2011 1     12345 0000010                      13 TREZE          29901    SP
+29/09/2011 1     12345 0000020                      13 TREZE          299902   SP
+30/09/2011 1     32    0001514                     978 INCOESME       199CDM   SC
+30/09/2011 1     32    0001516                     978 INCOESME       199CDM   SC
+30/09/2011 1     32    0001513                     978 INCOESME       199CDS   SC
+30/09/2011 1     32    0001515                     978 INCOESME       199CEM   SC
+30/09/2011 1     32    0001517                     978 INCOESME       199CEM   SC
+30/09/2011 1     32    1234503                     978 INCOESME       511CFT   SC
+30/09/2011 1     32    1234507                     978 INCOESME       511CFT   SC
+30/09/2011 1     32    1234502                     978 INCOESME       511CRP   SC
+30/09/2011 1     32    1234506                     978 INCOESME       511CRP   SC
+30/09/2011 1     32    1234508                     978 INCOESME       599CDM   SC
+30/09/2011 1     32    1234504                     978 INCOESME       599CDS   SC
+30/09/2011 1     32    1234501                     978 INCOESME       599CRM   SC
+30/09/2011 1     32    1234505                     978 INCOESME       599CRM   SC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    3
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+            Seleção
+
+            Estabelecimento:   1            |< >|  1
+                       Data:   01/09/2011   |< >|  30/09/2011
+
+
+            Parâmetros
+
+                                            Entrada:  Sim
+                                              Saída:  Sim
+                                            Serviço:  Sim
+                    Atualiza Documento Já Integrado:  Sim
+                   Extrair Documentos de Exportação:  Não
+                     Atualiza Dados CIAP no Período:  Não
+            Primeira Entrega Bloco G do Sped Fiscal:  Não
+                    Extrair Automaticamente Bloco P:  Não
+           Considerar no Valor da Mercadoria (C170):  Não
+                        Notas Fiscais de Exportação:
+
+
+            Destino:  Arquivo          -   c:/Automacao/Relatorios/CN13_LF0202_Extr
+            Usuário:  super
+
+
+            Inventário
+
+            Motivo                            Dt Fechamento  Preço Base ICMS  %Margem  Estab x Item
+            --------------------------------  -------------  ---------------  -------  ------------
+            Final do Período...........: Não
+            Mudança Forma Tributação...: Não
+            Solicitação Baixa Cadastral: Não
+            Alteração Regime Pagamento.: Não
+            Solicitação da Fiscalização: Não
+
+            Período para Média das Entradas
+
+            Data Transação Inicial:
+              Data Transação Final:
+
+            Inventário em Processo
+
+            Considera Produtos em Fabricação: Não
+
+            Arquivos de Acompanhamento
+
+            Itens Selecionados Inventário:
+                Documentos Média Entradas:
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:0.00.00.000
+

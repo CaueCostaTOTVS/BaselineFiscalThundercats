@@ -1,0 +1,4 @@
+Estabelecimento	Período	Indicador Tipo de Apuração	Código Ajuste	Participante	Modelo	Série	Subsérie	Número do Documento	Data	Item	Valor Ajuste Item	Data Visto
+1	Aug-11	0	SC020014	1.43801E+12	55	1		0000111	5/1/2011	40F	200.00	5/1/2011
+1	Aug-11	0	SC020014	12704	01	1		0001296	8/1/2011	.COMPRAS.LOTE	10.26	8/1/2011
+1	Aug-11	0	SC049999	1.43801E+12	01	1		0001232	5/26/2011	40T	96.36	5/26/2011

@@ -1,0 +1,65 @@
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Dump 30 pri.reg. Arq. Naturezas de Operacao                           Página:     1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+SEQUENCIA POS. ++++.++++1++++.++++2++++.++++3++++.++++4++++.++++5++++.++++6++++.++++7++++.++++8++++.++++9++++.+++10
+
+ 0000001    1  010120001032  COMPRAS DE INSUMOS                                                                    
+ 0000002    1  010120001101  Compra materia prima                                                                  
+ 0000003    1  010120001101A Compra materia prima                                                                  
+ 0000004    1  010120001112  COMPRA DE INSUMOS                                                                     
+ 0000005    1  010120001113  COMPRA DE INSUMOS                                                                     
+ 0000006    1  010120001114  COMPRA DE INSUMOS                                                                     
+ 0000007    1  010120001115  COMPRA DE INSUMOS                                                                     
+ 0000008    1  01012000111A1 Compra materia prima - NFe                                                            
+ 0000009    1  01012000111EFFEntrega Futura - Fatura                                                               
+ 0000010    1  01012000111FAFFaturamento Antecipado - Fatura                                                       
+ 0000011    1  0101200011314 INDUSTR.EFET. P/TERCEIROS                                                             
+ 0000012    1  01012000131STEDEVOL. DE PROD DO ESTABEL-ST                                                          
+ 0000013    1  010120001322  DEVOLUCAO                                                                             
+ 0000014    1  010120001551R1Compra Ativo 01                                                                       
+ 0000015    1  010120001621OSFRETE ATIVO                                                                           
+ 0000016    1  0101200016230 FRETE DE INSUMOS                                                                      
+ 0000017    1  0101200016231 AQUIS. SERV. DE TRANSPORTE                                                            
+ 0000018    1  0101200016235 AQUIS. SERV. DE TRANSPORTE                                                            
+ 0000019    1  010120001626  FRETE DE INSUMOS                                                                      
+ 0000020    1  01012000162950FRETE DESPESA                                                                         
+ 0000021    1  01012000162953FRETE ATIVO                                                                           
+ 0000022    1  01012000165122COMPRA OLEO DIESEL-ABASTECIMENTO                                                      
+ 0000023    1  01012000165421COMPRA DE COMBUSTIVEL - MP                                                            
+ 0000024    1  0101200016553 COMPRA DE COMB. OU LUBR. - DESPESAS                                                   
+ 0000025    1  010120001802  SERVICO TRIB PELO ISS                                                                 
+ 0000026    1  010120001911OSCOMPRA P/ATIVO IMOBILIZADO                                                            
+ 0000027    1  010120001914OSCOMPRA P/ATIVO IMOBILIZADO                                                            
+ 0000028    1  010120001918OSCOMPRA P/ATIVO IMOBILIZADO                                                            
+ 0000029    1  010120001929OSCOMPRA P/ATIVO IMOBILIZADO                                                            
+ 0000030    1  010120001932OSCOMPRA P/ATIVO IMOBILIZADO                                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------DATASUL - OBRIGAÇÕES FISCAIS - OF0739A - V:0.00.00.000
+

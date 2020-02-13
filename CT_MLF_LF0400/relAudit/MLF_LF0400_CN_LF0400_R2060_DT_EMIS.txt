@@ -1,0 +1,182 @@
+=====> BD: mgmov Tabela: dwf-reinf-cprb-ajust Evento: C
+Field: cdn-ajust Nov: 6
+Field: cod-ativid Nov: 73082000
+Field: cod-estab Nov: 1
+Field: cod-inscr-estab Nov: 53113791001790
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-livre-5 Nov: 
+Field: cod-livre-6 Nov: 
+Field: dat-ajust Nov: 01/01/2014
+Field: dat-apurac-final Nov: 31/01/2014
+Field: dat-apurac-inicial Nov: 01/01/2014
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-livre-5 ?
+Field: dat-livre-6 ?
+Field: des-ajust Nov: Vendas canceladas
+Field: IDI-LIVRE-REG-ORIG Nov: 1
+Field: idi-tip-inscr-estab Nov: 1
+Field: idi-tipo-ajust Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: log-livre-5 Nov: no
+Field: log-livre-6 Nov: no
+Field: LOG-LIVRE-REG-AUTOM Nov: yes
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-livre-5 Nov: 0
+Field: num-livre-6 Nov: 0
+Field: val-ajust Nov: 396
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-livre-5 Nov: 0
+Field: val-livre-6 Nov: 0
+=====> BD: mgmov Tabela: dwf-reinf-cprb-ajust Evento: C
+Field: cdn-ajust Nov: 7
+Field: cod-ativid Nov: 73082000
+Field: cod-estab Nov: 1
+Field: cod-inscr-estab Nov: 53113791001790
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-livre-5 Nov: 
+Field: cod-livre-6 Nov: 
+Field: dat-ajust Nov: 01/01/2014
+Field: dat-apurac-final Nov: 31/01/2014
+Field: dat-apurac-inicial Nov: 01/01/2014
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-livre-5 ?
+Field: dat-livre-6 ?
+Field: des-ajust Nov: IPI
+Field: IDI-LIVRE-REG-ORIG Nov: 1
+Field: idi-tip-inscr-estab Nov: 1
+Field: idi-tipo-ajust Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: log-livre-5 Nov: no
+Field: log-livre-6 Nov: no
+Field: LOG-LIVRE-REG-AUTOM Nov: yes
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-livre-5 Nov: 0
+Field: num-livre-6 Nov: 0
+Field: val-ajust Nov: 32,25
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-livre-5 Nov: 0
+Field: val-livre-6 Nov: 0
+=====> BD: mgmov Tabela: dwf-reinf-cprb-ajust Evento: C
+Field: cdn-ajust Nov: 4
+Field: cod-ativid Nov: 76129090
+Field: cod-estab Nov: 1
+Field: cod-inscr-estab Nov: 53113791001790
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-livre-5 Nov: 
+Field: cod-livre-6 Nov: 
+Field: dat-ajust Nov: 01/01/2014
+Field: dat-apurac-final Nov: 31/01/2014
+Field: dat-apurac-inicial Nov: 01/01/2014
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-livre-5 ?
+Field: dat-livre-6 ?
+Field: des-ajust Nov: Exporta‡äes diretas
+Field: IDI-LIVRE-REG-ORIG Nov: 1
+Field: idi-tip-inscr-estab Nov: 1
+Field: idi-tipo-ajust Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: log-livre-5 Nov: no
+Field: log-livre-6 Nov: no
+Field: LOG-LIVRE-REG-AUTOM Nov: yes
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-livre-5 Nov: 0
+Field: num-livre-6 Nov: 0
+Field: val-ajust Nov: 696,57
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-livre-5 Nov: 0
+Field: val-livre-6 Nov: 0
+=====> BD: mgmov Tabela: dwf-reinf-cprb-ajust Evento: C
+Field: cdn-ajust Nov: 7
+Field: cod-ativid Nov: 76129090
+Field: cod-estab Nov: 1
+Field: cod-inscr-estab Nov: 53113791001790
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: cod-livre-5 Nov: 
+Field: cod-livre-6 Nov: 
+Field: dat-ajust Nov: 01/01/2014
+Field: dat-apurac-final Nov: 31/01/2014
+Field: dat-apurac-inicial Nov: 01/01/2014
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: dat-livre-5 ?
+Field: dat-livre-6 ?
+Field: des-ajust Nov: IPI
+Field: IDI-LIVRE-REG-ORIG Nov: 1
+Field: idi-tip-inscr-estab Nov: 1
+Field: idi-tipo-ajust Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: log-livre-5 Nov: no
+Field: log-livre-6 Nov: no
+Field: LOG-LIVRE-REG-AUTOM Nov: yes
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: num-livre-5 Nov: 0
+Field: num-livre-6 Nov: 0
+Field: val-ajust Nov: 54,57
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: val-livre-5 Nov: 0
+Field: val-livre-6 Nov: 0
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgmov      dwf-reinf-cprb-ajust                    4          0          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              4          0          0

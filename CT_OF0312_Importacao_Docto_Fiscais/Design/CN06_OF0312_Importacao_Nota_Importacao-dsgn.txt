@@ -1,0 +1,6 @@
+     Cenario : CN06_OF0312_Importacao_Nota_Importacao
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

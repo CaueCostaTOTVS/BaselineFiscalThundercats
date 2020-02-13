@@ -1,0 +1,257 @@
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        Relatório de Contabilização - Período: 05/2009                         Página:    1
+-------------------------------------------------------------------------------------------------------------- 06/02/2020 - 15:13:34
+
+Erro na integração, verifique o arquivo.   C:\\Temp\RI0150911.log
+Referência gerada, mas atualize através da Módulo CT ou FASB
+28407 - Houve erro na Integração com a Contabilidade do EMS5 Empresa:          10 Referência:  RI015091   Est:  1
+Estab Cta Contábil/CCusto  Titulo                              UN  Bem           Nr. Pat.  Seq. Tp  Grupo       Debito      Credito
+----- -------------------- ----------------------------------- --- ------------ --------- ----- -- ------ ------------ ------------
+1     211050400000507      ICMS Ativo a Recuperar                  1                    0     0 10      1        10,00         0,00
+      010702010000201                                              49                   0     0 10      1       100,00         0,00
+                                                                   54                   0     0 10      1       694,87         0,00
+                                                                                                          ------------ ------------
+                                                                                             TOTAL:             804,87         0,00
+
+
+      211050400000521      PIS Ativo Recup                         1                    0     0 10      2        10,00         0,00
+      010702010000201
+                                                                                                          ------------ ------------
+                                                                                             TOTAL:              10,00         0,00
+
+
+      211050400000522      COFINS Ativo Recup                      1                    0     0 10      3        10,00         0,00
+      010702010000201
+                                                                                                          ------------ ------------
+                                                                                             TOTAL:              10,00         0,00
+
+
+      311111111111001      ICMS Imp. Rec. Longo Prazo              1                    0     0 12      1         0,00        10,00
+                                                                   49                   0     0 12      1         0,00       100,00
+                                                                   54                   0     0 06      1         0,00        82,18
+                                                                                                12      1         0,00       694,87
+                                                                                                06      1         0,00        82,18
+                                                                                                          ------------ ------------
+                                                                                             TOTAL:               0,00       969,23
+
+
+      311111111111002      ICMS Imp. Rec. Curto Prazo              1                    0     0 10      1         0,00        10,00
+                                                                                                12      1        10,00         0,00
+                                                                   49                   0     0 10      1         0,00       100,00
+                                                                                                12      1       100,00         0,00
+                                                                   54                   0     0 10      1         0,00       694,87
+                                                                                                06      1         0,00        30,84
+                                                                                                12      1       694,87         0,00
+                                                                                                06      1         0,00        30,84
+                                                                                                          ------------ ------------
+                                                                                             TOTAL:             804,87       866,55
+
+
+      311111111111008      ICMS Quebra                             54                   0     0 06      1       113,02         0,00
+                                                                                                06      1       113,02         0,00
+                                                                                                          ------------ ------------
+                                                                                             TOTAL:             226,04         0,00
+
+
+      311111111111012      PIS Rec. Longo Prazo                    1                    0     0 12      2         0,00        10,00
+
+                                                                                                          ------------ ------------
+                                                                                             TOTAL:               0,00        10,00
+
+
+      311111111111013      PIS Rec. Curto Prazo                    1                    0     0 12      2        10,00         0,00
+                                                                                                10      2         0,00        10,00
+-----------------------------------------------------------------------------------------------DATASUL -  - RI0412RP - V:2.00.00.076
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        Relatório de Contabilização - Período: 05/2009                         Página:    2
+-------------------------------------------------------------------------------------------------------------- 06/02/2020 - 15:13:35
+
+                                                                                                          ------------ ------------
+                                                                                             TOTAL:              10,00        10,00
+
+
+Estab Cta Contábil/CCusto  Titulo                              UN  Bem           Nr. Pat.  Seq. Tp  Grupo       Debito      Credito
+----- -------------------- ----------------------------------- --- ------------ --------- ----- -- ------ ------------ ------------
+      311111111111023      COFINS Rec. Longo Prazo                 1                    0     0 12      3         0,00        10,00
+
+                                                                                                          ------------ ------------
+                                                                                             TOTAL:               0,00        10,00
+
+
+      311111111111024      COFINS Rec. Curto Prazo                 1                    0     0 10      3         0,00        10,00
+                                                                                                12      3        10,00         0,00
+                                                                                                          ------------ ------------
+                                                                                             TOTAL:              10,00        10,00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------DATASUL -  - RI0412RP - V:2.00.00.076
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        Relatório de Contabilização - Período: 05/2009                         Página:    3
+-------------------------------------------------------------------------------------------------------------- 06/02/2020 - 15:13:35
+
+                                                                                                    --------------- ---------------
+                                                                                     TOTAL GERAL          1.875,78        1.875,78
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------DATASUL -  - RI0412RP - V:2.00.00.076
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        Relatório de Contabilização - Período: 05/2009                         Página:    4
+-------------------------------------------------------------------------------------------------------------- 06/02/2020 - 15:13:35
+
+
+------- RESUMO POR ESTABELECIMENTO x GRUPO x PERÍODO -------
+
+Estab  Grupo Período       Val Recuperado Val Não Recuperado
+----- ------ ---------- ----------------- ------------------
+1          1 01/05/2009            804,87               0,00
+1          2 01/05/2009             10,00               0,00
+1          3 01/05/2009             10,00               0,00
+
+LEGENDA:
+
+0 -> TRANSFERÊNCIA DE IMPOSTO ATIVO A RECUPERAR PARA CONTA DE IMPOSTOS PENDENTE
+1 -> IMPOSTO ATIVO PENDENTE DE INICIO DE CREDITO
+4 -> BAIXA IMPOSTO ATIVO POR VENDAS
+5 -> BAIXA IMPOSTO ATIVO POR TRANSFERENCIA
+6 -> BAIXA IMPOSTO ATIVO POR QUEBRA
+7 -> BAIXA IMPOSTO ATIVO POR DEVOLUCAO
+8 -> BAIXA IMPOSTO ATIVO POR INUTILIZACAO
+9 -> INICIO DE CREDITO IMPOSTO ATIVO
+10 -> IMPOSTO ATIVO APROPRIADO NO PERIODO
+11 -> IMPOSTO ATIVO NAO APROPRIADO NO PERIODO
+12 -> TRANSFERENCIA 1 PARCELA DE LP PARA CP NO PERIODO
+13 -> ESTORNO DE CREDITO INDEVIDO.
+14 -> BAIXA IMPOSTO ATIVO POR EXAUSTAO OU PERDA.
+16 -> CORRECAO IMPOSTO ATIVO POR MOEDA ALTERNATIVA.
+17 -> IMPOSTO ATIVO NAO APROPRIADO POR ARREDONDAMENTO - Curto Prazo
+
+
+
+SELEÇÃO :           
+
+Estabelecimento :   1       |<  >|     1       
+
+
+PARÂMETRO :
+
+                      Período: 05/2009
+ Integração com Contabilidade: Sim
+                  Contabiliza: Sim
+               Descontabiliza: Não
+                    Impressão: Detalhada
+
+
+IMPRESSÃO :
+
+         Destino:   2 - c:/automacao/relatorios/CN_RI0412_200905.lst
+         Usuário:   SUPER
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------DATASUL -  - RI0412RP - V:2.00.00.076
+

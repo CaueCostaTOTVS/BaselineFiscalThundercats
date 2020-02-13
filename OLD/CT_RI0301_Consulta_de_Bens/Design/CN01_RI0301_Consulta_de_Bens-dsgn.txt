@@ -1,0 +1,14 @@
+     Cenario : CN01_RI0301_Consulta_de_Bens
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '27' no Campo Cod Identificador Bem."
+EXECUTE,"Informar o valor '' no Campo Descrição."
+EXECUTE,"Informar o valor '' no Campo Estabelecimento."
+EXECUTE,"Informar o valor '' no Campo Série."
+EXECUTE,"Informar o valor '' no Campo Nr Docto."
+EXECUTE,"Informar o valor '' no Campo Ordem Produção."
+EXECUTE,"Informar o valor '' no Campo Num Ord Invest."
+EXECUTE,"Informar o valor '' no Campo Nr Patrimônio."

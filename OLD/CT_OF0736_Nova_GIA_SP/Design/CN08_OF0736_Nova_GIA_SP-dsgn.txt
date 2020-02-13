@@ -1,0 +1,12 @@
+     Cenario : CN08_OF0736_Nova_GIA_SP
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estab."
+EXECUTE,"Informar o valor '1.658,23' no Campo Saldo Credor Período Anterior."
+EXECUTE,"Informar o valor '1.120,11' no Campo Saldo Credor Período Anterior - ST."
+EXECUTE,"Informar o valor '0210' no Campo Versão do Arquivo."
+EXECUTE,"Informar o valor 'yes' na Opção Considera CFOP's Serviços."
+EXECUTE,"Informar o valor 'c:\tmp\G072011.prf' no Editor ."

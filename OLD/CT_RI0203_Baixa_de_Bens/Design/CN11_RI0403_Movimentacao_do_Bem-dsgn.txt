@@ -1,0 +1,9 @@
+     Cenario : CN11_RI0403_Movimentacao_do_Bem
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabelecimento."
+EXECUTE,"Informar o valor '1' no Campo Bem."
+EXECUTE,"Informar o valor '9' no Campo ."

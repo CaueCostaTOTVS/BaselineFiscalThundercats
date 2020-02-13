@@ -1,0 +1,11 @@
+     Cenario : CN05_OF0717_Apuracao_Valor_Recolhimento
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabelecimento."
+EXECUTE,"Informar o valor '01/05/2011' no Campo Dt Apuração Inicial."
+EXECUTE,"Informar o valor '17' no Campo Termo de Abertura."
+EXECUTE,"Informar o valor '18' no Campo Termo de Encerramento."
+EXECUTE,"Informar o valor 'c:/automacao/relatorios/OF0717_Apur_Valor_Recolh.lst' no Editor ."

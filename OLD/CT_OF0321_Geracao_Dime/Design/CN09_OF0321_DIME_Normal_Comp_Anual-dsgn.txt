@@ -1,0 +1,12 @@
+     Cenario : CN09_OF0321_DIME_Normal_Comp_Anual
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabel."
+EXECUTE,"Informar o valor '2011' no Campo Ano da Apuração."
+EXECUTE,"Informar o valor '2011' no Campo ."
+EXECUTE,"Informar o valor '05' no Campo Mês da Apuração."
+EXECUTE,"Informar o valor '05' no Campo ."
+EXECUTE,"Informar o valor 'c:/automacao/relatorios/OF0321_Normal_Comp_Anual_Acompanhamento.lst' no Editor ."

@@ -1,0 +1,359 @@
+=====> BD: mgmov Tabela: nota-fisc-adc Evento: C Chave: 1|1    |16092002|13|611a|10|0|
+Field: cod-estab Nov: 1
+Field: cod-serie Nov: 1
+Field: cod-nota-fisc Nov: 16092002
+Field: cdn-emitente Nov: 13
+Field: cod-natur-operac Nov: 611a
+Field: idi-tip-dado Nov: 10
+Field: num-seq Nov: 0
+Field: cod-proces Nov: 
+Field: idi-orig-proces Nov: 1
+Field: idi-model-docto Nov: 1
+Field: cod-uf Nov: 
+Field: cod-docto-arrecadac Nov: 
+Field: cod-autentic Nov: 
+Field: val-docto Nov: 0
+Field: dat-vencto ?
+Field: dat-pagto ?
+Field: idi-tip-docto-referado Nov: 1
+Field: idi-tip-emit-referado Nov: 1
+Field: cod-ser-docto-referado Nov: 
+Field: cod-docto-referado Nov: 
+Field: cdn-emit-docto-referado Nov: 0
+Field: cod-model-docto-referado Nov: 
+Field: dat-docto-referado ?
+Field: idi-carga Nov: 0
+Field: cod-cnpj-contribt-coleta Nov: 
+Field: cod-inscr-estad-contribt-coleta Nov: 
+Field: cod-cpf-contribt-coleta Nov: 
+Field: cod-munpio-coleta Nov: 
+Field: cod-cnpj-contribt-entreg Nov: 
+Field: cod-inscr-estad-contribt-entreg Nov: 
+Field: cod-cpf-contribt-entreg Nov: 
+Field: cod-munpio-entreg Nov: 
+Field: val-icms-aliq-adc Nov: 0
+Field: log-nf-zero Nov: no
+Field: cdn-transpdor Nov: 0
+Field: cod-placa Nov: 
+Field: cod-autoriz Nov: 
+Field: cod-pfi Nov: 
+Field: hra-saida Nov: <hora>
+Field: val-temperat Nov: 0
+Field: qtd-volum Nov: 0
+Field: val-peso-brut Nov: 0
+Field: val-peso-liq Nov: 0
+Field: nom-motoris Nov: 
+Field: cod-cpf-motoris Nov: 
+Field: cod-ajust Nov: 
+Field: dsl-compltar Nov: 
+Field: cod-item Nov: 
+Field: val-base-calc-icms Nov: 0
+Field: val-aliq-icms Nov: 0
+Field: val-icms Nov: 0
+Field: val-icms-outras Nov: 0
+Field: cod-clas-consu Nov: 
+Field: val-fornec-consum Nov: 0
+Field: val-icms-nao-tributad Nov: 0
+Field: val-terceiro Nov: 0
+Field: idi-tip-serv Nov: 0
+Field: dat-inic-serv ?
+Field: dat-fim-serv ?
+Field: cod-period-fisc Nov: 
+Field: cod-area Nov: 
+Field: cod-terminal Nov: 
+Field: cod-model-ecf Nov: 
+Field: cod-fabricc-ecf Nov: 
+Field: cod-cx-ecf Nov: 
+Field: cod-docto-referado-ecf Nov: 
+Field: dat-docto-referado-ecf ?
+Field: cod-livre-1 Nov: 1
+Field: cod-livre-2 Nov: 01
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+=====> BD: mgmov Tabela: it-doc-fisc Evento: C Chave: 1|1    |16092002|13|611a|10|
+Field: cod-estabel Nov: 1
+Field: serie Nov: 1
+Field: nr-seq-doc Nov: 10
+Field: cod-emitente Nov: 13
+Field: it-codigo Nov: 40c
+Field: peso-liq Nov: 29,339
+Field: vl-merc-liq Nov: 999,63
+Field: vl-tot-item Nov: 999,63
+Field: nat-operacao Nov: 611a
+Field: cd-trib-ipi Nov: 1
+Field: aliquota-ipi Nov: 0
+Field: perc-red-ipi Nov: 0
+Field: cd-trib-iss Nov: 2
+Field: aliquota-ISS Nov: 0
+Field: cd-trib-icm Nov: 1
+Field: perc-red-icm Nov: 0
+Field: vl-despes-it Nov: 0
+Field: vl-bicms-it Nov: 999,63
+Field: vl-icms-it Nov: 249,91
+Field: vl-icmsnt-it Nov: 0
+Field: vl-icmsou-it Nov: 0
+Field: vl-bipi-it Nov: 999,63
+Field: vl-ipi-it Nov: 0
+Field: vl-ipint-it Nov: 0
+Field: vl-ipiou-it Nov: 0
+Field: vl-biss-it Nov: 0
+Field: vl-iss-it Nov: 0
+Field: vl-issnt-it Nov: 0
+Field: vl-issou-it Nov: 0
+Field: vl-bsubs-it Nov: 0
+Field: vl-icmsub-it Nov: 0
+Field: tipo-contr Nov: 1
+Field: perc-red-iss Nov: 0
+Field: vl-merc-sicm Nov: 0
+Field: quantidade Nov: 1
+Field: un Nov: KG
+Field: class-fiscal Nov: 73083000
+Field: nr-doc-fis Nov: 16092002
+Field: dt-emis-doc Nov: 01/05/2011
+Field: tipo-nat Nov: 2
+Field: cd-vin-ipi Nov: 310
+Field: dt-ent-doc Nov: 01/05/2011
+Field: dt-docto Nov: 01/05/2011
+Field: descricao-db Nov: 
+Field: codigo-rejei Nov: 0
+Field: serie-com Nov: 
+Field: nr-nota-com Nov: 
+Field: dt-emis-com ?
+Field: cod-servico Nov: 0
+Field: ind-ori-doc Nov: 3
+Field: vl-ipi-dev Nov: 0
+Field: nivel-restituicao Nov: 
+Field: pc-desc-icms Nov: 0
+Field: pc-restituicao Nov: 0
+Field: vl-ipi-devol Nov: 0
+Field: ct-codigo Nov: 
+Field: sc-codigo Nov: 010701010000101
+Field: aliquota-icm Nov: 25
+Field: conta-contabil Nov: 
+Field: char-1 Nov: 0,000                   0                                                   11      ,00000      ,00000
+Field: char-2 Nov: 0,0000  0,0000  0,0000   0,0000           0,00             0,00             0,00             0,00             0,00           999,63  0,00000            0,00            0,00            0,00            0,00         0,00000            0,00
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+Field: vl-bsubs-it-en Nov: 0
+Field: vl-icmsub-it-en Nov: 0
+Field: vl-irf-it Nov: 0
+Field: baixa-estoq Nov: no
+Field: cod-sit-tri Nov: 0
+Field: vl-ipi-comp Nov: 0
+Field: vl-icms-comp Nov: 0
+Field: nro-comp Nov: 
+Field: despesas Nov: 0
+Field: desconto Nov: 0
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: log-livre-5 Nov: no
+Field: log-livre-6 Nov: no
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: val-icms-subst-entr Nov: 0
+Field: val-inss-retid Nov: 0
+Field: valor-ipi-beb Nov: 0
+Field: esp-beb Nov: 0
+Field: tipo-recip-beb Nov: 1
+Field: enquad-beb Nov: 0
+Field: cdn-espec-produt Nov: 0
+Field: capac-recip-beb Nov: 1
+Field: cd-trib-pis Nov: 2
+Field: cd-trib-cofins Nov: 2
+Field: perc-red-pis Nov: 0
+Field: perc-red-cofins Nov: 0
+Field: aliq-pis Nov: 0
+Field: aliq-cofins Nov: 0
+Field: val-pis Nov: 0
+Field: val-cofins Nov: 0
+Field: serie-nota Nov: 
+Field: val-retenc-csll Nov: 0
+Field: val-retenc-pis Nov: 0
+Field: val-retenc-cofins Nov: 0
+Field: idi-tip-apurac-ipi Nov: 1
+Field: val-base-calc-pis Nov: 0
+Field: val-base-calc-cofins Nov: 0
+=====> BD: mgmov Tabela: doc-fiscal Evento: C Chave: 1|1    |16092002|13|611a|
+Field: cod-estabel Nov: 1
+Field: serie Nov: 1
+Field: nr-doc-fis Nov: 16092002
+Field: cod-emitente Nov: 13
+Field: nome-ab-emi Nov: TREZE
+Field: dt-emis-doc Nov: 01/05/2011
+Field: ind-sit-doc Nov: 1
+Field: endereco Nov: RUA XV DE NOVEMBRO, 1694/1000
+Field: bairro Nov: CENTRO
+Field: cidade Nov: MARILIA
+Field: estado Nov: SP
+Field: cep Nov: 17500050
+Field: pais Nov: BRASIL
+Field: cgc Nov: 61101895000498
+Field: ins-estadual Nov: 438.017.330.116
+Field: cod-des-merc Nov: 1
+Field: vl-cont-doc Nov: 999,63
+Field: nat-operacao Nov: 611a
+Field: preco-saida Nov: 1
+Field: ind-tip-nota Nov: 1
+Field: observacao Nov: Testes Automatizados OF0312 CN02
+Field: esp-docto Nov: NFS
+Field: cod-observa Nov: 1
+Field: aliquota-icm Nov: 0
+Field: vl-bicms Nov: 999,63
+Field: vl-icms Nov: 249,91
+Field: vl-icmsnt Nov: 0
+Field: vl-icmsou Nov: 0
+Field: vl-bsubs Nov: 0
+Field: vl-icmsub Nov: 0
+Field: manut-icm-it Nov: yes
+Field: manut-ipi-it Nov: yes
+Field: ind-icm-ret Nov: no
+Field: vl-icms-com Nov: 0
+Field: tipo-nat Nov: 2
+Field: cd-situacao Nov: 0
+Field: cd-registro Nov: 
+Field: vl-ipi Nov: 0
+Field: vl-bipi Nov: 999,63
+Field: vl-ipiou Nov: 0
+Field: vl-ipint Nov: 0
+Field: vl-biss Nov: 0
+Field: vl-iss Nov: 0
+Field: vl-issou Nov: 0
+Field: vl-issnt Nov: 0
+Field: vl-irf Nov: 0
+Field: ind-imprenda Nov: no
+Field: perc-red-iss Nov: 0
+Field: perc-red-ipi Nov: 0
+Field: perc-red-icm Nov: 0
+Field: dt-docto Nov: 01/05/2011
+Field: vl-finsocial Nov: 0
+Field: vl-pis Nov: 0
+Field: ind-cifob Nov: 0
+Field: dt-ult-alt ?
+Field: user-alt Nov: super
+Field: ind-ori-doc Nov: 3
+Field: dt-impl Nov: TODAY
+Field: nivel-restituicao Nov: 
+Field: pc-desc-icms Nov: 0
+Field: pc-restituicao Nov: 0
+Field: vl-ipi-devol Nov: 0
+Field: cod-mensagem Nov: 302
+Field: cod-rejeicao Nov: 0
+Field: char-1 Nov: 0
+Field: char-2 Nov: 9       00
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: data-1 ?
+Field: data-2 ?
+Field: check-sum Nov: 
+Field: nr-siscomex Nov: 
+Field: endereco_text Nov: 
+Field: ipi-deb-cre Nov: 0
+Field: via-transp Nov: 1
+Field: tot-desconto Nov: 0
+Field: sigla-emb Nov: 
+Field: qt-volumes Nov: 0
+Field: peso-liq-tot Nov: 0
+Field: peso-bru-tot Nov: 0
+Field: vl-frete Nov: 0
+Field: vl-embalagem Nov: 0
+Field: vl-seguro Nov: 0
+Field: val-desp-outros Nov: 0
+Field: nome-transp Nov: GMT6893
+Field: vl-mercad Nov: 0
+Field: emite-duplic Nov: no
+Field: nr-fatura Nov: 
+Field: placa Nov: 
+Field: cidade-cif Nov: 
+Field: dt-embarque ?
+Field: vl-redespacho Nov: 0
+Field: nr-redespacho Nov: 
+Field: nr-re Nov: 
+Field: cod-moeda Nov: 0
+Field: cod-vencto Nov: 1
+Field: cod-cfop Nov: 6101
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: log-livre-5 Nov: no
+Field: log-livre-6 Nov: no
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: serie-nota Nov: 
+Field: val-base-contrib-social Nov: 0
+Field: cod-pais-siscomex Nov: 
+Field: log-averb Nov: no
+Field: cdn-moed-siscomex Nov: 0
+Field: des-decla-import Nov: 
+Field: cod-solicit-despch Nov: 
+Field: dat-solicit-despch ?
+Field: val-despch Nov: 0
+Field: dat-reg-export ?
+Field: cod-conhecto Nov: 
+Field: dat-conhecto ?
+Field: cdn-tip-conhecto Nov: 0
+Field: cod-comprov-export Nov: 
+Field: dat-comprov-export ?
+Field: cdn-cidade Nov: 0
+Field: cdn-modalid-transp Nov: 1
+Field: cod-placa[1] Nov: 
+Field: cod-placa[2] Nov: 
+Field: cod-placa[3] Nov: 
+Field: cod-uf-placa[1] Nov: 
+Field: cod-uf-placa[2] Nov: 
+Field: cod-uf-placa[3] Nov: 
+Field: log-bxa-estoq Nov: no
+Field: cod-cnpj-transpdor Nov: 29497018843
+Field: cod-inscr-estad-transpdor Nov: 
+Field: cod-uf-transpdor Nov: SP
+Field: cod-chave-aces-nf-eletro Nov: 
+Field: idi-sit-nf-eletro Nov: 0
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgmov      doc-fiscal                              1          0          0
+mgmov      it-doc-fisc                             1          0          0
+mgmov      nota-fisc-adc                           1          0          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              3          0          0

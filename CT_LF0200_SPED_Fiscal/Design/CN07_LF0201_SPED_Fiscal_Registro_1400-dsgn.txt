@@ -1,0 +1,6 @@
+     Cenario : CN07_LF0201_SPED_Fiscal_Registro_1400
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

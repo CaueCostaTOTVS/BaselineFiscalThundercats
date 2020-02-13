@@ -1,0 +1,12 @@
+     Cenario : CN03_OF0721_Apuracao_IPI_Decendial
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabelecimento."
+EXECUTE,"Informar o valor '01/05/2011' no Campo Data de Emissão."
+EXECUTE,"Informar o valor '31/05/2011' no Campo ."
+EXECUTE,"Informar o valor '17' no Campo Termo de Abertura."
+EXECUTE,"Informar o valor '18' no Campo Termo de Encerramento."
+EXECUTE,"Informar o valor 'c:/automacao/relatorios/OF0721_Decendial_Previa.lst' no Editor ."

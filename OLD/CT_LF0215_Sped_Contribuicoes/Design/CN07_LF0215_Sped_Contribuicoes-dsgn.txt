@@ -1,0 +1,13 @@
+     Cenario : CN07_LF0215_Sped_Contribuicoes
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '01/05/2011' no Campo Data Docto."
+EXECUTE,"Informar o valor '10' no Campo Empresa."
+EXECUTE,"Informar o valor '009' no Campo Versão do Arquivo."
+EXECUTE,"Informar o valor '1' no Combo Box Finalidade do Arquivo."
+EXECUTE,"Informar o valor '99123' no Campo Número do Recibo Anterior."
+EXECUTE,"Informar o valor '9' no Combo Box Situação Especial."
+EXECUTE,"Informar o valor '00' no Combo Box Natureza da Pessoa Jurídica."

@@ -1,0 +1,27 @@
+=====> BD: mgcad Tabela: ped-curva Evento: C
+Field: char-1 Nov: of0631a
+Field: char-2 Nov: 
+Field: check-sum Nov: 
+Field: codigo Nov: 0
+Field: data-1 ?
+Field: data-2 ?
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: it-codigo Nov: 
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: nome Nov: 
+Field: quantidade Nov: 0
+Field: regiao Nov: 1
+Field: tot-ped Nov: 0
+Field: un Nov: SC
+Field: vl-aberto Nov: 0
+Field: vl-lucro-br Nov: 500,6
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      ped-curva                               1          0          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              1          0          0

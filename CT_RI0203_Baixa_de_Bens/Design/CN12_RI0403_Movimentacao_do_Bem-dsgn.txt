@@ -1,0 +1,6 @@
+     Cenario : CN12_RI0403_Movimentacao_do_Bem
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

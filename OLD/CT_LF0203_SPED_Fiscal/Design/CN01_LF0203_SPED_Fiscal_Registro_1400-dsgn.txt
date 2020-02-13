@@ -1,0 +1,11 @@
+     Cenario : CN01_LF0203_SPED_Fiscal_Registro_1400
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '10000' no Campo ."
+EXECUTE,"Informar o valor 'Produtos_Agropecuarios' no Campo ."
+EXECUTE,"Informar o valor '30/08/2011' no Campo ."
+EXECUTE,"Informar o valor '3106200' no Campo ."
+EXECUTE,"Informar o valor '1.582,25' no Campo ."

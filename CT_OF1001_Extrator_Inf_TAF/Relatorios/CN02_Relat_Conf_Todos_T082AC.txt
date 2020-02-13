@@ -1,0 +1,5 @@
+Empresa	Estabelecimento	Data Início Apur	Data Fim Apur	Atividade	Cod Ajuste	Vlr Ajuste	Dat Ajuste
+10	1	1/1/2014	1/31/2014	73082000	06	396.00	Jan-14
+10	1	1/1/2014	1/31/2014	73082000	07	32.25	Jan-14
+10	1	1/1/2014	1/31/2014	76129090	04	696.57	Jan-14
+10	1	1/1/2014	1/31/2014	76129090	07	54.57	Jan-14

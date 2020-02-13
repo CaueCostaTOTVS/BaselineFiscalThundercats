@@ -1,0 +1,56 @@
+----------------------------------------------------------------------------------------------------------------------------------  
+              Relatório de Demonstração do Cálculo da Estrutura do Item por Movimentação Ordem de Produção - Bloco K   
+----------------------------------------------------------------------------------------------------------------------------------  
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+  Estabelecimento: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                                             CNPJ: 53113791001790
+----------------------------------------------------------------------------------------------------------------------------------
+
+  Período Referência: 03/2014
+
+----------------------------------------------------------------------------------------------------------------------------------
+  Origem Estrutura:   Origem Estrutura: OPF - Movimentação da Ordem de Produção com Fictício
+  Estrutura Filtrada: Não
+----------------------------------------------------------------------------------------------------------------------------------
+
+  Unidade de Negócio: 123
+
+    Item: MBK-LIST-01_#F000002         Total Produzido:            30,000
+
+      Cod Insumo: MBK-LIST-F-01
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.821 N                     30,000000           360,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-LIST-F-01                12,000000
+
+
+      ---
+
+      Cod Insumo: MBK-LIST-F-02
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.821 N                     30,000000           600,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-LIST-F-02                20,000000
+
+
+      ---
+
+      Cod Insumo: MBK-LIST-F-05
+
+        Ordem Produção Co-Produto          Qtd Acabado  Total Insumo Rateio
+        -------------- ---------- -------------------- --------------------
+                10.821 N                     30,000000           240,000000
+
+      Qtd Insumo (Total Insumo / Total Produzido): MBK-LIST-F-05                 8,000000
+
+
+      ---
+
+
+----------------------------------------------------------------------------------------------------------------DATASUL - LF0228_1  

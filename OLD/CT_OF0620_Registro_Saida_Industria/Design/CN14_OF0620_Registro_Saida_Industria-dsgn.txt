@@ -1,0 +1,9 @@
+     Cenario : CN14_OF0620_Registro_Saida_Industria
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estabelecimento."
+EXECUTE,"Informar o valor '01/07/2011' no Campo Data Inicial."
+EXECUTE,"Informar o valor '31/07/2011' no Campo ."

@@ -1,0 +1,88 @@
+CONSOLIDAÇÃO DA CONTRIBUIÇÃO DO PERÍODO                                               
+Contribuinte: Estabelecimento TOTVS - N ALTERAR CONTAS                                
+CNPJ:  53.113.791/0017-90 
+Período de Apuração:  01/05/2011  a 31/05/2011
+Regime:  Escrituração detalhada pelo regime de competência                            
+
+Descrição                                                                                 PIS/PASEP(R$)     COFINS(R$)
+-------------------------------------------------------------------------------------- ----------------- -----------------
+Valor Total da Contribuição Não Cumulativa Apurada no Período                                       0,00              0,00
+Valor do Crédito, Apurado no Próprio Período de Apuração da Escrituação                             0,00              0,00
+Valor do Crédito, Apurado em Período de Apuração                                                    0,00              0,00
+Valor Total da Contribuição Não Cumulativa Devida                                                   0,00              0,00
+Valor da Contribuição Não Cumulativa Retida na fonte, Deduzido no Período                           0,00              0,00
+Outras Deduções do Regime Não Cumulativo no Período                                                 0,00              0,00
+Valor da Contribuição Não Cumulativa a Recolher/Pagar                                               0,00              0,00
+Valor Total da Contribuição Cumulativa no Período                                                   0,00              0,00
+Valor da Contribuição Cumulativa Retida na Fonte, Deduzido no Período                               0,00              0,00
+Outras Deduções do Regime Cumulativo no Período                                                     0,00              0,00
+Valor da Contribuição Cumulativa a Recolher/Pagar                                                   0,00              0,00
+
+VALOR TOTAL DA CONTRIBUIÇÃO A RECOLHER/PAGAR NO PERÍODO                                             0,00              0,00
+
+
+Contribuição Social Apurada                                                               PIS/PASEP(R$)     COFINS(R$)
+-------------------------------------------------------------------------------------- ----------------- -----------------
+ 1 - Contribuição não-cumulativa apurada a alíquota básica                                          0,00              0,00
+ 2 - Contribuição não-cumulativa apurada a alíquotas diferenciadas                                  0,00              0,00
+ 3 - Contribuição não-cumulativa apurada a alíquota por unidade de medida de produto                0,00              0,00
+ 4 - Contribuição não-cumulativa apurada a alíquota básica - Atividade Imobiliária                  0,00              0,00
+31 - Contribuição apurada por substituição tributária                                               0,00              0,00
+32 - Contribuição apurada por substituição tributária - Vendas à Zona Franca de Manaus              0,00              0,00
+51 - Contribuição cumulativa apurada a alíquota básica                                              0,00              0,00
+52 - Contribuição cumulativa apurada a alíquotas diferenciadas                                      0,00              0,00
+53 - Contribuição cumulativa apurada a alíquota por unidade de medida do produto                    0,00              0,00
+54 - Contribuição cumulativa apurada a alíquota básica - Atividade Imobiliária                      0,00              0,00
+71 - Contribuição Apurada de SCP - Incidência Não Cumulativa                                        0,00              0,00
+72 - Contribuição Apurada de SCP - Incidência Cumulativa                                            0,00              0,00
+99 - Contribuição para o PIS/PASEP - Folha de Salários                                              0,00              0,00
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+DEMONSTRAÇÃO DOS CRÉDITOS APURADOS NO PERÍODO                                         
+Contribuinte: Estabelecimento TOTVS - N ALTERAR CONTAS                                
+CNPJ:  53.113.791/0017-90 
+Regime:  Escrituração detalhada pelo regime de competência                            
+Período de Apuração:  01/05/2011  a 31/05/2011
+                                                                                                    
+
+Descrição                                                                                 PIS/PASEP(R$)     COFINS(R$)
+-------------------------------------------------------------------------------------- ----------------- -----------------
+1. Código do Tipo de Crédito                                                                    0                 0
+2. Base de Cálculo do Crédito em Reais                                                            513,05            513,05
+3. Base de Cálculo do Crédito em Quantidades                                                        0,00              0,00
+4. Alíquota do Crédito                                                                              1,65              7,60
+5. Valor Total do Crédito Apurado                                                                   0,00              0,00
+6. Valor Total dos Ajustes de Acréscimos                                                            0,00              0,00
+7. Valor Total dos Ajustes de Redução                                                               0,00              0,00
+8. Valor Total do Crédito Diferido no Período                                                       0,00              0,00
+9. Valor Total do Crédito Disponível no Período(5 + 6 - 7 - 8)                                      0,00              0,00
+10. Valor do Crédito Disponível, Descontado da Contribuição Apurada no Período                      0,00              0,00
+11. Saldo do Crédito a Utilizar em Períodos Futuros                                                 0,00              0,00
+
+DETALHAMENTO DA BASE DE CÁLCULO DO CRÉDITO                                            
+-------------------------------------------------------------------------------------- ----------------- -----------------
+                                                                                                  273,08            273,08
+10 Máquinas, equipam e outros bens incorp ao ativo imobilizado (base no val de aquisi              20,68             20,68
+10 Máquinas, equipam e outros bens incorp ao ativo imobilizado (base no val de aquisi             198,61              0,00
+10 Máquinas, equipam e outros bens incorp ao ativo imobilizado (base no val de aquisi              20,68              0,00
+--------------------------------------------------------------------------------------------------------------------------
+
+
+REGISTROS FISCAIS - CONSOLIDAÇÃO DAS OPERAÇÕES POR CST                                
+Contribuinte: Estabelecimento TOTVS - N ALTERAR CONTAS                                
+CNPJ:  53.113.791/0017-90 
+Período de Apuração:  01/05/2011  a 31/05/2011
+Regime:  Escrituração detalhada pelo regime de competência                            
+
+                       Valor total     Base de Cálculo   Base de Cálculo              
+        CST              do Item          PIS/PASEP          COFINS        Valor PIS/PASEP     Valor COFINS                       
+------------------- ----------------- ----------------- ----------------- ----------------- -----------------
+       08                  115.716,03              0,00              0,00              0,00              0,00
+TOT RECEIT/SAÍDAS          115.716,03              0,00              0,00              0,00              0,00
+
+       50                                        295,83            295,83              4,88             22,48
+       51                                        200,00            200,00              3,30             15,20
+       52                                         20,83             20,83              0,34              1,58
+TOT AQUIS/CUST/DESP                              516,66            516,66              8,52             39,27

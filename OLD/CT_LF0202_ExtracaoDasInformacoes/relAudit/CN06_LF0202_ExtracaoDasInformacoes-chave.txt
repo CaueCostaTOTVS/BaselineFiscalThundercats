@@ -1,0 +1,40 @@
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: D Chave: 1|1|0000111|1|611st|TODAY|
+=====> BD: mgmov Tabela: dwf-docto-compl Evento: C Chave: 1|1|0000111|1|611st|TODAY|
+Field: cod-estab Nov: 1
+Field: cod-serie Nov: 1
+Field: cod-docto Nov: 0000111
+Field: cod-emitente Nov: 1
+Field: cod-natur-operac Nov: 611st
+Field: dat-inic-valid Nov: TODAY
+Field: dat-fim-valid ?
+Field: val-fundo-uf-dest Nov: 0
+Field: val-icms-uf-dest Nov: 270
+Field: val-icms-uf-remet Nov: 180
+Field: cod-uf-dest Nov: SP
+Field: cod-uf-remet Nov: SC
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgmov      dwf-docto-compl                         1          0          1
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              1          0          1

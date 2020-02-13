@@ -1,0 +1,11 @@
+     Cenario : CN06_OF0739_IN86_2001_ADE_COFINS_25_2010
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"
+EXECUTE,"Informar o valor '1' no Campo Estab."
+EXECUTE,"Informar o valor '5' no Campo Mês."
+EXECUTE,"Informar o valor '2011' no Campo ."
+EXECUTE,"Informar o valor 'Av. Santos Dumont, 831/100, Santo Antônio, Joinville, SC, Brasil, CEP(89218900).' no Campo Local Contato."
+EXECUTE,"Informar o valor '10' no Campo Contato do Contrituinte."

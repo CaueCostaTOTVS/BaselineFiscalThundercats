@@ -1,0 +1,6 @@
+     Cenario : MLF_LF0216_CN_LF0216_Serv_Ambos_Cst_Averb
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

@@ -1,0 +1,6 @@
+     Cenario : CN01_RI0402_Ficha_de_Credito_CIAP_102
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

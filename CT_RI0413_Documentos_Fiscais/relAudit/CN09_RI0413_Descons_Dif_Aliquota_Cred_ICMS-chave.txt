@@ -1,0 +1,8 @@
+=====> BD: mgcad Tabela: ri-estab-grupos Evento: W Chave: 1|1|
+Field: log-3 Ant: no Nov: yes
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      ri-estab-grupos                         0          1          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0          1          0

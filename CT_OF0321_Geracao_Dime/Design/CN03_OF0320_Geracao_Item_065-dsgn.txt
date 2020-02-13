@@ -1,0 +1,6 @@
+     Cenario : CN03_OF0320_Geracao_Item_065
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

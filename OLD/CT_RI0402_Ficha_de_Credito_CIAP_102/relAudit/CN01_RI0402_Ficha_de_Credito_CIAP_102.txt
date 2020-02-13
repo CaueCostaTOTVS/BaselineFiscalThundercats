@@ -1,0 +1,37 @@
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: int-1 Nov: 604
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: int-1 Nov: 605
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: int-1 Nov: 606
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: int-1 Nov: 607
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: int-1 Nov: 608
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: int-1 Nov: 609
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: int-1 Nov: 610
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: int-1 Nov: 611
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: int-1 Nov: 612
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: int-1 Nov: 613
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: int-1 Nov: 614
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: int-1 Nov: 615
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: int-1 Nov: 616
+=====> BD: mgcad Tabela: ri-bem Evento: W
+Field: int-1 Nov: 617
+=====> BD: mgcad Tabela: ri-param Evento: W
+Field: int-1 Nov: 617
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      ri-bem                                  0         14          0
+mgcad      ri-param                                0          1          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0         15          0

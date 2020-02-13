@@ -1,0 +1,2 @@
+Estabelecimento	Período	Indicador Período de Apuração	Valor Saldo Credor Anterior	Valor Total Débitos	Valor Total Créditos	Valor Outros Débitos	Valor Outros Créditos	Valor Saldo Credor Transp.	Valor Saldo Devedor Recol.
+1	Aug-11	0	0.00	13304.68	7131.47	700.00	1000.00	0.00	5873.21

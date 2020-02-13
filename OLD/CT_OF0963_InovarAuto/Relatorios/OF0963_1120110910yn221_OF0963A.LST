@@ -1,0 +1,321 @@
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Cálculo de Parcela Dedutível INOVAR-AUTO                               Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+
+  ================================================================================================================================
+  ESTABELECIMENTO:   1       DEMONSTRAÇÃO DE CÁLCULO DE FATOR POR PRODUTO VENDIDO NO PERÍODO
+  ================================================================================================================================
+
+
+    PRODUTO: 13c              ITEM CONTROLE CONSIGNADO
+
+         INSUMO                  FATOR UNITÁRIO    QTD CONSUMIDA    PARC DEDUT INSUMO
+         ----------------  --------------------  --------------- --------------------
+         13c                           112,1152           1,0000             112,1152
+
+    FATOR PARCELA DEDUTÍVEL PRODUTO: 13c                                     112,1152
+
+    PRODUTO: 13d              ITEM D¿BITO DIRETO
+
+         INSUMO                  FATOR UNITÁRIO    QTD CONSUMIDA    PARC DEDUT INSUMO
+         ----------------  --------------------  --------------- --------------------
+         13d                           338,8889           1,0000             338,8889
+
+    FATOR PARCELA DEDUTÍVEL PRODUTO: 13d                                     338,8889
+
+    PRODUTO: 13F              ITEM CONTROLE TOTAL
+
+         INSUMO                  FATOR UNITÁRIO    QTD CONSUMIDA    PARC DEDUT INSUMO
+         ----------------  --------------------  --------------- --------------------
+         13F                           118,0151           1,0000             118,0151
+
+    FATOR PARCELA DEDUTÍVEL PRODUTO: 13F                                     118,0151
+
+    PRODUTO: 13FF             ITEM CONTROLE FÍSICO
+
+         INSUMO                  FATOR UNITÁRIO    QTD CONSUMIDA    PARC DEDUT INSUMO
+         ----------------  --------------------  --------------- --------------------
+         13FF                            5,2500           1,0000               5,2500
+
+    FATOR PARCELA DEDUTÍVEL PRODUTO: 13FF                                      5,2500
+
+    PRODUTO: 13T              ITEM CONTROLE TOTAL
+
+         INSUMO                  FATOR UNITÁRIO    QTD CONSUMIDA    PARC DEDUT INSUMO
+         ----------------  --------------------  --------------- --------------------
+         13T                             4,5800           1,0000               4,5800
+
+    FATOR PARCELA DEDUTÍVEL PRODUTO: 13T                                       4,5800
+
+    PRODUTO: 40T              ITEM CONTROLE TOTAL
+
+         INSUMO                  FATOR UNITÁRIO    QTD CONSUMIDA    PARC DEDUT INSUMO
+         ----------------  --------------------  --------------- --------------------
+         40T                           107,3641           1,0000             107,3641
+
+    FATOR PARCELA DEDUTÍVEL PRODUTO: 40T                                     107,3641
+
+    PRODUTO: ABJC-100         ALAVANCA COM BOTAO MONTADO
+
+
+
+----------------------------------------------------------------------------------------------DATASUL -  - OF0963ARP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Cálculo de Parcela Dedutível INOVAR-AUTO                               Página:    2
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+         INSUMO                  FATOR UNITÁRIO    QTD CONSUMIDA    PARC DEDUT INSUMO
+         ----------------  --------------------  --------------- --------------------
+         CH REC-089                      0,0000           0,0294               0,0000
+         81.65.017-9                     0,0000           1,0000               0,0000
+         80.75.004-8                     0,0000           0,0042               0,0000
+         80.75.004-8                     0,0000           0,0010               0,0000
+
+    FATOR PARCELA DEDUTÍVEL PRODUTO: ABJC-100                                  0,0000
+
+    PRODUTO: CONF             ITEM CONTROLE CONFIGURADO
+
+         INSUMO                  FATOR UNITÁRIO    QTD CONSUMIDA    PARC DEDUT INSUMO
+         ----------------  --------------------  --------------- --------------------
+         80.03.019-3                     0,0000           1,6667               0,0000
+         80.03.102-5                     0,0000           0,5000               0,0000
+         80.03.001-0                     0,0000           2,6667               0,0000
+         80.03.019-3                     0,0000           1,6667               0,0000
+         80.03.102-5                     0,0000           0,5000               0,0000
+
+    FATOR PARCELA DEDUTÍVEL PRODUTO: CONF                                      0,0000
+
+    PRODUTO: Filho1-Benefic   Filho1-Benefic - Teste Bloco - K
+
+         INSUMO                  FATOR UNITÁRIO    QTD CONSUMIDA    PARC DEDUT INSUMO
+         ----------------  --------------------  --------------- --------------------
+         Filho1-Benefic                  0,0000           1,0000               0,0000
+
+    FATOR PARCELA DEDUTÍVEL PRODUTO: Filho1-Benefic                            0,0000
+
+    PRODUTO: Filho2-Benefic   Filho2-Benefic - Teste Bloco - K
+
+         INSUMO                  FATOR UNITÁRIO    QTD CONSUMIDA    PARC DEDUT INSUMO
+         ----------------  --------------------  --------------- --------------------
+         Filho2-Benefic                  0,0000           1,0000               0,0000
+
+    FATOR PARCELA DEDUTÍVEL PRODUTO: Filho2-Benefic                            0,0000
+
+    PRODUTO: P2               ITEM COMPOSTO - PAI N?O BAIXA ESTOQU
+
+         INSUMO                  FATOR UNITÁRIO    QTD CONSUMIDA    PARC DEDUT INSUMO
+         ----------------  --------------------  --------------- --------------------
+         P2                              0,0000           1,0000               0,0000
+
+    FATOR PARCELA DEDUTÍVEL PRODUTO: P2                                        0,0000
+
+    PRODUTO: REF              ITEM CONTROLE POR REFERÊNCIA
+
+         INSUMO                  FATOR UNITÁRIO    QTD CONSUMIDA    PARC DEDUT INSUMO
+         ----------------  --------------------  --------------- --------------------
+         REF                             0,0000           1,0000               0,0000
+
+    FATOR PARCELA DEDUTÍVEL PRODUTO: REF                                       0,0000
+
+    PRODUTO: SOJA             SOJA EM GRÃOS A GRANEL - ORIGINAÇÃO
+
+         INSUMO                  FATOR UNITÁRIO    QTD CONSUMIDA    PARC DEDUT INSUMO
+         ----------------  --------------------  --------------- --------------------
+         SOJA                            0,0000           1,0000               0,0000
+----------------------------------------------------------------------------------------------DATASUL -  - OF0963ARP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Cálculo de Parcela Dedutível INOVAR-AUTO                               Página:    3
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+    FATOR PARCELA DEDUTÍVEL PRODUTO: SOJA                                      0,0000
+
+
+  ================================================================================================================================
+  ESTABELECIMENTO:   1       DEMONSTRAÇÃO DE CÁLCULO DE FATOR UNITÁRIO POR INSUMO
+  ================================================================================================================================
+
+
+  INSUMO:          13c
+  PERÍODO:      09/2011
+
+  ESTAB TIPO NOTA FISCAL SERIE CFOP NAT OPER      QUANTIDADE NCM      CST    VLR MERCADORIA  VLR ITEM SEM IPI    PARCELA DEDUTÍVEL
+  ----- ---- ----------- ----- ---- -------- --------------- -------- --- ----------------- ----------------- --------------------
+  1     AQS  0001515     32    1949 199CEM          100,0000          1            12500,00          12500,00           12500,0000
+  1     AQS  0001516     32    1949 199CDM           16,9000          1              327,86            338,00             338,0000
+  1     AQS  0001517     32    1949 199CEM           15,0000          1             1950,00           1950,00            1950,0000
+
+                                             ---------------                                                  --------------------
+  TOTAL:                                            131,9000                                                            14788,0000
+
+  FATOR UNITÁRIO (PARCELA DEDUTÍVEL / QUANTIDADE) DO INSUMO: 13c                                                          112,1152
+
+  INSUMO:          13d
+  PERÍODO:      08/2011
+
+  ESTAB TIPO NOTA FISCAL SERIE CFOP NAT OPER      QUANTIDADE NCM      CST    VLR MERCADORIA  VLR ITEM SEM IPI    PARCELA DEDUTÍVEL
+  ----- ---- ----------- ----- ---- -------- --------------- -------- --- ----------------- ----------------- --------------------
+  1     AQS  0004100     un    2551 211mri            1,0000          1             1000,00           1000,00            1000,0000
+  1     AQS  0008100     un    2551 211mri            3,0000          1             3000,00           3000,00            3000,0000
+  1     AQS  2736373     un    2551 211mri            1,0000          1              100,00            100,00             100,0000
+  1     AQS  0008101     un    2551 211mri           10,0000          1              100,00            100,00             100,0000
+  1     AQS  0008103     un    2551 211mri           10,0000          1              100,00            100,00             100,0000
+  1     AQS  0008105     un    2551 211mri           10,0000          1              100,00            100,00             100,0000
+  1     AQS  0007458     un    2551 211mri            1,0000          1             7800,00           7800,00            7800,0000
+
+                                             ---------------                                                  --------------------
+  TOTAL:                                             36,0000                                                            12200,0000
+
+  FATOR UNITÁRIO (PARCELA DEDUTÍVEL / QUANTIDADE) DO INSUMO: 13d                                                          338,8889
+
+  INSUMO:          13F
+  PERÍODO:      09/2011
+
+  ESTAB TIPO NOTA FISCAL SERIE CFOP NAT OPER      QUANTIDADE NCM      CST    VLR MERCADORIA  VLR ITEM SEM IPI    PARCELA DEDUTÍVEL
+  ----- ---- ----------- ----- ---- -------- --------------- -------- --- ----------------- ----------------- --------------------
+  1     AQS  0001514     32    1949 199CDM            7,2000          1              977,76           1008,00            1008,0000
+  1     AQS  0001515     32    1949 199CEM          100,0000          1            13000,00          13000,00           13000,0000
+  1     AQS  0001516     32    1949 199CDM           16,9000          1              245,89            253,50             253,5000
+  1     AQS  0001517     32    1949 199CEM           55,0000          1             6875,00           6875,00            6875,0000
+
+                                             ---------------                                                  --------------------
+  TOTAL:                                            179,1000                                                            21136,5000
+
+  FATOR UNITÁRIO (PARCELA DEDUTÍVEL / QUANTIDADE) DO INSUMO: 13F                                                          118,0151
+
+  INSUMO:          13FF
+  PERÍODO:      08/2011
+
+----------------------------------------------------------------------------------------------DATASUL -  - OF0963ARP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Cálculo de Parcela Dedutível INOVAR-AUTO                               Página:    4
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+  ESTAB TIPO NOTA FISCAL SERIE CFOP NAT OPER      QUANTIDADE NCM      CST    VLR MERCADORIA  VLR ITEM SEM IPI    PARCELA DEDUTÍVEL
+  ----- ---- ----------- ----- ---- -------- --------------- -------- --- ----------------- ----------------- --------------------
+  1     AQS  0010800     5     2101 211BRM         1000,0000          1             1000,00           1000,00            1000,0000
+  1     AQS  0020800     5     2101 211BRM         2000,0000          1            10000,00          10000,00           10000,0000
+  1     AQS  0040800     5     2101 211BRM         1000,0000          1            10000,00          10000,00           10000,0000
+
+                                             ---------------                                                  --------------------
+  TOTAL:                                           4000,0000                                                            21000,0000
+
+  FATOR UNITÁRIO (PARCELA DEDUTÍVEL / QUANTIDADE) DO INSUMO: 13FF                                                           5,2500
+
+  INSUMO:          13T
+  PERÍODO:      09/2011
+
+  ESTAB TIPO NOTA FISCAL SERIE CFOP NAT OPER      QUANTIDADE NCM      CST    VLR MERCADORIA  VLR ITEM SEM IPI    PARCELA DEDUTÍVEL
+  ----- ---- ----------- ----- ---- -------- --------------- -------- --- ----------------- ----------------- --------------------
+  1     AQS  0001514     32    1949 199CDM            6,0000          1               26,66             27,48              27,4800
+
+                                             ---------------                                                  --------------------
+  TOTAL:                                              6,0000                                                               27,4800
+
+  FATOR UNITÁRIO (PARCELA DEDUTÍVEL / QUANTIDADE) DO INSUMO: 13T                                                            4,5800
+
+  INSUMO:          40T
+  PERÍODO:      09/2011
+
+  ESTAB TIPO NOTA FISCAL SERIE CFOP NAT OPER      QUANTIDADE NCM      CST    VLR MERCADORIA  VLR ITEM SEM IPI    PARCELA DEDUTÍVEL
+  ----- ---- ----------- ----- ---- -------- --------------- -------- --- ----------------- ----------------- --------------------
+  1     AQS  0001514     32    1949 199CDM            0,6000          1               65,18             67,20              67,2000
+  1     AQS  0001515     32    1949 199CEM          100,0000          1            12000,00          12000,00           12000,0000
+  1     AQS  0001516     32    1949 199CDM           16,9000          1              163,93            169,00             169,0000
+  1     AQS  0001517     32    1949 199CEM           30,0000          1             3600,00           3600,00            3600,0000
+
+                                             ---------------                                                  --------------------
+  TOTAL:                                            147,5000                                                            15836,2000
+
+  FATOR UNITÁRIO (PARCELA DEDUTÍVEL / QUANTIDADE) DO INSUMO: 40T                                                          107,3641
+
+  INSUMO:          Filho1-Benefic
+  PERÍODO:      09/2011
+
+  ESTAB TIPO NOTA FISCAL SERIE CFOP NAT OPER      QUANTIDADE NCM      CST    VLR MERCADORIA  VLR ITEM SEM IPI    PARCELA DEDUTÍVEL
+  ----- ---- ----------- ----- ---- -------- --------------- -------- --- ----------------- ----------------- --------------------
+  1     AQS  0000010     12345 2949 29901            20,0000          0             1000,00           1000,00               0,0000
+
+                                             ---------------                                                  --------------------
+  TOTAL:                                             20,0000                                                                0,0000
+
+  FATOR UNITÁRIO (PARCELA DEDUTÍVEL / QUANTIDADE) DO INSUMO: Filho1-Benefic                                                 0,0000
+
+  INSUMO:          Filho2-Benefic
+  PERÍODO:      09/2011
+
+  ESTAB TIPO NOTA FISCAL SERIE CFOP NAT OPER      QUANTIDADE NCM      CST    VLR MERCADORIA  VLR ITEM SEM IPI    PARCELA DEDUTÍVEL
+  ----- ---- ----------- ----- ---- -------- --------------- -------- --- ----------------- ----------------- --------------------
+  1     AQS  0000010     12345 2949 29901            50,0000          0             4000,00           4000,00               0,0000
+
+
+----------------------------------------------------------------------------------------------DATASUL -  - OF0963ARP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Cálculo de Parcela Dedutível INOVAR-AUTO                               Página:    5
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+                                             ---------------                                                  --------------------
+  TOTAL:                                             50,0000                                                                0,0000
+
+  FATOR UNITÁRIO (PARCELA DEDUTÍVEL / QUANTIDADE) DO INSUMO: Filho2-Benefic                                                 0,0000
+
+  INSUMO:          P2
+  PERÍODO:      08/2011
+
+  ESTAB TIPO NOTA FISCAL SERIE CFOP NAT OPER      QUANTIDADE NCM      CST    VLR MERCADORIA  VLR ITEM SEM IPI    PARCELA DEDUTÍVEL
+  ----- ---- ----------- ----- ---- -------- --------------- -------- --- ----------------- ----------------- --------------------
+  1     AQS  0040800     5     2101 211BRM          100,0000          0             1000,00           1000,00               0,0000
+
+                                             ---------------                                                  --------------------
+  TOTAL:                                            100,0000                                                                0,0000
+
+  FATOR UNITÁRIO (PARCELA DEDUTÍVEL / QUANTIDADE) DO INSUMO: P2                                                             0,0000
+
+  INSUMO:          SOJA
+  PERÍODO:      09/2011
+
+  ESTAB TIPO NOTA FISCAL SERIE CFOP NAT OPER      QUANTIDADE NCM      CST    VLR MERCADORIA  VLR ITEM SEM IPI    PARCELA DEDUTÍVEL
+  ----- ---- ----------- ----- ---- -------- --------------- -------- --- ----------------- ----------------- --------------------
+  1     AQS  0109001     1          210202         2200,0000          0             1474,00           1474,00               0,0000
+  1     AQS  0013177     graos      210202         1200,0000          0              900,00            900,00               0,0000
+  1     AQS  0013178     graos      210202         1500,0000          0             1125,00           1125,00               0,0000
+
+                                             ---------------                                                  --------------------
+  TOTAL:                                           4900,0000                                                                0,0000
+
+  FATOR UNITÁRIO (PARCELA DEDUTÍVEL / QUANTIDADE) DO INSUMO: SOJA                                                           0,0000
+
+  LEGENDA
+  -------
+  FATOR UNITÁRIO   : SOMA DA PARCELA DEDUTÍVEL DA NF ENTRADA + DESPESAS IMPORTAÇÃO / SOMA QUANTIDADE COMPRADA
+  QTD CONSUMIDA    : QUANTIDADE CONSUMIDA DO INSUMO PARA PRODUÇÃO DO ITEM (CONFORME ENGENHARIA DO PRODUTO)
+  PARC DEDUT INSUMO: PARCELA DEDUTÍVEL DO INSUMO (FATOR UNITÁRIO X QTD CONSUMIDA)
+
+
+  ================================================================================================================================
+  ESTABELECIMENTO:   1       INSUMOS NÃO ENCONTRADOS EM NFs DE ENTRADA PARA CÁLCULO DO FATOR DA PARCELA DEDUTÍVEL
+  ================================================================================================================================
+
+
+  Produto               Insumo
+  ----------------      ----------------
+  ABJC-100              80.75.004-8
+  ABJC-100              81.65.017-9
+  ABJC-100              CH REC-089
+  CONF                  80.03.001-0
+  CONF                  80.03.019-3
+  CONF                  80.03.102-5
+  REF                   REF
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------DATASUL -  - OF0963ARP - V:0.00.00.000
+

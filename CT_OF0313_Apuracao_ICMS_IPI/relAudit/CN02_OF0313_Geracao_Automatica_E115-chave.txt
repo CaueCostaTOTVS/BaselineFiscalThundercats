@@ -1,0 +1,1008 @@
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|1|
+Field: codigo Nov: 1
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699FAR
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|1|
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|1|
+Field: codigo Nov: 1
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699FAR
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|2|
+Field: codigo Nov: 2
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699STA
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|1|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|2|
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|1|
+Field: codigo Nov: 1
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699FAR
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|2|
+Field: codigo Nov: 2
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699STA
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|3|
+Field: codigo Nov: 3
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 611-IE
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|1|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|2|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|3|
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|1|
+Field: codigo Nov: 1
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699FAR
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|2|
+Field: codigo Nov: 2
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699STA
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|3|
+Field: codigo Nov: 3
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 611-IE
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|4|
+Field: codigo Nov: 4
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699EFR
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|1|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|2|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|3|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|4|
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|1|
+Field: codigo Nov: 1
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699FAR
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|2|
+Field: codigo Nov: 2
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699STA
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|3|
+Field: codigo Nov: 3
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 611-IE
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|4|
+Field: codigo Nov: 4
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699EFR
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|5|
+Field: codigo Nov: 5
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS051001
+Field: it-codigo Nov: 6111
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|1|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|2|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|3|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|4|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|5|
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|1|
+Field: codigo Nov: 1
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699FAR
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|2|
+Field: codigo Nov: 2
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699STA
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|3|
+Field: codigo Nov: 3
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 611-IE
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|4|
+Field: codigo Nov: 4
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699EFR
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|5|
+Field: codigo Nov: 5
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS051001
+Field: it-codigo Nov: 6111
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|6|
+Field: codigo Nov: 6
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS051001
+Field: it-codigo Nov: 69DEVL
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|1|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|2|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|3|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|4|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|5|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|6|
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|1|
+Field: codigo Nov: 1
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699FAR
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|2|
+Field: codigo Nov: 2
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699STA
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|3|
+Field: codigo Nov: 3
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 611-IE
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|4|
+Field: codigo Nov: 4
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699EFR
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|5|
+Field: codigo Nov: 5
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS051001
+Field: it-codigo Nov: 6111
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|6|
+Field: codigo Nov: 6
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS051001
+Field: it-codigo Nov: 69DEVL
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|7|
+Field: codigo Nov: 7
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS051001
+Field: it-codigo Nov: 7111
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|1|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|2|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|3|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|4|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|5|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|6|
+=====> BD: mgcad Tabela: ped-curva Evento: D Chave: 31303|7|
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|1|
+Field: codigo Nov: 1
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699FAR
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|2|
+Field: codigo Nov: 2
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699STA
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|3|
+Field: codigo Nov: 3
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 611-IE
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|4|
+Field: codigo Nov: 4
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS052001
+Field: it-codigo Nov: 699EFR
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|5|
+Field: codigo Nov: 5
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS051001
+Field: it-codigo Nov: 6111
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|6|
+Field: codigo Nov: 6
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS051001
+Field: it-codigo Nov: 69DEVL
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|7|
+Field: codigo Nov: 7
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS051001
+Field: it-codigo Nov: 7111
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgcad Tabela: ped-curva Evento: C Chave: 31303|8|
+Field: codigo Nov: 8
+Field: vl-aberto Nov: 31303
+Field: nome Nov: 31303
+Field: tot-ped Nov: 0
+Field: regiao Nov: RS051001
+Field: it-codigo Nov: 612-DE
+Field: un Nov: 
+Field: quantidade Nov: 0
+Field: vl-lucro-br Nov: 0
+Field: char-1 Nov: 
+Field: char-2 Nov: 
+Field: dec-1 Nov: 0
+Field: dec-2 Nov: 0
+Field: log-1 Nov: no
+Field: log-2 Nov: no
+Field: int-1 Nov: 0
+Field: int-2 Nov: 0
+Field: data-2 ?
+Field: data-1 ?
+Field: check-sum Nov: 
+=====> BD: mgmov Tabela: dwf-apurac-impto-inform-adc Evento: C Chave: 1|01/08/11|31/08/11|ICMS|RS051001|1|TODAY|
+Field: cod-estab Nov: 1
+Field: dat-apurac-inicial-impto Nov: 01/08/2011
+Field: dat-apurac-final-impto Nov: 31/08/2011
+Field: cod-impto Nov: ICMS
+Field: cod-uf Nov: RS
+Field: cod-inf-adic Nov: RS051001
+Field: val-inform-adic Nov: 1788,72
+Field: dat-inic-valid Nov: TODAY
+Field: dat-fim-valid ?
+Field: cod-livre-1 Nov: 6101
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: yes
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 1
+=====> BD: mgmov Tabela: dwf-apurac-impto-inform-adc Evento: C Chave: 1|01/08/11|31/08/11|ICMS|RS051001|2|TODAY|
+Field: cod-estab Nov: 1
+Field: dat-apurac-inicial-impto Nov: 01/08/2011
+Field: dat-apurac-final-impto Nov: 31/08/2011
+Field: cod-impto Nov: ICMS
+Field: cod-uf Nov: RS
+Field: cod-inf-adic Nov: RS051001
+Field: val-inform-adic Nov: 16500
+Field: dat-inic-valid Nov: TODAY
+Field: dat-fim-valid ?
+Field: cod-livre-1 Nov: 6109
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: yes
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 2
+=====> BD: mgmov Tabela: dwf-apurac-impto-inform-adc Evento: C Chave: 1|01/08/11|31/08/11|ICMS|RS052001|3|TODAY|
+Field: cod-estab Nov: 1
+Field: dat-apurac-inicial-impto Nov: 01/08/2011
+Field: dat-apurac-final-impto Nov: 31/08/2011
+Field: cod-impto Nov: ICMS
+Field: cod-uf Nov: RS
+Field: cod-inf-adic Nov: RS052001
+Field: val-inform-adic Nov: 2700,19
+Field: dat-inic-valid Nov: TODAY
+Field: dat-fim-valid ?
+Field: cod-livre-1 Nov: 6109
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: yes
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 3
+=====> BD: mgmov Tabela: dwf-apurac-impto-inform-adc Evento: C Chave: 1|01/08/11|31/08/11|ICMS|RS052001|4|TODAY|
+Field: cod-estab Nov: 1
+Field: dat-apurac-inicial-impto Nov: 01/08/2011
+Field: dat-apurac-final-impto Nov: 31/08/2011
+Field: cod-impto Nov: ICMS
+Field: cod-uf Nov: RS
+Field: cod-inf-adic Nov: RS052001
+Field: val-inform-adic Nov: 46665312
+Field: dat-inic-valid Nov: TODAY
+Field: dat-fim-valid ?
+Field: cod-livre-1 Nov: 6118
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: yes
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 4
+=====> BD: mgmov Tabela: dwf-apurac-impto-inform-adc Evento: C Chave: 1|01/08/11|31/08/11|ICMS|RS051001|5|TODAY|
+Field: cod-estab Nov: 1
+Field: dat-apurac-inicial-impto Nov: 01/08/2011
+Field: dat-apurac-final-impto Nov: 31/08/2011
+Field: cod-impto Nov: ICMS
+Field: cod-uf Nov: RS
+Field: cod-inf-adic Nov: RS051001
+Field: val-inform-adic Nov: 140
+Field: dat-inic-valid Nov: TODAY
+Field: dat-fim-valid ?
+Field: cod-livre-1 Nov: 6201
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: yes
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 5
+=====> BD: mgmov Tabela: dwf-apurac-impto-inform-adc Evento: C Chave: 1|01/08/11|31/08/11|ICMS|RS052001|6|TODAY|
+Field: cod-estab Nov: 1
+Field: dat-apurac-inicial-impto Nov: 01/08/2011
+Field: dat-apurac-final-impto Nov: 31/08/2011
+Field: cod-impto Nov: ICMS
+Field: cod-uf Nov: RS
+Field: cod-inf-adic Nov: RS052001
+Field: val-inform-adic Nov: 3028,6
+Field: dat-inic-valid Nov: TODAY
+Field: dat-fim-valid ?
+Field: cod-livre-1 Nov: 6403
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: yes
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 6
+=====> BD: mgmov Tabela: dwf-apurac-impto-inform-adc Evento: C Chave: 1|01/08/11|31/08/11|ICMS|RS051001|7|TODAY|
+Field: cod-estab Nov: 1
+Field: dat-apurac-inicial-impto Nov: 01/08/2011
+Field: dat-apurac-final-impto Nov: 31/08/2011
+Field: cod-impto Nov: ICMS
+Field: cod-uf Nov: RS
+Field: cod-inf-adic Nov: RS051001
+Field: val-inform-adic Nov: 1805,8
+Field: dat-inic-valid Nov: TODAY
+Field: dat-fim-valid ?
+Field: cod-livre-1 Nov: 7101
+Field: cod-livre-2 Nov: 
+Field: cod-livre-3 Nov: 
+Field: cod-livre-4 Nov: 
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+Field: dat-livre-3 ?
+Field: dat-livre-4 ?
+Field: log-livre-1 Nov: yes
+Field: log-livre-2 Nov: no
+Field: log-livre-3 Nov: no
+Field: log-livre-4 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: num-livre-3 Nov: 0
+Field: num-livre-4 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: val-livre-3 Nov: 0
+Field: val-livre-4 Nov: 0
+Field: num-seq-ident-reg Nov: 7
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      ped-curva                              36          0         28
+mgmov      dwf-apurac-impto-inform-adc             7          0          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                             43          0         28

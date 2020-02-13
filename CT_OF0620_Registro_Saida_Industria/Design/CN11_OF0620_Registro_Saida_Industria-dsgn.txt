@@ -1,0 +1,6 @@
+     Cenario : CN11_OF0620_Registro_Saida_Industria
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

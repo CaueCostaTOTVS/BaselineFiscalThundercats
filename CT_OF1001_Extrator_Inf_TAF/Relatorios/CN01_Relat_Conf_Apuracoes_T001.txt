@@ -1,0 +1,2 @@
+Estabelecimento	Nome	CNPJ	Inscrição Estadual	E-mail	Class Trib	Nome Contato	CPF Contato	Fone Contato	Ind Desoneação CPRB	Ind Prod Rural
+1	ESTABELECIMENTO TOTVS - N ALTERAR CONTAS	53113791001790	255721161		99				1	2

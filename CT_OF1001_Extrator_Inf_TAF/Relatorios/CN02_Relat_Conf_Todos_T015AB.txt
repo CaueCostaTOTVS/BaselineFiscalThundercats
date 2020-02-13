@@ -1,0 +1,4 @@
+Estabelecimento	Número do Documento	Série	Participante	Nat. Operação	Data Documento	Item	Seq. Item	Classificação do Item	Ind. Tipo Receita
+1	3032014	5	13	625101	8/3/2011	.COMPRAS	10		0
+1	4032014	5	13	6128	8/3/2011	DD	10	0699	0
+1	5032014	5	13	625101	8/3/2011	.COMPRAS	10		0

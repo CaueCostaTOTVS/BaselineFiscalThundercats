@@ -1,0 +1,469 @@
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|10000|29/01/09|
+Field: cod-conteudo[1] Ant: c:/Automacao/Relatorios Nov: c:\automacao\relatorios
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|10|TODAY|
+Field: dat-exec Ant: 25/10/2017 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|2|10|TODAY|
+Field: dat-exec Ant: 25/10/2017 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|20|TODAY|
+Field: dat-exec Ant: 25/10/2017 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|30|TODAY|
+Field: cod-conteudo[1] Ant: 011 Nov: 012
+Field: dat-exec Ant: 25/10/2017 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|40|TODAY|
+Field: dat-exec Ant: 25/10/2017 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|45|TODAY|
+Field: dat-exec Ant: 25/10/2017 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|50|TODAY|
+Field: dat-exec Ant: 25/10/2017 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|60|TODAY|
+Field: dat-exec Ant: 25/10/2017 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: W Chave: 12|1|70|TODAY|
+Field: dat-exec Ant: 25/10/2017 Nov: TODAY
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|80|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 80
+Field: cod-conteudo[1] Nov: NÆo
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: 
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11306|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11306
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGR1960
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11307|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11307
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGR1970
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11308|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11308
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGR1975
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11309|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11309
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGR1980
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11315|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11315
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRB001
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11316|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11316
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRB020
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11317|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11317
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRB025
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11318|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11318
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRB030
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11319|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11319
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRB035
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11320|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11320
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRB350
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11321|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11321
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRB420
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11322|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11322
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRB440
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11323|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11323
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRB460
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11324|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11324
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRB470
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11325|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11325
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRB500
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11326|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11326
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRB510
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11327|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11327
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRB990
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11356|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11356
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRC191
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11455|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11455
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRE531
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11484|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11484
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRK290
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11485|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11485
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRK291
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11486|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11486
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRK292
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11487|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11487
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRK300
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11488|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11488
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRK301
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+=====> BD: mgcad Tabela: clf-param-histor Evento: C Chave: 12|1|11489|TODAY|
+Field: cdn-layout Nov: 12
+Field: idi-tip-param Nov: 1
+Field: num-seq-param Nov: 11489
+Field: cod-conteudo[1] Nov: 0
+Field: cod-conteudo[2] Nov: 
+Field: dat-exec Nov: TODAY
+Field: cod-livre-1 Nov: REGRK302
+Field: cod-livre-2 Nov: 
+Field: log-livre-1 Nov: no
+Field: log-livre-2 Nov: no
+Field: num-livre-1 Nov: 0
+Field: num-livre-2 Nov: 0
+Field: val-livre-1 Nov: 0
+Field: val-livre-2 Nov: 0
+Field: dat-livre-1 ?
+Field: dat-livre-2 ?
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      clf-param-histor                       26         10          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                             26         10          0

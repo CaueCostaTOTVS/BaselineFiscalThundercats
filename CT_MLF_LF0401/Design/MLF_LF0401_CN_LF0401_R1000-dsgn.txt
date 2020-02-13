@@ -1,0 +1,6 @@
+     Cenario : MLF_LF0401_CN_LF0401_R1000
+   Observação: 
+
+INFO,"DATA_DESIGN VERSION 1.95"
+INFO,"<INICIO DESIGN>"
+EXECUTE,"Entrar no Procedimento ''"

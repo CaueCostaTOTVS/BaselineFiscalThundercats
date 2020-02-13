@@ -1,0 +1,609 @@
+
+                            RELATORIO DE ACOMPANHAMENTO  
+
+--------------------------------------------------------------------------------
+
+CNPJ:   
+     53113791001790                        DATA:   
+                                                 05/2011
+RAZAO SO         Estabelecimento TOTVS - Ñ ALTERAR CONTAS
+NOME DO          NOTAS FISCAIS                           
+
+MEIO DE                           Fita Mag       ( ) 1600 BPI
+                                                 ( ) 6250 BPI  
+                                  Disco Flexivel  
+                                                 ( ) 3 1/2
+                                                 ( ) 5 1/4
+                                  Outro          (X)         
+                                  Transmis         ) Remota
+                                                 ( ) Direta
+BYTES...                          ( ) EBCD
+                                  ( ) ASCI
+
+TAMANHO                           220
+TAMANHO 
+FATOR DE
+LABEL...........................: ( ) SIM  
+                                  ( ) NAO 
+
+EQUIPAME
+SISTEMA 
+FABRICAN
+SGBD....
+
+DUMP DOS                            2      paginas  
+DUMP DOS                            2      paginas  
+LAYOUT D                            1      paginas  
+
+NOME DO                           Valor Total Produto           
+TOTAL DO                                   329721563
+QUANTIDA                                           1
+QUANTIDA                                         868
+
+Funcionario da empresa, responsavel pelas informacoes contidas no arquivo  
+
+NOME....    Testes Automacao Fiscal                  TELEFONE  04738017213    
+CPF.....    71754872239                              FAX.....  04738017213    
+ASSINATU
+
+
+Analista responsavel pelo sistema que gerou o arquivo  
+
+NOME....    Testes Automacao Fiscal                  ASSINATU
+TELEFONE    04738017213                              FAX.....    04738017213    
+
+       C
+*--------------------------------------*  *----------------------------------*
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+*--------------------------------------*  *----------------------------------*
+
+*-------------------------------------------------------------------------*
+I CNPJ..                 53113791001790             VOLUME: 
+                                                           I  /  1        I
+I RAZAO                  Estabelecimento TOTVS - Ñ ALTERAR CONTAS         I
+I NOME D                 NOTAS FISCAIS                                    I
+I EQUIPAMENTO..........:                                                  I  
+I SISTEMA OPERACIONAL..:                                                  I  
+I DENSIDADE DE GRAVACAO:                                                  I  
+*-------------------------------------------------------------------------*
+                            RELATORIO DE ACOMPANHAMENTO  
+
+--------------------------------------------------------------------------------
+
+CNPJ:   
+     53113791001790                        DATA:   
+                                                 05/2011
+RAZAO SO         Estabelecimento TOTVS - Ñ ALTERAR CONTAS
+NOME DO          COMPLEMENTO NOTAS FISCAIS               
+
+MEIO DE                           Fita Mag       ( ) 1600 BPI
+                                                 ( ) 6250 BPI  
+                                  Disco Flexivel  
+                                                 ( ) 3 1/2
+                                                 ( ) 5 1/4
+                                  Outro          (X)         
+                                  Transmis         ) Remota
+                                                 ( ) Direta
+BYTES...                          ( ) EBCD
+                                  ( ) ASCI
+
+TAMANHO                           166
+TAMANHO 
+FATOR DE
+LABEL...........................: ( ) SIM  
+                                  ( ) NAO 
+
+EQUIPAME
+SISTEMA 
+FABRICAN
+SGBD....
+
+DUMP DOS                            2      paginas  
+DUMP DOS                            2      paginas  
+LAYOUT D                            1      paginas  
+
+NOME DO                           Peso Bruto                    
+TOTAL DO                                           0
+QUANTIDA                                           1
+QUANTIDA                                         868
+
+Funcionario da empresa, responsavel pelas informacoes contidas no arquivo  
+
+NOME....    Testes Automacao Fiscal                  TELEFONE  04738017213    
+CPF.....    71754872239                              FAX.....  04738017213    
+ASSINATU
+
+
+Analista responsavel pelo sistema que gerou o arquivo  
+
+NOME....    Testes Automacao Fiscal                  ASSINATU
+TELEFONE    04738017213                              FAX.....    04738017213    
+
+       C
+*--------------------------------------*  *----------------------------------*
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+*--------------------------------------*  *----------------------------------*
+
+*-------------------------------------------------------------------------*
+I CNPJ..                 53113791001790             VOLUME: 
+                                                           I  /  1        I
+I RAZAO                  Estabelecimento TOTVS - Ñ ALTERAR CONTAS         I
+I NOME D                 COMPLEMENTO NOTAS FISCAIS                        I
+I EQUIPAMENTO..........:                                                  I  
+I SISTEMA OPERACIONAL..:                                                  I  
+I DENSIDADE DE GRAVACAO:                                                  I  
+*-------------------------------------------------------------------------*
+                            RELATORIO DE ACOMPANHAMENTO  
+
+--------------------------------------------------------------------------------
+
+CNPJ:   
+     53113791001790                        DATA:   
+                                                 05/2011
+RAZAO SO         Estabelecimento TOTVS - Ñ ALTERAR CONTAS
+NOME DO          ITENS DAS NOTAS FISCAIS                 
+
+MEIO DE                           Fita Mag       ( ) 1600 BPI
+                                                 ( ) 6250 BPI  
+                                  Disco Flexivel  
+                                                 ( ) 3 1/2
+                                                 ( ) 5 1/4
+                                  Outro          (X)         
+                                  Transmis         ) Remota
+                                                 ( ) Direta
+BYTES...                          ( ) EBCD
+                                  ( ) ASCI
+
+TAMANHO                           464
+TAMANHO 
+FATOR DE
+LABEL...........................: ( ) SIM  
+                                  ( ) NAO 
+
+EQUIPAME
+SISTEMA 
+FABRICAN
+SGBD....
+
+DUMP DOS                            3      paginas  
+DUMP DOS                            3      paginas  
+LAYOUT D                            1      paginas  
+
+NOME DO                           Preco Unitario                
+TOTAL DO                                   135316112
+QUANTIDA                                           1
+QUANTIDA                                        3319
+
+Funcionario da empresa, responsavel pelas informacoes contidas no arquivo  
+
+NOME....    Testes Automacao Fiscal                  TELEFONE  04738017213    
+CPF.....    71754872239                              FAX.....  04738017213    
+ASSINATU
+
+
+Analista responsavel pelo sistema que gerou o arquivo  
+
+NOME....    Testes Automacao Fiscal                  ASSINATU
+TELEFONE    04738017213                              FAX.....    04738017213    
+
+       C
+*--------------------------------------*  *----------------------------------*
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+*--------------------------------------*  *----------------------------------*
+
+*-------------------------------------------------------------------------*
+I CNPJ..                 53113791001790             VOLUME: 
+                                                           I  /  1        I
+I RAZAO                  Estabelecimento TOTVS - Ñ ALTERAR CONTAS         I
+I NOME D                 ITENS DAS NOTAS FISCAIS                          I
+I EQUIPAMENTO..........:                                                  I  
+I SISTEMA OPERACIONAL..:                                                  I  
+I DENSIDADE DE GRAVACAO:                                                  I  
+*-------------------------------------------------------------------------*
+                            RELATORIO DE ACOMPANHAMENTO  
+
+--------------------------------------------------------------------------------
+
+CNPJ:   
+     53113791001790                        DATA:   
+                                                 05/2011
+RAZAO SO         Estabelecimento TOTVS - Ñ ALTERAR CONTAS
+NOME DO          NOTAS FISCAIS DE SERVICOS               
+
+MEIO DE                           Fita Mag       ( ) 1600 BPI
+                                                 ( ) 6250 BPI  
+                                  Disco Flexivel  
+                                                 ( ) 3 1/2
+                                                 ( ) 5 1/4
+                                  Outro          (X)         
+                                  Transmis         ) Remota
+                                                 ( ) Direta
+BYTES...                          ( ) EBCD
+                                  ( ) ASCI
+
+TAMANHO                           125
+TAMANHO 
+FATOR DE
+LABEL...........................: ( ) SIM  
+                                  ( ) NAO 
+
+EQUIPAME
+SISTEMA 
+FABRICAN
+SGBD....
+
+DUMP DOS                            1      paginas  
+DUMP DOS                            1      paginas  
+LAYOUT D                            1      paginas  
+
+NOME DO                           Valor do servico              
+TOTAL DO                                     1300000
+QUANTIDA                                           1
+QUANTIDA                                           4
+
+Funcionario da empresa, responsavel pelas informacoes contidas no arquivo  
+
+NOME....    Testes Automacao Fiscal                  TELEFONE  04738017213    
+CPF.....    71754872239                              FAX.....  04738017213    
+ASSINATU
+
+
+Analista responsavel pelo sistema que gerou o arquivo  
+
+NOME....    Testes Automacao Fiscal                  ASSINATU
+TELEFONE    04738017213                              FAX.....    04738017213    
+
+       C
+*--------------------------------------*  *----------------------------------*
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+*--------------------------------------*  *----------------------------------*
+
+*-------------------------------------------------------------------------*
+I CNPJ..                 53113791001790             VOLUME: 
+                                                           I  /  1        I
+I RAZAO                  Estabelecimento TOTVS - Ñ ALTERAR CONTAS         I
+I NOME D                 NOTAS FISCAIS DE SERVICOS                        I
+I EQUIPAMENTO..........:                                                  I  
+I SISTEMA OPERACIONAL..:                                                  I  
+I DENSIDADE DE GRAVACAO:                                                  I  
+*-------------------------------------------------------------------------*
+                            RELATORIO DE ACOMPANHAMENTO  
+
+--------------------------------------------------------------------------------
+
+CNPJ:   
+     53113791001790                        DATA:   
+                                                 05/2011
+RAZAO SO         Estabelecimento TOTVS - Ñ ALTERAR CONTAS
+NOME DO          ITENS DE NOTAS FISCAIS DE SERVICOS      
+
+MEIO DE                           Fita Mag       ( ) 1600 BPI
+                                                 ( ) 6250 BPI  
+                                  Disco Flexivel  
+                                                 ( ) 3 1/2
+                                                 ( ) 5 1/4
+                                  Outro          (X)         
+                                  Transmis         ) Remota
+                                                 ( ) Direta
+BYTES...                          ( ) EBCD
+                                  ( ) ASCI
+
+TAMANHO                           216
+TAMANHO 
+FATOR DE
+LABEL...........................: ( ) SIM  
+                                  ( ) NAO 
+
+EQUIPAME
+SISTEMA 
+FABRICAN
+SGBD....
+
+DUMP DOS                            1      paginas  
+DUMP DOS                            1      paginas  
+LAYOUT D                            1      paginas  
+
+NOME DO                           Valor do servico              
+TOTAL DO                                     1300000
+QUANTIDA                                           1
+QUANTIDA                                           4
+
+Funcionario da empresa, responsavel pelas informacoes contidas no arquivo  
+
+NOME....    Testes Automacao Fiscal                  TELEFONE  04738017213    
+CPF.....    71754872239                              FAX.....  04738017213    
+ASSINATU
+
+
+Analista responsavel pelo sistema que gerou o arquivo  
+
+NOME....    Testes Automacao Fiscal                  ASSINATU
+TELEFONE    04738017213                              FAX.....    04738017213    
+
+       C
+*--------------------------------------*  *----------------------------------*
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+*--------------------------------------*  *----------------------------------*
+
+*-------------------------------------------------------------------------*
+I CNPJ..                 53113791001790             VOLUME: 
+                                                           I  /  1        I
+I RAZAO                  Estabelecimento TOTVS - Ñ ALTERAR CONTAS         I
+I NOME D                 ITENS DE NOTAS FISCAIS DE SERVICOS               I
+I EQUIPAMENTO..........:                                                  I  
+I SISTEMA OPERACIONAL..:                                                  I  
+I DENSIDADE DE GRAVACAO:                                                  I  
+*-------------------------------------------------------------------------*
+                            RELATORIO DE ACOMPANHAMENTO  
+
+--------------------------------------------------------------------------------
+
+CNPJ:   
+     53113791001790                        DATA:   
+                                                 05/2011
+RAZAO SO         Estabelecimento TOTVS - Ñ ALTERAR CONTAS
+NOME DO          NOTAS FISCAIS DE ENTRADAS               
+
+MEIO DE                           Fita Mag       ( ) 1600 BPI
+                                                 ( ) 6250 BPI  
+                                  Disco Flexivel  
+                                                 ( ) 3 1/2
+                                                 ( ) 5 1/4
+                                  Outro          (X)         
+                                  Transmis         ) Remota
+                                                 ( ) Direta
+BYTES...                          ( ) EBCD
+                                  ( ) ASCI
+
+TAMANHO                           231
+TAMANHO 
+FATOR DE
+LABEL...........................: ( ) SIM  
+                                  ( ) NAO 
+
+EQUIPAME
+SISTEMA 
+FABRICAN
+SGBD....
+
+DUMP DOS                            2      paginas  
+DUMP DOS                            2      paginas  
+LAYOUT D                            1      paginas  
+
+NOME DO                           Valor Total Produto           
+TOTAL DO                                   273795464
+QUANTIDA                                           1
+QUANTIDA                                         329
+
+Funcionario da empresa, responsavel pelas informacoes contidas no arquivo  
+
+NOME....    Testes Automacao Fiscal                  TELEFONE  04738017213    
+CPF.....    71754872239                              FAX.....  04738017213    
+ASSINATU
+
+
+Analista responsavel pelo sistema que gerou o arquivo  
+
+NOME....    Testes Automacao Fiscal                  ASSINATU
+TELEFONE    04738017213                              FAX.....    04738017213    
+
+       C
+*--------------------------------------*  *----------------------------------*
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+*--------------------------------------*  *----------------------------------*
+
+*-------------------------------------------------------------------------*
+I CNPJ..                 53113791001790             VOLUME: 
+                                                           I  /  1        I
+I RAZAO                  Estabelecimento TOTVS - Ñ ALTERAR CONTAS         I
+I NOME D                 NOTAS FISCAIS DE ENTRADAS                        I
+I EQUIPAMENTO..........:                                                  I  
+I SISTEMA OPERACIONAL..:                                                  I  
+I DENSIDADE DE GRAVACAO:                                                  I  
+*-------------------------------------------------------------------------*
+                            RELATORIO DE ACOMPANHAMENTO  
+
+--------------------------------------------------------------------------------
+
+CNPJ:   
+     53113791001790                        DATA:   
+                                                 05/2011
+RAZAO SO         Estabelecimento TOTVS - Ñ ALTERAR CONTAS
+NOME DO          ITENS DAS NOTAS FISCAIS DE ENTRADAS     
+
+MEIO DE                           Fita Mag       ( ) 1600 BPI
+                                                 ( ) 6250 BPI  
+                                  Disco Flexivel  
+                                                 ( ) 3 1/2
+                                                 ( ) 5 1/4
+                                  Outro          (X)         
+                                  Transmis         ) Remota
+                                                 ( ) Direta
+BYTES...                          ( ) EBCD
+                                  ( ) ASCI
+
+TAMANHO                           464
+TAMANHO 
+FATOR DE
+LABEL...........................: ( ) SIM  
+                                  ( ) NAO 
+
+EQUIPAME
+SISTEMA 
+FABRICAN
+SGBD....
+
+DUMP DOS                            3      paginas  
+DUMP DOS                            3      paginas  
+LAYOUT D                            1      paginas  
+
+NOME DO                           Preco Unitario                
+TOTAL DO                                    10396962
+QUANTIDA                                           1
+QUANTIDA                                         984
+
+Funcionario da empresa, responsavel pelas informacoes contidas no arquivo  
+
+NOME....    Testes Automacao Fiscal                  TELEFONE  04738017213    
+CPF.....    71754872239                              FAX.....  04738017213    
+ASSINATU
+
+
+Analista responsavel pelo sistema que gerou o arquivo  
+
+NOME....    Testes Automacao Fiscal                  ASSINATU
+TELEFONE    04738017213                              FAX.....    04738017213    
+
+       C
+*--------------------------------------*  *----------------------------------*
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+*--------------------------------------*  *----------------------------------*
+
+*-------------------------------------------------------------------------*
+I CNPJ..                 53113791001790             VOLUME: 
+                                                           I  /  1        I
+I RAZAO                  Estabelecimento TOTVS - Ñ ALTERAR CONTAS         I
+I NOME D                 ITENS DAS NOTAS FISCAIS DE ENTRADAS              I
+I EQUIPAMENTO..........:                                                  I  
+I SISTEMA OPERACIONAL..:                                                  I  
+I DENSIDADE DE GRAVACAO:                                                  I  
+*-------------------------------------------------------------------------*
+                            RELATORIO DE ACOMPANHAMENTO  
+
+--------------------------------------------------------------------------------
+
+CNPJ:   
+     53113791001790                        DATA:   
+                                                 05/2011
+RAZAO SO         Estabelecimento TOTVS - Ñ ALTERAR CONTAS
+NOME DO          TABELA DE CODIGOS                       
+
+MEIO DE                           Fita Mag       ( ) 1600 BPI
+                                                 ( ) 6250 BPI  
+                                  Disco Flexivel  
+                                                 ( ) 3 1/2
+                                                 ( ) 5 1/4
+                                  Outro          (X)         
+                                  Transmis         ) Remota
+                                                 ( ) Direta
+BYTES...                          ( ) EBCD
+                                  ( ) ASCI
+
+TAMANHO                           084
+TAMANHO 
+FATOR DE
+LABEL...........................: ( ) SIM  
+                                  ( ) NAO 
+
+EQUIPAME
+SISTEMA 
+FABRICAN
+SGBD....
+
+DUMP DOS                            1      paginas  
+DUMP DOS                            1      paginas  
+LAYOUT D                            1      paginas  
+
+NOME DO                           Numero Tabela de Codigo       
+TOTAL DO                                       41835
+QUANTIDA                                           1
+QUANTIDA                                        2688
+
+Funcionario da empresa, responsavel pelas informacoes contidas no arquivo  
+
+NOME....    Testes Automacao Fiscal                  TELEFONE  04738017213    
+CPF.....    71754872239                              FAX.....  04738017213    
+ASSINATU
+
+
+Analista responsavel pelo sistema que gerou o arquivo  
+
+NOME....    Testes Automacao Fiscal                  ASSINATU
+TELEFONE    04738017213                              FAX.....    04738017213    
+
+       C
+*--------------------------------------*  *----------------------------------*
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+I                                      I  I                                  I  
+*--------------------------------------*  *----------------------------------*
+
+*-------------------------------------------------------------------------*
+I CNPJ..                 53113791001790             VOLUME: 
+                                                           I  /  1        I
+I RAZAO                  Estabelecimento TOTVS - Ñ ALTERAR CONTAS         I
+I NOME D                 TABELA DE CODIGOS                                I
+I EQUIPAMENTO..........:                                                  I  
+I SISTEMA OPERACIONAL..:                                                  I  
+I DENSIDADE DE GRAVACAO:                                                  I  
+*-------------------------------------------------------------------------*

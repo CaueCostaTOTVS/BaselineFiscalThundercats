@@ -1,0 +1,257 @@
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    1
+-------------------------------------------------------------------------------------------------------------- 12/02/2020 - 11:22:13
+
+
+Documentos Fiscais
+
+
+
+Dt Docto   Est   Ser   Doc Fisc         Cliente/Fornec Nome Abreviado Nat Oper UF
+---------- ----- ----- ---------------- -------------- -------------- -------- ----
+01/08/2011 10000 graos 0000027                90000035 1mario1        210201   PR
+01/08/2011 10000 5     0000009                    9179 CONSTRUMARQ    5111ST   SC
+02/08/2011 10000 graos 0000028                90000035 1mario1        210201   PR
+02/08/2011 10000 graos 2011080201             90000035 1mario1        210202   PR
+02/08/2011 10000 5     0000010                    9179 CONSTRUMARQ    5111ST   SC
+03/08/2011 10000 graos 2011080302             90000035 1mario1        210202   PR
+03/08/2011 10000 5     0000011                    9179 CONSTRUMARQ    5111ST   SC
+04/08/2011 10000 graos 0000029                90000035 1mario1        210201   PR
+04/08/2011 10000 graos 0000030                90000035 1mario1        210201   PR
+04/08/2011 10000 graos 0000031                90000035 1mario1        210201   PR
+05/08/2011 10000 graos 0000032                90000035 1mario1        210201   PR
+05/08/2011 10000 graos 2011080501             90000035 1mario1        210202   PR
+08/08/2011 10000 graos 0000033                90000035 1mario1        210201   PR
+09/08/2011 10000 graos 0000034                90000035 1mario1        210201   PR
+10/08/2011 10000 graos 0000035                90000035 1mario1        210201   PR
+10/08/2011 10000 graos 0000036                90000035 1mario1        210201   PR
+10/08/2011 10000 graos 0000037                90000035 1mario1        210201   PR
+10/08/2011 10000 5     1008111                90000033 GOLDENGRAINS   210202   MT
+11/08/2011 10000 graos 0000038                90000035 1mario1        210201   pr
+11/08/2011 10000 graos 0000039                90000035 1mario1        210201   pr
+11/08/2011 10000 graos 0000039                90000035 1mario1        210202   pr
+11/08/2011 10000 graos 2011081104             90000035 1mario1        211702   PR
+11/08/2011 10000 graos 2011081105             90000035 1mario1        211702   PR
+11/08/2011 10000 graos 2011081106             90000035 1mario1        211702   PR
+12/08/2011 10000 5     0000016                90000035 1mario1        210201   PR
+12/08/2011 10000 5     0000017                90000035 1mario1        210201   PR
+12/08/2011 10000 5     0000018                90000035 1mario1        210201   PR
+12/08/2011 10000 5     0000019                90000035 1mario1        210201   PR
+12/08/2011 10000 graos 0120801                90000035 1mario1        210202   pr
+12/08/2011 10000 5     0120802                90000035 1mario1        211702   PR
+15/08/2011 10000 graos 0000040                90000035 1mario1        210201   PR
+15/08/2011 10000 GRAOS 0000041                90000035 1mario1        210201   PR
+15/08/2011 10000 graos 0000042                90000035 1mario1        210201   PR
+16/08/2011 10000 1     1608002                90000033 GOLDENGRAINS   210202   MT
+17/08/2011 10000 5     1708001                90000033 GOLDENGRAINS   210202   MT
+17/08/2011 10000 5     0000021                90000035 1mario1        210203   PR
+17/08/2011 10000 5     1708002                90000033 GOLDENGRAINS   210206   MT
+18/08/2011 10000 un    0180810                   40001 CARREFOUR      11111    SP
+18/08/2011 10000 1     1808001                90000033 GOLDENGRAINS   210202   MT
+19/08/2011 10000 graos 0000043                90000034 BETOANDRADE    210201   PR
+19/08/2011 10000 graos 0000044                90000034 BETOANDRADE    210201   PR
+19/08/2011 10000 graos 0000045                90000034 BETOANDRADE    210201   PR
+19/08/2011 10000 graos 0000046                90000034 BETOANDRADE    210203   PR
+23/08/2011 10000 graos 0000047                90000034 BETOANDRADE    210201   PR
+23/08/2011 10000 graos 0000048                90000034 BETOANDRADE    210201   PR
+23/08/2011 10000 1     0230801                90000033 GOLDENGRAINS   210202   MT
+24/08/2011 10000 graos 0000052                90000034 BETOANDRADE    210201   PR
+24/08/2011 10000 graos 0000055                90000034 BETOANDRADE    210201   PR
+24/08/2011 10000 graos 0000058                90000034 BETOANDRADE    210201   PR
+24/08/2011 10000 graos 0000059                90000034 BETOANDRADE    210201   PR
+24/08/2011 10000 graos 0000049                90000034 BETOANDRADE    210203   PR
+24/08/2011 10000 graos 0000050                90000034 BETOANDRADE    210203   PR
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:2.00.01.080
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    2
+-------------------------------------------------------------------------------------------------------------- 12/02/2020 - 11:22:15
+
+Dt Docto   Est   Ser   Doc Fisc         Cliente/Fornec Nome Abreviado Nat Oper UF
+---------- ----- ----- ---------------- -------------- -------------- -------- ----
+24/08/2011 10000 graos 0000051                90000034 BETOANDRADE    210203   PR
+24/08/2011 10000 graos 0000053                90000034 BETOANDRADE    210203   PR
+24/08/2011 10000 graos 0000054                90000034 BETOANDRADE    210203   PR
+24/08/2011 10000 graos 0000056                90000034 BETOANDRADE    210203   PR
+24/08/2011 10000 graos 0000057                90000034 BETOANDRADE    210203   PR
+25/08/2011 10000 graos 0000060                90000034 BETOANDRADE    210201   PR
+26/08/2011 10000 1     0001433                   12704 NICOM COM 1    11111    SC
+26/08/2011 10000 graos 0000061                90000034 BETOANDRADE    210201   PR
+30/08/2011 10000 graos 0000062                90000034 BETOANDRADE    210201   PR
+30/08/2011 10000 graos 0000064                90000034 BETOANDRADE    210201   PR
+30/08/2011 10000 graos 0000063                90000034 BETOANDRADE    210203   PR
+
+Dados de Inventário atualizados com sucesso para Estabelecimento: 10000 - Motivo: Final do Período            - Período: 31/08/2011.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:2.00.01.080
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    3
+-------------------------------------------------------------------------------------------------------------- 12/02/2020 - 11:22:15
+
+            Seleção
+
+            Estabelecimento:   10000        |< >|  10000
+                       Data:   01/08/2011   |< >|  31/08/2011
+
+
+            Parâmetros
+
+                                            Entrada:  Sim
+                                              Saída:  Sim
+                                            Serviço:  Sim
+                    Atualiza Documento Já Integrado:  Sim
+                   Extrair Documentos de Exportação:  Não
+                     Atualiza Dados CIAP no Período:  Não
+            Primeira Entrega Bloco G do Sped Fiscal:  Não
+                    Extrair Automaticamente Bloco P:  Não
+           Considerar no Valor da Mercadoria (C170):  Não
+                        Notas Fiscais de Exportação:
+
+
+            Destino:  Arquivo          -   c:/automacao/relatorios/CN_LF0202_03Extr
+            Usuário:  SUPER
+
+
+            Inventário
+
+            Motivo                            Dt Fechamento  Preço Base ICMS  %Margem  Estab x Item
+            --------------------------------  -------------  ---------------  -------  ------------
+            Final do Período...........: Sim  31/08/2011                               Selecionados
+            Mudança Forma Tributação...: Não
+            Solicitação Baixa Cadastral: Não
+            Alteração Regime Pagamento.: Não
+            Solicitação da Fiscalização: Não
+
+            % Margem por Item..........: Não
+
+            Período para Média das Entradas
+
+            Data Transação Inicial:
+              Data Transação Final:
+
+            Inventário em Processo
+
+            Considera Produtos em Fabricação: Não
+
+            Arquivos de Acompanhamento
+
+            Itens Selecionados Inventário: c:\tmp\inv_estab_item.txt
+                Documentos Média Entradas:
+
+
+            ------------------------------------------   
+            Relacionamento Natureza de Operação - CFPS   
+
+            Nat Operação CFPS
+            ------------ ------------
+            1933         8933
+            2903         8903
+            2933         8933
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:2.00.01.080
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Extrator de informações do EMS2                                        Página:    4
+-------------------------------------------------------------------------------------------------------------- 12/02/2020 - 11:22:15
+
+
+            Nat Operação CFPS
+            ------------ ------------
+            2955         8955
+            511SER       9111
+            611-ie       9333
+            611se1       9444
+            611ser       9555
+            611ss        9666
+            6123         9777
+            6serc        9222
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------DATASUL - Layout Fiscal - LF0202RP - V:2.00.01.080
+

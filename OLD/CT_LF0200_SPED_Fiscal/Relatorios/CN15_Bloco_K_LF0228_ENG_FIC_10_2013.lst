@@ -1,0 +1,257 @@
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Geração Bloco K                                                        Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+  Estabelecimento: Estabelecimento TOTVS - Ñ ALTERAR CONTAS                                             CNPJ: 53113791001790
+----------------------------------------------------------------------------------------------------------------------------------
+
+  Período Referência: 10/2013
+
+----------------------------------------------------------------------------------------------------------------------------------
+  Origem Estrutura:   Origem Estrutura: ENF - Engenharia do Produto com Fictício
+  Estrutura Filtrada: Não
+----------------------------------------------------------------------------------------------------------------------------------
+
+  Unidade de Negócio:                           123
+
+    Item: MBK-COPROD-F-01
+    *Calculado por Movimentação da Ordem de Produção            
+
+        Cod Insumo                 Qtd Insumo    Fator Perda
+        ---------------- -------------------- --------------
+        MBK-COPROD-01                0,388676         0,0000
+
+    Item: MBK-COPROD-F-02
+
+        Cod Insumo                 Qtd Insumo    Fator Perda
+        ---------------- -------------------- --------------
+        MBK-COPROD-01                0,999097         0,0000
+
+    Item: MBK-COPROD-F-03
+
+        Cod Insumo                 Qtd Insumo    Fator Perda
+        ---------------- -------------------- --------------
+        MBK-COPROD-01                1,248871         0,0000
+
+    Item: MBK-DT-VAL-01
+    *Calculado por Movimentação da Ordem de Produção            
+
+        Cod Insumo                 Qtd Insumo    Fator Perda
+        ---------------- -------------------- --------------
+        MBK-DT-VAL-F-01             10,000000         0,0000
+        MBK-DT-VAL-F-02             12,000000         0,0000
+        MBK-DT-VAL-F-04             20,000000         0,0000
+        MBK-DT-VAL-F-05              6,000000         0,0000
+
+    Item: MBK-DT-VAL-01_#F000001
+    *Calculado por Movimentação da Ordem de Produção            
+
+        Cod Insumo                 Qtd Insumo    Fator Perda
+        ---------------- -------------------- --------------
+        MBK-DT-VAL-F-01             10,000000         0,0000
+        MBK-DT-VAL-F-02             12,000000         0,0000
+        MBK-DT-VAL-F-03             12,000000         0,0000
+
+    Item: MBK-DT-VAL-01_#F000002
+    *Calculado por Movimentação da Ordem de Produção            
+
+        Cod Insumo                 Qtd Insumo    Fator Perda
+        ---------------- -------------------- --------------
+        MBK-DT-VAL-F-01             10,000000         0,0000
+        MBK-DT-VAL-F-02             12,000000         0,0000
+-----------------------------------------------------------------------------------------------DATASUL -  - LF0228RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Geração Bloco K                                                        Página:    2
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+    Item: MBK-DT-VAL-01_#F000003
+    *Calculado por Movimentação da Ordem de Produção            
+
+        Cod Insumo                 Qtd Insumo    Fator Perda
+        ---------------- -------------------- --------------
+        MBK-DT-VAL-F-01             10,000000         0,0000
+        MBK-DT-VAL-F-02             12,000000         0,0000
+        MBK-DT-VAL-F-04             20,000000         0,0000
+
+    Item: MBK-DT-VAL-02
+
+        Cod Insumo                 Qtd Insumo    Fator Perda
+        ---------------- -------------------- --------------
+        MBK-DT-VAL-F-03              4,000000         0,0000
+        MBK-DT-VAL-F-04              6,666667         0,0000
+        MBK-DT-VAL-F-05              2,000000         0,0000
+
+    Item: MBK-INT-EXT-01
+
+        Cod Insumo                 Qtd Insumo    Fator Perda
+        ---------------- -------------------- --------------
+        MBK-INT-EXT-F-01             0,062500         0,0000
+        MBK-INT-EXT-F-02             0,062500         0,0000
+        MBK-INT-EXT-F-03             0,062500         0,0000
+
+    Item: MBK-INT-EXT-F-02_#E00001
+
+        Cod Insumo                 Qtd Insumo    Fator Perda
+        ---------------- -------------------- --------------
+        MBK-INT-EXT-F-02             1,000000         0,0000
+
+    Item: MBK-LIST-01
+    *Calculado por Movimentação da Ordem de Produção            
+
+        Cod Insumo                 Qtd Insumo    Fator Perda
+        ---------------- -------------------- --------------
+        MBK-LIST-F-01               10,000000         0,0000
+        MBK-LIST-F-02               10,000000         0,0000
+        MBK-LIST-F-03               20,000000         0,0000
+
+    Item: MBK-LIST-01_#F000001
+    *Calculado por Movimentação da Ordem de Produção            
+
+        Cod Insumo                 Qtd Insumo    Fator Perda
+        ---------------- -------------------- --------------
+        MBK-LIST-F-01               15,000000         0,0000
+        MBK-LIST-F-02               13,000000         0,0000
+        MBK-LIST-F-04               13,000000         0,0000
+
+    Item: MBK-LIST-01_#F000002
+    *Calculado por Movimentação da Ordem de Produção            
+
+        Cod Insumo                 Qtd Insumo    Fator Perda
+        ---------------- -------------------- --------------
+        MBK-LIST-F-01               12,000000         0,0000
+        MBK-LIST-F-02               20,000000         0,0000
+        MBK-LIST-F-05                8,000000         0,0000
+
+-----------------------------------------------------------------------------------------------DATASUL -  - LF0228RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Geração Bloco K                                                        Página:    3
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+    Item: MBK-REFER-01
+
+        Cod Insumo                 Qtd Insumo    Fator Perda
+        ---------------- -------------------- --------------
+        MBK-REFER-F-01               1,250000         0,0000
+        MBK-REFER-F-02               0,150000         0,0000
+        MBK-REFER-F-03               0,250000         0,0000
+        MBK-REFER-F-04               0,100000         0,0000
+        MBK-REFER-F-05               0,100000         0,0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------DATASUL -  - LF0228RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+                                                 Geração Bloco K                                                        Página:    4
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+       PARÂMETROS
+
+
+              Seleção:
+
+                Estabelecimento: 1
+                        Período: 01/10/13 |<>| 31/10/13
+
+
+           Parâmetros:
+
+                         Gravar: Sobrepor Estrutura com dados do período atual e MANTER períodos anteriores gerados
+    Demonstra Cálculo Estrutura: Sim
+    Gerar Correção Apontamentos: Não
+    Gerar Somente Registro K200: Não
+
+
+            Impressão:
+
+                        Destino: Arquivo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------DATASUL -  - LF0228RP - V:0.00.00.000
+

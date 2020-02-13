@@ -1,0 +1,8 @@
+=====> BD: mgcad Tabela: ri-param Evento: W Chave: 1|
+Field: char-1 Ant:  Nov: SN
+
+Banco      Tabela                             Create     Modify     Delete
+---------- ------------------------------ ---------- ---------- ----------
+mgcad      ri-param                                0          1          0
+---------- ------------------------------ ---------- ---------- ----------
+TOTAL                                              0          1          0

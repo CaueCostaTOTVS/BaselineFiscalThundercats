@@ -1,0 +1,129 @@
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        DIPI-Dados das Saidas de 01/07/2011 a 31/07/2011                       Página:    1
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+ FIRMA: Estabelecimento TOTVS - Ñ ALTERAR CONTAS             INS. ESTADUAL: 255721161              CNPJ    : 53113791001790
+
+ Class. Fiscal EX Cod. Produto     Descricao                                      Valor     %         Vl. Acumulado     %
+ ------------- -- ---------------- ------------------------------  -------------------- ------ -------------------- ------
+ 3403.19.00       .danfe-tributado .DANFE-TRIBUTADO.DANFE-TRIBUTA      4.033.254.365,60  94,78     4.033.254.365,60  94,78
+ 3403.19.00       .danfee          .DANFEEEEEEEEEEEEEEEEEEEEEEEEE        222.224.622,00   5,22     4.255.478.987,60 100,00
+ 0000.00.00       13d              ITEM D¿BITO DIRETO                         10.000,00   0,00     4.255.488.987,60 100,00
+ 7308.90.90       aaa              teste                                       2.168,80   0,00     4.255.491.156,40 100,00
+ 7308.30.00       13f              ITEM CONTROLE TOTAL                         2.000,00   0,00     4.255.493.156,40 100,00
+ 1108.12.00       13ff             ITEM CONTROLE FÍSICO                          679,99   0,00     4.255.493.836,39 100,00
+ 7308.90.90       .compras         .Compras - Projeto 87                         259,00   0,00     4.255.494.095,39 100,00
+ 1108.12.00       13c              ITEM CONTROLE CONSIGNADO                      202,00   0,00     4.255.494.297,39 100,00
+ 7308.90.90       .comprasdd       .Compras Débito Direto - Proje                  4,00   0,00     4.255.494.301,39 100,00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0725RP - V:0.00.00.000
+------------------------------------------------------------------------------------------------------------------------------------
+SASAZAKI IND. E COM. LTDA                        DIPI-Dados das Saidas de 01/07/2011 a 31/07/2011                       Página:    2
+-------------------------------------------------------------------------------------------------------------- TODAY - 00:00:00
+
+
+                        Seleção
+
+                    Estabelecimento: 1
+                            Período: 01/07/2011  |<         >| 31/07/2011
+
+
+
+                        Parâmetros
+
+           Perc Máximo do Relatório: 100,00
+        Natureza do Estabelecimento: Equiparado a Industrial
+Considera Nat Oper com Cod Vinc IPI: Não
+              Apropriar Valores por: Valor Contábil - Valor do IPI
+              Sumarizar Valores por: Produto e Classificação Fiscal
+
+---------------------- CFOP's Excluidas -----------------
+
+
+
+
+                        Impressão
+
+                            Destino: Impressora
+                            Arquivo: C:/automacao/relatorios
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------DATASUL - OBRIGACOES FISCAIS - OF0725RP - V:0.00.00.000
+
